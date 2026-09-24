@@ -52,6 +52,7 @@ T12	trope	limited	\bseventeen\s+minutes\b	the vacuum number
 T13	trope	watch	\bears?\s+(went\s+|were\s+|pinned\s+|folded\s+)?(flat|fanned|wide)\b	ear posture
 T14	trope	watch	\bsit(s|ting)?[-\s]tall\b|\bconsole\s+ledge\b	the ledge
 T15	trope	rested	\bwithout\s+(ever\s+)?(once\s+)?mentioning\b|\bnever\s+(once\s+)?mentioned\s+doing\b	the unremarked kindness, stated
+T16	trope	rested	\b(and\s+)?i'm\s+quoting\b|\bwhich\s+i\s+can\s+quote\s+you\b	a Kin quoting a human's words back as a weapon — origin S024 (spent)
 
 # ── Hedged precision: "about nine times", "the better part of a second". A house tic when dense.
 H01	hedge	limited	\b(about|roughly|nearly|almost|maybe|perhaps|some|the\s+better\s+part\s+of|a\s+little\s+over|just\s+under)\s+(a\s+|an\s+)?(\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|fifteen|twenty|thirty|forty|fifty|sixty|hundred|quarter|third|fifth|tenth|half)\b	hedge + number

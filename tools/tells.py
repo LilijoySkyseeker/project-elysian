@@ -275,6 +275,9 @@ def judge(scene: Scene, hits: list[Hit], m: Metrics) -> list[str]:
     fails = []
     per_k = 1000 / max(1, m.words)
     for h in hits:
+        # A rested beat binds later scenes, not the one it came from: "origin S0xx" in the note exempts that scene.
+        if h.pat.status == "rested" and f"origin {scene.sid}" in h.pat.note:
+            continue
         if h.pat.status in ("banned", "rested"):
             fails.append(f"{h.pat.status.upper()} {h.pat.pid} ({h.pat.note}) at L{h.line}")
     by_kind = Counter(h.pat.kind for h in hits if h.pat.status == "limited")

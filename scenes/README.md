@@ -1,7 +1,7 @@
 # SCENES — Collection Index
 Every scene written for Project Elysian, in collection order, each with its origin, theme, POV and a running **canon-drift** list (what has changed in the design since the scene was written). Original text is preserved until a scene is deliberately revised; a revision gets a new version header, never an overwrite.
 
-**Index last rebuilt 2026-09-22** against the directory as it stood. If a scene has been added since, add its row.
+**Index last rebuilt 2026-09-22; S024 added 2026-09-24** against the directory as it stood. If a scene has been added since, add its row.
 
 | # | File | Title | Theme | POV | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -26,8 +26,9 @@ Every scene written for Project Elysian, in collection order, each with its orig
 | S021 | `S021_coming_wait.md` | Coming, Wait | The whistle as the one private channel; a human who learned it | Kin (Rowan-2) | Draft; offers no canon |
 | S022 | `S022_the_holder.md` | The Holder | The Drop; records carried not written; a Telling of one run | Kin (Brume) | Draft; offers no canon |
 | S023 | `S023_the_eighty_year_build.md` | Long-Baseline Survey Platform, Uncrewed | The eighty-year build; nobody ever asked; the Weavers logged as a site visit | Kin (Juniper → Sable-6) | Draft; offers no canon |
+| S024 | `S024_outer_relay.md` | Outer Relay | A Kin who is wrong and loses; the weather is public; the cheap check as a weapon | Kin (Pell-3), present tense | **Accepted 2026-09-24; offers no canon.** First scene written through the DOC-00H pipeline |
 
-**Numbering.** S013, S014 and S015 are not in the collection. The numbers are **not reused** — like a name, the count does not reset. The next scene is S024.
+**Numbering.** S013, S014 and S015 are not in the collection. The numbers are **not reused** — like a name, the count does not reset. The next scene is S025.
 
 ---
 
@@ -76,3 +77,5 @@ Through the pipeline (DOC-00H). The header block and canon notes are written **l
 **S019 (2026-09-22):** `drafts/S019_company.md` — four linked stories, one day, *Artemis-9*, rotating Kin POV (Sedge-6 / Kirin / Bramble / Sorrel-3). **DRAFT.** Third in the *Artemis-9* sequence (S017 the game → S018 the morning → S019 the day). Each Kin with one human, all four positive. **Introduces the humans:** Gil Arnesen (engineer, retiring after 38 years), Doss (hull crew), Ochi (cargo, 26), Marta Vey (hull crew). **Offers for canon:** a human's written record of a Kin's work as the one account of it that exists in words (D-19 inverted — *it stays, and it stays after them*); and the human as the only source of privacy a Kin child has, since a human cannot feel the broadcast (D-94 adjacent).
 
 **S019 (2026-09-22)** — *Company*: four linked stories across one day on *Artemis-9*, third in the sequence after S017 (the game) and S018 (the morning). **Introduces the humans of the sequence** — Gil Arnesen, Doss, Ochi, Marta Vey — and rotates Kin POV across Sedge-6, Kirin, Bramble and Sorrel-3. Touches D-19 (they do not write), DOC-13 §4 (food as translation) and §6 (station-tuning). Written in a concurrent session; **not yet checked against the memory pass (D-97…D-102)** — the drift sweep is owed.
+
+**S024 (2026-09-24)**: *Outer Relay*. Pell-3 asks the postings officer for six months beyond 800 km, where nobody can feel how embarrassed hir is, and loses: first on the facts, and then, worse, by using one. **Accepted; offers no canon.** It is the first scene written through the DOC-00H pipeline, and the brief (`briefs/S024_brief.md`) keeps the whole record: the predictability pass that changed the premise, the lint, the cold read, and the revision log. Its signature move, a Kin quoting a human's private words back exactly as a weapon, is now rested (`tools/tells_patterns.tsv` T16).

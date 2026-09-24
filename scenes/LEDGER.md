@@ -29,14 +29,15 @@ Words are from `python3 tools/tells.py ledger`. Rows for S001–S023 were classi
 | S021 | close 3rd, Rowan-2, present-tense frame | short story | past 3rd + present | 1396 | minutes + 19 yrs | whistle; Nest; +Long Message | N | Idris never learns | arguably the Kin, by not telling him | quiet withheld truth | tender-sly |
 | S022 | close 3rd, Brume, narrator asides | short story | past 3rd | 1678 | evening + 4 days | the Drop; a record carried in a Telling | W | Kaelen's memory going | no | coda | quiet awe |
 | S023 | close 3rd, Juniper → Sable-6, chronicle | linked vignettes | past 3rd | 2134 | 80 years | the ark built unseen; the name count; +Reading, Weavers | W | Noor dies; Sable can't pass on what hir holds | no (institutional inertia) | coda | elegiac-dry |
+| S024 | close 3rd, Pell-3; the narration behaves like hir mind | short story | **present 3rd** | 2093 | ~40 min | the weather is public; the cheap check; +beyond 800 km | **Y** | Agnes's regard; hir calls Pell "Pell-3" | **Pell** (Kin, wrong, uses a private grief as a weapon); Agnes stays sharp | **cut mid-action** | comic, then ugly |
 
 ## What the ledger says (2026-09-24)
-- **Escalation:** 2 of 21 scenes get materially worse after the midpoint (S007, S016). 8 Weak, 11 No.
+- **Escalation:** 2 of 21 scenes get materially worse after the midpoint (S007, S016). 8 Weak, 11 No. *(S024, 2026-09-24: Y.)*
 - **Unkindness:** 3 of 21 have someone unkind who stays that way, and all three are institutions or offstage sides (S007, S010, S016). Every human near the viewpoint is kind and learns.
 - **Endings:** coda 5 · dialogue line 4 · image 4 · document end 4 · quiet withheld truth 3 · reversal 1 · **cut mid-action 0 · unresolved 0**. Five of the eight endings since S016 are a quiet closing statement about carrying or keeping something.
 - **The repeated story:** an outsider learns Kin manners (S005, S006, S011, S012, S020, S023). **The repeated loss:** memory going flat (S008, S012 ×2, S018, S022, S023).
 - **Teller and form:** 10 scenes are close third on a Kin. Present tense once (S008), second person never, and only four document-form pieces (S007, S010, S012 ×2).
-- **What the next five need** (DOC-00G §6.2): a Kin who is wrong and loses; someone petty or cruel, unredeemed, and close to the viewpoint; an ending cut mid-action or left unresolved; a form not yet used; a scene with no human in it (S018 is the only recent one), or no Kin.
+- **What the next five need** (DOC-00G §6.2): ~~a Kin who is wrong and loses~~ (S024); ~~someone petty or cruel near the viewpoint, unredeemed~~ (S024); ~~an ending cut mid-action~~ (S024); still wanted: an ending **left unresolved**; a form not yet used (transcript, log, complaint, eulogy, instructions); a scene with no human in it, or no Kin; second person; something under 600 words or over 4,000.
 
 ## Each scene's best human thing
 These are the things to protect in revision and to learn from. None of them is a lore demonstration.
@@ -60,4 +61,5 @@ These are the things to protect in revision and to learn from. None of them is a
 - **S020** Amity stops laughing a second before the others, and only Marek sees her face.
 - **S021** Rowan fetches tea from a machine hir had to ask twice. "It was close."
 - **S022** "In a year or two I could still have given you the numbers."
+- **S024** Agnes genuinely does not remember Vetch-2, and Pell realises hir never asked Vetch anything either.
 - **S023** They carry Noor's body in warm before realising warmth doesn't matter for a human.

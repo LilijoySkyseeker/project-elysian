@@ -7,7 +7,7 @@ Marked [NEW] or [QUEUED — angle] against ROADMAP Step 12; **[WRITTEN]** when d
 > Pairs with ROADMAP Step 12's scene-debt tables, which list what the *rulings* owe.
 > This list is what the *stories* want. Where they disagree, this one has the better angle.
 > Before writing any of these: **`DOC-00G` and the `/scene` pipeline (DOC-00H)**, and choose against `LEDGER.md`. The `DOC-00B §12` checklist is now run *after* the draft.
-> **What the ledger says the collection lacks (2026-09-24):** a Kin who is wrong and loses; someone petty or cruel near the viewpoint, unredeemed; an ending cut mid-action or left unresolved; a form not yet used; a scene with no human in it. Group A is all warm. Pick against that.
+> **What the ledger says the collection lacks (updated after S024):** an ending left unresolved; a form not yet used; a scene with no human in it, or no Kin; second person; a very short or very long piece. S024 discharged *a Kin who is wrong and loses* and *the cheap check, mid-argument* (Step 12's scene debt). Group A is all warm. Pick against that.
 
 ---
 

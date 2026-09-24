@@ -1,5 +1,7 @@
 # SCENE 024 — Outer Relay
-**POV:** Kin (Pell-3) · **Form:** Short story
+**POV:** Kin (Pell-3) · *Halcyon-3*, the postings office and the outer ring · AF ~512 · **Form:** Short story, present tense
+**Canon status:** ACCEPTED 2026-09-24. The first scene written through the DOC-00H pipeline (brief, predictability pass, cold read and revision log: `scenes/briefs/S024_brief.md`). Rests on D-92 (the weather is public), D-103 (the cheap check) and D-93 (what beyond 800 km costs). This header was written after the scene, not briefed from. **Offers no canon.**
+**Introduces:** Pell-3, Rue-3, Bracken-5, Linnet-2, Vetch-2 (Kin); Agnes Ruhl, Dev, Hana, Toller (human); *Tallow* Outer Relay; the *Carrow* deep-transit tender; *Halcyon-1*. The postings form's distance bands (<12 / 12–800 / >800 km) are texture, not a ruling.
 
 ---
 
@@ -152,3 +154,18 @@ The ring is already coming apart when hir gets down to it. The riggers have stru
 Pell clips hir lanyard to the rail, tugs it, clips the second one. Takes the tail of the line off Rue without a word and walks it to the snub post and lays three turns on, tight, the way Agnes likes them, and leans back against the bite till hir feels the preload start to come on through the post and into hir feet.
 
 "Taking," hir calls up the spoke. Somebody up there says it back. The spoke creaks. Pell eases off a hand's width of slack, then another, then—
+
+---
+
+## Canon consistency (2026-09-24, DOC-00B §12 run after the draft)
+- **The weather is public (D-92).** Agnes's console shows Pell's line and nothing else: valence and arousal, no object. She reads *that* hir is up and down, and knows *why* only from station gossip. The Cluster, inside 12 km, feels it to the second and answers (CLUSTER tier). The warmth that "tastes of" almond pastries is Pell's association, not transmitted content.
+- **The cheap check (D-98, D-103).** Every date and quote Pell produces arrives exact and costs nothing. Nobody remarks on it, including Agnes. What Pell will not do is go back to the toast at 1× (*"Past that hir would have to go back and live it"*). That is the account, not the fact. The Vetch record is exact and empty: **Pell never asked** (D-98's failure is not-asking, here in a young Kin).
+- **Beyond 800 km (D-93).** *Tallow* and the *Carrow* tender are "nothing in the sky". Vetch "came back thin", which is D-93(c)'s erasure, stated only as the ring said it. "No Compact rule" is D-93(d).
+- **The human who is right (DOC-00B §10).** Agnes wins for a plain reason (the refit) that is also the right one. She is never shown to be secretly kind and never confesses. The collection's first Kin who is wrong and loses to a human.
+- **Kin write for humans as a courtesy (D-101).** Pell filled the form at a terminal, correctly, every field.
+- **Pronouns (DOC-00 §2).** Agnes says *she* of every Kin and is not corrected. Pell's narration says *hir*.
+- **The body.** "Hir feet" are hind paws on the snub post; "ears flat" in the corridor is affect, not heat. Lanyards on refit rigging are site safety, not grip.
+- **Not used, on purpose:** the pause, the Core, the fan, ears-as-heat, the tail, any rite (DOC-00G §4 lore budget).
+
+## Offers nothing
+No new canon. The names and places above are texture until something adopts them.

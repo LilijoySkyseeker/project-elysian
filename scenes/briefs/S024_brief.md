@@ -1,6 +1,6 @@
 # BRIEF — S024 *Outer Relay* (working title)
 **Slate entry:** none. A new premise, chosen under the owner's full creative direction (2026-09-24). **Ledger gap it fills:** a Kin who is wrong and loses to a human who deserved to win (DOC-00B §10; never yet written), a human near the viewpoint who is sharp and petty and stays that way, an ending cut mid-action, and the collection's second present-tense scene. The slate's *"cheap check, mid-argument, unremarked"* rides along.
-**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → **owner** → canon → filed
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → owner ✓ → canon ✓ → **filed** (2026-09-24)
 
 ---
 
@@ -83,5 +83,7 @@ A fresh agent, given only the premise, predicted:
 **Kept against the cold reader, for the owner to judge:** "the way Agnes likes them" (the one note of what was lost, unexplained); "Which is all there is. Pell never asked Vetch anything either" (Pell's own failure of not-asking, D-98); "what humans smell like when a line parts" (Pell's own rigger's comparison, R03 §2.3); "It's a sulk with a posting number" (Agnes is funny, and one quip lands per scene).
 
 ## Owner's read (Stage 7)
+"This was excellent. Definitely add this to the scenes." Passed as it stood, including the four lines kept against the cold reader. (2026-09-24)
 
 ## Canon check (Stage 8)
+DOC-00B §12 run against the finished scene. No contradictions. The appendix is in the scene file. The station is *Halcyon-3* (named in S008; its ring, spokes and postings office are new texture). The pronoun fix (Agnes says *she*) was made in revision round 1. Filed as `scenes/S024_outer_relay.md`. T16 is rested.
