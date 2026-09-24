@@ -1,7 +1,12 @@
-# Scene slate — 2026-09-22
-Written after S017. Weighted toward the gap S017 exposed: the archive is grim, and
-the species is not. Each entry is premise / POV / **the moment that makes it a scene**.
-Marked [NEW] or [QUEUED — angle] against ROADMAP Step 12.
+# SCENE SLATE — the standing queue
+**Started 2026-09-22, after S017. Lives here since 2026-09-24** (was `scratchpad/scene_ideas.md`).
+Weighted toward the gap S017 exposed: the archive is grim, and the species is not.
+Each entry is premise / POV / **the moment that makes it a scene**.
+Marked [NEW] or [QUEUED — angle] against ROADMAP Step 12; **[WRITTEN]** when discharged.
+
+> Pairs with ROADMAP Step 12's scene-debt tables, which list what the *rulings* owe.
+> This list is what the *stories* want. Where they disagree, this one has the better angle.
+> Before writing any of these: `DOC-00B §12` checklist, and `DOC-00F` for the small things.
 
 ---
 
@@ -31,7 +36,7 @@ shadow, and the best hider in the room is a Written who learned it when the
 rules were different and who will not explain hir method to anyone.
 *Comedy of dignity. Adults are embarrassed to lose and lose anyway.*
 
-### A4. The Unreliable Hour  [NEW]
+### A4. The Unreliable Hour  **[WRITTEN — `drafts/S018_out_loud.md`]**
 Morning dream-telling. The one thing in a Kin's life with no archive behind it.
 **POV:** Kin. **Moment:** four of them cheerfully contradicting each other about
 a dream none of them can check, and one of them is obviously making it up, and

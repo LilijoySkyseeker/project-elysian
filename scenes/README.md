@@ -33,6 +33,8 @@ Every scene written for Project Elysian, in collection order, each with its orig
 
 ## Writing to the current body
 
+**The queue is `scenes/SLATE.md`** — fifteen entries with premise, POV and the moment that makes each one a scene. It pairs with ROADMAP Step 12, which lists what the *rulings* owe; the slate lists what the *stories* want.
+
 **Before any scene with a human in it: `DOC-00F`.** One competence marker, not three; pick by register; check the spent list in its §9 and mark it used. **The pause, running the fan and reading the ears are rested** — six scenes drew on the same three and it shows.
 
 `DOC-00B` is the writing primer, `DOC-00C` the visual reference, `DOC-00D` the voice sheet (dialogue conventions). Four passes have changed what goes on the page:

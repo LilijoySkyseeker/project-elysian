@@ -14,7 +14,7 @@ Source material lives in the Obsidian vault (`~/Documents/Vault/Projects/Project
 | **`docs/DOC-00E`** | The outsider's primer — the hand-out version, for someone with no genre background. | Introducing the Kin to a newcomer. |
 | **`docs/DOC-00F`** | The small things — a shuffle-deck of Kin–human social detail, tagged by register, with a spent list. | Writing any scene with a human in it. |
 | `docs/` | The source documents, one file per DOC. | Reading the actual lore. |
-| `scenes/` | The scene collection — every vignette with its canon-drift notes (`scenes/README.md`). | Writing or revising fiction. |
+| `scenes/` | The scene collection — every vignette with its canon-drift notes (`scenes/README.md`), and **`scenes/SLATE.md`, the standing queue** of what to write next. | Writing or revising fiction. |
 | `models/` | Reproducible calculations behind the deep-dives (`awk -v SCEN=shadow_eva -f models/vacuum_budget.awk`; `awk -f models/age_structure.awk`). | Re-running or changing a number. |
 | `wargames/` | Wargame records — the species stress-tested from outside. `W03` tests it against its *job*: whether the Kin generate stories, and where story pressure will break the biology. | Before opening a new design pass. |
 

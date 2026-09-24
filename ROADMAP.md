@@ -139,6 +139,8 @@ Every ruling sorts into one of three, and the sort is maybe an hour's work over 
 - **Discharged** — a scene already carries it. D-79/S016, D-70/S007, D-34/S008, D-19/S011.
 - **Undramatised** — a claim about *people* that has never once shown. This is the writing queue, not a defect list.
 
+**See also `scenes/SLATE.md`** — the standing scene slate, written from the story side rather than the ruling side, with a stated *moment* for each. Where the two disagree, the slate usually has the better angle.
+
 ### The undramatised queue, best first
 Each of these is a ruling the archive leans on and has never put on a page.
 
