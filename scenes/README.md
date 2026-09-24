@@ -33,6 +33,8 @@ Every scene written for Project Elysian, in collection order, each with its orig
 
 ## Writing to the current body
 
+**Since 2026-09-24 scenes are written through the pipeline: `docs/DOC-00G` (the standard) and `docs/DOC-00H` (the process), run with `/scene`.** Briefs live in `scenes/briefs/`. **`scenes/LEDGER.md`** classifies every scene by teller, form, escalation, loss and ending type; read its last five rows before choosing. The diagnosis of why the collection read as generated is `research/R02`. Its short version: one narrator for everyone, every scene demonstrating a ruling, numbers used as a performance of concreteness, everyone kind, and one quiet ending.
+
 **The queue is `scenes/SLATE.md`** — fifteen entries with premise, POV and the moment that makes each one a scene. It pairs with ROADMAP Step 12, which lists what the *rulings* owe; the slate lists what the *stories* want.
 
 **Before any scene with a human in it: `DOC-00F`.** One competence marker, not three; pick by register; check the spent list in its §9 and mark it used. **The pause, running the fan and reading the ears are rested** — six scenes drew on the same three and it shows.
@@ -57,7 +59,7 @@ Drift notes for the memory pass are on **S009** and **S012**. Nothing else in th
 
 ## Adding a scene
 
-Next number, same header block, drift list empty on first write. Scenes that *introduce* canon (a named place, a new custom, a mechanism) should say so in the header, and offer it explicitly, so `CANON.md` can cite it. **Since D-96 the collection leads:** a ruling is drafted only when a scene has demanded it. `ROADMAP.md` Step 12 holds the scene debt and the undramatised queue.
+Through the pipeline (DOC-00H). The header block and canon notes are written **last**, by the canon check, never used as the brief. Next number, same header block, drift list empty on first write. Add the scene's row to `LEDGER.md`, and run `python3 tools/tells.py corpus --out reports/tells_latest.md`. Scenes that *introduce* canon (a named place, a new custom, a mechanism) should say so in the header, and offer it explicitly, so `CANON.md` can cite it. **Since D-96 the collection leads:** a ruling is drafted only when a scene has demanded it. `ROADMAP.md` Step 12 holds the scene debt and the undramatised queue.
 
 **Scenes the design is currently owed** (ROADMAP Step 12): the unprompted elder, with someone else as the cue; the account asked for — someone wanting not the fact but what it was like, and the Kin deciding whether to go back to 1× for hir (⟨don't make me read it⟩); the cheap check — a fact settled in a second, mid-argument, unremarked, which is the ordinary case and has never been shown; the reach for a thing that is not there — a Kin in the worst hour of hir life knowing it is going on file and cannot be stopped (D-105); the night nobody attended; a Kin asking for the retroactive holding (D-107); a Cluster realising they will never know how hir died; a Telling from the teller's side; the first posting-bonus child; two claimants at a Reading; the grant-web removed.
 
