@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 4 *(working title: "The Tab")*
 **Outline:** OUTLINE §4. **POV:** Sloe-5, close third, past tense, *hir*. **Target:** about 3,500 words. **Span:** days two to four.
-**Status:** brief ✓ → predicted ✓ → drafted → linted → cold read + fidelity read → revised → owner
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold read + fidelity read ✓ → revised ✓ (1 round) → owner
 
 ---
 
@@ -64,4 +64,7 @@ First "a model wrote this" at line 9 (*"said by something that wasn't hungry"*: 
 ## Fidelity read
 Channels **correct**: no Kin speaks aloud to another Kin. **Missing:** the frame at the street's fear (nobody feels or sends), involuntary sounds, the tail, touch in the duck house, chatter about money, the first night-cold, a reaction to rain being forecast, any sign of the fire. A memory surfaced unasked (D-98). Refrains had turned people into tags (Teasel's line ×3). No pony idiom used wrong (Sloe's card). **Continuity:** **the bow was on Sloe's wrist at Applejack's stall** (it must never be near an Apple); "last night" should be two nights ago; "nine hours" should be about fourteen; Madder asleep or awake; the key and the door; the doorframe clashing with *the frame*; Fluttershy's four o'clock food abandoned; the morning's buying didn't add up. **Rejected:** "the fillies named in the town's rumour breaks the secret". OUTLINE §4 has the Crusaders' story spreading; their secret is the mirror, not having been in the forest.
 ## Revision log
+**Round 1** (a fresh agent, 28 listed items): all done; 4,653 words. The bow goes to Teasel's wrist before dawn on day three. The street's fear reaches the frame, and all four send at once. The tail coils in the street and in the Mayor's office. Sounds: a thin sound in the street, a chirr on the ladder. The radio bursts over the chit and over the rain. The night-cold is the first of their lives. There's one fire reading from the river road. Yarrow takes the door off. Madder tells Fluttershy aloud. The memory is reached for (D-98). The refrains now vary. Pony idiom used slightly wrong: "everypony" for the Kin, "no skin off your hooves", "no offence to it". About fifteen asides and six buttons cut.
+**Hand fixes:** the ribbon is tied "a little after three", not at four (the walk to the bakery); a duplicated "fourteen hours" removed; a flow pass on the narration (subordinators per *and* **0.44 → 0.50**, chains 2.1/100) and "four" 28 → 16. **Final: about 4,590 words** (31% over target: the fidelity items are where the words went). "three" and "four" stay over the number-tic cap, and nearly all the rest are prices and counts, which is Sloe. Section-ending one-liners 44% (the radio lines).
+**Not re-run:** the readers. Continuity checked by hand; CONTINUITY 24–33 added.
 ## Owner's read

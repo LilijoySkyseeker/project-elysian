@@ -30,6 +30,18 @@
 22. **Sloe uses the whistle** once, to Haw, at the end. Fluttershy hears only a thin high sound.
 23. **Pronouns:** from Fluttershy's side the Kin are **"it"** on day one (DOC-00 §2: the narrator uses what the POV character would say). Kin speaking aloud use *hir*. **Ponies trend from *it* to *she*** over the following days and weeks, each at her own speed (VOICES.md).
 
+## Days two to four (chapter 4)
+24. **Day numbering:** the arrival night, then day one (Fluttershy's yard), day two (the Mayor; the move), day three (the bakery and the market; Applejack's tab dated **the 15th**), and the fourth morning (prices up; **the 16th**).
+25. **The seed barn:** on **the river road**, about **4 km out of town and 3 km from Fluttershy's meadow**, alone in a stubble field with **the river at the bottom**. Empty since the co-op moved to the new building **by the mill**. The roof ridge is 11 m up, with swallows (nine, then eleven). **Yarrow took the big door off its hinges** to get them in (Sloe had the key) and rehung it better. From the river road the forest edge is visible across the water, with smoke along it and the weather team's clouds low on the trees.
+26. **The town chit:** from the Mayor, for food only, up to **25 bits a week**, redeemed at **quarter-day (midsummer, about 9½ weeks off)**. The town paid the last one in August. **Applejack holds 21 bits of the first week's chit** (under the cash box). The general store won't take it.
+27. **Prices** (day three → the fourth morning): eggs 3–4 bits the dozen → 5–6; walnuts 5 bits the pound → 6; beans 2 the pound. Sloe earned **10 bits** counting the general store's stock (the going rate is about 30). **Applejack's tab:** 4 bits owing; no more credit until it's paid.
+28. **Ponies met:** the Mayor (the clock in the town hall gable is **four minutes fast**, and everypony knows); **Pinkie** at the bakery's back door at 4:46 on day three (the Cakes' egg contract with **Clover Patch**, who delivers Monday, Wednesday and Friday); the mare at the blue door (**Mae**); the grey mare (**Granite**); a colt at the fountain; the dairy mare; the **radish stallion** (bad knee; he forecast rain for Thursday, then Friday); the storekeeper (brown, a pencil behind each ear).
+29. **The bow** is on **Teasel's wrist** from before dawn on day three ("Keep that on for me today"). It has not been near an Apple.
+30. **Madder told Fluttershy aloud** at her door that they were moving to the barn ("she said 'oh', twice").
+31. **Haw has put a hand in the river** and knows there are fish (the fourth morning). Nothing more.
+32. **Teasel:** the low, steady something in the frame is there from day two, with no cause any of them can find. Hir sends less each time (*"I'm fine. Is anyone else hungry?"* → *"I'm fine. I had mine"* → *"Fine"*).
+33. **Pronouns:** the Mayor and Applejack say *it* (15th); **Applejack's tab has *she* by the 16th**.
+
 ## Standing facts
 - **The ship** carried about **1,400 Kin** (their Hum was the sky the five lived under) and a human crew besides. The five's Cluster slept in a web by the coolant bay. Crew names mentioned: Clary-6 (dead, before), Dunlin (alive, a rigger), Ilex (a joker on the training sims). Never shown.
 - **Five Kin, all present:** Madder-4, Sloe-5, Yarrow-3, Haw-2, Teasel. Nothing came with them but the plasma. No tools, no food: they were asleep.
