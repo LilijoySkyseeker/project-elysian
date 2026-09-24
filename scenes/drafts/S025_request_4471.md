@@ -9,10 +9,10 @@ cc: Deck 4 Residents' Committee; Life Support (General); Station Manager's Offic
 
 To whom it may concern at Facilities,
 
-I wish to report, AGAIN, the smell in the shared galley on Deck 4, seam end. I have lived on this deck for nineteen years and have put up with a great deal in that time, frankly more than anyone should have to, but since the extractor refit it has become UNACCEPTABLE. Before the refit it was a background matter that a person could live with if they kept their door shut. Now it comes straight down the new duct and along the corridor and in under my door, and I am at the far end.
+I wish to report, AGAIN, the smell in the shared galley on Deck 4, seam end. I have lived on this deck for twenty-six years and have put up with a great deal in that time, more than anyone should have to, but since the extractor refit it has become UNACCEPTABLE. Before the refit it was a background matter that a person could live with if they kept their door shut. Now it comes straight down the new duct and along the corridor and in under my door, and I am at the far end.
 
 1. The source is a large brown crock on the back shelf with a cloth over the top held on with string. A cloth. In a food prep area.
-2. It is rotting. I spent thirty-one years in hydroponics and I know what rot smells like. In my day a tank that smelled like that was drained the same shift and nobody stood about arguing.
+2. It is rotting. I spent thirty-eight years in hydroponics and I know what rot smells like. In my day a tank that smelled like that was drained the same shift and nobody stood about arguing.
 3. It belongs, I am told, to one of the Kin cooks, who uses our galley because theirs is "for the Nest," whatever that means for the rest of us.
 
 I would also mention while I am writing that someone on this deck is boiling hard water in the galley kettle and not descaling it, and the limescale is coming off in flakes in people's tea. I do not know who. I have my suspicions.
@@ -30,10 +30,10 @@ Hi Mr Farrow, thanks for this. ack on the extractor, the refit changed the duct 
 The crock is mine. I would like to come to your office and talk about it instead. I can come at any hour. I have not had to write to Facilities before.
 
 — T. Oyelaran · AF 512.197 · 12:15 · Status: Awaiting info
-needs to be on the ticket, sorry. complaints get anwsered in writing so both sides have a record. short is fine. what's in it + how long
+needs to be on the ticket, sorry. short is fine. what's in it + how long its been there
 
 — Quill-2 · AF 512.198 · 07:03 · Status: Awaiting info
-Kelp, 900 grams, dried, the brown kind from Deck 2. Barley, 400 grams, sprouted three days. Salt, 60 grams to the litre, 6 litres of water. Kept at 19 degrees. Fed every tenth day with the same, less the salt. Never stirred. It has been on that shelf since AF 449. Before that it was on the shelf to the left. It goes into the seam broth on Thursdays, and Mr Farrow takes the broth.
+Kelp, 900 grams, dried, the brown kind from Deck 2. Barley, 400 grams, sprouted three days. Salt, 60 grams to the litre. Water to twenty litres. It is the base of the Thursday seam broth, the one Dermot has. Kept at 19 degrees. Fed every tenth day with the same, less the salt. Never stirred. On that shelf since AF 449. Before that, the shelf to the left.
 
 — D. Farrow · AF 512.198 · 09:30 · Status: Awaiting info
 As I have previously stated, I asked what it IS, not how to MAKE it. Seaweed and barley left standing in salt water for sixty-three years is rot by any definition I was trained in, and I was trained. I note the Deck 2 kelp. That kelp was grown to be eaten, not kept in a pot.
@@ -45,7 +45,7 @@ I also note that NOBODY has addressed the kettle.
 D. Farrow (Hydroponics, ret.)
 
 — T. Oyelaran · AF 512.200 · 16:48 · Status: In progress
-ok proposing: lid w/ seal on the crock, crock stays on the back shelf, shelf gets a label so it's clearly assigned. extracter team can add a baffle on the seam end of the duct next visit. Mr Farrow does that work for you? Quill-2 same? kettle is a separate ticket pls, i'll raise it.
+ok proposing: lid w/ seal on the crock, crock stays on the back shelf, shelf gets a label so it's clearly assigned. extractor team can add a baffle on the seam end of the duct next visit. Mr Farrow does that work for you? Quill-2 same? kettle is a separate ticket pls, i'll raise it.
 
 — Quill-2 · AF 512.200 · 17:20 · Status: In progress
 A lid is acceptable. It must have a vent the width of a straw, or the gas will crack the crock. The seal must not be rubber. Please ask whoever fits it not to lift the cloth. I will stand next to it while they do.
@@ -60,7 +60,7 @@ D. Farrow (Hydroponics, ret.)
 — System · AF 512.203 · 14:31 · How did we do? Rate your Facilities experience (1–5).
 
 — D. Farrow · AF 512.204 · 07:12 · Rating: 2
-Lid satisfactory. Response time poor. Kettle not addressed.
+Lid satisfactory. Response time poor.
 
 D. Farrow (Hydroponics, ret.)
 
@@ -71,9 +71,7 @@ fyi all, on leave from 212, back 230. releif coordinator has the seam queue. not
 New report #4502. Category: Unlabelled biological material — shared food prep area
 cc: Safety (Deck 4); Station Manager's Office; Deck 4 Residents' Committee; T. Oyelaran (Facilities)
 
-I refer to #4471, which Facilities has marked resolved. I have no complaint about the lid. However I have since read the Shared Galley Code, which was sent to all residents in AF 509 and which I suspect I am the only person on this deck to have opened, and section 3 states that ANY food item kept in a shared prep area must be labelled with its contents and the date it was started. The label fitted by Facilities says RESERVED: QUILL-2. That is a name. It is not contents and it is not a date. Rules are rules, and if they do not apply to everybody then frankly I do not see the point of having them. I am filing this under the correct category as a courtesy to Facilities, who evidently did not know about the Code either.
-
-The smell is much improved.
+I refer to #4471, which Facilities has marked resolved. I have no complaint about the lid. However I have since read the Shared Galley Code, which was sent to all residents in AF 509 and which I suspect I am the only person on this deck to have opened, and section 3 states that ANY food item kept in a shared prep area must be labelled with its contents and the date it was started. The label fitted by Facilities says RESERVED: QUILL-2. That is a name. It is not contents and it is not a date. Rules are rules, and if they do not apply to everybody then frankly I do not see the point of having them. I am filing this under the correct category as a courtesy to Facilities, who evidently did not know about the Code either. The smell is much improved.
 
 D. Farrow (Hydroponics, ret.)
 
@@ -81,7 +79,7 @@ D. Farrow (Hydroponics, ret.)
 
 — System · AF 512.213 · 06:21 · Auto-reply from T. Oyelaran: I'm at my sister's wedding on Ceres and back on the 230th. For anything urgent pls contact the seam desk.
 
-— System · AF 512.214 · 09:10 · #4502: Item confirmed non-compliant (Shared Galley Code §3.2: no contents, no date). Removal scheduled AF 512.215 10:00 per SOP S-17. Owner notification: N/A (unlabelled item).
+— System · AF 512.214 · 09:10 · #4502: Item confirmed non-compliant (Shared Galley Code §3.2: no contents, no date). Removal scheduled AF 512.215 10:00 per SOP S-17. Owner notification: not required (SOP S-17 §4).
 
 — System · AF 512.215 · 10:06 · #4502: Item removed (ceramic vessel, lidded, contents liquid/organic, approx. 20 L) to recycler intake 4B. Shelf cleared. Report #4502 Closed.
 
@@ -90,10 +88,8 @@ The crock is not on the shelf. The lid is in the sink. The label is still on the
 
 — System · AF 512.215 · 13:40 · Auto-reply from T. Oyelaran: I'm at my sister's wedding on Ceres and back on the 230th. For anything urgent pls contact the seam desk.
 
-— System · AF 512.215 · 13:41 · Note: #4471 is linked to #4502 (Closed, Safety). Updates on #4502 will not appear on this ticket.
-
 — D. Farrow · AF 512.215 · 15:02 · Status: Reopened
-For the record, I asked for it to be LABELLED. I did not ask for anything to be thrown away and I would not like it said that I did. I would also point out that the galley now smells of nothing whatsoever, which is all I asked for in the first place, so I do not see how anybody can call me unreasonable. The kettle is still furred.
+For the record, I asked for it to be LABELLED. I did not ask for anything to be thrown away and I would not like it said that I did.
 
 D. Farrow (Hydroponics, ret.)
 

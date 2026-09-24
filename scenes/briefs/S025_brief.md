@@ -1,6 +1,6 @@
 # BRIEF — S025 *Request #4471* (working title)
 **Slate entry:** none. A new premise under the owner's full creative direction (2026-09-24). **Ledger gaps it fills:** an ending **left unresolved**; a **form not yet used** (a facilities ticket thread, with no narration at all); the Kin present **only through what they are made to write**. Near the ledger's "no Kin on the page". Also sits beside SLATE A2 *Translation* (a Kin who cooks), from the other side.
-**Status:** brief → predicted → drafted → linted → cold-read → revised → owner → canon → filed
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → **owner** → canon → filed
 
 ---
 
@@ -65,10 +65,16 @@ Plus **system messages** (status changes, auto-replies, a rating request) in the
 ---
 
 ## Lint (Stage 4)
+**Draft 1:** within budget on the first pass. The one limited hit is gnomic G01 at line 20, Farrow's *"which is what a galley on a station is supposed to smell of"*. **Kept:** it is the character's opinion, which DOC-00G §3.2 allows. Voice: nearest S010 0.89 against anchor 0.91, a single borderline warning. S010 is the collection's other institutional document and was on the drafter's shelf.
+**After round 1:** still within budget. Voice warning S010 0.86 (the cuts took out some of Farrow's run-ons). **For the owner:** does this read as a pair with S010, or as its own piece?
 
 ## Cold read (Stage 5)
+**Cold reader (no lore), "first place a model":** line 31, *"…and Mr Farrow takes the broth"*: "the irony is placed exactly where a writer would put it, at the end of an otherwise flat list. It told me every detail from here on would be set up to pay off later." Confirmed at line 91, where the "smells of nothing" callback, the kettle button and the disclaimer all land in one message: "Every thread gets tied off." Its verdict: "Beat by beat, the prose is good. What gives it away is the structure: every element is planted and paid back on schedule." **The linter cannot see this. It is exactly StoryScope's "tidy, single-track" finding (R01 §3).** Other marks: the kettle gag's regular rhythm; placed-looking typos; the "N/A (unlabelled item)" irony too convenient; the routing system note as mechanism exposition; *"The smell is much improved"* as a one-line beat. Worst moment: the crock removed (line 81), at about 80% of the way through, and not undone. It judged the ending much worse without Quill's last question.
+**Collection reader:** pairs with S010 in form (paperwork has the last word); the third "comic, then sad" tone in a row (after S020 and S024); Farrow's signature echoes S012's letter frame; **the numbers "nineteen" and "thirty-one" repeat S020, S021, S022 and S024**. New to the collection: the capitalised complaint voice, the numbered grievance list, the kettle aside.
 
 ## Revision log (Stage 6: at most two model rounds)
+**Round 1 (untie the knots, cut first):** the broth reveal moved from the end of Quill's recipe to its middle, flattened, with Farrow's first name (*"the one Dermot has"*: canon has the Kin use human first names, DOC-00B §5, and it is Quill's one leak). The recipe now ends on a plain shelf fact. Farrow's last message was cut to the self-exculpation only; the "smells of nothing" callback and the final kettle button are gone. The kettle now appears three times and is handed to "a separate ticket" and dropped, so it is no longer a running gag. Also cut: the rating's kettle line; the routing system note; "N/A (unlabelled item)", now *not required (SOP S-17 §4)*; Oyelaran's "so both sides have a record" rule-statement; one of her placed typos ("extracter"); one "frankly"; *"The smell is much improved"* merged into its paragraph. Numbers changed: nineteen → twenty-six years on the deck, thirty-one → thirty-eight in hydroponics. Volume made consistent (water to twenty litres; the removal log says about 20 L).
+**Kept against the cold reader, for the owner to judge:** Quill's three-sentence report (*"The crock is not on the shelf. The lid is in the sink. The label is still on the shelf."*), because exactness under distress is how a Kin writes (D-101), not a model tic; *"I will stand next to it while they do"* (that message's one leak); Farrow's *"and I was trained"* (his one quotable line; he doesn't know it's funny).
 
 ## Owner's read (Stage 7)
 
