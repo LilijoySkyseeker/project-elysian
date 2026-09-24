@@ -162,7 +162,7 @@ Mark an entry here when a scene uses it. **Rest anything with three or more mark
 | Nobody knocks / no distance at which hir cannot hear | — | Free |
 | The chest, not the head, in an accident | — | Free |
 | The beacon checked before the shielded space | — | Free |
-| Goes and asks rather than pulling the file | — | Free — **and it is the best unused W in the deck** |
+| Goes and asks rather than pulling the file | S024 | **Spent** — Dell's box of logs under the bunk, and the four decks down |
 
 **Not yet audited:** S001–S019 have not been read through for this. A pass over them would fill the column properly and is perhaps an hour's work. Until then, treat the free entries as *probably* free.
 
