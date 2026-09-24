@@ -42,6 +42,16 @@
 
 **Voice distance, calibrated.** In one pooled Burrows's Delta run, sixteen 1,800-word windows from Estee's chapters sit a median **0.90** apart (range 0.71–1.07), and the Elysian scenes by different narrators sit a median **1.07** apart. Overall, then, the collection varies more than one human novel does, as it should. But its closest pairs (0.69–0.83: S017–S023) fall inside the range of chapters of a single novel. R02 §1 is amended to say exactly this.
 
+### 1A. Flow: the measure the first study missed *(added 2026-09-24)*
+After the owner found X01 ch. 1 "disjointed… not quite full prose" in its narration, the narration alone (dialogue excluded) was measured across 34 of Estee's chapters:
+| Narration | Estee | X01 ch. 1 | S024 | S012alt | S025 |
+| :-- | --: | --: | --: | --: | --: |
+| Sentences with 3+ *and*, per 100 | 1.0 | 15.1 | 18.5 | 5.0 | 5.9 |
+| *and* per 1,000 words | 26 | 57 | 54 | 44 | — |
+| Subordinators per 1,000 words | 29 | 14 | 18 | 28 | — |
+| Subordinators per *and* | 1.11 | 0.24 | 0.34 | 0.65 | 1.17 |
+Fragments (18.7 per 100 sentences) and short paragraphs were *not* the difference. Estee orders ideas; the house cadence strings them. It is now in DOC-00G §2.7 and the linter.
+
 ---
 
 ## 2. The non-human mind: how it is done

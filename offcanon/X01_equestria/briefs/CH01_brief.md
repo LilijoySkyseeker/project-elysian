@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 1 *(working title: "Finders")*
 **Outline:** OUTLINE §1. **POV:** Apple Bloom, close third, past tense. **Target:** about 3,200 words. **Span:** one afternoon into dusk.
-**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → **owner**
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (2 rounds) → owner (1st read) → **owner (2nd read)**
 
 ---
 
@@ -65,4 +65,9 @@ The wagon (Big Mac built it for her birthday). The afternoon. And the thing she 
 ## Revision log
 **Round 1 (cut first):** cut the padding joke, *"That was spring, though."*, the stated household rule (now just: nobody had said a word about anything, all week), the motive paragraph, the thumb foreshadowing, *"She didn't know how she knew that"*, *"Just like that"*, *"hated it more than anything"*, the bake-oven and forge similes (now four in the climax, not six), Apple Bloom's who-wants-what summary, *"heavier than it had any right to be"*, and one "she stopped". **Added:** a one-line setup for *"at least mine knows my name"* (Scootaloo: *"Rainbow Dash could pull this with one wing."* / *"So go get her."* / silence); one concrete sliver of the unseen thing (small, with fur, smoking; Apple Bloom looks once). Sweetie's "I get sick if I'm scared" became Apple Bloom's *"You ain't hungry. You're scared."*
 **Kept against the cold reader:** *"You just want something to show Applejack so she'll talk to you"* (a real, cruel thing a kid says, and it triggers the fight); the closet speech; *"hers the way the wagon was hers…without a birthday"* (kid logic, hers).
+## Revision log, round 2 (flow pass)
+A fresh agent restructured the narration only, with dialogue locked. Verified by script: all 77 dialogue spans identical, and the closing chase byte-identical (kept as momentum). The bad-week backstory is bridged in and out. **Narration flow: and-chains 15.1 → 5.8 per 100 sentences; subordinators per *and* 0.24 → 0.58** (budgets 6 and 0.5; Estee 1.0 and 1.11). No events, details or dialogue added or removed. One overcorrection smoothed by hand.
+
 ## Owner's read
+**First read (2026-09-24):** "Its pretty good. I like the story, it catches my attention, its enjoyable, its funny. My criticism is that the writing is a bit hard to follow, it feels a little disjointed and kind like the early scenes. just not quite written like full prose. note, this is not the dialog, just the surroundings, and how the ideas are organized by paragraph and extended sentence and such."
+→ Diagnosed as parataxis in the narration (R03 §1A; DOC-00G §2.7): *and* at 57/k against Estee's 26, subordinators 14/k against 29. The pipeline now measures it (tells.py flow budgets) and the cold reader asks about it.

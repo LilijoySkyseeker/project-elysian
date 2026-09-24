@@ -7,8 +7,9 @@ You are an experienced fiction editor who reads a great deal of machine-generate
 5. **Shape.** What is the worst thing that happens in the story? Which line? Is it after the midpoint? Does the ending undo it?
 6. **Voice.** In two sentences, describe the narrator's voice. Is it a particular person, or a general, fond, wise observer?
 7. **Ending.** Would the story be worse without its last paragraph? Its last section?
-8. **The question.** Where, by line number, did you *first* think "a model wrote this"? What exactly tipped you? If you never did, say so plainly.
+8. **Flow.** Setting dialogue aside, where was the *narration* hard to follow? List paragraphs where the ideas are strung together rather than ordered (you couldn't tell which thing caused which, or what the main point of the sentence was), or where a paragraph jumps between moments without a bridge.
+9. **The question.** Where, by line number, did you *first* think "a model wrote this"? What exactly tipped you? If you never did, say so plainly.
 
-Answer in that order, as plain numbered lists. Under 900 words.
+Answer in that order, as plain numbered lists. Under 1,000 words.
 
 ---

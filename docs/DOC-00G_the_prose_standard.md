@@ -61,6 +61,15 @@ The default ending is **the last thing that happens**, not a reflection on it. N
 
 **Check:** cover the last paragraph. Is the scene worse without it? If not, it goes.
 
+#### 2.7 The prose connects *(added 2026-09-24, after the owner's read of X01 ch. 1)*
+The owner read a chapter that was funny, gripping and free of tells as *"a bit hard to follow… disjointed… not quite written like full prose"*, and specifically the narration, not the dialogue. Measured against Estee (R03 §1A), the cause is **parataxis**: clauses laid side by side with *and*, instead of ordered. Ch. 1's narration used *and* at 57 per 1,000 words against Estee's 26, and subordinators (*because, when, while, which, until, before*) at 14 against Estee's 29. The reader has to work out what caused what and which idea is the main one. The collection's house cadence has the same habit (S024: 0.34 subordinators per *and*); S012alt (0.65) and S025 (1.17) do not.
+- **Each sentence has a main idea**, and the others hang off it: *because*, *when*, *so*, *which*, *until*, *before*, *while*. Cause and sequence are written in (the human-prose rule: people connect thoughts with *so*, *then*, *because*).
+- **A paragraph is one movement**: one action, one thought, one look. It picks up what the last one left and hands something to the next. A backstory paragraph is bridged in and out; it is not dropped mid-action.
+- **"And… and… and" is a tool, not a cadence.** Use it for momentum (a chase, a panic, a pile-up) and nowhere else.
+- **Colons and parentheses are allowed**, and Estee uses both.
+**Budgets** (`tools/tells.py`, narration only): no more than 6 sentences with three or more *and* per 100 narration sentences (Estee: 1.0); at least 0.5 subordinators per *and* (Estee: 1.11).
+**Not a licence to explain.** A subordinate clause orders *events* ("she stopped because the wheel had caught"). It does not interpret them ("she stopped, which was the whole point").
+
 ---
 
 ### 3. THE HOUSE TELLS

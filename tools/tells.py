@@ -44,7 +44,15 @@ LIMITS = {
     "stinger_ratio": None,   # reported, not failed: Estee ends 60% of sections on one (research/R03 §1)
     "number_word_repeat": 4, # the same number word (three..ninety) more than max(this, words/350) times
     "one_sentence_par_ratio": 0.45,
+    # Flow (narration only; dialogue excluded). Calibrated on Estee's novel (research/R03 §1A): and-chains
+    # 1.0 per 100 sentences, subordinators per "and" 1.11. The collection's house cadence strings clauses
+    # with "and" instead of ordering them; the owner read it as "disjointed, not quite full prose".
+    "and_chain_per_100": 6.0,     # narration sentences with three or more "and", per 100 narration sentences
+    "sub_per_and_min": 0.5,       # subordinators per "and" in narration
 }
+
+SUBORDINATORS = re.compile(r"\b(because|when|while|although|though|since|until|unless|after|before|so\s+that|if|"
+                           r"whether|which|who|whose|where|as\s+soon\s+as|once)\b", re.I)
 
 NUMBER_WORDS = ("three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen "
                 "sixteen seventeen eighteen nineteen twenty thirty forty fifty sixty seventy eighty "
@@ -220,6 +228,8 @@ class Metrics:
     emdash_per_k: float
     and_chains: int               # sentences with four or more " and "
     participle_per_k: float       # ", verb-ing" clauses per 1000 words
+    and_chain_per_100: float      # narration sentences with 3+ "and", per 100 narration sentences
+    sub_per_and: float            # narration subordinators per "and"
     number_repeats: dict[str, int]
     opener_top: list[tuple[str, int]]
     ending: str
@@ -250,6 +260,14 @@ def measure(scene: Scene) -> Metrics:
     emd = text.count("—") + text.count(" -- ")
     and_chains = sum(1 for s in sents if len(re.findall(r"\band\b", s, re.I)) >= 4)
     participles = len(PARTICIPLE.findall(text))
+    # Flow, narration only: paragraphs with no dialogue, Kin-code or ticket headers.
+    narr = [p.text for p in pars if not re.search(r'["“”]', p.text) and not p.text.startswith(("*[", "—"))]
+    nsents = [x for t in narr for x in sentences(t)]
+    nchain = sum(1 for x in nsents if len(re.findall(r"\band\b", x, re.I)) >= 3)
+    nands = sum(len(re.findall(r"\band\b", t, re.I)) for t in narr)
+    nsubs = sum(len(SUBORDINATORS.findall(t)) for t in narr)
+    and_chain = 100 * nchain / max(1, len(nsents))
+    sub_per_and = nsubs / nands if nands else 9.99
 
     wc = Counter(words)
     cap = max(LIMITS["number_word_repeat"], len(words) // 350)
@@ -264,7 +282,7 @@ def measure(scene: Scene) -> Metrics:
     ending = pars[-1].text if pars else ""
     return Metrics(len(words), len(sents), mean, cv, one_sent, stinger_ratio, len(secs),
                    dialogue, 1000 * emd / max(1, len(words)), and_chains,
-                   1000 * participles / max(1, len(words)), reps,
+                   1000 * participles / max(1, len(words)), and_chain, sub_per_and, reps,
                    openers.most_common(4), ending)
 
 
@@ -293,6 +311,12 @@ def judge(scene: Scene, hits: list[Hit], m: Metrics) -> list[str]:
         fails.append(f"one-sentence paragraphs: {m.one_sentence_pars:.0%} (limit {LIMITS['one_sentence_par_ratio']:.0%})")
     for w, n in m.number_repeats.items():
         fails.append(f"number tic: '{w}' ×{n}")
+    if m.and_chain_per_100 > LIMITS["and_chain_per_100"]:
+        fails.append(f"flow: {m.and_chain_per_100:.1f} and-chained narration sentences per 100 (limit {LIMITS['and_chain_per_100']}; "
+                     "order the clauses: because / when / so / which)")
+    if m.sub_per_and < LIMITS["sub_per_and_min"]:
+        fails.append(f"flow: {m.sub_per_and:.2f} subordinators per 'and' in narration (min {LIMITS['sub_per_and_min']}; "
+                     "the ideas are laid side by side instead of ordered)")
     return fails
 
 
@@ -355,6 +379,8 @@ def report_scene(path: Path, pats: list[Pattern], corpus: list[Scene] | None = N
             f"- em dashes per 1000 words: {m.emdash_per_k:.1f}",
             f"- sentences with four or more 'and': {m.and_chains}",
             f"- participial clauses (', verb-ing') per 1000 words: {m.participle_per_k:.1f}",
+            f"- flow (narration): and-chained sentences {m.and_chain_per_100:.1f}/100 · subordinators per 'and' {m.sub_per_and:.2f} "
+            "(Estee 1.0 · 1.11)",
             f"- commonest sentence openers: {', '.join(f'{w} ×{n}' for w, n in m.opener_top)}",
             f"- final paragraph: “{m.ending[:220]}{'…' if len(m.ending) > 220 else ''}”", ""]
     out += ["## Hits", ""]
