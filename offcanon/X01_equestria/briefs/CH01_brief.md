@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 1 *(working title: "Finders")*
 **Outline:** OUTLINE §1. **POV:** Apple Bloom, close third, past tense. **Target:** about 3,200 words. **Span:** one afternoon into dusk.
-**Status:** brief → predicted → drafted → linted → cold-read → revised → owner
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → **owner**
 
 ---
 
@@ -59,6 +59,10 @@ The wagon (Big Mac built it for her birthday). The afternoon. And the thing she 
 ---
 
 ## Lint
+**Draft 1 (3,994 words):** no banned crossover clichés, no character-tic drift, no machine vocabulary. Reframe 1.5/k (budget 1.0). Gnomic hits are Apple Bloom's own farm similes (allowed as character-owned, DOC-00G §3.2). **After round 1 (about 3,750 words):** reframe hits down to Sweetie Belle's spoken reasoning and the splinter image, both kept. One-sentence paragraphs 47%: rapid bickering, **kept on purpose** (same call as S024).
 ## Cold read
+**First place a model:** line 25, the paragraph-buttoning joke (*"better job as padding than…as sacks"*), confirmed at line 33 (the one-line section closer *"That was spring, though."*) and line 49 (the household rule stated outright). **The action from the mirror onward did not trip it.** Also found: **six farm similes in a row** in the climax ("each works; six reads as technique"); "She stopped" used three times; Apple Bloom's summary of who wants what; the motive stated twice; *"at least mine knows my name"* unset-up; the thumb foreshadowing; the unseen "something on the ground" as generic. Judged the fillies "mostly distinct children", with Sweetie the most real and Scootaloo the thinnest. Ending: keep. Worst moment: the hand (physical) and line 125 (emotional).
 ## Revision log
+**Round 1 (cut first):** cut the padding joke, *"That was spring, though."*, the stated household rule (now just: nobody had said a word about anything, all week), the motive paragraph, the thumb foreshadowing, *"She didn't know how she knew that"*, *"Just like that"*, *"hated it more than anything"*, the bake-oven and forge similes (now four in the climax, not six), Apple Bloom's who-wants-what summary, *"heavier than it had any right to be"*, and one "she stopped". **Added:** a one-line setup for *"at least mine knows my name"* (Scootaloo: *"Rainbow Dash could pull this with one wing."* / *"So go get her."* / silence); one concrete sliver of the unseen thing (small, with fur, smoking; Apple Bloom looks once). Sweetie's "I get sick if I'm scared" became Apple Bloom's *"You ain't hungry. You're scared."*
+**Kept against the cold reader:** *"You just want something to show Applejack so she'll talk to you"* (a real, cruel thing a kid says, and it triggers the fight); the closet speech; *"hers the way the wagon was hers…without a birthday"* (kid logic, hers).
 ## Owner's read
