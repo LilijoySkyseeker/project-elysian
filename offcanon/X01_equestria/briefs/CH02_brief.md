@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 2 *(working title: "Theta")*, **v2**
 **Outline:** OUTLINE §2. **POV:** Madder-4, close third, past tense. **Target:** about 3,500 words. **Span:** the arrival night, from waking to first light.
-**Status:** v1 drafted, owner read ("decent", with criticisms below) → v2 brief ✓ → redraft ✓ → lint ✓ → cold read + fidelity read ✓ → revised ✓ (2 rounds) → **owner**
+**Status:** v1 drafted, owner read ("decent", with criticisms below) → v2 brief ✓ → redraft ✓ → lint ✓ → cold read + fidelity read ✓ → revised ✓ (2 rounds) → owner ✓ **passed**
 **Why v2:** the owner's read of v1: the Kin talked **aloud** to each other instead of on the radio; the opening was **light on shock** and on **talking the situation through**; they didn't seem **surprised or out of their depth in their minds** (their bodies were right); the **geography** of the plasma, the fire and the dead animal was unsure; and they didn't quite feel like Kin. Causes, in order: this brief's v1 said "Kin-code… sparingly" (against DOC-00D, which makes it the default); v1 asked for restraint ("cold", "nobody says it"), which is the house voice at brief level; the drafter's only Kin exemplar was a Kin talking aloud to a human; and nothing checked species fidelity or continuity. All four are fixed below and in DOC-00G §4, VOICES.md, CONTINUITY.md and DOC-00H Stage 5.
 
 ---
@@ -59,6 +59,9 @@ As v1 (sleep-web and theta lock; the grip reflex; the body; senses; the Core; de
 **Owner, mid-round:** *"does it make any sense for them to take the wagon? isn't it on fire?"* → decided: the fire is put out on drill reflex, Yarrow takes the wagon, the burned wheel breaks on the steep slope, and it is left there for the weather crew to find later (CONTINUITY 10; OUTLINE, wagon thread).
 **Round 2** (the last model round): the wagon as decided, with every later reference removed; a flow pass on calm narration only (subordinators per *and* **0.25 → 0.98**, chains 0.8/100: Estee-level); "five" 17 → 4. **Final: 4,489 words** (about 28% over target; the owner's notes asked for more chatter, a longer night and fuller Kin behaviour, and that is where the words went). One-sentence paragraphs 49% (the radio lines, kept). One hand fix: *"fanned flat to the sides"* → *"fanned wide against it"*.
 **Not re-run after round 2:** the fidelity reader. The wagon passages and continuity were checked by hand against CONTINUITY.md.
+
+## Owner's read (v2)
+"that was much much better! that felt basically perfect." Passed (2026-09-24).
 
 ## v1 history (kept for the record)
 ## Lint
