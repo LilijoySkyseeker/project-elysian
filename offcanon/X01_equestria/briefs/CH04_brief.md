@@ -58,7 +58,10 @@ Day one ends in the **duck house at the bottom of Fluttershy's south meadow**; s
 ---
 
 ## Lint
+**Draft 1 (4,379 words):** "four" ×29, "three" ×15, "five" ×14 over the number-tic cap; some of that is Sloe (hir counts), so not all of it is a tell. Flow: chains 3.1/100, subordinators per *and* 0.53. Section-ending one-liners 22%.
 ## Cold read
+First "a model wrote this" at line 9 (*"said by something that wasn't hungry"*: an aphoristic inner motive), confirmed at 13 and 39. About fifteen explaining asides, and the narrator turns into a fond, wise observer at 69, 121, 213 and 273. Dialogue buttons: *"Neither did we"*, *"It's a good chit"*, the Mayor's clock line, *"That's fair."*, and Applejack explaining the whole economics in one speech. Confusions: what Sloe asks the Core at the start; the egg cart as backfill; the ten bits against seven paid. Shape: the worst moment is after the middle and not undone. Ending: keep the tab, trimmed.
 ## Fidelity read
+Channels **correct**: no Kin speaks aloud to another Kin. **Missing:** the frame at the street's fear (nobody feels or sends), involuntary sounds, the tail, touch in the duck house, chatter about money, the first night-cold, a reaction to rain being forecast, any sign of the fire. A memory surfaced unasked (D-98). Refrains had turned people into tags (Teasel's line ×3). No pony idiom used wrong (Sloe's card). **Continuity:** **the bow was on Sloe's wrist at Applejack's stall** (it must never be near an Apple); "last night" should be two nights ago; "nine hours" should be about fourteen; Madder asleep or awake; the key and the door; the doorframe clashing with *the frame*; Fluttershy's four o'clock food abandoned; the morning's buying didn't add up. **Rejected:** "the fillies named in the town's rumour breaks the secret". OUTLINE §4 has the Crusaders' story spreading; their secret is the mirror, not having been in the forest.
 ## Revision log
 ## Owner's read
