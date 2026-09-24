@@ -13,6 +13,13 @@
 8. **Timeline:** the arrival at last light (dusk). The Kin surface in a few minutes, move off within about twenty, and walk through the night on bodies that don't work under gravity (slow: hours). They reach the forest edge at **first light**. Chapter 3 begins at dawn at the cottage.
 9. **What the Kin can read:** the wagon says **APPLE BLOOM** in red paint, in letters they can read (the ponies write in the same alphabet the Kin know). The B is backwards.
 
+10. **The wagon goes with the Kin** (ch. 2): Yarrow pulls it all night by the shafts, rolling. Its front left wheel squeaks. The APPLE BLOOM paint is **blistered** from the heat (ch. 1). It arrives at Fluttershy's with them.
+11. **The Kin's descent** from the scorched clearing is a **different, steeper slope** from the fillies' bank: the fillies went down to the left of the clearing, the Kin straight down its far side, toward the larger stream.
+12. **The night is long:** about **nine to ten hours** from dusk to first light (spring), with halts. The fire stays behind and above; its glow moves **round the hill to the right** as it spreads uphill.
+13. **The sky:** under the canopy they get only glimpses. Once, a **moon** through a gap. They know moons from records; this is the first they have seen. (No stars-and-home beat: BIBLE §5.)
+14. **Mirror vs frame:** to avoid a clash with *the frame* (the Kin link), the mirror's remains are called **the empty mirror** or **the metal rim**, never "the frame".
+
 ## Standing facts
+- **The ship** carried about **1,400 Kin** (their Hum was the sky the five lived under) and a human crew besides. The five's Cluster slept in a web by the coolant bay. Crew names mentioned: Clary-6 (dead, before), Dunlin (alive, a rigger), Ilex (a joker on the training sims). Never shown.
 - **Five Kin, all present:** Madder-4, Sloe-5, Yarrow-3, Haw-2, Teasel. Nothing came with them but the plasma. No tools, no food: they were asleep.
 - **The ship is never shown or answered.**
