@@ -1,6 +1,6 @@
 # BRIEF — S024 *Outer Relay* (working title)
 **Slate entry:** none. A new premise, chosen under the owner's full creative direction (2026-09-24). **Ledger gap it fills:** a Kin who is wrong and loses to a human who deserved to win (DOC-00B §10; never yet written), a human near the viewpoint who is sharp and petty and stays that way, an ending cut mid-action, and the collection's second present-tense scene. The slate's *"cheap check, mid-argument, unremarked"* rides along.
-**Status:** brief → predicted → drafted → linted → cold-read → revised → **owner** → canon → filed
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → **owner** → canon → filed
 
 ---
 
@@ -70,10 +70,17 @@ A fresh agent, given only the premise, predicted:
 ---
 
 ## Lint (Stage 4)
+**Draft 1:** explain 0, gnomic 0, rested beats 0, recycled 6-word runs from other scenes: none. Reframe 1.3/k (budget 1.0; one hit was line 129, cut). One-sentence paragraphs 47%. Dialogue share 35% (the collection's median is 8%; Estee's is 22%). Voice: nearest S008 0.95 against anchor 0.94, so the narrator is distinguishable from the house voice.
+**After round 1:** the only flag is one-sentence paragraphs at 48% (limit 45%). **Kept on purpose:** they are almost all quick dialogue lines in a fast argument. Voice nearest 1.02 against anchor 0.95.
 
 ## Cold read (Stage 5)
+**Cold reader (no lore), "first place a model":** line 129, *"Hir was right about that much. Hir only had the wrong fact"*: "the narrator stops the scene to explain its own plot turn in a neat aphorism." The first flicker was line 89 ("…which is no use at all"). Also flagged: dialogue quips at lines 11, 51 and 79 slightly too polished; the "third person" simile; "blankets thrown on a fire" (mixed metaphor); line 143 restating "Pell-3"; the Vetch "symmetry" at line 99. Worst moment: Pell quoting Agnes's private grief, at about 85% of the way through; the ending does not undo it. The ending was judged *better with* both the last paragraph and the last section.
+**Collection reader:** a fourth "first"-built opening (after S006, S009 and S023); a "which is" aside echoing S021's opening; an "and… and… and" closing cadence like S017 and S022. New to the collection: an ending broken off mid-sentence, a present-tense scene with no coda, an opening on a form.
+**Three-way agreement** (me, linter, cold reader): line 129. Cut.
 
 ## Revision log (Stage 6: at most two model rounds)
+**Round 1 (cut first):** cut line 129 whole; cut the "which is also… the reason hir is going" aside from the opener; the "dog at a bin" and "flat as deck plate" world-rule; "which is no use at all"; the form-setting symmetry; "the first time she has put them down"; the doubled "doesn't move"; "blankets thrown on a fire"; "and not a pet"; the "third person" simile; the "Not Pell. Not love…" gloss; "the pile for things that aren't going anywhere"; "a big helpless bark". **Rewrites:** Agnes's quoted confidence made messier and less quotable; Pell's closing accusation cut from a theme statement ("you've got nobody on this ring to talk to") to *"So don't tell me it's the refit"*; "I'm hiding behind the refit" roughened; the ⟨don't make me read it⟩ gloss replaced with plain words; a named song for "the same song as last week"; the final "and… and…" cadence broken into short clauses; a cue added at the first toast fragment (the cold reader was lost at line 35). **Canon fix in prose:** Agnes now says *she* of Kin throughout (DOC-00 §2).
+**Kept against the cold reader, for the owner to judge:** "the way Agnes likes them" (the one note of what was lost, unexplained); "Which is all there is. Pell never asked Vetch anything either" (Pell's own failure of not-asking, D-98); "what humans smell like when a line parts" (Pell's own rigger's comparison, R03 §2.3); "It's a sulk with a posting number" (Agnes is funny, and one quip lands per scene).
 
 ## Owner's read (Stage 7)
 
