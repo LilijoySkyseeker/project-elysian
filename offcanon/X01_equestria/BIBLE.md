@@ -14,6 +14,12 @@
 4. **The limits are real in how problems are handled, too.** When the Kin act, they act like people: late, partial, wrong, costly.
 5. **Slice of life.** The point is to get a feel for things.
 
+## 1A. The premise (the owner's, 2026-09-24)
+The **Cutie Mark Crusaders** find an old, broken magic mirror in the ruined castle of the Royal Pony Sisters in the Everfree. They drag it home to mess with it, **not as a cutie-mark scheme** (that is the predicted version), but because it is a spooky old thing and they are kids. On the way it activates. It bounces wildly between universes while they panic and run. It locks onto the most regulated high-energy thing it can find, **the fusion reactor on a Kin ship**, and the lock breaks the mirror. In its last collapse it pulls through what fits: **five Kin asleep in one sleep-web in the Nest by the coolant bay**, tangled together in theta lock (canon: a Cluster sleeps together). The mirror is shattered and there is no way back.
+- **The Crusaders run.** The news gets out from three scared children's mouths: garbled, contradictory, and dismissed at first. **They know they caused it,** and who tells, when and how is their thread. Their panic is real and never played for comedy.
+- **The Kin wake** in theta lock, in a heap, under gravity. Void-built bodies fold; forest, weather and smell arrive for the first time. **They have never met an animal.** They find their way out of the forest to the nearest building, which is Fluttershy's cottage.
+- **Back home, they are dead.** Every Kin on that ship felt five presences stop in the same tenth of a second, which is how death feels (DOC-00B §8). There are no bodies to Read. The five know within minutes that everyone they left believes they died, and they can never correct it. **Did the ship survive losing its reactor?** They will never know. Never answered.
+
 ## 2. What the Kin are here: the canon that binds, even off-canon
 The Kin keep their Elysian nature exactly. These limits come with it, and none is invented for the story:
 - **They came as a whole Cluster** (decided 2026-09-24). The frame is intact: they feel each other to the second, sleep in one web, and nobody is being erased. **But they are the only Kin in this world.** There are no other Clusters, no Weave, no Long Messages, and no humans, for the first time in any of their lives. So:
@@ -55,15 +61,23 @@ The brake on competence is canon: void-built bodies are poor under gravity, and 
 A Cluster that worked together: a crew, void-built, from a station or tender. **Mixed ages and temperaments**, so the five disagree about how to live here. One wants to adapt, one refuses, one is quietly failing at it, one is thriving too much. **Each Kin gets a voice card** and crosses different ponies' lives. The Kin POV rotates, so no single Kin voice carries 25k words.
 
 
-**3.5 The ponies' own threads** (problems that exist regardless; one or two per major character, mostly offscreen)
-These are proposals to build on, not episode plots:
-- **Applejack**: a bad frost has taken part of the early crop, there is a loan against the farm she hasn't told Granny about, and Big Mac is quietly talking about taking work in Manehattan.
-- **Rarity**: a Canterlot client who pays late and orders big, and cash-flow she hides behind the shop window. She's very good at her job and tired in a way she doesn't let show.
-- **Twilight**: a student sent to live in a town. The work is going badly: a long project for Celestia that she is behind on and hiding it. She is lonely in a way she has no word for. *(Her thread is not about the Kin. The "study hir, then apologise" arc is on the predictable list.)*
-- **Fluttershy**: the animals are real work. A sick animal, a death she could not prevent, and the weight of being the only one who does this.
-- **Rainbow Dash**: the weather team as a job, with schedules, a rival, a reprimand, and a real fear of never being good enough for the Wonderbolts.
-- **Pinkie Pie**: the Cakes' bakery is a business; Pinkie works shifts. Parties cost her. The sister and rock-farm family she doesn't talk about.
-- **Spike**: a baby dragon doing a secretary's job, and his own thing: something he wants that is not about Twilight and not about the Kin. *("Spike bonds over a strange diet" is on the predictable list.)*
+**3.5 Everyone's threads: two-way pulls, deliberately unbalanced**
+*(Revised after the owner's note: real lives pull both ways and rarely balance. The problems exist regardless of the Kin, and so do the good things.)*
+| Who | Pulling up | Pulling down | Balance right now |
+| :-- | :-- | :-- | :-- |
+| **Fluttershy** | Spring: nests everywhere, a fox kit she raised is back with kits of her own, and she's quietly proud of how good she is at this. | Five predators near her animals, the panic, and one that doesn't come back. | A good season, broken open in one night |
+| **Applejack** | The best blossom in years; Big Mac courting somepony and pretending he isn't. | The late frost took the low orchard, and there's a loan against the farm she hasn't told Granny about. | Mostly worried, and mostly hiding it |
+| **Rarity** | A Canterlot commission that could make her name: the best work of her life, and she knows it. | That client pays late, the boutique's cash is thin, and Sweetie Belle is acting strange (the mirror). | Mostly thrilled, with a crack under it |
+| **Twilight** | She loves Ponyville more than she expected, and loves the library, Spike and her friends. | A long project for Celestia that she's behind on and hiding it. | Mostly happy, quietly anxious |
+| **Rainbow Dash** | She's nailed a trick nobody else on the weather team can do. | A reprimand for showing it off on the job; Wonderbolt fear. | Up, and about to be knocked down |
+| **Pinkie Pie** | She loves the bakery work, the early mornings and the ovens. | Parties cost her more than anyone sees, and there's a family she doesn't talk about. | Genuinely good, with a private cost |
+| **The Crusaders** | Each other. | They caused this, and they ran. | Terrified, and hiding it badly |
+| **Spike** | Something he wants of his own (settled in the outline). | Being small, and being a secretary. | Fine, mostly |
+| **Madder-4** | Hir crew is alive, and hir procedures keep them that way in the first days. | Everyone at home thinks hir let four people die with hir. | Holding, by force |
+| **Sloe-5** | Pony markets and money delight hir; hir is good at people. | Hir does all the talking, and is always tired. | Tired and happy, both true |
+| **Yarrow-3** | Rain: hir first ever, and hir can't stop going out in it. | Nothing to rig, and good hands with nothing to do. | Restless, lit up by weather |
+| **Haw-2** | A whole planet! Running, climbing, everypony to talk to. | Keeps getting it wrong, and keeps getting hurt. | High, too high |
+| **Teasel** | The smell of the forest after rain; the one pony who is kind to hir without fuss (to be found). | Can't eat what there is; losing weight; won't say. | Failing, with one good thing |
 
 **3.6 Where the Kin fits**
 - ★ **Not at the centre of the ponies' lives.** Each Kin crosses one or two pony threads properly. The rest they see at the edges and misread, and the ponies misread them back.
