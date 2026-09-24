@@ -82,6 +82,9 @@ The show's characters are described here in our own words. No episode dialogue i
 
 ## The ponies
 
+**What ponies call the Kin** *(the owner, after ch. 3)*: they start with ***it***, and trend toward ***she*** as time goes on. The Kin sex ratio is female-dominated, so once a pony has taken them as a person, *she* is the default. Different ponies get there at different speeds, and a pony's pronoun says where she is. Nopony uses *hir* unless she's making a point. Kin speaking aloud use *hir* for each other. In Kin POV the narration is always *hir*.
+**Every pony POV has a person in it, not just a job** *(the owner, after ch. 3)*: mutters under her breath, her reaction to what she sees, and thoughts of her own that have nothing to do with the Kin. A few, lightly; the work still carries the chapter.
+
 **Fluttershy**
 - **Life:** Her work is the animals: dozens of them, their feeding, their illnesses, their deaths. It's hard, skilled and unglamorous, and she is very good at it. This spring there are nests everywhere, and a fox kit she raised has come back with kits of her own.
 - **Talks:** Quiet, but not only quiet. With animals she is firm and practical. With strangers in her yard she's frightened, and underneath that, **angry**, and it comes out as a hard, small voice.

@@ -28,7 +28,7 @@
 20. **Rainbow Dash** lands at **11:45** by the kitchen clock, with soot on one wing. Madder's statement: the burn ring about **twelve metres across** on both sides of the old track, a strip off to the left about 100 m by 5 m, the glow last seen **7 h 50 min** before, round the hill to the right, looked for **eight times**. The weather team works the edge **from about two**, dropping clouds **along both banks** from the trees to the **Pinwheel fields**. The captain rarely flies. **The wagon is not found in ch. 3** (it's left for ch. 6).
 21. **Where the Kin go:** Fluttershy's closing offer is the **old duck house at the bottom of the south meadow, past the willows**, reached round the edge of the grass, with food brought at four. That is their shelter from the end of day one.
 22. **Sloe uses the whistle** once, to Haw, at the end. Fluttershy hears only a thin high sound.
-23. **Narration pronoun:** from Fluttershy's side the Kin are **"it"** on day one (DOC-00 §2: the narrator uses what the POV character would say). Kin speaking aloud use *hir*.
+23. **Pronouns:** from Fluttershy's side the Kin are **"it"** on day one (DOC-00 §2: the narrator uses what the POV character would say). Kin speaking aloud use *hir*. **Ponies trend from *it* to *she*** over the following days and weeks, each at her own speed (VOICES.md).
 
 ## Standing facts
 - **The ship** carried about **1,400 Kin** (their Hum was the sky the five lived under) and a human crew besides. The five's Cluster slept in a web by the coolant bay. Crew names mentioned: Clary-6 (dead, before), Dunlin (alive, a rigger), Ilex (a joker on the training sims). Never shown.
