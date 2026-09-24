@@ -430,7 +430,7 @@ def report_corpus(pats: list[Pattern]) -> str:
         m = measure(s)
         k = 1000 / max(1, m.words)
         kinds = Counter(h.pat.kind for h in hits)
-        rested = sum(1 for h in hits if h.pat.status == "rested")
+        rested = sum(1 for h in hits if h.pat.status == "rested" and f"origin {s.sid}" not in h.pat.note)
         fails = judge(s, hits, m)
         tag = s.sid + ("alt" if "ALT" in s.path.name else "")
         for h in hits:
