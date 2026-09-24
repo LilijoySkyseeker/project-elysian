@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.obsidian/
+
+# Working temp files from in-place edits (awk/sed pipelines)
+*.new
+*.bak
+*.tmp
+*.orig
+
+# Rendered output, if any is ever produced
+/build/
+/out/

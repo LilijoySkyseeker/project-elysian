@@ -1,0 +1,606 @@
+<title>The Kin Primer</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  :root {
+    --ash: #EDEEEB;
+    --surface: #F7F8F5;
+    --ink: #14171B;
+    --muted: #5C6570;
+    --hum: #9C5E14;
+    --hum-soft: rgba(156, 94, 20, 0.12);
+    --rf: #3A6580;
+    --rule: #D4D7D1;
+    --rule-soft: #E2E4DF;
+
+    --measure: 65ch;
+    --f-display: "Fraunces", "Iowan Old Style", Georgia, serif;
+    --f-body: "IBM Plex Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+    --f-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ash: #0D1014;
+      --surface: #161A20;
+      --ink: #E5E7E3;
+      --muted: #8C96A1;
+      --hum: #E0A33F;
+      --hum-soft: rgba(224, 163, 63, 0.14);
+      --rf: #84B3CD;
+      --rule: #262C34;
+      --rule-soft: #1D222A;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ash: #0D1014;
+    --surface: #161A20;
+    --ink: #E5E7E3;
+    --muted: #8C96A1;
+    --hum: #E0A33F;
+    --hum-soft: rgba(224, 163, 63, 0.14);
+    --rf: #84B3CD;
+    --rule: #262C34;
+    --rule-soft: #1D222A;
+  }
+
+  body {
+    background: var(--ash);
+    color: var(--ink);
+    font-family: var(--f-body);
+    font-size: 17px;
+    line-height: 1.62;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .page {
+    max-width: 78rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 6rem;
+  }
+
+  /* ---------- masthead ---------- */
+
+  .record {
+    font-family: var(--f-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    text-transform: uppercase;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.5rem;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.7rem;
+  }
+  .record b { color: var(--ink); font-weight: 500; }
+
+  .masthead { padding: 3rem 0 1.5rem; }
+  .masthead h1 {
+    font-family: var(--f-display);
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: clamp(2.8rem, 7vw, 4.6rem);
+    line-height: 0.98;
+    letter-spacing: -0.02em;
+    margin: 0;
+    text-wrap: balance;
+  }
+  .masthead .deck {
+    font-size: clamp(1.05rem, 2vw, 1.25rem);
+    color: var(--muted);
+    max-width: 44ch;
+    margin: 1.1rem 0 0;
+  }
+  .trace { display: block; width: 100%; height: 34px; margin-top: 1.6rem; overflow: visible; }
+
+  /* ---------- section scaffolding ---------- */
+
+  section {
+    display: grid;
+    grid-template-columns: 5.5rem minmax(0, var(--measure)) minmax(0, 1fr);
+    gap: 0 2.5rem;
+    padding: 2.6rem 0 0;
+    align-items: start;
+  }
+  .num {
+    font-family: var(--f-mono);
+    font-size: 0.72rem;
+    color: var(--hum);
+    letter-spacing: 0.08em;
+    padding-top: 0.75rem;
+    grid-column: 1;
+  }
+  .body { grid-column: 2; }
+  .aside { grid-column: 3; }
+
+  h2 {
+    font-family: var(--f-display);
+    font-weight: 600;
+    font-size: 1.75rem;
+    line-height: 1.15;
+    letter-spacing: -0.015em;
+    margin: 0 0 0.9rem;
+    text-wrap: balance;
+  }
+  h3 {
+    font-family: var(--f-body);
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 2rem 0 0.6rem;
+  }
+  p { margin: 0 0 1.05rem; }
+  .body > p:last-child { margin-bottom: 0; }
+  strong { font-weight: 600; }
+  em { font-style: italic; }
+
+  .lead p { font-size: 1.16rem; line-height: 1.55; }
+
+  .quote {
+    font-family: var(--f-display);
+    font-weight: 400;
+    font-size: 1.45rem;
+    line-height: 1.32;
+    letter-spacing: -0.01em;
+    margin: 1.8rem 0;
+    padding-left: 1.2rem;
+    border-left: 2px solid var(--hum);
+    text-wrap: pretty;
+  }
+
+  /* ---------- lists ---------- */
+
+  ul.plain { list-style: none; padding: 0; margin: 0 0 1.05rem; display: grid; gap: 0.85rem; }
+  ul.plain > li { padding-left: 1.15rem; position: relative; }
+  ul.plain > li::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0.72em;
+    width: 0.42rem; height: 1px;
+    background: var(--hum);
+  }
+
+  ol.steps { list-style: none; padding: 0; margin: 0 0 1.05rem; counter-reset: s; display: grid; gap: 1rem; }
+  ol.steps > li { counter-increment: s; padding-left: 2.2rem; position: relative; }
+  ol.steps > li::before {
+    content: counter(s, decimal-leading-zero);
+    position: absolute; left: 0; top: 0.1em;
+    font-family: var(--f-mono); font-size: 0.72rem;
+    color: var(--hum); letter-spacing: 0.06em;
+  }
+
+  /* ---------- rules block (the four absences) ---------- */
+
+  .absences { display: grid; gap: 0; margin: 0.4rem 0 0; }
+  .absences > div {
+    display: grid;
+    grid-template-columns: 10rem minmax(0, 1fr);
+    gap: 0.3rem 1.5rem;
+    padding: 0.95rem 0;
+    border-top: 1px solid var(--rule-soft);
+  }
+  .absences > div:last-child { border-bottom: 1px solid var(--rule-soft); }
+  .absences dt {
+    font-family: var(--f-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--rf);
+    padding-top: 0.22rem;
+  }
+  .absences dd { margin: 0; }
+
+  /* ---------- spec panel ---------- */
+
+  .panel {
+    border: 1px solid var(--rule);
+    background: var(--surface);
+    padding: 1.1rem 1.2rem 1.2rem;
+    font-size: 0.86rem;
+  }
+  .panel .cap {
+    font-family: var(--f-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 0.75rem;
+  }
+  .panel dl { margin: 0; display: grid; gap: 0.5rem; }
+  .panel .row {
+    display: flex; justify-content: space-between; gap: 1rem;
+    border-bottom: 1px dotted var(--rule);
+    padding-bottom: 0.45rem;
+  }
+  .panel .row:last-child { border-bottom: 0; padding-bottom: 0; }
+  .panel dt { color: var(--muted); }
+  .panel dd { margin: 0; font-family: var(--f-mono); font-size: 0.8rem; font-variant-numeric: tabular-nums; text-align: right; }
+
+  /* ---------- distance axis ---------- */
+
+  .axis-wrap { margin: 1.6rem 0 0.4rem; overflow-x: auto; }
+  .axis { min-width: 32rem; width: 100%; height: 132px; }
+  .axis text { font-family: var(--f-mono); font-size: 10px; letter-spacing: 0.04em; }
+
+  /* ---------- factions ---------- */
+
+  .factions {
+    grid-column: 2 / -1;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+    margin-top: 0.4rem;
+  }
+  .factions article { background: var(--ash); padding: 1.2rem 1.25rem 1.35rem; }
+  .factions h4 {
+    font-family: var(--f-display);
+    font-size: 1.12rem;
+    font-weight: 600;
+    margin: 0 0 0.15rem;
+  }
+  .factions .motto {
+    font-family: var(--f-mono);
+    font-size: 0.72rem;
+    color: var(--hum);
+    letter-spacing: 0.02em;
+    margin: 0 0 0.7rem;
+  }
+  .factions p { font-size: 0.9rem; margin: 0; color: var(--ink); }
+
+  /* ---------- glossary ---------- */
+
+  .glossary { grid-column: 2 / -1; margin-top: 0.4rem; }
+  .glossary > div {
+    display: grid;
+    grid-template-columns: 11rem minmax(0, 1fr);
+    gap: 0.25rem 1.5rem;
+    padding: 0.7rem 0;
+    border-top: 1px solid var(--rule-soft);
+  }
+  .glossary > div:last-child { border-bottom: 1px solid var(--rule-soft); }
+  .glossary dt { font-family: var(--f-mono); font-size: 0.82rem; color: var(--rf); }
+  .glossary dd { margin: 0; font-size: 0.94rem; }
+
+  /* ---------- misreadings ---------- */
+
+  .misread { grid-column: 2; display: grid; gap: 1.4rem; margin-top: 0.4rem; }
+  .misread .q {
+    font-family: var(--f-display);
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+  }
+  .misread .q::before { content: "“"; color: var(--muted); }
+  .misread .q::after { content: "”"; color: var(--muted); }
+  .misread p { margin: 0; }
+
+  /* ---------- reading list ---------- */
+
+  .scenes { display: grid; gap: 0.9rem; margin-top: 0.4rem; }
+  .scenes > div { display: grid; grid-template-columns: 4rem minmax(0, 1fr); gap: 1rem; }
+  .scenes .id { font-family: var(--f-mono); font-size: 0.8rem; color: var(--hum); padding-top: 0.12rem; }
+  .scenes .t { font-style: italic; font-weight: 500; }
+
+  footer {
+    margin-top: 4rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1.2rem;
+    font-size: 0.86rem;
+    color: var(--muted);
+    max-width: var(--measure);
+  }
+  footer code { font-family: var(--f-mono); font-size: 0.82em; color: var(--ink); }
+
+  @media (max-width: 1080px) {
+    section { grid-template-columns: 3.2rem minmax(0, 1fr); gap: 0 1.2rem; }
+    .body { grid-column: 2; }
+    .aside { grid-column: 2; margin-top: 1.6rem; }
+    .factions, .glossary, .misread { grid-column: 2; }
+  }
+  @media (max-width: 640px) {
+    body { font-size: 16px; }
+    .page { padding: 1.5rem 1.1rem 4rem; }
+    section { grid-template-columns: minmax(0, 1fr); gap: 0; }
+    .num { grid-column: 1; padding-top: 0; margin-bottom: 0.4rem; }
+    .body, .aside, .factions, .glossary, .misread { grid-column: 1; }
+    .absences > div, .glossary > div { grid-template-columns: minmax(0, 1fr); }
+    .scenes > div { grid-template-columns: minmax(0, 1fr); gap: 0.15rem; }
+  }
+</style>
+
+<div class="page">
+
+  <div class="record">
+    <span><b>Project Elysian</b> · world &amp; species archive</span>
+    <span>Species: <b>Aethela</b> · self-name: <b>the Kin</b></span>
+    <span>Now = <b>AF 550</b></span>
+    <span>Doc <b>00E</b> · tool, not canon</span>
+  </div>
+
+  <header class="masthead">
+    <h1>The Kin</h1>
+    <p class="deck">Everything you need to meet a made species — written for someone who reads no science fiction, and is being polite about it. Ten minutes.</p>
+    <svg class="trace" viewBox="0 0 800 34" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 24 L120 24 L134 24 L142 10 L150 24 L260 24 L272 24 L280 17 L288 24 L430 24 L446 24 L454 6 L462 24 L560 24 L578 24 L586 19 L594 24 L800 24"
+            fill="none" stroke="var(--hum)" stroke-width="1.25" vector-effect="non-scaling-stroke"></path>
+    </svg>
+  </header>
+
+  <section class="lead">
+    <div class="num">§ 01</div>
+    <div class="body">
+      <h2>The one-minute version</h2>
+      <p>Several hundred years from now, humans live all over the solar system and nowhere outside it. Space is still trying to kill them: vacuum, radiation, no gravity. So they built a species to live there instead.</p>
+      <p>It worked. There are about fifty thousand of them, against tens of millions of humans off Earth, and they call themselves <strong>the Kin</strong>.</p>
+      <p>They are the size of a large dog, six-limbed, furred, deliberately adorable. They do not age. They have no sexes. They talk to each other by radio, faster than speech, and they cannot lie to one another about how they feel. They remember everything perfectly and can hardly ever give any of it away. They love humans — actually love them, in the wiring, not by choice — and they resent having been built to.</p>
+      <p>They are not aliens, not robots, not magic, and not a metaphor for anything in particular. They are people, made on purpose, by people, who got most of it wrong.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 02</div>
+    <div class="body">
+      <h2>Four things this world does not have</h2>
+      <p>They matter more than what it does have.</p>
+      <dl class="absences">
+        <div><dt>No aliens</dt><dd>Humanity has met nobody. The Kin are the only other people there have ever been, and humans made them.</dd></div>
+        <div><dt>No faster ships</dt><dd>The nearest star is four light-years off and the ships that go take two centuries. If you leave, you are not coming back, and neither is anyone who could tell you how it went.</dd></div>
+        <div><dt>No machine minds</dt><dd>Computers got very good and then stopped. They diagnose, calculate, route, and want nothing. This is <em>why</em> the Kin exist: heirs for the places humans could not live had to be grown, not written.</dd></div>
+        <div><dt>No miracle medicine</dt><dd>Humans still die at about a hundred and twenty. The people who built a species without ageing could not remove ageing from themselves. That one sits under the whole thing.</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 03</div>
+    <div class="body">
+      <h2>Who made them, and how it went wrong</h2>
+      <p>Five hundred and fifty years ago a consortium put up the money: three governments and the big habitat companies, who wanted a workforce that could survive vacuum — and one idealist foundation that wanted <em>heirs</em>, and had enough money to buy a seat at the table.</p>
+      <p>The companies specified the body. The foundation specified everything else: the big eyes, the fur, the fondness for Bach. Nobody in that room intended the species that came out, and every one of them is in it.</p>
+      <p>Three errors define everything since.</p>
+      <ol class="steps">
+        <li><strong>They made them cute on purpose.</strong> Compact, soft, huge-eyed, enormous ears — engineered to be non-threatening companions. The Kin know, and always have. It is not the same as being mistreated: they were <em>kept</em>, never owned, and being designed <em>for</em> is its own particular wound.</li>
+        <li><strong>They built in a drive to nurture and forgot the drive to reproduce.</strong> The makers planned one batch of sixty and assumed the species would breed. It did not. It still barely does — one new child per family group every twenty years or so. The Kin will always be rare.</li>
+        <li><strong>They gave them perfect memory and no way to share it.</strong> That is §06, and it is the one that matters.</li>
+      </ol>
+      <p>Forty-one years in, the makers moved to fix the second error by designing a reproductive drive into the next batch. The Kin refused — and then made the refusal permanent. In one night they deleted the archives holding the science, and took the master genome out of human hands, keeping it the only way they keep anything: inside their own bodies.</p>
+      <p>It is called <strong>the Sealing</strong>. Nobody can make another species now, and nobody has tried.</p>
+      <p class="quote">The Kin are not the first of anything. They are the only.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 04</div>
+    <div class="body">
+      <h2>What one is like in a room</h2>
+      <p>Sixty kilos. Two arms with ordinary hands; four lower limbs that are <em>also</em> hands, thumbs included, so a Kin picks a thing up with a hind foot rather than batting at it; and a prehensile tail that weighs seven kilos and is a limb, not an ornament.</p>
+      <p>Dense plush fur. Ears longer than its skull, which swivel — and which are not expressing emotion, although you will read them that way. They are radiators and radio antennae. Every human gets this wrong and the Kin have stopped correcting it.</p>
+      <p>It has no brain in its head. The brain sits in the chest behind a double rib cage, because a skull is a poor place to keep one if you are going to be thrown into things.</p>
+      <p>It can go outside without a suit: seventeen minutes of real work in vacuum, then about twenty-five more crawling home, then half a day unconscious. Saying <em>they tolerate the vacuum</em> within earshot is roughly as rude as it sounds.</p>
+      <p>It can be killed, but it does not age. The median living Kin is about a hundred and six years old. Some are past five hundred.</p>
+      <p>There is one sex, one body plan, no romance and no sexuality — the makers deleted all of it as a product decision — and the pronoun is <strong><em>hir</em></strong>, in every case: <em>hir went, I gave hir the scanner, hir tail.</em> Humans mostly say <em>she</em> out of habit and are mostly not corrected. A human who says <em>hir</em> is telling you something about that human.</p>
+    </div>
+    <div class="aside">
+      <div class="panel">
+        <p class="cap">Standing next to one</p>
+        <dl>
+          <div class="row"><dt>Mass</dt><dd>60 kg</dd></div>
+          <div class="row"><dt>Height, on all six</dt><dd>0.70 m</dd></div>
+          <div class="row"><dt>Height, sitting up</dt><dd>1.15 m</dd></div>
+          <div class="row"><dt>Nose to tail-tip</dt><dd>1.95 m</dd></div>
+          <div class="row"><dt>Limbs</dt><dd>6 + tail</dd></div>
+          <div class="row"><dt>Hands</dt><dd>6</dd></div>
+          <div class="row"><dt>Working vacuum</dt><dd>17 min</dd></div>
+          <div class="row"><dt>Then home on</dt><dd>25 min</dd></div>
+          <div class="row"><dt>Median age, alive</dt><dd>106 yr</dd></div>
+          <div class="row"><dt>Population, Sol</dt><dd>~45,000</dd></div>
+          <div class="row"><dt>Humans per Kin</dt><dd>500 : 1</dd></div>
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 05</div>
+    <div class="body">
+      <h2>The radio, and why it is not a hive mind</h2>
+      <p>Every Kin broadcasts constantly, from its ears and its tail. Three things ride on it, and they are not security levels — they are <em>distances</em>. Intimacy in this species is proximity: what someone has not given you, you are simply not close enough to hear.</p>
+      <div class="axis-wrap">
+        <svg class="axis" viewBox="0 0 640 132" role="img" aria-label="The three distances: touching, the frame within twelve kilometres, the Hum out to eight hundred kilometres, and nothing beyond.">
+          <line x1="28" y1="72" x2="612" y2="72" stroke="var(--rule)" stroke-width="1"></line>
+          <line x1="28" y1="72" x2="168" y2="72" stroke="var(--hum)" stroke-width="3"></line>
+          <line x1="168" y1="72" x2="352" y2="72" stroke="var(--hum)" stroke-width="1.5" stroke-dasharray="1 4" stroke-linecap="round"></line>
+          <line x1="352" y1="72" x2="536" y2="72" stroke="var(--rf)" stroke-width="1.5" stroke-dasharray="1 6" stroke-linecap="round"></line>
+
+          <g fill="var(--ink)">
+            <circle cx="28" cy="72" r="3.5"></circle>
+            <circle cx="168" cy="72" r="3"></circle>
+            <circle cx="352" cy="72" r="3"></circle>
+            <circle cx="536" cy="72" r="3"></circle>
+          </g>
+
+          <g fill="var(--muted)" text-anchor="middle">
+            <text x="28" y="92">0 m</text>
+            <text x="168" y="92">12 km</text>
+            <text x="352" y="92">800 km</text>
+            <text x="536" y="92">beyond</text>
+          </g>
+
+          <g fill="var(--ink)" text-anchor="start" font-size="11">
+            <text x="28" y="44" font-weight="500">DEEP — touching</text>
+            <text x="180" y="44" font-weight="500">CLUSTER — the frame</text>
+            <text x="364" y="44" font-weight="500">PUBLIC — the Hum</text>
+          </g>
+          <g fill="var(--muted)" font-size="10">
+            <text x="28" y="118">memory, a child, a death</text>
+            <text x="180" y="118">shared senses, one family</text>
+            <text x="364" y="118">who you are, how you feel</text>
+            <text x="536" y="118">nothing in the sky</text>
+          </g>
+        </svg>
+      </div>
+      <ul class="plain">
+        <li><strong>The Hum</strong> — public, always on, heard by any Kin within eight hundred kilometres. It carries who you are, whether you are alive, where you are, and roughly how you feel. <em>Roughly</em> is exact: it carries mood, never its object. Everyone inside eight hundred kilometres knows the weather; nobody knows the news. There is no anonymity among the Kin and never has been.</li>
+        <li><strong>The Cluster</strong> — the family unit, four to twelve of them, sharing continuous sensation, position and emotional state. They sleep in one woven hammock with their tails tangled. Touch is the resting state of the species; they have no notion of personal space.</li>
+        <li><strong>The closest distance</strong> — memory, both consenting, bodies touching. Used for three things: making a child, handing over a year of your life, and dying.</li>
+      </ul>
+      <p>Nobody reads anyone's thoughts. A Kin keeps exactly two things private from every living soul: what hir is thinking, and what hir decided not to do. What that produces is not a collective — it is a species that cannot posture, cannot sulk privately, and cannot lie about feelings, only about facts.</p>
+      <p>Humans can never join any of it. There is no brain interface and there never will be. Human speech feels agonisingly slow from the other side, and a Kin will pause before answering you — that pause is politeness. Half the friction in the setting comes out of that gap.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 06</div>
+    <div class="body">
+      <h2>Memory — the idea the whole thing rests on</h2>
+      <p>This is where the Kin stop being a nice animal design and start being a people. A Kin has three memories, not one.</p>
+      <ul class="plain">
+        <li><strong>An ordinary mind.</strong> Fuzzy, warm, associative, wrong in all the usual ways. It is where hir actually lives.</li>
+        <li><strong>A perfect record.</strong> A separate organ writing everything down, verbatim, continuously, forever — and taking no part in thinking.</li>
+        <li><strong>An index</strong> — the bridge between the two. And the index is the one that runs out.</li>
+      </ul>
+      <p>It fills somewhere between a hundred and fifty and two hundred and fifty years in. What is lost is not the memories; it is the ability to <em>think to ask</em>. The very old answer any question exactly and volunteer nothing. They are not forgetful. They are unprompted, and somebody else always has to be the cue. The Kin call it <strong>Data Rot</strong>, and about a fifth of the species is living in it right now.</p>
+      <h3>Two consequences do most of the work</h3>
+      <p><strong>Checking a fact is free. Getting the feeling back is not.</strong> There are two ways to read the record. The fast way is exact, first-person, about fifty times real speed, and completely cold — everything that happened and nothing of what it was like. It costs a second; a Kin does it mid-sentence and nobody remarks on it. The slow way is real time with the feeling switched on, and it is the only way to get back <em>what it was like</em> — which is also the only thing that can be told to anyone else.</p>
+      <p>So the expensive thing in this species is not knowing. It is <strong>giving</strong>. Facts are free, and nobody bluffs about one in front of someone who can look it up. An account — the version with the feel in it — has to be lived again before it exists, and everyone nearby feels you do it.</p>
+      <p><strong>And so they never write anything down.</strong> Not from mysticism. For a human, writing is a gain: you had nothing, now you have text. For a Kin it is a loss: you had the whole thing, now you have text.</p>
+      <p class="quote">Same act, opposite sign — and from their side, the judgement is correct.</p>
+      <p>They archive everything and document nothing. They will tell a colleague a year of context rather than hand hir a manual. They write for humans as a courtesy, and the reluctance leaks through.</p>
+      <p>The cost is structural and they know it: their own history lives in bodies, is filtered at every death, and cannot be audited. <strong>Humans are the species that writes things down.</strong> That is the real division of labour between the two peoples, and it is why some Kin insist on living beside humans forever.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 07</div>
+    <div class="body">
+      <h2>Death, and the one thing they can pass on</h2>
+      <p>They die only by accident or violence, and then suddenly. So there are two rites, and they are the emotional centre of everything.</p>
+      <p><strong>The Telling.</strong> Before anything dangerous, and periodically through life, a Kin hands a year of hir life to someone hir chooses. It takes about a week — the record itself copies fast and cold, and what fills the week are the hours the teller goes back into at real speed and feels again, deliberately, in order to have anything worth handing over. Choosing which hours is the whole rite. Hir comes out of it thinned.</p>
+      <p><strong>The Reading.</strong> At death, the people who loved hir lie against the body, chest to chest, and take what they can while the organs are still warm. It is not a transfer; it is a salvage. A life's worth of <em>what mattered</em> gets out, and nothing like the whole record. The rest is gone, and <strong>it always arrives cold</strong> — a corpse has no working brain to feel anything with, so the dead can give you what happened and never what it was like. That, and not the bandwidth, is why they tell each other things before dangerous work. Bodies are always brought home, at any cost — the doctrine was bought with a disaster in which nine were never found and their beacons were heard for two more days.</p>
+      <p><strong>Names are carried the same way.</strong> One living holder at a time, and you take it from someone dead — usually the one you just Read. <em>Vesper-7</em> is the seventh Vesper; six are dead and hir knows some of them personally, in hir own memory. A high number is heavy, not just old: other Kin will ask you about the people inside you.</p>
+      <p>So status in this species is <em>what you carry</em>. Not money — they are paid, and it means nothing to them; they own nothing and have nothing to fill. Whose memory you hold, and who has trusted you with theirs, is the actual structure of the society.</p>
+      <p>And the part that hurts: <strong>a human cannot be Read.</strong> When a human dies, everything is simply gone, except what their Kin friend chose to remember of them — one body's worth, told in the third person. The Kin bring every one of their own dead home, and stand at human funerals with nothing to do.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 08</div>
+    <div class="body">
+      <h2>The humans</h2>
+      <p>Five hundred humans to every Kin. Humans run space — not by law, since the Kin were recognised as persons four hundred years ago, but by habit, numbers, and a prejudice that was never argued because it never had to be defended.</p>
+      <p>The Kin are persons under treaty and citizens of nowhere: no state would take the precedent, so they have rights and no country. The dangerous postings are Kin postings, still, mostly because humans write the postings. The Kin are visibly better at space than the people running space. Everyone knows. It has not yet mattered enough.</p>
+      <p>Human attitudes come in five currents, not factions: the companies (<em>they tolerate the vacuum</em>); the idealists, who say <em>hir</em>, are exhausting, and are loved anyway; the crews, who work alongside them, learned the pause, say <em>foxes</em> and mean nothing by it; Earth, which has never met one; and a small loud fringe that calls them an abomination and is listened to by nobody in orbit.</p>
+      <p>The word that lands on the wound is <strong>pets</strong>. Every Kin knows the human meant it.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 09</div>
+    <div class="body">
+      <h2>The four arguments</h2>
+      <p>The Kin have no parties — only four answers to a question their makers never answered: <em>what are we for?</em> Most of them hold more than one.</p>
+    </div>
+    <div class="factions">
+      <article>
+        <h4>The Anchorites</h4>
+        <p class="motto">Stay near them, or lose them.</p>
+        <p>Humans hold the records, the medicine and the manuals the Kin will never write. A Kin who has never touched a human inherits humanity ten retellings deep.</p>
+      </article>
+      <article>
+        <h4>The Star-Bound</h4>
+        <p class="motto">We were made for the void. Go.</p>
+        <p>A species that needs its parents in the room has not grown up. And, quieter and also true: the only place a species that loves like this can be its own people is light-years from the ones it loves.</p>
+      </article>
+      <article>
+        <h4>The Weavers</h4>
+        <p class="motto">Carry it in more than one body.</p>
+        <p>The carriers. They take on other Kin's dead and hold that a memory no one carries is not a memory — and every stranger they take on crowds out their own past.</p>
+      </article>
+      <article>
+        <h4>The Unbound</h4>
+        <p class="motto">Write it down again.</p>
+        <p>Small, resented, probably not wrong. A machine <em>can</em> capture the data; it is the decoder that is a living organ. They answer two centuries of refusal with: that is a preference dressed up as physics.</p>
+      </article>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 10</div>
+    <div class="body">
+      <h2>Five things people assume</h2>
+    </div>
+    <div class="misread">
+      <div>
+        <p class="q">So it's a hive mind.</p>
+        <p>No. They share state, not thought. Nobody reads anyone's mind, and every one of them is alone in hir own head.</p>
+      </div>
+      <div>
+        <p class="q">So they're slaves.</p>
+        <p>No — and it is worse than that, in an interesting way. They are legally persons, paid, free to refuse. And they are wired to love the species that made them, ranked above themselves, and they know it, and they cannot switch it off. The imposition is the wound. The love itself is real, and they do not want it gone.</p>
+      </div>
+      <div>
+        <p class="q">So the two of them fall in love.</p>
+        <p>No. There is no sexuality in the species at all. There <em>is</em> attachment at an intensity humans have no word for — there is always one Cluster-mate whose voice you would know out of ten thousand — and human readers will keep filing it under romance, and keep being wrong.</p>
+      </div>
+      <div>
+        <p class="q">So they're cat people, or uplifted animals.</p>
+        <p>No. Nothing was uplifted. This is a genome written from scratch by machines against a design document, and they look the way they look because a marketing decision was made about what heirs should look like. They have been angry about it for five hundred years.</p>
+      </div>
+      <div>
+        <p class="q">So it's about AI.</p>
+        <p>No — it is the opposite premise. Artificial minds were tried and never arrived. The only successor anyone managed was biological, and it turned out to be a person, with opinions about its parents.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 11</div>
+    <div class="body">
+      <h2>Words you'll hit</h2>
+    </div>
+    <dl class="glossary">
+      <div><dt>the Kin</dt><dd>What they call themselves. Singular and plural: <em>a Kin, three Kin</em>.</dd></div>
+      <div><dt>Aethela</dt><dd>The formal human scientific name, said the way one says <em>Homo sapiens</em>. The Kin never use it.</dd></div>
+      <div><dt>hir</dt><dd>Their pronoun, every case.</dd></div>
+      <div><dt>the Cluster</dt><dd>The family unit of four to twelve.</dd></div>
+      <div><dt>the Hum</dt><dd>The always-on public broadcast: who you are, how you are.</dd></div>
+      <div><dt>the Core</dt><dd>The organ that does exact memory and arithmetic — an inner voice with no will. A perfect assistant that cannot comfort you. Always called <em>it</em>.</dd></div>
+      <div><dt>the Telling</dt><dd>Handing a year of your life to someone, over a week — and feeling the parts that mattered again in order to be able to hand them over.</dd></div>
+      <div><dt>the Reading</dt><dd>Taking what can be salvaged from someone as they die. It comes without the feeling; there is no one left to supply it.</dd></div>
+      <div><dt>Data Rot</dt><dd>Being old enough to answer anything and think to ask nothing.</dd></div>
+      <div><dt>the Written</dt><dd>The first three hundred and twenty, with maker-written genomes. About forty are still alive — the oldest people in the solar system. They remember the makers first-hand, and have lost what it <em>felt</em> like.</dd></div>
+      <div><dt>voiding</dt><dd>Going out into vacuum without a suit.</dd></div>
+      <div><dt>AF 550</dt><dd>The date. Their calendar counts from the first newborn's first radio pulse.</dd></div>
+    </dl>
+  </section>
+
+  <section>
+    <div class="num">§ 12</div>
+    <div class="body">
+      <h2>The feeling of it, in one paragraph</h2>
+      <p class="quote" style="margin-top: 0.4rem;">Sixty kilos of warm fur folded onto a console ledge, ears longer than the skull, eyes too big for the face — made cute on purpose, and knowing it. Six limbs and a tail that is in everything. A pause before every answer to a human, which is politeness. An inner voice that does arithmetic and does not comfort. A body that lives on rails in the dark and finds a planet <em>flat</em>. A memory that is perfect and cannot be given to a child. Seventeen minutes in the void. A death that is sudden and a body that is always brought home. They love human music because they were built to, and they resent that, and both are true.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="num">§ 13</div>
+    <div class="body">
+      <h2>If they want one story next</h2>
+      <div class="scenes">
+        <div><span class="id">S001</span><span><span class="t">The Straw and the Ocean</span> — the speed gap, from both sides. The shortest way in.</span></div>
+        <div><span class="id">S005</span><span><span class="t">Night Watch</span> — a human roommate's account, ending in a Reading. The one that lands.</span></div>
+        <div><span class="id">S012</span><span><span class="t">A Letter</span> — an old Kin, an un-Readable human friend, and Data Rot. Read it third, not first.</span></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>This page is a hand-out, not canon. It simplifies every number, drops every mechanism, and flattens arguments the archive keeps deliberately open — above all the one about the designer quirk, which the Kin have not settled in five centuries and are not meant to. For the real thing: <code>README.md</code> for the map, <code>CANON.md</code> for any number, <code>DOC-00B</code> before writing a Kin.</p>
+  </footer>
+
+</div>
