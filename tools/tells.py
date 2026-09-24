@@ -6,6 +6,7 @@ Standard library only. Three commands:
     python3 tools/tells.py scene  scenes/S021_coming_wait.md     # one scene, with line refs; exit 1 if over budget
     python3 tools/tells.py corpus [--out reports/corpus.md]       # the whole collection: recycling, sameness, endings
     python3 tools/tells.py ledger                                 # one row per scene, for scenes/LEDGER.md
+    python3 tools/tells.py baseline private/<work>/text           # measure a human reference text against the collection
 
 What this measures and what it cannot are both in docs/DOC-00G §8. In one line:
 it finds surface patterns and cross-scene recycling. It cannot tell whether a scene is
@@ -40,7 +41,7 @@ BUDGET = {
     "trope": 1.5,        # 'limited' tropes only; 'rested' ones have budget zero
 }
 LIMITS = {
-    "stinger_ratio": 0.34,   # share of sections that end on a short one-line paragraph
+    "stinger_ratio": None,   # reported, not failed: Estee ends 60% of sections on one (research/R03 §1)
     "number_word_repeat": 4, # the same number word (three..ninety) more than max(this, words/350) times
     "one_sentence_par_ratio": 0.45,
 }
@@ -283,7 +284,7 @@ def judge(scene: Scene, hits: list[Hit], m: Metrics) -> list[str]:
             fails.append(f"{kind}: {n} hits = {rate:.1f}/1000 words (budget {BUDGET[kind]})")
     # Documents in the world (a letter, minutes, a song) end on sign-offs and short lines by their nature.
     documentary = re.search(r"letter|minutes|song|log|transcript", scene.form + " " + scene.title, re.I)
-    if not documentary and m.sections >= 3 and m.stinger_ratio > LIMITS["stinger_ratio"]:
+    if LIMITS["stinger_ratio"] and not documentary and m.sections >= 3 and m.stinger_ratio > LIMITS["stinger_ratio"]:
         fails.append(f"stingers: {m.stinger_ratio:.0%} of sections end on a short one-liner (limit {LIMITS['stinger_ratio']:.0%})")
     if not documentary and m.one_sentence_pars > LIMITS["one_sentence_par_ratio"]:
         fails.append(f"one-sentence paragraphs: {m.one_sentence_pars:.0%} (limit {LIMITS['one_sentence_par_ratio']:.0%})")
@@ -509,6 +510,58 @@ def report_ledger(pats: list[Pattern]) -> str:
     return "\n".join(out) + "\n"
 
 
+def text_as_scene(text: str, sid: str) -> Scene:
+    """Wrap plain text (paragraphs split by blank lines, '* * *' section breaks) as a Scene."""
+    sc = Scene(Path(sid + ".md"), sid, sid, "", "Short story")
+    sec = 0
+    for n, par in enumerate(text.split("\n\n"), 1):
+        t = par.strip()
+        if not t or t.startswith("#"):
+            continue
+        if re.fullmatch(r"[*\s~=-]+", t):
+            sec += 1
+            continue
+        sc.paragraphs.append(Paragraph(n, t, sec))
+    return sc
+
+
+def report_baseline(folder: str, pats: list[Pattern]) -> str:
+    """Compare a human reference text (a folder of chapter files) with the collection, rate for rate."""
+    files = sorted(p for p in Path(folder).iterdir() if p.suffix in (".md", ".txt"))
+    ref = [text_as_scene(p.read_text(encoding="utf-8"), p.stem) for p in files]
+    ours = [s for s in (parse_scene(p) for p in scene_paths()) if len(s.words) > 900]
+
+    def rates(scenes):
+        kinds, words = Counter(), 0
+        shape = defaultdict(list)
+        for sc in scenes:
+            m = measure(sc)
+            words += m.words
+            for h in find_hits(sc, pats):
+                if h.pat.status != "watch":
+                    kinds[h.pat.kind] += 1
+            for k in ("mean_len", "cv_len", "one_sentence_pars", "dialogue_share", "emdash_per_k", "participle_per_k"):
+                shape[k].append(getattr(m, k))
+            if m.sections >= 3:
+                shape["stinger_ratio"].append(m.stinger_ratio)
+        c = Counter(w for sc in scenes for w in sc.words)
+        return kinds, words, {k: statistics.median(v) for k, v in shape.items()}, c
+
+    rk, rw, rs, rc = rates(ref)
+    ok, ow, os_, oc = rates(ours)
+    out = [f"# baseline — {folder}", "", f"{len(ref)} files, {rw:,} words, against {len(ours)} scenes, {ow:,} words.", "",
+           "| Measure | Reference | Collection | Ratio |", "| :-- | --: | --: | --: |"]
+    for kind in ("reframe", "gnomic", "explain", "hedge", "lexicon"):   # tropes are Elysian-only beats
+        a, b = 1000 * rk[kind] / rw, 1000 * ok[kind] / ow
+        out.append(f"| {kind} per 1000 words | {a:.2f} | {b:.2f} | {b / a if a else float('inf'):.1f}× |")
+    for k, fmt in (("mean_len", "{:.1f}"), ("cv_len", "{:.2f}"), ("one_sentence_pars", "{:.0%}"), ("dialogue_share", "{:.0%}"),
+                   ("emdash_per_k", "{:.1f}"), ("participle_per_k", "{:.1f}"), ("stinger_ratio", "{:.0%}")):
+        out.append(f"| {k} (median) | {fmt.format(rs.get(k, 0))} | {fmt.format(os_.get(k, 0))} | |")
+    for w in ("three", "four", "eleven"):
+        out.append(f"| '{w}' per 10k words | {1e4 * rc[w] / rw:.2f} | {1e4 * oc[w] / ow:.2f} | |")
+    return "\n".join(out) + "\n"
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -518,6 +571,8 @@ def main(argv: list[str] | None = None) -> int:
     b = sub.add_parser("corpus", help="collection-level report")
     b.add_argument("--out")
     sub.add_parser("ledger", help="one row per scene")
+    c = sub.add_parser("baseline", help="measure a human reference text (folder of chapters) against the collection")
+    c.add_argument("folder")
     args = ap.parse_args(argv)
 
     pats = load_patterns()
@@ -537,6 +592,9 @@ def main(argv: list[str] | None = None) -> int:
             print(f"wrote {args.out}")
         else:
             print(text)
+        return 0
+    if args.cmd == "baseline":
+        print(report_baseline(args.folder, pats))
         return 0
     if args.cmd == "ledger":
         print(report_ledger(pats))

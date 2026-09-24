@@ -25,7 +25,7 @@ Arguments: a slate entry (e.g. `A5`), a premise, or `revise S0xx`.
 Paste the result into brief §10.
 
 **Stage 3: draft.** Spawn a fresh `general-purpose` agent. Its prompt, in this order:
-1. The exemplar pages named in brief §8, whole, under the heading *"Pages to read first. This is the texture to aim for."*
+1. The exemplar pages named in brief §8, whole, under the heading *"Pages to read first. This is the texture to aim for."* Shelf texts by other authors are read from `private/<work>/text/` (git-ignored). If that folder is missing, ask the owner to re-supply the file. Their text goes into this prompt only, never into a committed file.
 2. DOC-00G §0, §2, §3, and the §5.3 card under the heading *"The house voice. Do not write like this."*
 3. The brief, sections 1–10.
 4. This instruction:

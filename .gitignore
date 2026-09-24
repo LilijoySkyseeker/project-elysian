@@ -21,3 +21,6 @@ scratchpad/
 
 # Python
 __pycache__/
+
+# Reference texts by other authors — never committed (research/SHELF.md)
+private/

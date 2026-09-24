@@ -70,14 +70,14 @@ These are the specific habits of *this* collection's writer, with a fix for each
 **3.1 The negation-reframe** (R01–R06). *"It was not that a human made the sound. The sound was fine."* / *"That is the sport. Not the falling. The letting go of it."* It is the most heavily weighted pattern in Paech's Slop Score (R01 1.4). **Fix:** say the second half. If the first half was worth saying, it was worth saying on its own.
 **Budget:** one per 1,000 words, in narration. A character may say one if that character talks that way.
 
-**3.2 The gnomic aside** (G01–G09). *"which is how Fern says things"*, *"Margit sat down, which humans do"*, *"You do not think about it. You would not think about breathing."*, *"The thing about the whistle is…"* The narrator stops the story to state a rule of life. **Fix:** cut it, or give it to a character as an opinion they could be wrong about.
+**3.2 The gnomic aside** (G01–G09). *"which is how Fern says things"*, *"Margit sat down, which humans do"*, *"You do not think about it. You would not think about breathing."*, *"The thing about the whistle is…"* The narrator stops the story to state a rule of life. **Fix:** cut it, or give it to a character as an opinion they could be wrong about. An aside that *belongs to someone* and pays off is fine. Estee opens a chapter with a general account of panicking pony minds, and it works because it is Luna's weary view and ends on a named fool (R03 §2.6). What fails is the narrator's own unowned wisdom.
 **Budget:** one per 1,000 words.
 
 **3.3 The explaining line** (E01–E06). *"which is the whole of what it is for"*, *"and that is correct"*, *"That is the part Rowan turns over"*, *"Both are true."* **Budget: zero.** See §2.5.
 
-**3.4 The stinger.** A short, one-line paragraph closing a section, landing a point. It is fine sometimes. In S022, 78% of sections end on one. **Limit:** a third of sections. Some sections should just stop mid-thought, or end on dialogue, or on something ordinary.
+**3.4 The ending that is always the same kind.** *(Amended 2026-09-24 after R03.)* Short one-line closers are **not** a tell: Estee ends 60% of sections on one, and the collection 40%. What is a tell is that the collection's closers are all one *kind*, the quiet line that lands the meaning. Estee's are commands, hooks, jokes, fragments, a thought from another mind, a question. **Rule:** no two consecutive sections end the same kind of way, and none ends on the narrator's reflection. `tells.py` reports the stinger ratio but no longer fails a scene on it.
 
-**3.5 The epigram.** Every Kin line lands: *"Everyone who has asked."*, *"You will be very slow about it."* Careful speech (DOC-00B §5) is not the same as aphoristic speech. **Fix:** in any exchange longer than four lines, at least one line misfires. Someone misunderstands, answers a different question, says something dull that turns out to matter, trails off, or is interrupted. Nobody's dialogue is a closing line more than once a scene.
+**3.5 The epigram.** Every Kin line lands: *"Everyone who has asked."*, *"You will be very slow about it."* Careful speech (DOC-00B §5) is not the same as aphoristic speech. The collection's dialogue share is 8% of the text; Estee's is 22% (R03 §1). **Fix:** more talk, and worse at communicating. In any exchange longer than four lines, at least one line misfires. Someone misunderstands, answers a different question, says something dull that turns out to matter, trails off, or is interrupted. Nobody's dialogue is a closing line more than once a scene.
 
 **3.6 Precision theatre** (H01, number tics). *"about four metres"*, *"about nine times"*, *"the better part of a second"*; "eleven" 47 times in 11 scenes, "four" 104 times (R02 §3). **Fix:** keep the numbers the teller would actually say, and replace the rest with the thing itself. **The collection's house numbers, *eleven* and *four*, are rested.** Use another number, or none.
 
@@ -118,7 +118,7 @@ Written before drafting and kept in the scene's brief (DOC-00H). Eight lines:
 | **Who** | The teller, specifically. Age, job, how long here, mood today. |
 | **To whom, why now** | Who is this told to (a granddaughter, a review board, nobody, the Cluster at night), and what prompted it? |
 | **Distance** | Gardner's psychic distance (R01 §5): how close are we to the teller's head, and does it move? |
-| **Syntax** | Sentence habit: long and run-on, clipped, formal, listy, full of parentheticals, fond of questions. Pick one and let it be a little too much. |
+| **Syntax** | Sentence habit: long and run-on, clipped, formal, listy, full of parentheticals, fond of questions. Pick one and let it be a little too much. For a non-human teller, also decide **how the mind shows in the syntax**: what it interrupts itself with, what it checks mid-sentence, what it censors (R03 §2.1). |
 | **Vocabulary** | Five words this teller uses that the others don't, and five they never would. Trade words, slang, the words of their generation or job. |
 | **Notices** | What this person looks at first in a room. A rigger sees load paths, a cook sees mess, a child sees who is watching. |
 | **Wrong about** | One thing the teller believes that the docs say is false, or one blind spot. It stays on the page. |
@@ -166,6 +166,7 @@ The name pool is small and shared (R02 §8). New characters draw from outside th
 
 **Exemplars are the strongest lever there is.** AI fine-tuned on an author's work flipped expert readers' preference (R01 §4, Chakrabarty et al.). We cannot fine-tune here. The nearest thing is real prose, in the writer's context, before drafting.
 - **In-house shelf:** S012alt (whole), S006 §1–§2, S017's game, S010's minutes. These are the most human pages in the collection.
+- **Estee**, *Daily Equestria Life With Monster Girl* (R03): the owner's chosen model for a non-human mind. Chapters 1, 10 and 30 are on the shelf.
 - **Owner's shelf:** passages the owner chooses from writers whose voice they want in the room, and any of the owner's own writing. **This is the missing piece.** It should be filled before the next scene (`research/SHELF.md`).
 - **Readers.** A model is not the final reader: LLM judges did not correlate positively with expert judgements of story quality (R01 1.6). The pipeline uses model readers to *find* things (a cold read, a predictability pass) and never to *pass* a scene. The owner passes scenes.
 
@@ -177,7 +178,7 @@ The name pool is small and shared (R02 §8). New characters draw from outside th
 
 **It can find:** every pattern in §3, the rested beats, recycled phrasing, number tics, and a narrator who measures as the house voice.
 **It cannot find:** whether anybody wants anything (§2.1), whether it escalates (§2.4), whether the detail is alive (§2.3), or whether the scene is any good. **A scene that passes is not thereby human.** A scene that fails a *limited* budget because a character talks that way can stand, if a note in the brief says why.
-**Its numbers are relative.** No human baseline corpus could be downloaded (R01 §6). The budgets were set from this collection's own best pages. Tune them in `tools/tells.py` (`BUDGET`, `LIMITS`) as the owner's judgements accumulate.
+**Its numbers now have one human baseline.** `python3 tools/tells.py baseline <folder>` measures a reference text against the collection. The first is Estee's 715,000-word novel (R03 §1): explaining at 0.03 per 1,000 words against the collection's 0.77, the gnomic aside at 0.15 against 1.89, and dialogue at 22% against 8%. One author in one genre is a reference point, not a target. Tune them in `tools/tells.py` (`BUDGET`, `LIMITS`) as the owner's judgements accumulate.
 
 ---
 

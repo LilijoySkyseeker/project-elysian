@@ -11,12 +11,18 @@
 
 **Caution:** these share the collection's tics in places (S006 has the ears/heat beat, S017 has *eleven*). Give the drafter the page, and give it DOC-00G §3 alongside.
 
-## The owner's shelf (to fill; this is the missing piece)
+## The owner's shelf
+| Passage | Author, work, where | What it's for | Added |
+| :-- | :-- | :-- | :-- |
+| Chapter 10, first ~1,500 words | Estee, *Daily Equestria Life With Monster Girl* (fimfiction 432523) | A non-human mind in close third, in distress; the narration behaving like the mind (R03 §2.1–2.3, §2.7) | 2026-09-24 |
+| Chapter 1, first ~1,500 words | same | An alien seen wrongly from outside by people who are sure; the world never explained (R03 §2.4–2.5) | 2026-09-24 |
+| Chapter 30, the bath dialogue | same | Dialogue that talks past itself; the hard thing said sideways (R03 §3) | 2026-09-24 |
+
+**Where the text lives.** It is never committed. The owner supplies the epub, and it is unpacked to `private/<work>/text/` (git-ignored). The container is ephemeral, so re-supply it in a new session. Passages go into the **drafter's prompt only**, never into a committed brief. The brief records the chapter reference. Measure any new shelf text with `python3 tools/tells.py baseline private/<work>/text`.
+
+## Still wanted
 The pipeline gets much better with pages from writers whose voice the owner wants in the room, and with any of the owner's own writing. Suggested contents:
 - **The owner's own prose**, any genre: a letter, notes, an old story. This is the most valuable item on the shelf.
-- **Two or three passages (up to a page each) from published writers** whose sentences the owner wants near the Kin. Keep them short and for private working use; record author, work and page here, and paste the passage into the brief at drafting time rather than storing whole texts in the repo.
+- **More writers whose sentences the owner wants near the Kin.** Record them in the table above. The texts stay in `private/`.
 - **One writer per register the collection lacks**: someone funny, someone unkind, someone who writes documents, someone who writes children.
 
-| Passage | Author, work, page | What it's for | Added |
-| :-- | :-- | :-- | :-- |
-| | | | |

@@ -83,4 +83,4 @@ Mostly [secondary] or [abstract] (search snippets of well-known quotations). The
 
 - Any claim that a scene "passes as human" because a tool says so. No tool here or anywhere measures that reliably (§4).
 - Banning the em dash, or any single word except the true stock phrases.
-- Any specific human-baseline number for this project's metrics. No human corpus could be downloaded here (Gutenberg was blocked). `tells.py` reports relative figures and one in-house anchor (R02 §2).
+- Any *general* human-baseline number. Gutenberg was blocked. Since 2026-09-24 there is one specific human baseline, Estee's novel supplied by the owner (R03 §1). It is one author in one genre, a reference point and not a norm.

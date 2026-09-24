@@ -45,6 +45,7 @@
 3.
 
 ## 8. Exemplars in the drafter's context (research/SHELF.md)
+<!-- chapter/section references only; the text goes into the drafter's prompt from private/, never into this file -->
 -
 
 ## 9. Canon excerpts (only what the two mechanics need — paste, don't reference)
