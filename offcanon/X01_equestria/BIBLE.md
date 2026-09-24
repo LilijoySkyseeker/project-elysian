@@ -16,7 +16,12 @@
 
 ## 2. What the Kin are here: the canon that binds, even off-canon
 The Kin keep their Elysian nature exactly. These limits come with it, and none is invented for the story:
-- **Alone past 800 km means "nothing in the sky"** (D-93). It is the only kind of solitude that frightens them. It is not an illness. The cost is that those years **write thin**: a Kin remembers the facts exactly and cannot feel them. One Kin alone in Equestria is being quietly erased, and no pony can see it or fix it.
+- **They came as a whole Cluster** (decided 2026-09-24). The frame is intact: they feel each other to the second, sleep in one web, and nobody is being erased. **But they are the only Kin in this world.** There are no other Clusters, no Weave, no Long Messages, and no humans, for the first time in any of their lives. So:
+  - whatever they carry can never be handed on beyond the five;
+  - a death would be Read by the others, and then the dead would be held in four bodies and no more;
+  - anyone who goes far from the rest, beyond 12 km, is frameless. Past 800 km there is **nothing in the sky** (D-93), the one solitude that frightens them, and those years **write thin**;
+  - a Kin child, if there is one, needs a human friend, and there are none.
+  None of this is a plot. It is the weather they live in.
 - **Food** (DOC-01B): an acid gut built for dense protein and paste gels, plus copper and zinc for the antenna tissue. They are not built for pony cuisine (hay, flowers, cake). About 1,600–2,750 kcal a day.
 - **The body** (DOC-00B §1, DOC-01A): sixty kilos, six limbs, the four lower ones hand-paws with thumbs, a seven-kilo tail. A void-built Kin finds a planet *flat* (heavy) and is betrayed by stairs and sprints for weeks. Regeneration happens at developmental pace: a limb takes about six years.
 - **Senses:** RADAR and near-field, so the dark is geometry; dog-level smell, with pony moods read off sweat; ultrasound; the pony world is loud.
@@ -26,22 +31,25 @@ The Kin keep their Elysian nature exactly. These limits come with it, and none i
 
 ## 3. Premise: decisions for the owner (my recommendation marked ★)
 
-**3.1 How many Kin?**
-- ★ **One.** The "nothing in the sky" solitude is the story's undertow, and it cannot be fixed. It is dark, it comes from canon, and it is nobody's plot device.
-- *Two* (a pair). This halves the erasure and gives Kin-to-Kin scenes and a relationship that can crack. It makes a warmer book.
+**3.1 How many Kin? DECIDED: a small Cluster (4–6), all present, nobody missing.**
+Why: it is the least predictable option (crossovers are almost always one outsider, and a family is not lonely, only foreign). It gives the ponies a group with its own arguments and routines to misread. Its problems exist regardless:
+- about 10,000 kcal of protein a day, bought from pony farms;
+- housing;
+- the Nest's night habits and noise;
+- the risk of a Reading in a pony town.
+The brake on competence is canon: void-built bodies are poor under gravity, and their skills are for space.
 
 **3.2 Where the story starts**
 - ★ **Months in, not at the arrival.** The arrival, first contact, Twilight's studies and Celestia's letter are the most-written part of every crossover. They happened offscreen and are already a little embarrassing to everyone. We open on an ordinary morning in hir fourth or fifth month, when the novelty has worn off and hir is a town oddity with a job and a routine.
 - *At the arrival*, with every cliché consciously refused.
 
 **3.3 Going home**
-- ★ **Not a question the story asks.** Nobody knows how hir came. Twilight tried for a while and stopped. There is no portal plot.
+- ★ **Not a question the story asks.** Nobody knows how hir came. Twilight tried for a while and stopped. There is no portal plot. (A Cluster makes this easier to leave alone: they are not pining for anyone who isn't here.)
 - *A thread in the background.* Someone is still working on it, and it goes nowhere.
 
-**3.4 Who hir is** (candidates; one to be chosen)
-- ★ **A void-built rigger in hir late fifties**: young for a Kin, competent in space, useless-feeling on a planet, with no human near for the first time in hir life. Hir sleeps badly alone (D-80). The job is decided in the outline, and it is **not** on the Apple farm, not night-watch-under-the-stars, and not built around a Kin sense.
-- *An older ground-built Kin* (about 180): more patient, with more to lose to the thin years.
-- *A cook* (the S025 vein): food as hir art, in a town where hir can barely eat.
+**3.4 Who they are** (to be settled in the outline)
+A Cluster that worked together: a crew, void-built, from a station or tender. **Mixed ages and temperaments**, so the five disagree about how to live here. One wants to adapt, one refuses, one is quietly failing at it, one is thriving too much. **Each Kin gets a voice card** and crosses different ponies' lives. The Kin POV rotates, so no single Kin voice carries 25k words.
+Open questions: is there a child? (Canon makes a Kin child need a human friend, and there are none. It is powerful, but it sits near the CMC trope.) Is there a cook? (Food is the daily problem.) Is there an elder (180+), whose past is further away than anyone's?
 
 **3.5 The ponies' own threads** (problems that exist regardless; one or two per major character, mostly offscreen)
 These are proposals to build on, not episode plots:
@@ -54,7 +62,7 @@ These are proposals to build on, not episode plots:
 - **Spike**: a baby dragon doing a secretary's job, and his own thing: something he wants that is not about Twilight and not about the Kin. *("Spike bonds over a strange diet" is on the predictable list.)*
 
 **3.6 Where the Kin fits**
-- ★ **Not at the centre of the ponies' lives.** Hir crosses maybe three threads properly. The others hir only sees at the edges and misreads.
+- ★ **Not at the centre of the ponies' lives.** Each Kin crosses one or two pony threads properly. The rest they see at the edges and misread, and the ponies misread them back.
 
 ## 4. Tone and darkness
 Slice of life with the dark allowed in. That means real loss, and hunger that is actually felt. There may be one injury that shows what "six years to regrow a limb" means, if the story earns it. Nobody is punished with gore for effect.
