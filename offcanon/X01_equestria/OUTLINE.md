@@ -102,6 +102,9 @@ Each chapter is written through DOC-00H, with its own brief, predictability pass
 | 8 | Teasel | Kin | image | hunger, then turns | quiet, hungry, then better |
 "Cut mid-action" appears twice (ch. 1 and 6). Everything else is used once.
 
+## Wagon thread (decided 2026-09-24)
+The charred wagon is left broken on the steep slope below the scorched clearing (CONTINUITY 10). The weather crew finds it (ch. 3 at the earliest, when Dash mentions it at Fluttershy's; or ch. 6). It reaches Applejack, and **Apple Bloom lies** about it. That lie is the Crusaders' secret from then until Sweetie Belle breaks in ch. 7.
+
 ## Decided (2026-09-24)
 1. Eight chapters.
 2. Spike: a gem-polishing trade.
