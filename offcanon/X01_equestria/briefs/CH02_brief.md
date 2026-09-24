@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 2 *(working title: "Theta")*, **v2**
 **Outline:** OUTLINE §2. **POV:** Madder-4, close third, past tense. **Target:** about 3,500 words. **Span:** the arrival night, from waking to first light.
-**Status:** v1 drafted, owner read ("decent", with criticisms below) → **v2 brief** → redraft → lint → cold read + fidelity read → revise → owner
+**Status:** v1 drafted, owner read ("decent", with criticisms below) → v2 brief ✓ → redraft ✓ → lint ✓ → cold read + fidelity read ✓ → revised ✓ (2 rounds) → **owner**
 **Why v2:** the owner's read of v1: the Kin talked **aloud** to each other instead of on the radio; the opening was **light on shock** and on **talking the situation through**; they didn't seem **surprised or out of their depth in their minds** (their bodies were right); the **geography** of the plasma, the fire and the dead animal was unsure; and they didn't quite feel like Kin. Causes, in order: this brief's v1 said "Kin-code… sparingly" (against DOC-00D, which makes it the default); v1 asked for restraint ("cold", "nobody says it"), which is the house voice at brief level; the drafter's only Kin exemplar was a Kin talking aloud to a human; and nothing checked species fidelity or continuity. All four are fixed below and in DOC-00G §4, VOICES.md, CONTINUITY.md and DOC-00H Stage 5.
 
 ---
@@ -50,6 +50,15 @@ As v1 (sleep-web and theta lock; the grip reflex; the body; senses; the Core; de
 - **Brief changes made:** the first animal is a frog, not a bird; the ending is the hens at a hatch, with no Fluttershy and no watching eyes; the count happens **once**, never as a refrain; **nobody is injured and the wagon is never a stretcher** (it carries nothing but the bow); no one says the ship thinks they're dead; the no-ceiling sky is banned (S006 already used it).
 
 ---
+
+## v2: lint, readers, revisions
+**v2 draft (3,565 words):** channels right from the first draft: radio by default, the rota aloud once, the whistle once. Flow: chains 5.8/100, but subordinators per *and* only 0.32. One-sentence paragraphs 54% (the radio lines; kept on purpose).
+**Cold reader:** first suspected line 19 (*"a Cluster wakes the way it sleeps"*, an aphorism as a world rule), tipped at 53 (a narrator line explaining an unfinished one); **"frame" used for both the mirror and the Kin link**; untagged radio lines hard to attribute; the night walk drifted; the flashback's bridge unclear.
+**Fidelity reader (first use):** channels **correct**. Missing Kin behaviour: touch as the resting state, tails for all, ears (fire, Core), quick look-ups, involuntary sounds; human posture (knees) and "Aye". **Shock too procedural:** open flame not registered; the night walk too quiet and too short (a night is 9–10 h); "did we kill it" unasked. **Continuity:** Madder reaching first vs all at once; blistered paint; the steep bank reading as the fillies' trail; the wagon carried vs rolled; the moving light unidentified; the dawn direction meaningless. **Attribution** in the five-way crossfire; Sloe the weakest voice.
+**Round 1** (a fresh agent, 23 listed items): all done; 4,120 words.
+**Owner, mid-round:** *"does it make any sense for them to take the wagon? isn't it on fire?"* → decided: the fire is put out on drill reflex, Yarrow takes the wagon, the burned wheel breaks on the steep slope, and it is left there for the weather crew to find later (CONTINUITY 10; OUTLINE, wagon thread).
+**Round 2** (the last model round): the wagon as decided, with every later reference removed; a flow pass on calm narration only (subordinators per *and* **0.25 → 0.98**, chains 0.8/100: Estee-level); "five" 17 → 4. **Final: 4,489 words** (about 28% over target; the owner's notes asked for more chatter, a longer night and fuller Kin behaviour, and that is where the words went). One-sentence paragraphs 49% (the radio lines, kept). One hand fix: *"fanned flat to the sides"* → *"fanned wide against it"*.
+**Not re-run after round 2:** the fidelity reader. The wagon passages and continuity were checked by hand against CONTINUITY.md.
 
 ## v1 history (kept for the record)
 ## Lint
