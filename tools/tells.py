@@ -155,11 +155,11 @@ def sentences(text: str) -> list[str]:
     return [s for s in SENT_SPLIT.split(flat) if WORD.search(s)]
 
 
-def scene_paths(args_paths: list[str] | None = None) -> list[Path]:
+def scene_paths(args_paths: list[str] | None = None, globs: list[str] | None = None) -> list[Path]:
     if args_paths:
         return [Path(p) for p in args_paths]
     out: list[Path] = []
-    for g in SCENE_GLOBS:
+    for g in globs or SCENE_GLOBS:
         out.extend(sorted(ROOT.glob(g)))
     return out
 
@@ -175,9 +175,9 @@ class Pattern:
     note: str
 
 
-def load_patterns() -> list[Pattern]:
+def load_patterns(path: Path | None = None) -> list[Pattern]:
     out = []
-    for raw in PATTERNS.read_text(encoding="utf-8").splitlines():
+    for raw in (path or PATTERNS).read_text(encoding="utf-8").splitlines():
         if not raw.strip() or raw.startswith("#"):
             continue
         cols = raw.split("\t")
@@ -571,6 +571,9 @@ def main(argv: list[str] | None = None) -> int:
     a = sub.add_parser("scene", help="report on one or more scenes; exit 1 if any is over budget")
     a.add_argument("paths", nargs="+")
     a.add_argument("--no-corpus", action="store_true", help="skip recycling and voice-distance checks")
+    a.add_argument("--patterns", help="pattern table to use instead of tools/tells_patterns.tsv (e.g. a side project's own)")
+    a.add_argument("--corpus-glob", action="append", help="glob(s), relative to the repo root, for the comparison corpus "
+                   "instead of the Elysian scenes; repeatable")
     b = sub.add_parser("corpus", help="collection-level report")
     b.add_argument("--out")
     sub.add_parser("ledger", help="one row per scene")
@@ -578,9 +581,10 @@ def main(argv: list[str] | None = None) -> int:
     c.add_argument("folder")
     args = ap.parse_args(argv)
 
-    pats = load_patterns()
+    pats = load_patterns(Path(args.patterns) if getattr(args, "patterns", None) else None)
     if args.cmd == "scene":
-        corpus = None if args.no_corpus else [c for c in (parse_scene(p) for p in scene_paths()) if c.paragraphs]
+        corpus = None if args.no_corpus else [c for c in (parse_scene(p) for p in scene_paths(globs=args.corpus_glob))
+                                              if c.paragraphs]
         ok_all = True
         for p in args.paths:
             text, ok = report_scene(Path(p), pats, corpus)
