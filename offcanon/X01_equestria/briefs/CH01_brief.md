@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 1 *(working title: "Finders")*
 **Outline:** OUTLINE §1. **POV:** Apple Bloom, close third, past tense. **Target:** about 3,200 words. **Span:** one afternoon into dusk.
-**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (2 rounds) → owner (1st read) → **owner (2nd read)**
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (2 rounds) → owner (1st read) → owner ✓ (2nd read): **passed**
 
 ---
 
@@ -71,3 +71,5 @@ A fresh agent restructured the narration only, with dialogue locked. Verified by
 ## Owner's read
 **First read (2026-09-24):** "Its pretty good. I like the story, it catches my attention, its enjoyable, its funny. My criticism is that the writing is a bit hard to follow, it feels a little disjointed and kind like the early scenes. just not quite written like full prose. note, this is not the dialog, just the surroundings, and how the ideas are organized by paragraph and extended sentence and such."
 → Diagnosed as parataxis in the narration (R03 §1A; DOC-00G §2.7): *and* at 57/k against Estee's 26, subordinators 14/k against 29. The pipeline now measures it (tells.py flow budgets) and the cold reader asks about it.
+
+**Second read (2026-09-24):** "perfect, much much better." Passed.
