@@ -69,6 +69,7 @@ The owner read a chapter that was funny, gripping and free of tells as *"a bit h
 - **Colons and parentheses are allowed**, and Estee uses both.
 **Budgets** (`tools/tells.py`, narration only): no more than 6 sentences with three or more *and* per 100 narration sentences (Estee: 1.0); at least 0.5 subordinators per *and* (Estee: 1.11).
 **Not a licence to explain.** A subordinate clause orders *events* ("she stopped because the wheel had caught"). It does not interpret them ("she stopped, which was the whole point").
+**The overcorrection, seen in X01 ch. 2:** told to order clauses, a drafter reaches for *because* and *since* as **glosses**: *"because a load that wide doesn't go over"*, *"since breathing was work here too"*, *"because watching the watch was something to do"*. The cold reader counted about a dozen. Cutting them left the flow on target (1.2 chains per 100, 0.96 subordinators per *and*), because the ordering that mattered was of events. **Rule of thumb: if the *because* clause could be deleted and the reader would still know why, delete it.**
 
 ---
 

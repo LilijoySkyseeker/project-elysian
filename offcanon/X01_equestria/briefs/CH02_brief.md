@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 2 *(working title: "Theta")*
 **Outline:** OUTLINE §2. **POV:** Madder-4, close third, past tense. **Target:** about 3,300 words. **Span:** the same night as chapter 1, from waking to near dawn.
-**Status:** brief → predicted → drafted → linted → cold-read → revised → owner
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → **owner**
 
 ---
 
@@ -61,6 +61,9 @@ The ship and everyone on it, for good, though the chapter never says so in a sen
 ---
 
 ## Lint
+**Draft 1 (3,533 words):** within budget on the first pass. **Flow 1.8 chains/100 and 1.13 subordinators per *and*: Estee-level on the first try** (the flow rule was in the drafter's context). No recycled phrasing. **After round 1 (3,324 words):** still within budget; flow 1.2 and 0.96.
 ## Cold read
+**First place a model:** line 7, the stock joke (*"a word Madder had last heard at a cargo audit"*), confirmed by the one-line kickers at 43 and 83 and the "the way X does" simile rhythm. **Main finding: the flow fix overcorrected into *because/since* glosses** (about a dozen in its explaining list). Also: *hir* antecedents slip at 13, 57 and 75 (five Kin, one pronoun); "the table" misread as a dinner table; "the lock" unclear; "forepaw" clashing with "hand". Could follow the beings "mostly, yes", including the frame, gravity, stopping = dying, and Read = a death rite. The five read as "mostly" distinct; Teasel is the thinnest. **Worst moment:** *"fire, theirs"*, after the midpoint, not undone. Ending: keep.
 ## Revision log
+**Round 1:** cut the audit joke (now *"Sloe swore"*); cut the kickers; cut about ten interpretive glosses; cut *"Every step had to be planned"*, *"Madder saw what would happen before it did"*, the restated count, the cute house simile, and "no word for" (now *"sweet as a ration-pack glaze"*). **Clarity:** names at the ambiguous *hir*s; *"the presence table"*; *"taken hold of it in hir sleep"*; *"lower hand"*; the dead-animal close now *"nowhere to take it"*. **Kept:** the watch exchange (*Changes / In what? / Anything.*), *"I was falling fast"*, *"It's got very small hands"*, *"On the hull that meant all stop"*.
 ## Owner's read
