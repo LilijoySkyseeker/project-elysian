@@ -89,6 +89,8 @@ Two readers, both fresh, run in parallel:
 - the worst moment in the scene, and whether it comes after the midpoint;
 - **the first place it thought a model wrote this**, and why.
 
+**The fidelity reader** *(added 2026-09-24)*, for any chapter or scene with a non-human viewpoint, or any part of a longer work: prompt `.claude/skills/cold-read/fidelity_prompt.md`, plus the relevant canon (DOC-00D for Kin voice), the continuity file and the previous chapter. It checks channels, species feel, shock, continuity and physical clarity, which are the things the cold reader, knowing no canon, cannot check.
+
 **The collection reader** gets the draft's opening and closing paragraphs, the last five ledger rows, and §5–§6 of the current `tools/tells.py corpus` report. It answers one question: *what does this scene repeat?*
 
 ### 7. STAGE 6: REVISE

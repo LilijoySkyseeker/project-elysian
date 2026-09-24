@@ -1,55 +1,46 @@
-# BRIEF — X01 chapter 2 *(working title: "Theta")*
-**Outline:** OUTLINE §2. **POV:** Madder-4, close third, past tense. **Target:** about 3,300 words. **Span:** the same night as chapter 1, from waking to near dawn.
-**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → **owner**
+# BRIEF — X01 chapter 2 *(working title: "Theta")*, **v2**
+**Outline:** OUTLINE §2. **POV:** Madder-4, close third, past tense. **Target:** about 3,500 words. **Span:** the arrival night, from waking to first light.
+**Status:** v1 drafted, owner read ("decent", with criticisms below) → **v2 brief** → redraft → lint → cold read + fidelity read → revise → owner
+**Why v2:** the owner's read of v1: the Kin talked **aloud** to each other instead of on the radio; the opening was **light on shock** and on **talking the situation through**; they didn't seem **surprised or out of their depth in their minds** (their bodies were right); the **geography** of the plasma, the fire and the dead animal was unsure; and they didn't quite feel like Kin. Causes, in order: this brief's v1 said "Kin-code… sparingly" (against DOC-00D, which makes it the default); v1 asked for restraint ("cold", "nobody says it"), which is the house voice at brief level; the drafter's only Kin exemplar was a Kin talking aloud to a human; and nothing checked species fidelity or continuity. All four are fixed below and in DOC-00G §4, VOICES.md, CONTINUITY.md and DOC-00H Stage 5.
 
 ---
 
 ## 1. The want
-Madder wants to get hir crew moving, in order, before anything else goes wrong. Hir wants a procedure to hold, because hir can't hold the rest.
+Madder wants the crew moving, in order, before anything else goes wrong. Hir wants a procedure to hold while hir mind can't.
 
-## 2. The obstacle / what goes wrong after the middle
-- **Obstacle:** gravity. Void-built bodies fold, stand wrong, and are betrayed by every step and slope. Fire in the undergrowth. Dark and wet and noise, and smells none of them has a word for. **Haw is enjoying it.**
-- **After the middle:** the first relief (all five are here, whole, and breathing) gives way to the realisation that nobody states aloud. **Everyone on the ship felt five presences stop in the same tenth of a second.** To the ship, they are dead, and there are no bodies to Read. Madder's answer is to set a watch rota. Nobody has a watch to keep. Then **the first animal any of them has ever seen**, a **frog** on a wet stone (not an owl or bird, which is predicted), frightens a sixty-kilo rigger more than the fire did. It sits dead still, it's wet, and then it jumps. Later, walking, they find the small furred thing Apple Bloom saw, dead by the path from the fire they brought. Madder counts it as a casualty, out of habit, and then doesn't know what to do with the number.
+## 2. The shape of the night
+- **Waking: noise.** They come up out of theta in a heap, and **five minds are on the radio at once**, at radio speed, overlapping. Where are we? Why is it heavy? What's burning? Is everyone? The count comes back **five, all there** (once, fast), and then **the silence past the five**: no ship, no Hum, nothing in the sky. That lands on all of them together through the frame. A spike of fear goes through five bodies at once; someone makes a sound that isn't a word. **They say what they're afraid of**: that the ship felt them go, and what that means back home. They say it on the radio, in pieces, over each other, and it isn't settled.
+- **Figuring it out: chatter.** They are out of their depth and they *talk*. Readings from the Core: gravity (about one standard g), the air (breathable, and richer than ship air), the time since they came up out of the lock. Hypotheses, objections and jokes: a transit accident? a simulation? dead? a planet, which planet? **The wagon's letters are an alphabet they read.** APPLE BLOOM. So: humans? Earth? a colony? It sounds like a produce brand. Haw is delighted, Sloe is counting, Yarrow is quiet on the channel but hir hands are everywhere, and Teasel sends clean because hir is frightened and working hard to hide it. Madder's procedure tries to hold this flood, and **at first it doesn't**.
+- **The one by-the-book moment:** Madder calls the watch rota **aloud**, in speech: a deliberate gesture, standing on a chair, to make it *real*. Everyone knows what speaking aloud means. It half works.
+- **After the middle, it gets worse:** the dead animal (the first creature any of them has ever seen close to, killed by the fire they brought), then the frog at the stream (terror, felt by all five at once), and the night going on and on with the fire behind them and no answer to any of their questions.
+- **Ending: image, no comment.** First light at the forest edge. The hen house hatch opens, a line of hens comes out, and every one of them stops dead. Stop there.
 
 ## 3. What is lost
-The ship and everyone on it, for good, though the chapter never says so in a sentence. And Madder's certainty that procedure can hold them.
+The ship, the crew, home, and the certainty that any procedure applies here. **Never stated as a line**, but *discussed* in pieces, on the radio, as people do.
 
-## 4. Voice card
-**Madder-4** (VOICES.md) in the narration: short orders with times attached; *"Unconfirmed"* instead of *"I don't know"*. Hir notices exits, loads, and who is missing from where they should be. **The narration behaves like hir mind** (R03 §2.1): it counts, sets times, assigns, and checks. The mind interrupts itself with a checklist when something too large comes near. **Flow (DOC-00G §2.7):** the checklist habit is shown in the narration's *order* of events, not by stringing clauses with "and". Each sentence has a main idea.
-- **Sloe-5, Yarrow-3, Haw-2, Teasel**: seen through Madder, each distinct (VOICES.md). Haw's delight; Sloe already counting what they have (nothing); Yarrow silent, hands on everything; Teasel doing exactly what hir's told.
+## 4. Voice
+- **Channels: VOICES.md "How Kin talk among Kin" governs, and DOC-00D (in the drafter's context) is canon.** Radio is the default. Speech aloud **only** for the rota moment (and any line to a non-Kin, of which there are none in this chapter). The whistle once at most, as a door closing. Involuntary sounds and body language throughout: ears, tail, touch, a huff, a whine.
+- **Madder in the narration:** counts, times, assigns, checks. **But hir mind is flooded and says so**: the checklist interrupting itself, a thought hir can't finish because four other threads arrived. Not calm. Holding.
+- **The five on the radio, each distinct:** **Haw** leaks everything, fast and delighted, with questions stacked on questions. **Sloe** counts and inventories, with warm, too many words. **Yarrow** sends almost nothing, short and precise, about how things are held up. **Teasel** sends clean, which is a tell (the young and frightened can't strip easily, so hir working at it shows), correct, and deflecting. **Madder** sends clean orders with times on them.
+- **Flow (DOC-00G §2.7)**, and **no *because*-glosses** (the rule of thumb in §2.7).
 
-## 5. Shape
-- Past tense, close third on Madder.
-- **Ending type: image, no comment.** A small house at the forest's edge in first light. A hatch opens and **a line of hens** comes out, and every one of them stops dead. Stop there. **No Fluttershy** (that is chapter 3), no Angel Bunny, no "eyes watching from windows".
-- Tone: strange, cold, practical, with Haw's joy grating against it. **Not despair.** The dark is under the surface.
+## 5. Continuity (CONTINUITY.md governs)
+The arrival point is on a rise past a small stream; the plasma lit a ring of ferns round the wagon and a tongue of it scorched a strip downhill to the left into a small clearing; **the Kin go downhill, left, down that strip, away from the fire, so they reach the dead animal first, close by**; then a larger stream in a hollow, with the frog on a flat stone; then down that stream to the forest edge at first light. The fire is **behind and above** them all night. **They hear and smell small bodies running away** as they surface (the fillies), and never see them. The mirror frame is left leaning on a tree. Sloe keeps the bow. Yarrow brings the wagon.
 
-## 6. Lore budget (DOC-00G §4)
-- **Mechanic 1: the frame.** Five presences felt to the second, all there. Past them, **nothing in the sky**: the ship's Hum is gone, and so is every Hum they have ever lived inside. Canon: the one solitude that frightens them is being out of range of *all* Kin; here, the five are each other's whole sky. They speak Kin-code between themselves: *[words ~ what rides under them]*, sparingly.
-- **Mechanic 2: void-built under gravity.** Sixty kilos, heavy. Hands on the ground for balance for the first hour. Slopes are treacherous. The seven-kilo tail drags. They find a planet *flat*.
-- **Texture, never explained:** theta lock and waking out of it in a heap; the grip reflex (a Kin's grip locks on its own under load, and letting go is a decision; one of them woke holding **the wagon**, and they take it, because it's the only object they have); RADAR and near-field, so the dark is geometry; ears fanning for heat by the fire; the Core giving numbers when asked (it never offers them).
-- **What came through:** only the five, and the plasma. **No scrap.**
-- **They have nothing:** no tools, no food. They were asleep.
-- **Absent:** a panic scene over the band; stars; pointing home; any human; any detailed backstory of the ship; the Core comforting anyone.
+## 6. Lore budget
+**Native channels are the medium, not budgeted lore** (DOC-00G §4). The two *mechanics* the chapter turns on: **the frame** (five presences, all there, and nothing past them) and **void-built bodies under gravity**. Texture, never explained: theta lock, the grip reflex, RADAR and near-field, the Core.
 
-## 7. Details that demonstrate nothing (at least three)
-1. The wagon has APPLE BLOOM painted on the side, and a red bow is caught in the harness buckle. They can read the letters and the B is backwards. Nobody comments; Sloe unhooks the bow and keeps it.
-2. Teasel sneezes, for the first time in hir life, at pollen, and thinks something is wrong with hir.
-3. Yarrow keeps touching tree bark: rough, alive, not metal.
-4. Hir left forepaw ends up full of burrs, and hir spends a while picking them out with the hand above it.
+## 7. Details that demonstrate nothing (carried from v1; the owner liked the bodies)
+Haw's leg across Sloe; Yarrow's hand on the bark; Teasel's first sneeze; burrs in Madder's lower hand; the bow on Sloe's wrist; *"I was falling fast"*; the frog as terror.
 
 ## 8. Exemplars in the drafter's context
-- `offcanon/X01_equestria/chapters/CH01.md`, whole: this story's texture, and the owner has passed it. Note its flow.
-- `scenes/S024_outer_relay.md`, prose only: a Kin mind carried in the syntax. **Warning to the drafter: S024 fails the flow budget. Take its mind, not its "and… and…" cadence.**
-- R03 §2 (notes): the non-human mind in the narration.
+- **DOC-00D §0–§6 and §8, whole: canon, and the controlling document.**
+- `offcanon/X01_equestria/chapters/CH01.md`: this story's passed texture and flow.
+- `scenes/S017_the_short_end.md`, the game's first two sections: Kin-to-Kin code in a group, several at once. (Warning: take its channels, not its "and… and…" cadence.)
+- **Not S024**: a Kin talking aloud to a human taught v1 the wrong channel.
 
 ## 9. Canon excerpts
-- **Sleep:** a Cluster sleeps in one sleep-web, in shared theta lock.
-- **Grip:** load a wrist, an ankle or the tail root and the grip locks like a bird's on a branch; a Kin sleeps on a rail without spending a calorie on it, and lets go by *deciding* to (DOC-00B §1).
-- **The body:** sixty kilos; six limbs; the four lower ones are hand-paws with thumbs; the upper hands are the fine ones; a seven-kilo tail. Under gravity a void-built Kin uses hands on steps for a week and is betrayed by a sprint (DOC-00B §1).
-- **Senses:** RADAR and near-field, so the dark is geometry; dog-level smell; ultrasound. Ears fanned mean *hot* (DOC-00B §1, §4).
-- **The Core** does arithmetic and never initiates. *"I asked my Core."* (DOC-00B §3)
-- **Death as the Kin feel it:** the Hum stops; the presence table times out in a tenth of a second; every Kin nearby feels the amputation (DOC-00B §8).
-- **Kin-code on the page:** *[words ~ what rides under them]*.
+As v1 (sleep-web and theta lock; the grip reflex; the body; senses; the Core; death as the presence table timing out) plus **DOC-00D**.
 
 ## 10. The predictable list (Stage 2): the drafter must not use any of it
 - **Versions:** grief and command (a signal count, the ship's silence, *"they think we're dead"*, a march, Madder in front at Fluttershy's door); gravity as body horror softened by comedy (ribs can't lift, tails like anchors, a locked grip that won't release, someone vomits, the wagon as a stretcher); the alien forest (an owl or bird mistaken for a drone, the sky with no ceiling); the wagon chapter (a comfort object, carrying the injured one, gets a name); first contact with Fluttershy (Angel Bunny, *"Oh! Um… hello?"*, asleep on her porch).
@@ -60,6 +51,7 @@ The ship and everyone on it, for good, though the chapter never says so in a sen
 
 ---
 
+## v1 history (kept for the record)
 ## Lint
 **Draft 1 (3,533 words):** within budget on the first pass. **Flow 1.8 chains/100 and 1.13 subordinators per *and*: Estee-level on the first try** (the flow rule was in the drafter's context). No recycled phrasing. **After round 1 (3,324 words):** still within budget; flow 1.2 and 0.96.
 ## Cold read

@@ -5,11 +5,22 @@ The show's characters are described here in our own words. No episode dialogue i
 ---
 
 ## The Kin
-*Kin say* hir *of each other. Kin-code between them on the page:* [words ~ rider]. *They speak human speech to ponies, carefully, and use first names from the first day.*
+### How Kin talk among Kin *(added 2026-09-24 after the owner's read of ch. 2; canon: DOC-00D)*
+**Radio (Kin-code) is the default.** Kin speak aloud only to non-Kin, or as a deliberate gesture. Among themselves, speaking aloud is "standing on a chair" (DOC-00D §3, §8).
+- **Kin-code** *[words ~ what rides under them]* is fast and exact, with **no turn-taking**: four answers arrive at once, intact. A whole argument fits inside a second. In a crisis the page should show **several threads at once**, talking over each other. Put a rider on one line in three or four. A line with **no rider is a move** (stripping costs effort): the disciplined send clean, the young and the frightened can't.
+- **Speech aloud:** to ponies (courtesy), or among Kin as a gesture: by-the-book formality (Madder calling the rota aloud, once), showing off, joy, absurdity. Otherwise, never.
+- **The whistle** ⟨ ⟩: private, off the frame. A switch to it is a door closing. Rare.
+- **The Hum and the frame:** each of the five feels the others' valence and arousal **continuously, to the second**. A fright in one is felt by all five at once, before anyone sends a word.
+- **The body:** ears (fanned = hot or working the Core; flat = cold or deaf; both forward = consulting the Core); tail (coiled = anxious or anchored; interwoven = home); **touch as the resting state**. After waking from the heap they stay in contact without noticing. **Involuntary sounds** (a huff, a chirr, a sharp intake, a whine) are like a human gasp: not speech, but they say something.
+- **The Core:** bare italics, no bracket, never initiates. They *ask* it constantly: the time, the gravity reading, a distance, the air.
+- **Memory:** exact when reached for (the last watch before they slept, word for word); nothing surfaces unasked. They look things up mid-sentence and nobody remarks on it.
+- **They think fast and talk fast.** In a strange place that means **chatter**: hypotheses, objections, jokes, readings, all overlapping. Out of their depth, and saying so, to each other.
+
+*Kin say* hir *of each other. Channels: see the card above. They speak human speech to ponies, carefully, and use first names from the first day.*
 
 **Madder-4** · ~140 · crew lead
 - **Life:** Forty years running rigging crews on one ship. Hir has buried (Read) two crew. The rota is not a habit, it is how hir kept everyone alive.
-- **Talks:** Short orders, with times attached. Asks questions as instructions: *"Sloe. Food status, by dusk."* Never says *I don't know*; says *"Unconfirmed."*
+- **Talks** (in code, clean, rarely with a rider): short orders with times attached; questions as instructions (*[Sloe. Food status, by dusk]*). Never *I don't know*; always *Unconfirmed*. Aloud only for ponies, or once, by the book.
 - **Notices:** Exits, loads, who is missing from where they should be.
 - **Wrong about:** That keeping the ship's shape will keep them whole. That hir authority means anything to a pony.
 - **Humour:** Very dry, rare, and aimed at hirself.
