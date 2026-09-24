@@ -18,7 +18,10 @@
 The **Cutie Mark Crusaders** find an old, broken magic mirror in the ruined castle of the Royal Pony Sisters in the Everfree. They drag it home to mess with it, **not as a cutie-mark scheme** (that is the predicted version), but because it is a spooky old thing and they are kids. On the way it activates. It bounces wildly between universes while they panic and run. It locks onto the most regulated high-energy thing it can find, **the fusion reactor on a Kin ship**, and the lock breaks the mirror. In its last collapse it pulls through what fits: **five Kin asleep in one sleep-web in the Nest by the coolant bay**, tangled together in theta lock (canon: a Cluster sleeps together). The mirror is shattered and there is no way back.
 - **The Crusaders run.** The news gets out from three scared children's mouths: garbled, contradictory, and dismissed at first. **They know they caused it,** and who tells, when and how is their thread. Their panic is real and never played for comedy.
 - **The Kin wake** in theta lock, in a heap, under gravity. Void-built bodies fold; forest, weather and smell arrive for the first time. **They have never met an animal.** They find their way out of the forest to the nearest building, which is Fluttershy's cottage.
-- **Back home, they are dead.** Every Kin on that ship felt five presences stop in the same tenth of a second, which is how death feels (DOC-00B §8). There are no bodies to Read. The five know within minutes that everyone they left believes they died, and they can never correct it. **Did the ship survive losing its reactor?** They will never know. Never answered.
+- **The story never leaves Equestria** (the owner, 2026-09-24). Home is never shown. The five may **speculate** about what home thinks, and canon tells them what it felt: five presences stopping at once, which is how death feels (DOC-00B §8). But they will never know, so neither does the reader. Whether the ship survived losing its reactor is never answered.
+- **What came through with them:** scrap from the reactor, and leaked plasma that has set part of the forest **on fire**. There is no urgent danger to life, but it is reason enough to get moving: *let's not be here*. That walk out of the forest brings them to Fluttershy's cottage.
+- **The fire's tie-in:** the next day a **weather team** is called in, and **Rainbow Dash** comes to Fluttershy's cottage to warn her about the fire, and meets the Kin there, **at work, in her job**. That is her first contact, and it is not a race or a challenge. Complication, from the show: the Everfree's weather runs itself and pegasi don't manage it. So the team can only fight the fire from the forest's edge, soaking the border, and argues about whether it is even their job.
+- **What the Crusaders saw** (the owner): the Kin, but little more than vague shapes, because of fire, wild magic, and *oh no, we messed up, we're so dead* kid energy. Their account is vivid and wrong.
 
 ## 2. What the Kin are here: the canon that binds, even off-canon
 The Kin keep their Elysian nature exactly. These limits come with it, and none is invented for the story:
@@ -81,6 +84,9 @@ A Cluster that worked together: a crew, void-built, from a station or tender. **
 
 **3.6 Where the Kin fits**
 - ★ **Not at the centre of the ponies' lives.** Each Kin crosses one or two pony threads properly. The rest they see at the edges and misread, and the ponies misread them back.
+
+## 3A. Optional, for the outline to decide: the scrap is "hot"
+Fusion hardware exposed to neutrons is activated, so the metal is mildly radioactive. The Kin are shielded by their melanin-metal skin; ponies are not. Scrap in the forest that ponies (or children, or animals) might pick up is a real problem that follows from the arrival without being built for the Kin. **The risk:** it makes the Kin the only ones who understand the danger, and that pulls toward the Kin solving it. If used, it should go badly, partially or late (§1 rule 4). If it can't be done that way, leave it out.
 
 ## 4. Tone and darkness
 Slice of life with the dark allowed in. That means real loss, and hunger that is actually felt. There may be one injury that shows what "six years to regrow a limb" means, if the story earns it. Nobody is punished with gore for effect.
