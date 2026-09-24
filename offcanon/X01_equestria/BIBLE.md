@@ -39,17 +39,21 @@ Why: it is the least predictable option (crossovers are almost always one outsid
 - the risk of a Reading in a pony town.
 The brake on competence is canon: void-built bodies are poor under gravity, and their skills are for space.
 
-**3.2 Where the story starts**
-- ★ **Months in, not at the arrival.** The arrival, first contact, Twilight's studies and Celestia's letter are the most-written part of every crossover. They happened offscreen and are already a little embarrassing to everyone. We open on an ordinary morning in hir fourth or fifth month, when the novelty has worn off and hir is a town oddity with a job and a routine.
-- *At the arrival*, with every cliché consciously refused.
+**3.2 Where the story starts: DECIDED: at the arrival.** The owner wants the first-contact reactions and the first messy days on screen. The clichés are refused by **who** meets them and **how**, not by skipping it. First contact goes through Fluttershy, **against her trope** (proposed, awaiting the owner's word). Her animals panic at five sixty-kilo predator-shaped strangers, one does not come back, and she is the most frightened and angriest pony in the valley, for good reason. The alternative is a pony the fandom rarely writes.
 
-**3.3 Going home**
-- ★ **Not a question the story asks.** Nobody knows how hir came. Twilight tried for a while and stopped. There is no portal plot. (A Cluster makes this easier to leave alone: they are not pining for anyone who isn't here.)
+**3.3 Going home: DECIDED: not a question the story asks.** Nobody knows how hir came. Twilight tried for a while and stopped. There is no portal plot. (A Cluster makes this easier to leave alone: they are not pining for anyone who isn't here.)
 - *A thread in the background.* Someone is still working on it, and it goes nowhere.
 
-**3.4 Who they are** (to be settled in the outline)
+**3.4 Who they are: DECIDED: five void-built crew, no child, no cook, no elder.** A rigging crew who were working together when it happened, and who arrive with what was on them: tool belts, tethers, line, nothing to eat. Draft cast (names outside the Elysian pool; the owner may change any of it):
+| Kin | Age | How they take Equestria | Notes |
+| :-- | :-- | :-- | :-- |
+| **Madder-4** | ~140 | **Refuses.** Keeps the crew on ship routine: watch rota, shift bells, the rails that aren't there. Procedure as a handrail. | Crew lead. Right about many things and wrong about the one that matters. |
+| **Sloe-5** | ~90 | **Adapts, and pays for it.** Does the talking, the buying, the learning of pony money and manners. Always tired. | The Cluster's face to Ponyville. The food problem is hirs to solve every day. |
+| **Yarrow-3** | ~110 | **Wants to work.** A rigger with nothing to rig. Quiet, good hands, finds a job that isn't quite a job. | The one whose skills half-fit, and never better than half. |
+| **Haw-2** | ~60 | **Thriving too much.** Loves the novelty of a planet, runs, climbs, talks to everyone, misreads everything. | Most likely to get hurt, and to hurt someone's feelings. |
+| **Teasel** | ~35, no number | **Quietly failing.** Can't eat what there is, is losing weight, won't say. The Cluster feels the weather and can't make hir give the news. | The youngest adult. First of hir line. |
 A Cluster that worked together: a crew, void-built, from a station or tender. **Mixed ages and temperaments**, so the five disagree about how to live here. One wants to adapt, one refuses, one is quietly failing at it, one is thriving too much. **Each Kin gets a voice card** and crosses different ponies' lives. The Kin POV rotates, so no single Kin voice carries 25k words.
-Open questions: is there a child? (Canon makes a Kin child need a human friend, and there are none. It is powerful, but it sits near the CMC trope.) Is there a cook? (Food is the daily problem.) Is there an elder (180+), whose past is further away than anyone's?
+
 
 **3.5 The ponies' own threads** (problems that exist regardless; one or two per major character, mostly offscreen)
 These are proposals to build on, not episode plots:
