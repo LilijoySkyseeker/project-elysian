@@ -1,6 +1,6 @@
 # BRIEF — S025 *Request #4471* (working title)
 **Slate entry:** none. A new premise under the owner's full creative direction (2026-09-24). **Ledger gaps it fills:** an ending **left unresolved**; a **form not yet used** (a facilities ticket thread, with no narration at all); the Kin present **only through what they are made to write**. Near the ledger's "no Kin on the page". Also sits beside SLATE A2 *Translation* (a Kin who cooks), from the other side.
-**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → **owner** → canon → filed
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (1 round) → owner ✓ → canon ✓ → **filed** (2026-09-24)
 
 ---
 
@@ -77,5 +77,7 @@ Plus **system messages** (status changes, auto-replies, a rating request) in the
 **Kept against the cold reader, for the owner to judge:** Quill's three-sentence report (*"The crock is not on the shelf. The lid is in the sink. The label is still on the shelf."*), because exactness under distress is how a Kin writes (D-101), not a model tic; *"I will stand next to it while they do"* (that message's one leak); Farrow's *"and I was trained"* (his one quotable line; he doesn't know it's funny).
 
 ## Owner's read (Stage 7)
+"This was well written and enjoyable." Passed as it stood, including the three lines kept against the cold reader. The owner's calibration, for reading future marks: **good = normal**. Only something wrong gets extended comment. (2026-09-24)
 
 ## Canon check (Stage 8)
+DOC-00B §12 run against the finished piece. No contradictions. Station set to *Elysium-4* (the seam, S020). Appendix in the scene file. T17 rested. Filed as `scenes/S025_request_4471.md`.
