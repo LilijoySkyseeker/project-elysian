@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 3 *(working title: "The Yard")*
 **Outline:** OUTLINE §3. **POV:** Fluttershy, close third, past tense. **Target:** about 3,500 words. **Span:** first light to early afternoon, day one.
-**Status:** brief → predicted → drafted → linted → cold read + fidelity read → revised → owner
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold read + fidelity read ✓ → revised ✓ (1 round) → owner
 
 ---
 
@@ -58,7 +58,11 @@ The arrival night; the hens at the hatch at first light, stopping dead; the Kin 
 ---
 
 ## Lint
+**Draft 1 (3,940 words):** within budget; "five" ×14 (the number tic); flow 0.78 subordinators per *and*. **After round 1 (4,193 words):** within budget; "five" ×5; chains 4.9/100 and 0.60 subordinators per *and*; only watch hits ("nopony" ×6, which is in-world vocabulary). Recycled runs from CH02 are geography phrases (*round the hill to the right*, *on both sides of the track*), kept for continuity.
 ## Cold read
+First "a model wrote this" at line 35 (*"She knew what to do with a growl"*). Motif overuse: same-instant head turns ×8, "The pause." as a fragment ×3. About a dozen explaining asides. The hands contradicted each other (11 vs 99). "The big quiet one" was not tied to Yarrow. Dash's voice thinned into exposition, and her tea anecdote ran long. Clichés: heart in her ears, the back of her neck, a flock turning.
 ## Fidelity read
+The glow time was wrong: should be about 7 h 50 min and "eight times". Sloe's low talk to Haw should be the whistle. **No involuntary sounds anywhere.** Too composed at the tree coming down and at the doe: wants them dropping flat and a drill-reflex lunge held back. Bank positions unclear. Yarrow thin. "In the night" contradicted "since last light". Haw's long stillness was out of character.
 ## Revision log
+**Round 1** (a fresh agent, 19 listed items): all done. Banks fixed (the Kin stay on the far bank, only Haw crosses); sounds at the scream, at Haw being cut off and at the tree; they drop flat with tails locked; Madder lunges after the doe and is held; the whistle; hands made a discovery; Yarrow checks the bridge's rope and plank ends, and a hand closes on nothing; head turns cut to three; the asides and clichés cut; Dash gets her own edge (*"The captain's been off the ground about twice since winter, but sure."*). **Hand fix:** Sloe says *"hir's in charge, or hir thinks so"*, not "she" (DOC-00 §2: Kin speaking English use *hir*). **The narration keeps "it" for the Kin** (Fluttershy's word on day one; DOC-00 §2). **Not re-run:** the readers; continuity was checked by hand against CONTINUITY.md, and items 15–23 were added there.
 ## Owner's read

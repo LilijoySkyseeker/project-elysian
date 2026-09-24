@@ -19,6 +19,17 @@
 13. **The sky:** under the canopy they get only glimpses. Once, a **moon** through a gap. They know moons from records; this is the first they have seen. (No stars-and-home beat: BIBLE §5.)
 14. **Mirror vs frame:** to avoid a clash with *the frame* (the Kin link), the mirror's remains are called **the empty mirror** or **the metal rim**, never "the frame".
 
+## Day one at the cottage (chapter 3)
+15. **Banks:** the Kin arrive on the **far (forest) bank** past the plank bridge and **stay there** all morning; they drink lying in a row, and the big one (Yarrow) rests against **the willow on the far bank**. **Only Haw crosses**, once, to Pepper on the near bank under the near end of the bridge. Madder steps onto the far end of the planks at the start and goes back; the interview is held across the stream (Madder at the far end, Dash at the near).
+16. **Fluttershy's animals:** hens Marigold (leads), Bess, Hattie, Dimity, Pepper (always last), eleven hens to find in all. The **vixen** and her kits under the woodpile never come out. A **jackdaw** in a crate by the stove, fed every two hours. A **wren** in the mailbox. Larks nesting in the **south meadow**, fed at four. Starlings in the hedge. Angel on the back step.
+17. **Losses:** **Pepper**, after Haw grabs her, runs into the hedge and doesn't come out (not found by the end of the chapter). The **grey doe** of the April litter (nicked ear) bolts over the bridge toward the smoke; Fluttershy stops at the tree line. She stays gone. Madder lunged after her on drill reflex and was held back.
+18. **The ribbon** reads to Fluttershy as red gone **brown and stiff along one burned edge**, tied tight round Sloe's wrist. Sloe offers it as payment for the water. **She does not place it.**
+19. **The Kin's hands:** Fluttershy learns their lower "feet" are hands too, with thumbs, when Haw grabs Pepper.
+20. **Rainbow Dash** lands at **11:45** by the kitchen clock, with soot on one wing. Madder's statement: the burn ring about **twelve metres across** on both sides of the old track, a strip off to the left about 100 m by 5 m, the glow last seen **7 h 50 min** before, round the hill to the right, looked for **eight times**. The weather team works the edge **from about two**, dropping clouds **along both banks** from the trees to the **Pinwheel fields**. The captain rarely flies. **The wagon is not found in ch. 3** (it's left for ch. 6).
+21. **Where the Kin go:** Fluttershy's closing offer is the **old duck house at the bottom of the south meadow, past the willows**, reached round the edge of the grass, with food brought at four. That is their shelter from the end of day one.
+22. **Sloe uses the whistle** once, to Haw, at the end. Fluttershy hears only a thin high sound.
+23. **Narration pronoun:** from Fluttershy's side the Kin are **"it"** on day one (DOC-00 §2: the narrator uses what the POV character would say). Kin speaking aloud use *hir*.
+
 ## Standing facts
 - **The ship** carried about **1,400 Kin** (their Hum was the sky the five lived under) and a human crew besides. The five's Cluster slept in a web by the coolant bay. Crew names mentioned: Clary-6 (dead, before), Dunlin (alive, a rigger), Ilex (a joker on the training sims). Never shown.
 - **Five Kin, all present:** Madder-4, Sloe-5, Yarrow-3, Haw-2, Teasel. Nothing came with them but the plasma. No tools, no food: they were asleep.
