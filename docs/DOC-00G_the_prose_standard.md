@@ -2,7 +2,7 @@
 ## Document ID: DOC-00G — The Prose Standard: What Good Writing Is Here
 **Codename:** Project Elysian | **Species:** Aethela (*Homo Sapiens Successor*) | **Self-Name:** The Kin  
 **Classification:** Tool, not canon. It governs *how* a scene is written. DOC-00B governs what a Kin is like on the page, and the docs govern what is true. Where DOC-00B's §12 checklist and this document disagree about **drafting**, this document wins; DOC-00B still governs **canon checking**.  
-**Status:** v1.0, 2026-09-24. Evidence: `research/R01` (what the literature says) and `research/R02` (what the collection does). Tooling: `tools/tells.py`. Process: DOC-00H.
+**Status:** v1.1, 2026-09-25: §10 added, the lessons of X01 (an eight-chapter crossover the owner passed chapter by chapter; now the first exemplar, §7). v1.0, 2026-09-24. Evidence: `research/R01` (what the literature says) and `research/R02` (what the collection does). Tooling: `tools/tells.py`. Process: DOC-00H.
 
 ---
 
@@ -176,6 +176,7 @@ The name pool is small and shared (R02 §8). New characters draw from outside th
 ### 7. EXEMPLARS AND READERS
 
 **Exemplars are the strongest lever there is.** AI fine-tuned on an author's work flipped expert readers' preference (R01 §4, Chakrabarty et al.). We cannot fine-tune here. The nearest thing is real prose, in the writer's context, before drafting.
+- **X01 first** *(2026-09-25)*: `offcanon/X01_equestria/chapters/` is the best writing the project has made, by the owner's judgement, and every chapter passed the owner's read. For a Kin POV give the drafter a Kin chapter (ch. 2, 4, 6 or 8); for a human or outsider POV, an outsider chapter (ch. 3, 5 or 7). It is off-canon: take its texture, never its facts.
 - **In-house shelf:** S012alt (whole), S006 §1–§2, S017's game, S010's minutes. These are the most human pages in the collection.
 - **Estee**, *Daily Equestria Life With Monster Girl* (R03): the owner's chosen model for a non-human mind. Chapters 1, 10 and 30 are on the shelf.
 - **Owner's shelf:** passages the owner chooses from writers whose voice they want in the room, and any of the owner's own writing. **This is the missing piece.** It should be filled before the next scene (`research/SHELF.md`).
@@ -228,3 +229,77 @@ The middle is good: the conduit that goes quiet when someone looks at it, the ru
 **Option B, from the cold reader** (`scenes/briefs/S021_coldread_2026-09-24.md`): keep the coda's one image, *Eleven years became nineteen*, and the Cluster going still for a quarter of a second every morning. Cut everything that explains it. The reader called that stillness the best image in the story. Where the pipeline's readers disagree like this, the owner decides (DOC-00H Stage 7).
 
 Find the person, cut the explaining, add a detail that belongs to somebody, and stop when it is over.
+
+---
+
+### 10. WHAT X01 TAUGHT *(added 2026-09-25, the owner's and the orchestrator's debrief)*
+
+X01 (`offcanon/X01_equestria/`) is eight chapters, about 35,000 words, written through DOC-00H and passed by the owner one chapter at a time. These are the lessons that generalise. Each is tied to the chapter that taught it.
+
+#### 10.1 The Cluster is the unit *(the owner)*
+**The default Kin cast is a Cluster, not a Kin.** X01's five played off each other and worked as parts of one whole. The scenes only Kin can have need several of them at once:
+- the noon argument over the cloud (ch. 6);
+- Madder's forty-one seconds of silence (ch. 6);
+- the barn silent to the fillies while the radio was loud (ch. 8).
+
+Kin-code on the page needs several people on it. A lone Kin talking to a human (S024) has to carry everything through speech, the channel Kin like least.
+- **Cast by role**, so the voices differ by function as well as by card: the one in charge (Madder), the face (Sloe), the hands (Yarrow), the wild one (Haw), the young one who is hiding something (Teasel). Four to six is the working range; five was right.
+- **Loud radio, silent room.** When outsiders are present, the Cluster's argument happens in code while the room goes still. Outsiders see only stillness. The POV Kin hears everything. This is the Kin's own dramatic device, and no human cast can do it.
+- **One Kin alone** is still allowed. It is a choice with a cost to state in the brief (a frameless Kin, an envoy), not a default.
+
+#### 10.2 Ban the surface, keep the trait
+The predictability pass bans tropes. **A trope ban can strip out the trait under it.**
+- Banning Twilight's *"Fascinating!"* produced an incurious Twilight (ch. 5, caught by the owner).
+- *"Kin-code, sparingly"* produced Kin who talked aloud (ch. 2).
+
+**Rule:** for every character-level ban in the predictable list, the brief names **the trait that must survive it**. Example: *Not* "Fascinating!", *not* a scan spell; **but** burning to know, and holding it back.
+
+#### 10.3 No evenly spaced echoes
+The cold reader's most reliable "a model wrote this" came from structure, not sentences:
+- a detail lingered on so that it can pay off (ch. 6: the stake's *tick*);
+- callbacks spaced to be collected (ch. 7: Thursday, the hem, the carried foal and the carried Kin);
+- a closing image mirrored from an opening one (ch. 8: the hands);
+- S025's tidy plant and payoff.
+
+A callback is fine. **A pattern of callbacks is the tell.**
+- Plant without lingering.
+- Let at most one echo per chapter land.
+- Never explain the rhyme: cut the line that says *it was the same sound as…*
+
+`tells.py` cannot see this. The cold reader can (question 9), and the predictability pass should list the likely echo.
+
+#### 10.4 Every point of view has a person and a lens
+- **A person** *(the owner, after ch. 3)*: the teller mutters, reacts, and has thoughts of hir own that have nothing to do with the plot. Fluttershy's jackdaw, Twilight's *Winter Orchard*, Rarity's christening hem. A few, lightly. The work still carries the chapter.
+- **A lens.** Each teller orders the world by one habit of attention: Fluttershy's animals, Sloe's counts, Yarrow's loads, Twilight's lists, Rarity's workmanship, Teasel's *what everyone is eating*. The lens did more to make the chapters distinct than the voice cards did. **It goes in the voice card's *Notices* field as one sentence, and the drafter is told to run the chapter through it.**
+
+#### 10.5 World logic and period
+The owner caught what no model reader did:
+- a town clock that the Mayor could not have known was fast (ch. 4);
+- a rubber band in a world without them (ch. 5);
+- sleeping Kin who would breathe, rarely and together (ch. 5);
+- the Kin seeing the weather team and saying nothing (ch. 4).
+
+**Before the owner's read, the orchestrator runs a world-logic pass:**
+- Who could know this?
+- Does this object exist here?
+- What would these people have seen and not remarked on?
+- Does the physiology do what canon says?
+
+#### 10.6 Canon is the engine, not the decoration
+The best chapters put a canon mechanic under pressure:
+- the account (D-103) drove ch. 8's confrontation;
+- the theta lock drove ch. 5's terror;
+- regrowth costing calories drove Teasel's hunger;
+- the Core's numbers drove the pegasi (ch. 4) and the cloud (ch. 6).
+
+None of them explained the mechanic. This is §4's lore budget working as intended: two mechanics, **used**, not shown.
+
+#### 10.7 Revisions overcorrect, in both directions
+Told to order clauses, a reviser wrote *because*-glosses (ch. 2). Told to cut and-chains, a reviser chopped every sentence short (ch. 5, narration mean 12.2, CV 0.71). `tells.py` now warns on chopped prose as well as strung prose (Estee's 10th percentile: narration mean 10.6, CV 0.73). **After every model revision, the orchestrator reads the whole chapter**, not the diff, and hand-rejoins anything chopped.
+
+#### 10.8 What only the owner catches
+In X01 the model readers caught continuity, arithmetic, positions and tells, and never once *"this character is wrong"* or *"this doesn't fit the world"*. Every chapter's largest single improvement came from the owner's read. **A cold session gets the owner's standing notes from `research/OWNER_TASTE.md`**, and the owner still reads every chapter.
+
+#### 10.9 Length
+Chapters ran about 30% over target. Most of the overrun was the owner's notes adding what was missing (chatter, interiority, a section on magic). **Budget a long work at target × 1.3**, and don't cut to hit a number the owner didn't ask for.
+

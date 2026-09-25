@@ -1,6 +1,6 @@
 # PROJECT ELYSIAN — CANON LEDGER
 **Species:** Aethela (*Homo Sapiens Successor*) | **Self-Name:** The Kin
-**Purpose:** Single source of truth for every locked parameter across all twenty-eight documents (v3.6, 2026-09-23). If a number appears here, this is the number. Sections 1–9 are the ledger; §11–§33 are the decision logs (D-1…D-110) that produced it.
+**Purpose:** Single source of truth for every locked parameter across all twenty-eight documents (v3.7, 2026-09-25). If a number appears here, this is the number. Sections 1–9 are the ledger; §11–§34 are the decision logs (D-1…D-112) that produced it.
 
 **Order of work (D-96):** the design is closed. A ruling is drafted only when a scene has demanded it, and is discharged by a scene before the next is made. Holes kept on purpose live in the `AUDIT.md` **H-register** and are closed by a scene or not at all.
 
@@ -545,3 +545,13 @@ Surfaced by `wargames/W03_the_kin_as_a_story_engine.md` — the first wargame to
 **Open, in brackets.** The ark yards want names, house style: *[the outer yards]*, and whichever rock *Long Reach* was assembled at. Yours to name or leave.
 
 **Scene debt.** *The eighty-year build* — one Cluster, one job, four generations of human supervisors who each thought they were dealing with a new crew. *The file* — a Compact clerk opening a docket on a ship that is already at 3 % of c. *The Weavers at the Schism* — the argument they lost, from the losing side.
+
+## 34. Decision Log — 2026-09-25 (from X01, the owner's debrief)
+
+**Method note.** Both rulings were demanded by scenes (D-96): X01 ch. 5 and ch. 4/6, an off-canon crossover the owner passed. The scenes' own facts stay off-canon (`offcanon/X01_equestria/`). These are the parts of the species they found, ruled by the owner at the debrief. **Not ruled:** the ponies' *it*→*she* drift. It belongs to X01, since canon humans already default to *she* (DOC-00 §2).
+
+| # | Ruling | Closes |
+| :-- | :-- | :-- |
+| D-111 | **A sleeping Cluster breathes rarely, deeply and together.** The owner's mechanism: the theta lock drops cortical activity and metabolism together (DOC-01B §8, *sleep-web co-rhythms*), so oxygen demand falls, and the folded lungs extract more per breath the longer the air is held. **Numbers** (the assumptions are marked; `python3` in the X01 debrief): awake basal 78 W ≈ 233 mL O₂/min at 12–18 breaths/min. Asleep in the lock at **~0.6× basal (assumed)** ≈ 47 W ≈ **140 mL O₂/min**. At 8–10 % extraction per held breath (assumed; a human manages ~5 % at rest), one breath a minute needs a 1.4–1.75 L tidal volume, and one breath every 90 s needs 2.1–2.6 L, the top of a 2.5 L lung. **So: about one breath a minute, stretching to ~90 s**, with the *vesica oxygenii* (~7.2 L O₂ STP) as the margin between. **All five breathe on the same beat**, since the lock is a shared rhythm. **On the page:** to anyone watching, a Cluster asleep looks dead for a long, terrible minute, then the whole heap breathes in at once. A Kin sleeping *alone* (DOC-01A §4; D-80, D-93) has no shared rhythm to fall into: hir breathes on hir own, more often, and sleeps worse. | X01 ch. 5 (the owner's note); DOC-01B §8 |
+| D-112 | **A Kin meets the inexplicable as numbers that don't close.** Faced with something hir world has no model for, a Kin **asks the Core for the numbers first**: mass, area, load, water content. Hir reports that they don't close, argues it with the Cluster like an engineer, and does **not** reach for a supernatural word. Hir has none, and the Core has none (D-13: it does arithmetic, not thinking). The fear, when it comes, is specific: every procedure a Kin has assumes the numbers hold. The Cluster keeps the question open; nobody pretends to an answer (*Unconfirmed*). This governs any story where the Kin meet something outside physics as they know it, and how the Kin meet a human mystic, a hoax or a miracle. | X01 ch. 4 (the pegasi), ch. 6 (the cloud) |
+

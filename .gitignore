@@ -22,5 +22,5 @@ scratchpad/
 # Python
 __pycache__/
 
-# Reference texts by other authors — never committed (research/SHELF.md)
+# Uncommitted texts. (Reference books the owner wants kept now live in references/, committed: see references/README.md.)
 private/

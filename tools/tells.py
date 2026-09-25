@@ -6,7 +6,7 @@ Standard library only. Three commands:
     python3 tools/tells.py scene  scenes/S021_coming_wait.md     # one scene, with line refs; exit 1 if over budget
     python3 tools/tells.py corpus [--out reports/corpus.md]       # the whole collection: recycling, sameness, endings
     python3 tools/tells.py ledger                                 # one row per scene, for scenes/LEDGER.md
-    python3 tools/tells.py baseline private/<work>/text           # measure a human reference text against the collection
+    python3 tools/tells.py baseline references/<work>/text        # measure a human reference text against the collection
 
 What this measures and what it cannot are both in docs/DOC-00G §8. In one line:
 it finds surface patterns and cross-scene recycling. It cannot tell whether a scene is

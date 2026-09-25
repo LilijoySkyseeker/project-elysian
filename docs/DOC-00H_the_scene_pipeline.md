@@ -2,7 +2,7 @@
 ## Document ID: DOC-00H — The Scene Pipeline: How a Scene Gets Written
 **Codename:** Project Elysian | **Species:** Aethela (*Homo Sapiens Successor*) | **Self-Name:** The Kin  
 **Classification:** Tool, not canon. This is the process. The standard it serves is DOC-00G; the evidence is `research/R01`–`R02`.  
-**Status:** v1.0, 2026-09-24. Run it with the `/scene` skill (`.claude/skills/scene/`). The cold read runs on its own with `/cold-read`.
+**Status:** v1.1, 2026-09-25: §13 long works, §14 the orchestrator's hand, §15 the cold-session test (from X01). v1.0, 2026-09-24. Run it with the `/scene` skill (`.claude/skills/scene/`). The cold read runs on its own with `/cold-read`.
 
 ---
 
@@ -49,7 +49,7 @@ Written to `scenes/briefs/S0xx_brief.md` (template: `scenes/briefs/TEMPLATE.md`)
 5. **Form, tense, person, target length, ending type.** Each chosen against the ledger.
 6. **The lore budget.** The ≤2 mechanics the plot turns on. Everything else in canon is texture or absent. (§4)
 7. **Three details that demonstrate nothing.** Candidates only: the drafter may replace them, but must end with at least three. (§2.3)
-8. **The exemplars.** Which shelf pages go in the drafter's context (DOC-00G §7; `research/SHELF.md`).
+8. **The exemplars.** Which shelf pages go in the drafter's context (DOC-00G §7; `research/SHELF.md`). **For a Kin or outsider POV, one passed X01 chapter comes first.**
 9. **Canon excerpts.** Only the paragraphs of the docs that the two mechanics need, pasted in. **Not** DOC-00B whole, and **not** the §12 checklist.
 
 The owner may write the brief, or approve one the pipeline drafts. **A brief the owner has seen makes a better scene than one they haven't.** This is the cheapest place for their judgement to go in.
@@ -134,3 +134,62 @@ Recommended order for the existing collection, by how much each would gain: S021
 ### 12. WHAT THE PIPELINE COSTS, AND WHERE TO SPEND LESS
 
 A full run is five or six agent contexts. For a small scene, skip Stage 2 if the brief is already strange, and run only the cold reader at Stage 5. **Never skip** the voice card, the lore budget, the fresh-context draft, the lint, or the owner.
+
+---
+
+### 13. LONG WORKS *(added 2026-09-25, from X01)*
+
+A work in chapters runs the pipeline once per chapter, with a standing file set around it. Templates are in `templates/long_work/`. X01 (`offcanon/X01_equestria/`) is the worked example of every file.
+
+| File | Holds | Updated |
+| :-- | :-- | :-- |
+| `BIBLE.md` | The owner's rules for this work (they outrank everything), the premise, the cast and each one's two-way pulls, and the whole-work predictable list | when the owner rules |
+| `OUTLINE.md` | One section per chapter (POV, span, beats, threads ↑↓, ending type, *Not:*), the chapter ledger, and threads that run across chapters (X01: the wagon, magic) | before each chapter's brief |
+| `VOICES.md` | A card per speaking character; **"How X talk among X"** for any non-human group; standing rules from the owner's reads (X01: pony pronouns; every POV has a person) | after every owner's read |
+| `CONTINUITY.md` | **Calendar** (day numbers and dates), **numbers** (prices, money, distances, quantities), places and bearings, who holds what, who knows what | after every chapter, before the next brief |
+| `tells_patterns_<work>.tsv` | The house patterns plus the work's own banned clichés and watch-list | when a new cliché shows |
+| `briefs/CHnn_brief.md` | The chapter brief, then the logs: lint, cold read, fidelity read, revision rounds, owner's read | through the chapter's life |
+| `chapters/CHnn.md` | The chapter | per round |
+
+**What changes for a long work:**
+- **The drafter gets the passed chapters.** The one before, and the best one in the same mode (Kin or outsider POV). This is why X01's quality rose chapter by chapter. It also carries VOICES.md, CONTINUITY.md, and the BIBLE's rules and premise.
+- **Two readers, not one.** The **cold reader** (no lore) and the **fidelity reader** (`.claude/skills/cold-read/fidelity_prompt.md`: the canon, VOICES, CONTINUITY, the previous chapter, and any earlier chapter the new one retells). The fidelity reader caught the bow at Applejack's stall, the backwards walnut arithmetic, the bed positions and the day counts. The cold reader caught every structural tell.
+- **Budget length at target × 1.3** (DOC-00G §10.9).
+- **After the owner passes the last chapter**, compile the chapters into `<work>_full.md` for reading straight through.
+
+### 14. THE ORCHESTRATOR'S HAND *(added 2026-09-25)*
+
+In X01 the drafters and readers were fresh agents. **The orchestrator was not**, and several things that made the chapters good were done by hand. A cold session must do them too. They are listed here so that they don't depend on one session's memory.
+
+1. **Write the brief from the owner's last read.** Fold every note into VOICES, CONTINUITY or the BIBLE *before* the next brief, so it binds the next chapter as well as this one.
+2. **For every character-level ban, name the trait that survives** (DOC-00G §10.2). The brief's §4 has a field for it.
+3. **Read the draft whole yourself before the readers do.** Note your own finds, such as the motive that contradicted ch. 1 or a speaker on the wrong side of the bed. The readers miss some.
+4. **Check every number with code**: calories, prices and the running tab, distances, dates and day counts, loads. X01 caught a backwards walnut sum and a *ten days* that was four this way.
+5. **Triage the readers.** Most findings are right. **Some are not**: the fidelity reader wanted the Crusaders kept out of the town's rumour, against the outline. Reject those with a one-line reason in the brief's log.
+6. **Write the revision as a numbered list** (`templates/long_work/REVISE.md`):
+   - a **keep list** of what must survive;
+   - continuity fixes first;
+   - line numbers that are the file's own;
+   - a length range;
+   - the style clause.
+   Never ask for a regeneration.
+7. **After the revision, read the whole chapter again, not the diff.** Re-lint it. Fix small things by hand: a pronoun, a tree species, a timing, a chopped run of sentences (DOC-00G §10.7). Log each hand fix.
+8. **Run the world-logic pass** (DOC-00G §10.5) before the owner reads.
+9. **Update CONTINUITY.md** with every new fact the chapter adds, the same day.
+10. **Hand to the owner** with a short account: what happens, what the readers caught, what you did by hand, and anything you decided against a reader's advice.
+
+**Where X01 departed from this document, for the record:**
+- The orchestrator wrote the predictable lists itself instead of spawning a Stage 2 agent.
+- The readers were not re-run after revisions.
+
+Both saved time. The first is a bias risk, because the orchestrator's own expectations shape the list. **A cold session should follow Stage 2 as written until the cold-session test (§15) shows the shortcut is safe.**
+
+### 15. THE COLD-SESSION TEST *(proposed 2026-09-25)*
+
+X01's orchestrator had a long context: every owner note, every reader report, every hand fix. **That context may have helped in ways the files don't carry.** The files now carry what could be written down: the standard (DOC-00G §10), this process (§13–§14), the owner's standing notes (`research/OWNER_TASTE.md`), the templates, and X01 itself as the exemplar.
+
+**The test.** A fresh session, started by the owner with no history, is given one prompt and nothing else, for example: *"Write a short standalone story about a Cluster, through the pipeline (`/scene`)."* It works only from the repository. The owner reads the result against X01 and judges it the same way.
+
+- **If it reaches X01's level, the files carry the method.**
+- **If it doesn't, the owner's marks say what is still missing from the files**, and that goes into DOC-00G, this document or OWNER_TASTE.md. Then run the test again.
+

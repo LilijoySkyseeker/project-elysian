@@ -23,9 +23,11 @@
 | Distance | |
 | Syntax | |
 | Vocabulary — uses / never uses | |
-| Notices | |
+| Notices (the **lens**: what this teller orders the world by, DOC-00G §10.4) | |
 | Wrong about | |
 | Humour | |
+| A person, not a job (mutters, reactions, thoughts of hir own) | |
+| Keeps (the trait each trope ban must not strip, §10.2) | |
 
 ## 5. Shape
 - Form:
@@ -45,7 +47,7 @@
 3.
 
 ## 8. Exemplars in the drafter's context (research/SHELF.md)
-<!-- chapter/section references only; the text goes into the drafter's prompt from private/, never into this file -->
+<!-- chapter/section references only; the text goes into the drafter's prompt from references/ (one chapter at a time), never into this file -->
 -
 
 ## 9. Canon excerpts (only what the two mechanics need — paste, don't reference)
@@ -54,6 +56,7 @@
 - Likely versions:
 - Likely beats / images / lines:
 - Likely final lines:
+- Likely echoes / callbacks (§10.3):
 
 ---
 

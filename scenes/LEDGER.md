@@ -65,3 +65,9 @@ These are the things to protect in revision and to learn from. None of them is a
 - **S025** *"It is the base of the Thursday seam broth, the one Dermot has."*
 - **S024** Agnes genuinely does not remember Vetch-2, and Pell realises hir never asked Vetch anything either.
 - **S023** They carry Noor's body in warm before realising warmth doesn't matter for a human.
+
+## Off-canon works (not in the collection's rotation; recorded for reference)
+| Work | Teller(s) | Form | Words | Span | Endings used | Owner |
+| :-- | :-- | :-- | --: | :-- | :-- | :-- |
+| **X01** *(MLP:FiM crossover, `offcanon/X01_equestria/`)* | close 3rd, alternating: Apple Bloom, Madder-4, Fluttershy, Sloe-5, Twilight, Yarrow-3, Rarity, Teasel | novella, 8 chapters | ~35,000 | four weeks | cut mid-action · image · dialogue line · document end · unresolved · cut mid-action · reversal · image | passed every chapter; **"the best writing example we have by a mile"** (2026-09-25); first exemplar (DOC-00G §7) |
+
