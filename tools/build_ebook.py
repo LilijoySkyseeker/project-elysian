@@ -174,7 +174,7 @@ def render_markdown(meta: dict, work: Path, outdir: Path) -> str:
             if not text:
                 continue
             if text == "---":
-                out += ["<p align=\"center\">⁂</p>", ""]
+                out += ["⁂", ""]     # plain text: some Markdown viewers show raw HTML literally
                 continue
             m = re.fullmatch(r"!\[(.*?)\]\((.+?)\)", text)
             if m:
