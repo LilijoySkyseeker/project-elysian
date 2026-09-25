@@ -51,7 +51,10 @@ Week two, about day eleven. The seed barn, the river road, the forest edge acros
 ---
 
 ## Lint
+**Draft 1 (4,233 words):** flow **failed** at 0.45 subordinators per *and* (minimum 0.5); chains 4.1/100. "three" ×13. One-sentence paragraphs 40% and section-ending one-liners 56% (the radio). Recycled runs from CH04 are Kin-code phrasings (*went out clean with nothing under it*).
 ## Cold read
+First twinge at line 19 (a feeling named as a glow, with a genre simile). **Sure by 53: the stake's "tick… by most of a second" is visibly planted** for the ending, confirmed by the humming "that never reaches a fifth" and the *She's quick* / *It's quick* mirror. It's a pattern of symmetries set up to be collected (the same structure-level tell as S025). The last paragraph explains the rhyme and should go. Explaining lines: about eleven. The captain's lines tell Dash what she already knows. The physics argument runs long. It guessed the stake would pull and Haw would end in a tree. **Worst moment:** the wagon (the reader read it as a lost child), then the tick.
 ## Fidelity read
+Channels **correct** (Yarrow's one "Yes" aloud to Dash). **Missing:** ears forward at Core queries; involuntary sounds all day; the first rain too quiet in their minds (no Core questions, no chatter, nothing from Teasel); no radio reaction to Dash's turn; the ending needs several threads at once. A rider-only line misused for stage directions; untagged lines in the argument; "felt Sloe's tail go round" (the frame carries affect, not position); a ship memory surfaced unasked. **Continuity:** "a week late" should be five days; the pay-to-Applejack arithmetic; clouds on stakes 8–14; the snail on a driven stake; the wagon's orientation; "door frame"; Haw's route to the corner tree; the rake direction against the wind. The snail was flagged as a gentle-giant tell (kept, but practical). Teasel's thesis line risks "hidden wisdom". The physics was checked (800 N ≈ 80 kg; warm-air lift would need a barn-sized volume).
 ## Revision log
 ## Owner's read
