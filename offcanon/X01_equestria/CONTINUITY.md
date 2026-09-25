@@ -56,6 +56,14 @@
 42A. **Period:** no rubber bands or other anachronisms. Twilight's box of cards is tied with knotted string.
 42. **Units:** ponies measure in pounds, miles and feet; the Kin in metric.
 
+## Week two: the rain (chapter 6)
+43. **Day eleven, Tuesday the 23rd:** the first rain, starting about 1 a.m. and lasting all day (the radish stallion's was five days late).
+44. **Yarrow's job:** from the end of week one (Twilight asked), with the weather team's **ground crew** on the far bank, **from the mill down to the Pinwheel fields**: driving **ash stakes** for **tethered clouds** low along the forest edge. **Six bits a day**, half of it paid straight to Applejack's stall against the tab. Ruddock, a heavy bay, does the knots and calls Yarrow *it*. The dun mare hums four bars. The **captain** is an old grey stallion with a white muzzle and a map board; he doesn't fly on the job.
+45. **Yarrow's stake** (the eighth, driven plumb) pulled out in the afternoon wind. **Dash** brought the loose cloud back in 10.4 seconds with her turn, and **the captain took her off the line for the day, in front of the crew**. Nobody mentioned the stake. Dash calls Yarrow *she*. She keeps a Wonderbolts badge inside her saddlebag flap.
+46. **Clouds:** a tether carries about 800 N off a cloud of about 12 kg of water, pulling *up*. A Kin's hand goes through a cloud, and Yarrow fell through one that a pegasus was sitting on. At the noon argument nobody said "magic". Madder was silent for 41 seconds.
+47. **The wagon was found:** carried out of the burn (up the slope above the mill end) at 3:30 on day eleven, and sent up to Sweet Apple Acres on a cart at four. The captain called it *"the Apple kid's"*. **Yarrow recognised it and told nobody** (*[Nothing]*, clean). The other Kin felt the spike and don't know why.
+48. **Haw**, at about 5 p.m. on day eleven, is out on a wet limb of **the corner tree** (an old ash just below the mill bridge, where the bank turns), reaching into the last tethered cloud. **The limb gave a short, dry tick.** (Ch. 7: Haw is badly hurt, a forelimb.)
+
 ## Standing facts
 - **The ship** carried about **1,400 Kin** (their Hum was the sky the five lived under) and a human crew besides. The five's Cluster slept in a web by the coolant bay. Crew names mentioned: Clary-6 (dead, before), Dunlin (alive, a rigger), Ilex (a joker on the training sims). Never shown.
 - **Five Kin, all present:** Madder-4, Sloe-5, Yarrow-3, Haw-2, Teasel. Nothing came with them but the plasma. No tools, no food: they were asleep.

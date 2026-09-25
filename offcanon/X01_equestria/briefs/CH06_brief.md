@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 6 *(working title: "Rain")*
 **Outline:** OUTLINE §6, plus the Magic thread and the Wagon thread. **POV:** Yarrow-3, close third, past tense, *hir*. **Target:** about 3,500–4,000 words. **Span:** one wet day in week two (about day eleven), from before light to late afternoon.
-**Status:** brief ✓ → predicted ✓ → drafted → linted → cold read + fidelity read → revised → owner
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold read + fidelity read ✓ → revised ✓ (1 round) → owner
 
 ---
 
@@ -57,4 +57,13 @@ First twinge at line 19 (a feeling named as a glow, with a genre simile). **Sure
 ## Fidelity read
 Channels **correct** (Yarrow's one "Yes" aloud to Dash). **Missing:** ears forward at Core queries; involuntary sounds all day; the first rain too quiet in their minds (no Core questions, no chatter, nothing from Teasel); no radio reaction to Dash's turn; the ending needs several threads at once. A rider-only line misused for stage directions; untagged lines in the argument; "felt Sloe's tail go round" (the frame carries affect, not position); a ship memory surfaced unasked. **Continuity:** "a week late" should be five days; the pay-to-Applejack arithmetic; clouds on stakes 8–14; the snail on a driven stake; the wagon's orientation; "door frame"; Haw's route to the corner tree; the rake direction against the wind. The snail was flagged as a gentle-giant tell (kept, but practical). Teasel's thesis line risks "hidden wisdom". The physics was checked (800 N ≈ 80 kg; warm-air lift would need a barn-sized volume).
 ## Revision log
+**Round 1** (a fresh agent, 26 listed items): all done; about 4,580 words.
+- **The first rain:** the Core's reading (2 mm drops, 6 m/s, 9 °C), a chirr, and the heap waking to it with threads over each other (Teasel: *"smells like the hold after a wash-down"*).
+- **Kin behaviour:** ears forward at every query; a huff through the cloud, a sharp breath at Dash's turn, a whine at the wagon.
+- **The noon argument:** tagged, with one four-way burst; Teasel's thesis line became *[Or ours are]*, clean.
+- **The ending:** four threads at once.
+- **Cuts:** the tick is no longer lingered on at the split stake, and the last paragraph is cut; the chapter ends on *"Up in the ash, the wood gave a short, dry tick."* Also cut: the glow simile, "not an unkind sound", and the quick/quick mirror (Ruddock: *"It can have the lines, if it wants them"*); the captain's lines were roughened.
+- **Continuity:** "five days late"; the pay (half of six bits a day straight to Applejack); stakes 1–7 held clouds and Yarrow's eleven run from the 8th; the snail only on the stack; the ponies' stakes lean toward the trees, and Yarrow redrives hirs that way; the wagon is four-wheeled, left side up, front-left wheel gone; the burn is above the mill end; the corner tree is below the mill bridge.
+**Hand fix:** two sentences given *when* (flow 0.50 → above the minimum).
+**Not re-run:** the readers.
 ## Owner's read
