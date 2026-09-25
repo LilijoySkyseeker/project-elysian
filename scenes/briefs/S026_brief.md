@@ -1,6 +1,6 @@
 # BRIEF — S026 *Guest Slot* (working title)
 **Slate entry:** none. A new premise, written for the DOC-00H §15 cold-session test (*"a short standalone story about a Cluster"*). · **Ledger gap it fills:** a scene with **no human in it at all** (wanted since S024), and a tone that is **not "comic, then sad"** (S020, S024, S025 in a row): this one is comic, then raw, then a little better. It does not fill the length gap (target ~2,800) or second person.
-**Status:** brief → predicted → drafted → linted → cold-read → revised → owner → canon → filed
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold-read ✓ → revised ✓ (one model round + hand fixes) → **owner** → canon → filed
 **Departure, for the record:** the owner did not see this brief before drafting. The session was asked to run the pipeline from the repository alone (§15), so it ran straight through to Stage 7.
 
 ---
@@ -102,10 +102,68 @@ Fescue has had four broken nights in a row, wants one whole night's sleep, and t
 ---
 
 ## Lint (Stage 4)
+**v1** (`tools/tells.py scene`, 2026-09-25): ✓ within budget. Narration mean 15.1 words, CV 0.80 (Estee 0.80); and-chains 5.1/100; subordinators per *and* 0.72; dialogue 15%. Watch-only hits: *quiet* ×4 (L04). Recycled 6-word runs: *"because it was hir job to"* and *"hir asked the core the time"* (both also in S016). Voice distance: nearest S006 0.99, S020 1.00, S017 1.01, against the anchor 0.90. **Not the house voice.**
+**v2** (after round 1 and hand fixes): ✓ within budget. Narration mean 14.0, CV 0.80; and-chains 3.4/100; subordinators per *and* 0.74; dialogue 14%. After the hand fixes, *three* ×8 tripped the number-tic budget. Two non-clock uses were cut, and the rest are clock times and the one distance. Nearest S006 1.00, S017 1.01, S020 1.01. Remaining recycled run: *"hir asked the core the time"*, kept: it is Fescue's habit, in the voice card.
 
 ## Cold read (Stage 5)
+Three fresh readers ran in parallel on v1: the cold reader (`reader_prompt.md` plus the numbered prose), the collection reader, and the fidelity reader (`fidelity_prompt.md` with DOC-00D, this brief's §9 and the cast). **v2 got a second, fresh cold read**; DOC-00H §14 notes that X01 skipped this.
+
+**Cold reader, v1: first place a model:** *"line 15, where the paragraph opens with an aphorism, 'A guest slot was a loan', followed by the balanced 'You lent a thing and you got it back with something on top.' It is an essay voice laying out the world's rule."* After that, L119 *"because it was hir job to hear things happen"*, L125 *"with three hundred years behind it"*, and L167 *"the only way hir knew"*. Explaining: L15, L27, L71, L87, L89 *"the quiet that hir had asked for"*, L97 *"Fescue's answer was the same as Aster's"*, L119, L125, L175. Clichés: *plain as a beacon*, *like a flare*, *like a signal climbing over a horizon*, *the only way hir knew*. Worst moment: the carrier failing and Rime declaring it lost, at about 65%, after the midpoint. The ending "largely undoes the danger" but leaves doubt. The hand-holding at L167 "quietly settles" the barb "almost too easily". Ending: keep the last paragraph, *"the best unresolved note in the piece"*. Voice: *"mostly a particular person"*. Predicted correctly: Oxley proving the barb wrong, the child steadying, and BEARING and the fish sticker returning.
+
+**Collection reader, v1:** the opening's comic, disobedient tail repeats S017 and S018. The heap waking is S018's opening shape. Ending on another person's repeated action is *"S018's exact move"*, and a quiet held-back ending like S021 and S023. **New:** a guest in the heap, and Aster asking the Core. Last sentence: four *hir*s.
+
+**Fidelity reader, v1:** no Kin speaks aloud (correct). *Mallow said* → sent. The line lands *"one after another"*, but the frame delivers at once. Ears are almost missing. The hand round the wrist reads as a human beat. Riders: *~ oh no* sits outside the bracket, and *~ not now* is words, not affect. Nobody speaks to Aster about hir weather for three hours. *"All six of them had it"* should be five. *"The ring"* is ambiguous. *Clean* is becoming a tag for both Rime and Aster. **Key world-logic catch:** at 340 km everyone can feel *Oxley*'s weather, so the story must say whether *Oxley* was awake before the child. Leaving the weave to go to the console needs the tail freed, and Sorb can't leave the weave. Timeline checked: consistent, with a 16-minute gap from 02:50 to 03:06 in which Fescue is back *"before hir eyes were shut"*.
+
+**Triage** (§14.5). Accepted: all of the above except the following, rejected with reasons:
+- *Rime should cold-read the date of the earlier death* (fidelity 2.5). Rejected: Rime is wrong from authority and feeling, not from the record. A checked record would make hir wrong about a fact, which the cheap check would settle in a second.
+- *Nobody rebukes Fescue* (fidelity 3.2–3.3). Rejected: Bryony's bare *[Fescue]* and Rime's nothing are the rebuke, and the brief says nobody mentions it afterwards.
+- *Add a whistle moment* (fidelity 2.4). Rejected: nothing in the scene needs a door closed on the frame.
+- *Mallow's bet should be shown winning* (fidelity 4.7). Rejected: the bet stays open. The 05:07 fault at the top of the sweep leans Fescue's way, and nobody resolves it.
+- *The collection reader's opening and ending repeats.* Partly accepted: the ending's pronouns are fixed and the image is kept, since both cold readers call it the best thing in the piece. **Left to the owner:** whether the tail-comedy opening and the repeated-action ending are too close to S017 and S018.
+
+**Cold reader, v2: first place a model:** *"L11: 'mostly to be right about something,' a wry, summing clause that tells me the character's motive. It became a firm suspicion at L71, where the carrier-at-full-gain simile explains the scene to me. After that the pattern held: the 'same instant' refrain (L91–121) and L149's 'one breath with nobody else in it.'"* It also caught a continuity slip that every earlier reader and the orchestrator missed: the first line says the tail went wrong *"for the third time"*, but the third try is the one that holds. Ending: *"the best image in the piece"*. The worst moment is after the midpoint, and the ending *"doesn't undo the danger … reads as a loss"*.
 
 ## Revision log (Stage 6 — max two model rounds)
+**Round 1** (fresh reviser, numbered list with a keep list; `templates/long_work/REVISE.md` shape). 24 items:
+- names: *Wren*, a bird and outside the naming pool, became **Sallow**; *Tansy*, used elsewhere in the collection, became **Orpine**;
+- Fescue checks *Oxley*'s weather at 01:20 and finds it asleep, which grounds the mean line;
+- five recipients, not six; the line lands in all of them at once;
+- the tail is freed from the weave when Fescue leaves, and Sorb stays tethered by hirs;
+- Rime's *[Aster. Down]*; ears (Fescue's swung sunward, Aster's flat); Aster's weather at the quiet;
+- rider fixes; *clean* at most once each;
+- L15 rewritten as Fescue's own sulk about losing the warm hollow at Sorb's back;
+- cuts: *the quiet that hir had asked for*; *Fescue's answer was the same as Aster's*; *hir job to hear things happen*; *three hundred years behind it*; *because nobody there could*; *in time with nobody*; the sticker's second appearance; the hand round the wrist; *the only way hir knew*; *Not to them*; the flare and horizon similes; the six-name roll-call;
+- Rime's line made short, certain and wrong; the last paragraph's pronouns fixed.
+All 24 done; 2,614 words.
+
+**Hand fixes after round 1** (orchestrator, §14.7), read whole first:
+- the relay's second drop moved from *ten to three* to *five past three*, to close the 16-minute gap;
+- cut a new simile (*a dropped spanner lands in everybody's teeth*) and *like missing a step in the dark*;
+- *Fescue heard that happen* cut, since after the revision it pointed at the wrong thing;
+- ears now come round *sunward, toward Oxley*, not *toward the console*;
+- house-voice *simply* cut;
+- two non-clock *three*s cut (number tic);
+- *as far as it had at ten past three* → *as high as before*.
+
+**Hand fixes after the v2 cold read** (cuts only; **no second model round**):
+- *"for the third time"* cut from the first line (continuity);
+- *"mostly to be right about something"* cut;
+- the *same instant* refrain cut to one;
+- *"one breath with nobody else in it"* cut;
+- *"a bark of a laugh … helpless"* → *"Sorb laughed out loud in the dark"* (the cliché, and a repeat of *helpless*);
+- *high and tight* used once, not twice;
+- the long 01:20 console paragraph split in two;
+- *having only just locked* → *since they had only just locked*.
+
+**Kept against the v2 reader:** the *carrier at full gain* image at L71. It is the teller's lens (signal and noise) and the voice card asks for it. The dialogue buttons it marked (*"That was the one"*, *"Hir is very bad at it"*, *"I know what I felt"*) are all on the keep list; the owner loves humour, and one closing line per character is within §3.5. **Final: 2,545 words. Lint ✓. The readers were not re-run after the last hand pass.**
+
+**World-logic pass** (DOC-00G §10.5), by the orchestrator:
+- *Who could know?* Aster names who is with the child: readable from Hum positions. Fescue's mean line rests on a check made at 01:20 and not repeated, so by 03:08 it may already be false, and nobody could have known.
+- *Does this exist here?* A console that shows the long-range channel exists (a station's Kin telemetry runs on the Kin sector's own displays, DOC-12 §4). The cartoon sticker is a human's, left behind.
+- *What would they have seen?* Every Kin in range answers the Ping, including *Tolland* and the tug.
+- *Physiology:* the sleeping heap breathes together, and Rime asleep alone breathes on hir own count (D-111). Storm posture is tendon-locked, and Aster, awake, holds hir tail by effort.
+- **Assumed, not in canon:** a newborn's carrier arrives *"very low, down by the noise floor"*, although the Heartbeat is 0.01 W at every age. This is read as the newborn's small antenna. Flag for the canon check.
+- **Numbers, checked with code:** 340 km is beyond the frame (12) and inside the Hum (800), with 1.1 ms light time. Clock times run 23:40, 01:20, 03:05, 03:06, 03:08, 03:10, 03:12, 03:26, 05:07; the listening lasts 1 h 41 min, so *"the second hour"* holds. Rime is ~300.
 
 ## Owner's read (Stage 7)
 
