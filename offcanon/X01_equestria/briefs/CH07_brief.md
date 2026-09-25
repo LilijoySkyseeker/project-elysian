@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 7 *(working title: "The Commission")*
 **Outline:** OUTLINE §7. **POV:** Rarity, close third, past tense. **Target:** about 3,500–4,000 words. **Span:** dusk on day eleven (Tuesday the 23rd) to about seven in the morning on day thirteen (Thursday the 25th).
-**Status:** brief ✓ → predicted ✓ → drafted → linted → cold read + fidelity read → revised → owner
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold read + fidelity read ✓ → revised ✓ (1 round) → owner
 
 ---
 
@@ -67,4 +67,17 @@ First twinge at line 17 (*"which she noticed with some surprise"*). **Sure at 75
 ## Fidelity read
 Channels correct, and the ward is good (knot, breathing together, stopping like a clock, ears). **Missing:** the whistle under Sloe's voice; an involuntary sound in the street; the Kin giving Haw's mass for the dose. **The bow:** Teasel wears it in front of Sweetie, who would know it; a dressmaker would see scorched grosgrain. **Yarrow's secret** needs a tie: the others glance at hir when the wagon is named. **Madder's** *"That's what I needed"* is too easy; one more exact question instead. **Continuity:** the thirtieth sapphire set twice; the duplicate "Mm"; **Sweetie's account against ch. 1** (Diamond Tiara is wrong; the slow scenes; the heap behind the wagon; Apple Bloom in the traces; she leaves out Scootaloo's stick, which is fine if Rarity feels a gap); the Countess's 110 clashes with the poor fund's 110; the procession time; **bed positions** (Madder and Sloe both "on the far side"). Pronouns switch before they've met; move the switch to the bedside.
 ## Revision log
+**Round 1** (a fresh agent, 25 listed items): all done; 4,105 words. Changes:
+- Sweetie's account matches ch. 1 (Apple Bloom's barn, Scootaloo and Dash, the slow places, the heap behind, the traces). She leaves out the stick, and Rarity feels the gap.
+- **The bow:** Rarity sees red grosgrain, "the firm rib that holds a bow", scorched; she doesn't place it. Sweetie's eyes go to it twice.
+- At *wagon*, two of the Kin turn to Yarrow.
+- **Madder** asks one more exact question.
+- **Sloe:** the whistle under hir voice, a count, and "home in one bit"; hir closing line is *"past midnight by your clocks. You'll be wanting your beds."*
+- **Teasel:** watching the cold tea.
+- A whine in the street, and Haw's weight given to the pound for the dose.
+- The pronoun switch happens at the bedside (*"She had said her. She let it stand."*).
+- The procession moves to a quarter to seven; the Countess owes 140.
+- Cut: the aphorism, the pony-stillness rule, the good-side-up boxing, the Thursday echo, and Applejack's recap.
+**Hand fix:** the rumour's tree is the ash, not a chestnut, and the fall is onto the stones at the water's edge, not a parapet. Lint: flow 0.70 subordinators per *and*, chains 0.5/100.
+**Not re-run:** the readers.
 ## Owner's read

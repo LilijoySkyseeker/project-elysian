@@ -64,6 +64,13 @@
 47. **The wagon was found:** carried out of the burn (up the slope above the mill end) at 3:30 on day eleven, and sent up to Sweet Apple Acres on a cart at four. The captain called it *"the Apple kid's"*. **Yarrow recognised it and told nobody** (*[Nothing]*, clean). The other Kin felt the spike and don't know why.
 48. **Haw**, at about 5 p.m. on day eleven, is out on a wet limb of **the corner tree** (an old ash just below the mill bridge, where the bank turns), reaching into the last tethered cloud. **The limb gave a short, dry tick.** (Ch. 7: Haw is badly hurt, a forelimb.)
 
+## The worst week (chapter 7)
+49. **Haw's injury:** fell from the corner tree (the ash) onto the stones at the water's edge at about five on day eleven. Carried into town by Yarrow, past the boutique at about a quarter to seven, to the **hospital on Mulberry Lane** (a doctor's house with a four-bed ward). The **hand and the forearm to the elbow were taken** in the night. The doctor dosed by the weight the Kin gave him, then halved it. Madder told Twilight **six years** to regrow it. The blood is very dark. The miller helped carry hir.
+50. **Apple Bloom's lie** (evening of day eleven): the wagon came home burned on a cart, and she said they'd left it by the creek and somebody took it. Applejack knew she was lying and didn't say.
+51. **Sweetie told Rarity** everything (night of day twelve, Wednesday the 24th), except Scootaloo's stick. **Rarity told the Kin at the hospital that night, for Sweetie**, with Sweetie beside her saying nothing. Madder asked the day, the hour, the place and the object, and whether the mirror is still where it was left; Sloe asked whether the children were hurt; Haw laughed; Yarrow looked at Sweetie; two of them turned to Yarrow at *wagon*. **Sweetie saw Apple Bloom's ribbon on Teasel's wrist.** Rarity saw scorched red grosgrain and did not place it.
+52. **By breakfast on Thursday the 25th the town knew** (the miller and the night nurse; Clover Patch). **Applejack came to the boutique at 6:40 with Apple Bloom**: *"You told them before you told me."*
+53. **Rarity's gown** for the Countess Silverlace (who owes 40 on the last gown and 140 on this one) has one sleeve set a quarter-inch off. It was boxed for Thursday's eight o'clock train. Rarity owes Spike 60 bits and has 11.
+
 ## Standing facts
 - **The ship** carried about **1,400 Kin** (their Hum was the sky the five lived under) and a human crew besides. The five's Cluster slept in a web by the coolant bay. Crew names mentioned: Clary-6 (dead, before), Dunlin (alive, a rigger), Ilex (a joker on the training sims). Never shown.
 - **Five Kin, all present:** Madder-4, Sloe-5, Yarrow-3, Haw-2, Teasel. Nothing came with them but the plasma. No tools, no food: they were asleep.
