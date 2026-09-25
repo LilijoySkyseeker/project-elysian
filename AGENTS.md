@@ -15,6 +15,7 @@ Instructions for any agent (Claude Code or otherwise) working in this repository
 | writing a **work in chapters** | the above, then `templates/long_work/README.md`, and the worked example `offcanon/X01_equestria/` |
 | writing **Kin dialogue** | `docs/DOC-00D` (the six channels); the X01 card "How Kin talk among Kin" in `offcanon/X01_equestria/VOICES.md` |
 | checking or changing **canon** | `CANON.md` (the numbers and the decision log) and `AUDIT.md`. **Stories lead canon (D-113, amending D-96):** a story that is better for a change proposes a ruling; a ripple check lists everything it touches; **only the owner rules**. |
+| making **illustrations** | `docs/DOC-00I` (draft) and DOC-00C for anatomy. |
 | building an **ebook** | `tools/build_ebook.py` and the work's `book.json`; output in `library/`. Validate with `epubcheck`. |
 | using the **linter** | `python3 tools/tells.py scene <file>` (see `--help`; `--counting-pov` for a teller who counts for a living) |
 

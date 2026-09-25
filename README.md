@@ -12,6 +12,8 @@ Source material lives in the Obsidian vault (`~/Documents/Vault/Projects/Project
 | **`AGENTS.md`** | Orientation for any agent: what to read before what, the big-file warnings, how writing is done here. (`CLAUDE.md` imports it.) | **Always, first.** |
 | **`offcanon/X01_equestria/`** | X01, the eight-chapter crossover the owner passed chapter by chapter: **the project's best writing and its first exemplar**, and the worked example of a long work. | Before writing any fiction. |
 | `references/` | Other writers' books, kept for study (**never read one whole**; see its README). | Pulling an exemplar passage; the linter's human baseline. |
+| **`library/`** | **Finished works as EPUB**, built by `tools/build_ebook.py` from each work's `book.json`; validate with `nix develop -c epubcheck`. | **Reading.** |
+| `docs/DOC-00I` | Illustration standard (draft): Narnia-style inline spot illustrations. | Before any image work. |
 | `templates/long_work/` | The file set for a work in chapters (bible, outline, voices, continuity, chapter brief, revision list). | Starting a long work. |
 | `research/OWNER_TASTE.md` | The owner's standing notes: what they want, and what their reads caught. | Before any brief. |
 | **`CANON.md`** | Every locked parameter in one ledger, by subsystem, with source doc and conflict flags. | You need *the* number for anything. |

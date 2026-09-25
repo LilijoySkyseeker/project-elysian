@@ -1,0 +1,42 @@
+{
+  "slug": "x01-the-mirror",
+  "title": "The Mirror",
+  "subtitle": "A *My Little Pony: Friendship is Magic* × Project Elysian crossover (off-canon). Working title.",
+  "author": "Project Elysian",
+  "language": "en",
+  "description": "Five Kin, pulled through a broken mirror into Equestria, and the four weeks after: the Crusaders' secret, a town that doesn't know what to make of them, and a Cluster learning what there is to eat.",
+  "chapters": [
+    {
+      "file": "chapters/CH01.md",
+      "title": "The Mirror"
+    },
+    {
+      "file": "chapters/CH02.md",
+      "title": "Theta"
+    },
+    {
+      "file": "chapters/CH03.md",
+      "title": "The Yard"
+    },
+    {
+      "file": "chapters/CH04.md",
+      "title": "The Tab"
+    },
+    {
+      "file": "chapters/CH05.md",
+      "title": "Liaison"
+    },
+    {
+      "file": "chapters/CH06.md",
+      "title": "Rain"
+    },
+    {
+      "file": "chapters/CH07.md",
+      "title": "The Commission"
+    },
+    {
+      "file": "chapters/CH08.md",
+      "title": "What There Is"
+    }
+  ]
+}
