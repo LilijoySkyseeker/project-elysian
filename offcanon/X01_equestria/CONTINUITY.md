@@ -49,9 +49,10 @@
 36. **Names given to Twilight:** Madder gave "Madder-four"; the others gave no number.
 37. **Unicorn magic, first sight:** Twilight's floating quill and notebook on day five. All five went still, and Sloe said afterwards it was *"like weather"*. She now writes with a pencil in her mouth at the barn.
 38. **Haw sat on the mill roof at dawn** on day six, above the wheel, having walked the river road from the barn in the dark. The miller complained to Twilight, and Madder said "Understood".
-39. **Twilight saw the heap on the night of day seven**, thought for a moment they were dead, saw a shiver go through all five under her horn-light, and left. **She has told nobody.**
+39. **Twilight saw the heap on the night of day seven**, thought for a moment they were dead, then saw all five **breathe as one**: one long slow breath, and about ninety counts before the next (theta lock: low demand, efficient lungs, in sync). Then she left. **She has told nobody.**
 40. **Spike** is polishing thirty sapphires for Rarity's Canterlot commission; **Rarity hasn't paid him**, because Canterlot hasn't paid her.
 41. **Twilight's index:** about 3,000 cards due at the equinox, and about 420 done. Nobody knows, and Spike thinks it's nearly finished.
+42A. **Period:** no rubber bands or other anachronisms. Twilight's box of cards is tied with knotted string.
 42. **Units:** ponies measure in pounds, miles and feet; the Kin in metric.
 
 ## Standing facts

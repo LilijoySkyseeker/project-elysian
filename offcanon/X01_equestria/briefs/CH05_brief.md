@@ -36,7 +36,7 @@ Two mechanics, both seen from outside, neither explained: **the Kin reaction to 
 The seed barn on the river road, about 4 km from town, the river at the bottom and swallows in the rafters; Yarrow's rehung door. The chit and Sloe's tab at Applejack's (ch. 4). The weather team has been on the forest edge since day one. **No Kin has seen unicorn magic before this chapter.** Haw has been climbing. Teasel is losing weight, and the cause is not known. The Crusaders' secret holds; the wagon has not been found yet (ch. 6).
 
 ## 8. Details that demonstrate nothing (at least three)
-1. The shoebox of index cards with the knotted rubber band.
+1. The shoebox of index cards with the knotted string (owner: no rubber bands in this period).
 2. Spike's slate: *POLISHING — rubys, sapphires, anything shiny. NO opals (to fiddly).*
 3. Three cups of tea, made and not drunk, going cold in different places around the library.
 4. The miller's hat, which he keeps on indoors and takes off only to hit his own leg with it.
@@ -67,3 +67,7 @@ Flicker at line 13 (*"the kind of thing that would soon be true"*); **sure at 81
 **Hand pass:** the flow fix had chopped the narration (mean sentence 10.5 words, CV 0.71), the choppiness the owner objected to in ch. 1. About a dozen sentences were rejoined with *which*, *when* and *so that*. Result: chains 0.9/100, 0.83 subordinators per *and*, mean 10.9, CV 0.77. "five" ×13 kept (the heap, "how many").
 **Not re-run:** the readers.
 ## Owner's read
+"this was good! it was exactly the quiet scene promised". Passed (2026-09-25), with notes:
+1. **No rubber band** (wrong period); it would have been string. → Fixed by hand.
+2. **She would have seen them breathe:** a breath only now and again, with big gaps (low brain activity means low oxygen demand, and the lungs are efficient), and **all breathing as one**. Tone and result unchanged. → Fixed by hand: the shiver is replaced by one long shared breath and about ninety counts to the next; she doesn't wait for a third.
+3. **Open question (the owner, brainstorming):** is Twilight too far out of character? Would she have stronger curiosity, having never seen or heard of them? Maybe she's torn between the backlog, the paperwork of helping them, and wanting to learn more. → Discussed with the owner; not yet decided.
