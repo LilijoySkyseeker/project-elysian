@@ -103,7 +103,10 @@ Two mechanics: **the diet** (an acid gut built for dense protein; raw fish is fo
 ---
 
 ## Lint
+**Draft 1 (4,194 words):** flow 0.50 subordinators per *and* (at the minimum); chains 4.8/100. "three" ×17 (the three fillies).
 ## Cold read
+**First "a model wrote this" at line 25:** two tidy metaphors for a feeling back to back (*"a door that needed a shoulder"*, *"a cold place… without finding its edge"*), confirmed by *"the barn had only gone quiet"* and *"The barn was silent. The frame was not."*. About thirteen explaining lines. Buttons: *"Not the stream or the stone or anything. Me."*, *"It was the first thing here I knew what it was."* The four-weeks montage repeats one gesture (food going cold). **Ending:** the hands at the end mirror the plant at 27 too neatly; the reader suggested ending on the egg. **Kept the hands** (the owner wants better, not perfect, and the egg alone reads as still starving) but softened the plant. Timeline counts looked off.
 ## Fidelity read
+Channels correct; the account (D-103) handled well; the ending works. **Continuity:** *"Ten days"* should be four (the wagon was day 11, the fillies day 15); the wrongness has lasted two weeks, not three; the ribbon "weeks ago" → days; no hen house at the barn; the tab arithmetic; Fluttershy downstream; Spike's debt unknowable to a Kin; Dash was off the line only one day; in ch. 7 two of them had already turned to Yarrow. **Missing:** the Cluster's reaction when it learns the cold place was Teasel's hunger (the biggest gap); touch while awake after the rift; ears and tails in the confrontation; the Core volunteering *Ten degrees*; the frog recall reads as an account without the frame feeling it; a content rider; Sloe sending clean. Plus physical clarity (doorway, bank) and no pony *she*. **Overall:** it ends better-not-perfect.
 ## Revision log
 ## Owner's read
