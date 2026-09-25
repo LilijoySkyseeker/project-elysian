@@ -105,6 +105,13 @@ Each chapter is written through DOC-00H, with its own brief, predictability pass
 ## Wagon thread (decided 2026-09-24)
 The charred wagon is left broken on the steep slope below the scorched clearing (CONTINUITY 10). The weather crew finds it (ch. 3 at the earliest, when Dash mentions it at Fluttershy's; or ch. 6). It reaches Applejack, and **Apple Bloom lies** about it. That lie is the Crusaders' secret from then until Sweetie Belle breaks in ch. 7.
 
+## Magic thread (the owner, 2026-09-25)
+The Kin are engineers from a ship, and they meet magic as **numbers that don't close**. They have no word for it and don't reach for one.
+- **Ch. 3–4, pegasi:** Dash comes down out of the sky on day one; the weather team hauls and drops clouds along the edge from day one afternoon into day two. Ch. 4 (Sloe) has them watch from the duck house and run the Core on it: wing area against mass, water in a cloud. It doesn't close. Somebody says that what brought them here didn't follow the numbers either, and nobody answers.
+- **Unicorns are rare in Ponyville.** The Kin haven't seen unicorn magic by the end of ch. 4. **First sight: ch. 5**, Twilight's own telekinesis, from her POV. She does it without thinking (a book, a quill), and she sees them react (ears, stillness, a Kin stepping back from the near-field "weather", BIBLE §6) and doesn't know what she's seeing. She is **not** studying them, and no spell is cast *on* them.
+- **Their own talk about it:** its own section in **ch. 6** (Yarrow), where hir works with the weather team and gets hir hands on a cloud: what holds it up, what it's made of, why hir falls through where a pegasus stands. Kin-code, several threads, engineers arguing. It ends unresolved, and it's allowed to frighten them a little (their procedures assume physics).
+- **Never:** a scan spell; magic explained to them by a pony; the Kin "detecting" magic usefully; magic solving anything.
+
 ## Decided (2026-09-24)
 1. Eight chapters.
 2. Spike: a gem-polishing trade.

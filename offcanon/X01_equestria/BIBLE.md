@@ -101,7 +101,7 @@ Slice of life with the dark allowed in. That means real loss, and hunger that is
 
 ## 6. Open craft questions
 - **Language.** Kin speak human speech, and the ponies speak… English, in the show's convention. Is it seamless, or an accent problem, or a vocabulary problem (no words for *hull*, *rail*, *the frame*)?
-- **Magic and Kin senses.** Does a Kin's RF sense perceive unicorn magic? Canon-neutral, and it would be texture, never a solution. Recommendation: hir feels it as weather in the near-field, it is uncomfortable, and it is never useful.
+- **Magic and Kin senses.** Does a Kin's RF sense perceive unicorn magic? Canon-neutral, and it would be texture, never a solution. Recommendation: hir feels it as weather in the near-field, it is uncomfortable, and it is never useful. **Decided (owner, 2026-09-25):** the Kin meet magic gradually, and as *numbers that don't close*, never as a word they already have. See OUTLINE, "Magic thread".
 - **POV.** Mostly close third on the Kin, plus one or two chapters from a pony who is wrong about hir (the Estee technique, R03 §2.4), without borrowing Estee's collective-townsfolk opening.
 - **Pronouns.** The ponies say *she* or *it*, or learn *hir*. Which, and who?
 

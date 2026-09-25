@@ -38,7 +38,7 @@ Day one ends in the **duck house at the bottom of Fluttershy's south meadow**; s
 
 ## 8. Details that demonstrate nothing (at least three)
 1. Applejack's pencil stub is tied to the stall's post with a length of twine, and it's too short to reach the far end of the ledger.
-2. The town hall clock is four minutes fast, and everypony knows it.
+2. The town hall clock is four minutes fast. *(Owner, after the read: only the Kin know; it's the best clock in town, and the Mayor's line saying so was cut.)*
 3. A stallion who sells only radishes, and tells Sloe about his knee.
 4. There's a floury hoofprint on the bakery's back door frame at exactly Pinkie's height, and it has been painted over at least once.
 
@@ -68,3 +68,7 @@ Channels **correct**: no Kin speaks aloud to another Kin. **Missing:** the frame
 **Hand fixes:** the ribbon is tied "a little after three", not at four (the walk to the bakery); a duplicated "fourteen hours" removed; a flow pass on the narration (subordinators per *and* **0.44 → 0.50**, chains 2.1/100) and "four" 28 → 16. **Final: about 4,590 words** (31% over target: the fidelity items are where the words went). "three" and "four" stay over the number-tic cap, and nearly all the rest are prices and counts, which is Sloe. Section-ending one-liners 44% (the radio lines).
 **Not re-run:** the readers. Continuity checked by hand; CONTINUITY 24–33 added.
 ## Owner's read
+"excellent! that was very good and very enjoyable!" Passed (2026-09-25), with notes:
+1. **The weather team:** the Kin would have seen the team putting out the fire (day one from two o'clock, and still working the edge on day two), and a pegasus flying (Dash, day one) should get a comment: *it shouldn't be possible*. → **Round 2** adds this to the first section: the numbers don't close, and nobody says "magic".
+2. **Magic in general:** unicorns are rare in Ponyville, so the Kin may not have seen unicorn magic yet. It may need its own section for them to discuss in some chapter. → OUTLINE, "Magic thread".
+3. **The clock:** how would the Mayor know it was fast, when it would be the best clock in town? Only the Kin know. → The Mayor's line was cut in round 2.
