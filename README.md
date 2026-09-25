@@ -5,16 +5,26 @@ Source material lives in the Obsidian vault (`~/Documents/Vault/Projects/Project
 ## Start here
 | File | What it is | Read when |
 | :--- | :--- | :--- |
+| **`AGENTS.md`** | Orientation for any agent: what to read before what, the big-file warnings, how writing is done here. (`CLAUDE.md` imports it.) | **Always, first.** |
+| **`offcanon/X01_equestria/`** | X01, the eight-chapter crossover the owner passed chapter by chapter: **the project's best writing and its first exemplar**, and the worked example of a long work. | Before writing any fiction. |
+| `references/` | Other writers' books, kept for study (**never read one whole**; see its README). | Pulling an exemplar passage; the linter's human baseline. |
+| `templates/long_work/` | The file set for a work in chapters (bible, outline, voices, continuity, chapter brief, revision list). | Starting a long work. |
+| `research/OWNER_TASTE.md` | The owner's standing notes: what they want, and what their reads caught. | Before any brief. |
 | **`CANON.md`** | Every locked parameter in one ledger, by subsystem, with source doc and conflict flags. | You need *the* number for anything. |
 | **`AUDIT.md`** | Six registers: conflicts (C), physics (P), gaps (G), editorial (E), **narrative findings (N)**, **mechanism re-derivations (M)** — and the **H-register**, holes kept on purpose, closable by a scene and never by a ruling. | Deciding what to fix, and what to leave alone. |
 | **`ROADMAP.md`** | The eleven design steps (done) and **Step 12 — the standing writing phase**: the rule of order, the dramatisation test and the scene queue. | Deciding what to work on. |
-| **`docs/DOC-00` + `DOC-00B`** | The style sheet and the writing primer. | Writing a scene. |
+| **`docs/DOC-00G`** | **The prose standard** — what good writing is here: six things a scene must have, the house tells, the lore economy, voice, and variety across the collection. | **Before writing or revising any scene.** |
+| **`docs/DOC-00H`** | **The scene pipeline** — brief → predict → draft → lint → cold read → revise → owner → canon. Run it with `/scene`; the cold read alone with `/cold-read`. | Writing or revising a scene. |
+| **`docs/DOC-00` + `DOC-00B`** | The style sheet and the writing primer (what a Kin is like; §12 is now the post-draft canon check). | Checking a scene against canon. |
 | **`docs/DOC-00C`** | Visual reference — form, proportion, surfaces, postures, and image-generation prompts. | Drawing one, or commissioning art. |
 | **`docs/DOC-00D`** | Voice — the six channels a Kin talks on, how each one goes on the page, and what can be concealed on which. | Writing Kin dialogue. |
 | **`docs/DOC-00E`** | The outsider's primer — the hand-out version, for someone with no genre background. | Introducing the Kin to a newcomer. |
 | **`docs/DOC-00F`** | The small things — a shuffle-deck of Kin–human social detail, tagged by register, with a spent list. | Writing any scene with a human in it. |
 | `docs/` | The source documents, one file per DOC. | Reading the actual lore. |
 | `scenes/` | The scene collection — every vignette with its canon-drift notes (`scenes/README.md`), and **`scenes/SLATE.md`, the standing queue** of what to write next. | Writing or revising fiction. |
+| `tools/` | `tells.py` — the prose linter: house tells with line refs, recycled phrasing, number tics, voice distance between narrators (`python3 tools/tells.py scene <file>` · `corpus` · `ledger`). Patterns in `tells_patterns.tsv`. | Every draft (DOC-00H Stage 4). |
+| `research/` | R01 — what the literature says reads as machine and as human, with sources and access status. R02 — the diagnosis of this collection. `SHELF.md` — exemplar pages for the drafter. | Changing the standard; filling the shelf. |
+| `reports/` | Generated `tells.py corpus` reports; `tells_baseline_2026-09-24.md` is the before-picture. | Measuring whether the collection is improving. |
 | `models/` | Reproducible calculations behind the deep-dives (`awk -v SCEN=shadow_eva -f models/vacuum_budget.awk`; `awk -f models/age_structure.awk`). | Re-running or changing a number. |
 | `wargames/` | Wargame records — the species stress-tested from outside. `W03` tests it against its *job*: whether the Kin generate stories, and where story pressure will break the biology. | Before opening a new design pass. |
 
@@ -26,6 +36,8 @@ Source material lives in the Obsidian vault (`~/Documents/Vault/Projects/Project
 | DOC-00C | `docs/DOC-00C_visual_reference.md` | Visual reference — silhouette, dimension sheet, head/ears/eyes/hand-paws/coat, postures, state changes, image-gen prompt kit | v1.4 | Tool, not canon |
 | DOC-00D | `docs/DOC-00D_voice_how_the_kin_talk.md` | Voice — Kin-code and the affect rider, the whistle as the one private channel, human speech as the marked case, the Hum, the Core and the archive on the page, the switching table | v1.3 | Tool, not canon; **§9 open** |
 | DOC-00E | `docs/DOC-00E_outsiders_primer.md` | The outsider's primer — one-sitting introduction for a reader with no science-fiction background; ground rules, body, mesh, memory, death and names, humans, factions, glossary, the five wrong assumptions | v1.2 | Tool, not canon |
+| DOC-00G | `docs/DOC-00G_the_prose_standard.md` | The prose standard — the six requirements (a want, a teller, detail from a life, escalation and loss, meaning left with the reader, ending when it is over), the house tells, the lore economy (two mechanics a scene), voice cards and the house-voice card, collection rotation and the spent list, exemplars and readers, what the linter can't do, a worked revision, **§10 what X01 taught** (the Cluster as the unit; keep the trait; no evenly spaced echoes; a person and a lens; world logic) | v1.1 | Tool, not canon; governs drafting |
+| DOC-00H | `docs/DOC-00H_the_scene_pipeline.md` | The scene pipeline — ten stages, each tied to a finding in `research/`; revising existing scenes; what can be skipped; **§13 long works, §14 the orchestrator's hand, §15 the cold-session test** | v1.1 | Tool, not canon |
 | DOC-00F | `docs/DOC-00F_the_small_things.md` | The small things — the competence-marker deck: body, senses, mesh, memory, domestic, names, edges; register tags (W/C/P/E/R), derivation column, and a **spent list** so no detail is used twice | v1.0 | Tool, not canon |
 | DOC-01 | `docs/DOC-01_anatomical_biological_specification.md` | Summary anatomy, senses, metabolism | v2.2 | Errata folded; canon |
 | DOC-01A | `docs/DOC-01A_musculoskeletal_locomotion.md` | Skeleton, anchor budget, hand-paw, tail, void tax, void-/ground-build, gaits, two clocks, regeneration, yoke & bone box, dual-role limbs, the burn and after it, the frameless Kin | v1.7 | Canon (D-26; D-73…D-75, D-80, D-93, D-95, D-100) |

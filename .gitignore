@@ -18,3 +18,9 @@ Thumbs.db
 
 # Session scratch — not tracked; promote anything worth keeping
 scratchpad/
+
+# Python
+__pycache__/
+
+# Uncommitted texts. (Reference books the owner wants kept now live in references/, committed: see references/README.md.)
+private/

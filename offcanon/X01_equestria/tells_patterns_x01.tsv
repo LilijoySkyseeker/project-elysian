@@ -1,0 +1,56 @@
+# tells_patterns_x01.tsv — pattern table for X01 (non-canon MLP × Kin crossover)
+# Same format as tools/tells_patterns.tsv. General machine-prose rows are copied from it; the Elysian stock
+# beats are dropped (they belong to the collection, not this story); pony-fanfic and crossover rows are added
+# from the whole-story predictability pass (offcanon/X01_equestria/BIBLE.md §5).
+# Run:  python3 tools/tells.py scene <chapter> --patterns offcanon/X01_equestria/tells_patterns_x01.tsv \
+#         --corpus-glob 'offcanon/X01_equestria/chapters/*.md'
+R01	reframe	limited	\b(it|that|this|hir|she|he|they|i|you)(\s+(was|is|were|are|had|has|did|does|do))?(n't|\s+not)\b[^.;:!?]{0,80}[.;:—–-]+\s*(it|that|this|hir|she|he|they|i)('s|\s+(was|is|were|are|had|has))\b	X-not-Y reframe across a stop
+R02	reframe	limited	(^|[.!?]\s+)not\s+[^.!?]{1,60}[.!?]	sentence that begins "Not …" (the corrective fragment)
+R03	reframe	limited	\bnot\s+because\b	"not because … but"
+R04	reframe	limited	\b(it|this|that)\s+(is|was)(n't|\s+not)\s+that\b	"It was not that …"
+R05	reframe	limited	\bnot\s+[^.,;!?]{1,40},?\s+but\b	"not X but Y"
+R06	reframe	limited	\bnot\s+(metaphorically|literally|figuratively)\b	"Not metaphorically — physically."
+G01	gnomic	limited	\bwhich\s+is\s+(how|what|why|where|when)\b	"which is how Fern says things"
+G02	gnomic	limited	\bthe\s+way\s+(you|people|humans|they|one|anyone|everyone)\s+\w+	"the way you do when …"
+G03	gnomic	limited	\bas\s+(they|you|people|humans|we)\s+(always\s+)?(do|does)\b	"as they always do"
+G04	gnomic	limited	\bwhich\s+(humans|people|they|you|we|kin)\s+(do|does)\b	"Margit sat down, which humans do."
+G05	gnomic	limited	(^|[.!?]\s+)you\s+(do\s+not|don't|cannot|can't|never|would\s+not|wouldn't)\b	"You do not think about it."
+G06	gnomic	limited	\b(that|this)\s+is\s+(what|how|why)\b	"That is what a record is."
+G07	gnomic	limited	\bin\s+the\s+way\s+(that\s+)?(a\s+|an\s+)?\w+\s+(do|does|did)\b	"in the way people do"
+G08	gnomic	limited	\b(nobody|no\s+one)\s+(ever\s+)?(tells|explains\s+to)\s+you\b	"the thing nobody tells you"
+G09	gnomic	limited	\bthe\s+thing\s+(about|nobody|is)\b	"The thing about the whistle is …"
+E01	explain	banned	\bthe\s+(whole|entire)\s+(point|of\s+it|of\s+what|difficulty|law|reason)\b	"that was the whole difficulty"
+E02	explain	banned	\bthat\s+is\s+(correct|the\s+point|the\s+part|the\s+sport|the\s+form|all\s+it\s+is)\b	"and that is correct"
+E03	explain	banned	\bis\s+the\s+part\s+(that|which|\w+\s+turns)\b	"That is the part Rowan turns over"
+E04	explain	banned	\bboth\s+(are|were)\s+true\b	the primer's line, quoted into scenes
+E05	explain	limited	\bit\s+is\s+not\s+nothing\b	"It is not nothing, to be that."
+E06	explain	limited	\bthat\s+was\s+the\s+(part|thing)\b	"That was the part that would be told later."
+H01	hedge	limited	\b(about|roughly|nearly|almost|maybe|perhaps|some|the\s+better\s+part\s+of|a\s+little\s+over|just\s+under)\s+(a\s+|an\s+)?(\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|fifteen|twenty|thirty|forty|fifty|sixty|hundred|quarter|third|fifth|tenth|half)\b	hedge + number
+L01	lexicon	banned	\btapestry\b|\ba\s+testament\s+to\b|\bdelve[sd]?\b	stock LLM vocabulary
+L02	lexicon	banned	\bbarely\s+above\s+a\s+whisper\b|\bbreath\s+(s?he|i|they|hir)\s+(didn't|did\s+not)\s+know\b|\bshivers?\s+(down|up)\s+(his|her|my|hir)\s+spine\b	stock LLM fiction phrases
+L03	lexicon	limited	\bsomething\s+(shifted|changed|broke|loosened)\b|\bthe\s+weight\s+of\b|\bunspoken\b|\bpalpable\b|\bin\s+that\s+moment\b|\bcouldn't\s+help\s+but\b|\ba\s+flicker\s+of\b	stock LLM fiction phrases
+L04	lexicon	watch	\bsomehow\b|\ba\s+kind\s+of\b|\bsomething\s+like\b|\bthe\s+ghost\s+of\b|\bquiet(ly)?\b	soft-focus words; fine alone, a tell in bulk
+
+# ── Crossover clichés (BIBLE §5). Banned: each is on the predictable list.
+X01	trope	banned	\bfascinating!?\b	Twilight's "Fascinating!" (the scholar trope)
+X02	trope	banned	\bwhat\s+are\s+you\?	"What ARE you?"
+X03	trope	banned	\bdear\s+princess\s+celestia\b|\bfriendship\s+(report|lesson)\b|\bi\s+learned\s+something\b	the friendship-letter ending
+X04	trope	banned	\bcutie\s+mark\s+crusaders?\s+[a-z]+(\s+[a-z]+)?!|\bcutie\s+mark\s+crusaders,?\s+yay\b	the CMC battle cry
+X05	trope	banned	\btwenty\s+percent\s+cooler\b|\bpinkie\s+sense\b|\bfourth\s+wall\b	show catchphrases as personality
+X06	trope	banned	\bscanning\s+spell\b|\bdiagnostic\s+spell\b	Twilight's scanning spell
+X07	trope	banned	\btranslation\s+spell\b	fast language by magic
+X08	trope	banned	\bpointing?\s+(up\s+)?at\s+the\s+stars\b|\bsomewhere\s+up\s+there\b	the stars-and-home beat
+
+# ── Show voice tics. Limited: a real person says her word sometimes; a trope says it every line.
+X10	trope	limited	\bsugarcube\b	Applejack
+X11	trope	limited	\bdarling\b	Rarity
+X12	trope	limited	\bawesome\b	Rainbow Dash
+X13	trope	limited	\beeyup\b|\bnope\b	Big Macintosh
+X14	trope	limited	\byay\b	Fluttershy's whisper
+X15	trope	watch	\bever(y)?pony\b|\bnopony\b|\bsomepony\b|\banypony\b	pony-isms: fine, count them
+
+# ── Pony-fanfic prose tics. Limited.
+X20	lexicon	limited	\bthe\s+(cyan|orange|lavender|white|yellow|pink|purple|blue)\s+(pony|mare|pegasus|unicorn|filly)\b	epithet instead of a name ("the cyan pegasus")
+X21	lexicon	limited	\b(said|replied|asked)\s+the\s+(cyan|orange|lavender|white|yellow|pink|purple|blue)\b	epithet dialogue tags
+X22	lexicon	limited	\bwith\s+a\s+(grin|smile|smirk|giggle)\b	tag-plus-expression
+X23	lexicon	watch	\bhoof\b|\bhooves\b	count them; fine

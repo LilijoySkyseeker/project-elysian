@@ -1,0 +1,8 @@
+# references/ — texts by other writers, kept for study
+**⚠ READ THIS BEFORE OPENING ANYTHING IN HERE.** These are big. Never read a book here whole, and never load a whole book into your own context or a subagent's. Read **one chapter at a time**, or the first ~1,500 words of one, by path. Use `chapters.tsv` to find the one you want.
+
+**Whose they are.** Each folder is someone else's published work, kept in this **private** repository for the owner's study, measurement and the drafter's shelf (`research/SHELF.md`). Do not quote more than a few words of one in any committed file of ours, do not redistribute it, and credit the author when you use a passage. If this repository is ever made public, **delete this folder first**.
+
+| Folder | Work | Size | Used for |
+| :-- | :-- | :-- | :-- |
+| `estee_daily_equestria_life_with_monster_girl/` | Estee, *Daily Equestria Life With Monster Girl* (fimfiction story 432523), supplied by the owner 2026-09-24 | **100 chapters, ~720,000 words** (chapter 100 alone is ~18,800) | The owner's model for a non-human mind and for prose flow. Style study: `research/R03`. Linter baseline: `python3 tools/tells.py baseline references/estee_daily_equestria_life_with_monster_girl/text` |

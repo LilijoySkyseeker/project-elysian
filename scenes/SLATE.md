@@ -6,7 +6,8 @@ Marked [NEW] or [QUEUED — angle] against ROADMAP Step 12; **[WRITTEN]** when d
 
 > Pairs with ROADMAP Step 12's scene-debt tables, which list what the *rulings* owe.
 > This list is what the *stories* want. Where they disagree, this one has the better angle.
-> Before writing any of these: `DOC-00B §12` checklist, and `DOC-00F` for the small things.
+> Before writing any of these: **`DOC-00G` and the `/scene` pipeline (DOC-00H)**, and choose against `LEDGER.md`. The `DOC-00B §12` checklist is now run *after* the draft.
+> **What the ledger says the collection lacks (updated after S025):** a scene with no human in it, or no Kin; second person; a very short or very long piece; and **a tone other than "comic, then sad"**, the last three in a row. S025 discharged *an unresolved ending* and *an unused form*, and sits beside A2 *Translation* from the other side. Group A is all warm. Pick against that.
 
 ---
 

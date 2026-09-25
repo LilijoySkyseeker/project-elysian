@@ -2,7 +2,7 @@
 ## Document ID: DOC-00B — Writing Primer: How to Write a Kin
 **Codename:** Project Elysian | **Species:** Aethela (*Homo Sapiens Successor*) | **Self-Name:** The Kin  
 **Classification:** Tool, not canon — the docs distilled into what shows on the page. When this and a doc disagree, the doc wins.  
-**Status:** v1.9 — DOC-00F cross-referenced in the checklist (§12) 2026-09-23. **D-104 Data Rot re-seated in the cortex; the rolling ~175-year self 2026-09-22.** v1.8 — 2026-09-22 (D-103: the two rates — checking is free, the account costs; the ⟨read it⟩ gloss re-pointed); 2026-09-22 (D-102: the one read head); 2026-09-22 (D-97…D-101 memory rebuilt: §7 recast — ordinary memory is human, the check, the failure is not-asking, Data Rot as lost prompting); 2026-09-22 (D-91 the override in the pause; D-92 the weather and the news; D-93 the Kin alone; D-94 the child's envelope; D-95 after the burn; §9 where a Kin antagonist comes from; §10 the human who is right); 2026-09-22 (DOC-13: the nose as reader, the dream line in the checklist); 2026-09-21 (D-74 arms and limbs, D-75 the burn; D-73 silhouette; D-68 scale and tail). Pair with DOC-00 (names, pronouns, conventions).
+**Status:** v2.0 — 2026-09-24: **DOC-00G (the prose standard) and DOC-00H (the pipeline) now govern drafting.** §12 is a canon check run *after* the draft, never a list of things to put in; the example lines in §1–§3 are spent (DOC-00G §3.8); §2 no longer asks for the pause every time. v1.9 — DOC-00F cross-referenced in the checklist (§12) 2026-09-23. **D-104 Data Rot re-seated in the cortex; the rolling ~175-year self 2026-09-22.** v1.8 — 2026-09-22 (D-103: the two rates — checking is free, the account costs; the ⟨read it⟩ gloss re-pointed); 2026-09-22 (D-102: the one read head); 2026-09-22 (D-97…D-101 memory rebuilt: §7 recast — ordinary memory is human, the check, the failure is not-asking, Data Rot as lost prompting); 2026-09-22 (D-91 the override in the pause; D-92 the weather and the news; D-93 the Kin alone; D-94 the child's envelope; D-95 after the burn; §9 where a Kin antagonist comes from; §10 the human who is right); 2026-09-22 (DOC-13: the nose as reader, the dream line in the checklist); 2026-09-21 (D-74 arms and limbs, D-75 the burn; D-73 silhouette; D-68 scale and tail). Pair with DOC-00 (names, pronouns, conventions).
 
 ---
 
@@ -38,7 +38,7 @@ Sixty kilos of warm fur folded onto a console ledge, ears longer than the skull,
 - both swivelled to you → listening, or aiming RADAR at you
 - converged forward, slow, both together → consulting the Core
 
-**Humans read ears as emotion. Half the time it is thermal management.** Use that — let a human misread, once, and be corrected: *"I am hot."*
+**Humans read ears as emotion. Half the time it is thermal management.** Use that — let a human misread, once, and be corrected: *"I am hot."* **(Spent: used in S006, S012, S017. Find a new misreading — DOC-00G §3.8.)**
 
 **Eyes.** In sun a film slides across them — gold, though humans say silver. In a Kin sector they may not use their eyes at all.
 
@@ -48,7 +48,7 @@ Sixty kilos of warm fur folded onto a console ledge, ears longer than the skull,
 
 Before every answer to a human there is a half-second. To the human it feels rude, then slow, then — once explained — polite: hir has heard the end of your sentence before you're halfway through, has had a whole conversation with hir Cluster about the answer, and is *holding it* until your mouth stops moving.
 
-Write the pause every time. Vary its length: a long pause is a hard question, or a kind one, or the Core being asked. And once in a story let a human notice the pause was *different* — that this time hir was asking someone else.
+The pause happens every time; **write it only when it matters to the scene** — it is rested (DOC-00F), and a pause on every exchange is lore on display (DOC-00G §4). When it is written, vary its length: a long pause is a hard question, or a kind one, or the Core being asked. And once in a story let a human notice the pause was *different* — that this time hir was asking someone else.
 
 **And the pause is where the ranking can be overridden (D-91).** *Cluster, then humans, then self* is what the body does in the first frame — reflex, not verdict. The cortex gets the pause, and what it decides there costs: the override is affect, so the Cluster feels the weather turn; the Defrag weights it heavily, so it survives every prune and goes into the Reading; and hir will feel it for as long as feeling lasts. **If you are writing the biggest scene a Kin can have, it happens inside a half-second and nothing moves.** Write the pause long. Write someone noticing it was long.
 
@@ -58,7 +58,7 @@ Write the pause every time. Vary its length: a long pause is a hard question, or
 
 *"I asked my Core."* It is a perfect assistant: exact, tireless, no will, no manner, never initiates. It does navigation, ballistics, checksums, recall and bookkeeping. It cannot run software, cannot out-think a human at an open problem, and cannot understand a question that isn't a number.
 
-On the page it gives the Kin a specific texture: they *know* the number and it does not help.
+On the page it gives the Kin a specific texture: they *know* the number and it does not help. **The two lines below are illustrations of that texture, not lines to use — "it is a very good assistant" is in four scenes verbatim and is spent (DOC-00G §3.8).**
 - *"I had seventeen minutes. I used fourteen. The Core kept telling me the number. It is a very good assistant. It is not comforting."*
 - *"I asked it about the pressure. It said the pressure is fine. It has said so eleven times. It does not understand the question."*
 
@@ -159,6 +159,7 @@ Most of humanity has never met one — they know foxes from feeds and a song. Sp
 - **Don't let the Core initiate, want, or comfort.** It is a very good assistant.
 - **Don't make the tail decorative.** It weighs as much as a leg and it is load-bearing in every sense — counterweight, fifth anchor, and the reaction mass the vector-flip runs on. A Kin who has lost one is subtly wrong in free flight for four years.
 - **Don't make them scent-averse.** They keep the sector clean the way a studio is kept clean. Strong smells and strong flavours, *chosen*, are a pleasure; a human is loud because he has not chosen (DOC-13 §4).
+- **Don't demonstrate the world.** A Kin does not explain the Kin to a Kin, and the narrator does not explain them to the reader. Two mechanics a scene; the rest is texture or absent (DOC-00G §4).
 - **Don't write them as cats.** They sit like cats and are warm like cats; they are a person who was made, and knows by whom, and is not cute *at* you.
 - **Don't give them a perfect memory, and don't give them a filing cabinet either.** Their ordinary recall is human — vague, warm, wrong. The exactness is there when they *reach* for it, and reaching is something a character does on the page. The superiority is that they can check; the flaw is that nothing ever reminds them.
 - **Don't give them a library.** There is no vault, no archive outside a body, no record to consult. Everything the species knows is in someone, and the reason no machine can hold it is that no machine can *read* it — not that it cannot be stored (D-99).
@@ -172,9 +173,9 @@ Most of humanity has never met one — they know foxes from feeds and a song. Sp
 
 ---
 
-### 12. SCENE CHECKLIST
+### 12. CANON CHECK — AFTER THE DRAFT
 
-Before a scene with a Kin in it, ask:
+**Since DOC-00G (2026-09-24) this list is run against a finished scene, never used to write one.** Used as a brief it produced twenty scenes that each show the ears, the tail, the touch, the pause, the Core and the smell (`research/R02` §2, §6). The drafter never sees it (DOC-00H Stage 3). A scene that answers four of these questions is normal; one that answers all twelve is a demonstration. Ask of the finished scene:
 1. Where are the ears, and is it emotion or heat?
 2. Where is the tail, and what is it holding or balancing?
 3. Who is touching whom, and does the Kin notice?

@@ -1,0 +1,65 @@
+# tells_patterns.tsv — the pattern table read by tools/tells.py
+# Columns (tab-separated): id	kind	status	regex	note
+#   kind:   reframe | gnomic | explain | trope | lexicon | hedge
+#   status: banned  (budget 0 — any hit fails the scene)
+#           rested  (budget 0 in new scenes; spent across the collection — see DOC-00G §6)
+#           limited (counted against a per-1000-word budget for its kind)
+#           watch   (reported, never fails)
+#   regex:  Python syntax, matched case-insensitively against one paragraph at a time.
+# Add a row when a new tic is found. Never delete a row: change its status.
+# Provenance for every kind is in research/R01_what_reads_as_machine.md.
+
+# ── Negation-reframe: "It was not X. It was Y." The single most frequent house tic.
+R01	reframe	limited	\b(it|that|this|hir|she|he|they|i|you)(\s+(was|is|were|are|had|has|did|does|do))?(n't|\s+not)\b[^.;:!?]{0,80}[.;:—–-]+\s*(it|that|this|hir|she|he|they|i)('s|\s+(was|is|were|are|had|has))\b	X-not-Y reframe across a stop
+R02	reframe	limited	(^|[.!?]\s+)not\s+[^.!?]{1,60}[.!?]	sentence that begins "Not …" (the corrective fragment)
+R03	reframe	limited	\bnot\s+because\b	"not because … but"
+R04	reframe	limited	\b(it|this|that)\s+(is|was)(n't|\s+not)\s+that\b	"It was not that …"
+R05	reframe	limited	\bnot\s+[^.,;!?]{1,40},?\s+but\b	"not X but Y"
+R06	reframe	limited	\bnot\s+(metaphorically|literally|figuratively)\b	"Not metaphorically — physically."
+
+# ── Gnomic narrator: the story stops to state how things are, in the present tense.
+G01	gnomic	limited	\bwhich\s+is\s+(how|what|why|where|when)\b	"which is how Fern says things"
+G02	gnomic	limited	\bthe\s+way\s+(you|people|humans|they|one|anyone|everyone)\s+\w+	"the way you do when …"
+G03	gnomic	limited	\bas\s+(they|you|people|humans|we)\s+(always\s+)?(do|does)\b	"as they always do"
+G04	gnomic	limited	\bwhich\s+(humans|people|they|you|we|kin)\s+(do|does)\b	"Margit sat down, which humans do."
+G05	gnomic	limited	(^|[.!?]\s+)you\s+(do\s+not|don't|cannot|can't|never|would\s+not|wouldn't)\b	"You do not think about it."
+G06	gnomic	limited	\b(that|this)\s+is\s+(what|how|why)\b	"That is what a record is."
+G07	gnomic	limited	\bin\s+the\s+way\s+(that\s+)?(a\s+|an\s+)?\w+\s+(do|does|did)\b	"in the way people do"
+G08	gnomic	limited	\b(nobody|no\s+one)\s+(ever\s+)?(tells|explains\s+to)\s+you\b	"the thing nobody tells you"
+G09	gnomic	limited	\bthe\s+thing\s+(about|nobody|is)\b	"The thing about the whistle is …"
+
+# ── The narrator explains what the moment meant. Budget zero.
+E01	explain	banned	\bthe\s+(whole|entire)\s+(point|of\s+it|of\s+what|difficulty|law|reason)\b	"that was the whole difficulty"
+E02	explain	banned	\bthat\s+is\s+(correct|the\s+point|the\s+part|the\s+sport|the\s+form|all\s+it\s+is)\b	"and that is correct"
+E03	explain	banned	\bis\s+the\s+part\s+(that|which|\w+\s+turns)\b	"That is the part Rowan turns over"
+E04	explain	banned	\bboth\s+(are|were)\s+true\b	the primer's line, quoted into scenes
+E05	explain	limited	\bit\s+is\s+not\s+nothing\b	"It is not nothing, to be that."
+E06	explain	limited	\bthat\s+was\s+the\s+(part|thing)\b	"That was the part that would be told later."
+
+# ── Lore set-pieces. Each is fine once in the collection; they are now spent.
+T01	trope	rested	\bvery\s+good\s+assistant\b	the Core line — used in S005 S006 S008 S016
+T02	trope	rested	\b(galley|kitchen|extractor)\s+fan\b	running the fan — DOC-00F: rested
+T03	trope	rested	\bi(\s+am|'m)\s+hot\b	the ears-as-heat misread
+T04	trope	rested	\b(round|around)\s+(my|his|her|your|their)\s+ankle\b	tail round the ankle
+T05	trope	rested	\bhand\s+flat\s+on\s+(his|her|my|your|their|the)\s+chest\b	hand-on-chest greeting
+T06	trope	rested	\bdog\s+whistle\b	used in S021 and S023
+T07	trope	rested	\b(nobody|no\s+one)\s+knows\s+the\s+news\b|\bthe\s+weather\s+and\s+not\b|\bword\s+of\s+the\s+news\b	D-92 slogan
+T08	trope	rested	\bfor\s+as\s+long\s+as\s+(hir|she|he|i|they)\s+(has|have|had)\s+anything\b|\bfor\s+the\s+rest\s+of\s+hir\s+life\b	memory-forever closer
+T09	trope	rested	\bstraw\b[^.]*\bocean\b	S001's image
+T10	trope	limited	\bthe\s+pause\b	the pause — DOC-00F: rested; count every use
+T11	trope	limited	\b(did\s+not|didn't|never)\s+occur(red)?\s+to\b	"it did not occur to anybody" (D-97 slogan)
+T12	trope	limited	\bseventeen\s+minutes\b	the vacuum number
+T13	trope	watch	\bears?\s+(went\s+|were\s+|pinned\s+|folded\s+)?(flat|fanned|wide)\b	ear posture
+T14	trope	watch	\bsit(s|ting)?[-\s]tall\b|\bconsole\s+ledge\b	the ledge
+T15	trope	rested	\bwithout\s+(ever\s+)?(once\s+)?mentioning\b|\bnever\s+(once\s+)?mentioned\s+doing\b	the unremarked kindness, stated
+T16	trope	rested	\b(and\s+)?i'm\s+quoting\b|\bwhich\s+i\s+can\s+quote\s+you\b	a Kin quoting a human's words back as a weapon — origin S024 (spent)
+T17	trope	rested	\b(ferment|crock)\b	the Kin cook's ferment — origin S025 (spent)
+
+# ── Hedged precision: "about nine times", "the better part of a second". A house tic when dense.
+H01	hedge	limited	\b(about|roughly|nearly|almost|maybe|perhaps|some|the\s+better\s+part\s+of|a\s+little\s+over|just\s+under)\s+(a\s+|an\s+)?(\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|fifteen|twenty|thirty|forty|fifty|sixty|hundred|quarter|third|fifth|tenth|half)\b	hedge + number
+
+# ── General machine-prose lexicon. Seeded from the research dossier; extend as found.
+L01	lexicon	banned	\btapestry\b|\ba\s+testament\s+to\b|\bdelve[sd]?\b	stock LLM vocabulary
+L02	lexicon	banned	\bbarely\s+above\s+a\s+whisper\b|\bbreath\s+(s?he|i|they|hir)\s+(didn't|did\s+not)\s+know\b|\bshivers?\s+(down|up)\s+(his|her|my|hir)\s+spine\b	stock LLM fiction phrases
+L03	lexicon	limited	\bsomething\s+(shifted|changed|broke|loosened)\b|\bthe\s+weight\s+of\b|\bunspoken\b|\bpalpable\b|\bin\s+that\s+moment\b|\bcouldn't\s+help\s+but\b|\ba\s+flicker\s+of\b	stock LLM fiction phrases
+L04	lexicon	watch	\bsomehow\b|\ba\s+kind\s+of\b|\bsomething\s+like\b|\bthe\s+ghost\s+of\b|\bquiet(ly)?\b	soft-focus words; fine alone, a tell in bulk
