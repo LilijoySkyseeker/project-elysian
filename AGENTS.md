@@ -6,7 +6,7 @@ Instructions for any agent (Claude Code or otherwise) working in this repository
 
 **What this repository is for** *(the owner, 2026-09-25)*. A world the owner builds, or has built, that pays them back in stories they enjoy. It combines canon, resources, tools, exemplars and a production process so that **agents can create media from it**: stories first, delivered as **ebooks**, with illustrations and other media to follow. The loop is: the world → agents → a work → **the owner's read** → the owner's notes back into the world and the tools. **The best stories are canon:** when a story is better for a change, canon changes, within the world's internal consistency (D-113).
 
-**How the owner works with it (2026-09-25):** the owner **reviews every brief** before drafting and **reads every piece** before it is passed. End-to-end without them is the goal, not yet the practice. Finished works go to them as **EPUB** (`library/`).
+**How the owner works with it (2026-09-25):** the owner **reviews every brief** before drafting and **reads every piece** before it is passed. End-to-end without them is the goal, not yet the practice. Finished works go to them as **EPUB and Markdown** (`library/`).
 
 ## Before you do anything
 | If you are… | Read first |
@@ -16,11 +16,11 @@ Instructions for any agent (Claude Code or otherwise) working in this repository
 | writing **Kin dialogue** | `docs/DOC-00D` (the six channels); the X01 card "How Kin talk among Kin" in `offcanon/X01_equestria/VOICES.md` |
 | checking or changing **canon** | `CANON.md` (the numbers and the decision log) and `AUDIT.md`. **Stories lead canon (D-113, amending D-96):** a story that is better for a change proposes a ruling; a ripple check lists everything it touches; **only the owner rules**. |
 | making **illustrations** | `docs/DOC-00I` (draft) and DOC-00C for anatomy. |
-| building an **ebook** | `tools/build_ebook.py` and the work's `book.json`; output in `library/`. Validate with `epubcheck`. |
+| building an **ebook** | `tools/build_ebook.py` and the work's `book.json`; it writes **both** `library/<slug>.epub` (e-readers, phones) and `library/<slug>.md` (browser reading). Validate the EPUB with `epubcheck`. Rebuild whenever a chapter changes. |
 | using the **linter** | `python3 tools/tells.py scene <file>` (see `--help`; `--counting-pov` for a teller who counts for a living) |
 
 ## The exemplar
-**`offcanon/X01_equestria/`** is the best writing the project has made, in the owner's judgement. It is an eight-chapter off-canon crossover, and every chapter passed the owner's read. Give a drafter **one passed chapter** as the first exemplar: Kin POV ch. 2, 4, 6, 8; outsider POV ch. 3, 5, 7. Take its texture, never its facts. The full text is `offcanon/X01_equestria/X01_full.md` (~35,000 words): **don't read it whole unless you need to.**
+**`offcanon/X01_equestria/`** is the best writing the project has made, in the owner's judgement. It is an eight-chapter off-canon crossover, and every chapter passed the owner's read. Give a drafter **one passed chapter** as the first exemplar: Kin POV ch. 2, 4, 6, 8; outsider POV ch. 3, 5, 7. Take its texture, never its facts. The full text is `library/x01-the-mirror.md` (also as EPUB) (~35,000 words): **don't read it whole unless you need to.**
 
 ## ⚠ Big files: never read these whole
 - **`references/`**: other writers' books. `references/estee_daily_equestria_life_with_monster_girl/` is **~720,000 words in 100 chapters**, and one chapter can be 18,000 words. Read **one chapter** at a time (`text/chNNN.md`), or the first ~1,500 words of one. Find chapters in `chapters.tsv`. **Never load a whole book into your context or a subagent's.** These are other people's work, kept in this private repo for study: quote a few words at most in anything committed, and use passages only in a drafter's prompt. Delete `references/` before any public release. See `references/README.md`.

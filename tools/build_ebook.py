@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Build an EPUB 3 from a work's chapters (Markdown), for reading on a phone, an e-reader or a computer.
+"""Build an EPUB 3 and a single Markdown file from a work's chapters, for reading on a phone, an e-reader,
+a computer, or in a browser (GitHub renders the Markdown).
 
-    python3 tools/build_ebook.py offcanon/X01_equestria            # -> library/<slug>.epub
+    python3 tools/build_ebook.py offcanon/X01_equestria            # -> library/<slug>.epub and library/<slug>.md
     python3 tools/build_ebook.py offcanon/X01_equestria --out x.epub
     nix develop -c epubcheck library/<slug>.epub                    # validate
 
@@ -146,6 +147,45 @@ def render_chapter(path: Path, work: Path, n: int, title: str, images: dict[str,
     return "\n".join(out)
 
 
+def render_markdown(meta: dict, work: Path, outdir: Path) -> str:
+    """The whole book as one Markdown file: title, contents, chapters. Headers are stripped; doc blocks are
+    fenced so their spacing survives; image paths are rewritten relative to the output folder."""
+    import os
+    title = meta["title"]
+    out = [f"# {title}", ""]
+    if meta.get("subtitle"):
+        out += [f"*{meta['subtitle'].replace('*', '')}*", ""]
+    if meta.get("author"):
+        out += [meta["author"], ""]
+    anchors = []
+    for i, ch in enumerate(meta["chapters"], 1):
+        a = re.sub(r"[^a-z0-9 -]", "", f"{i} {ch['title']}".lower()).replace(" ", "-")
+        anchors.append(a)
+    out += ["## Contents", ""] + [f"{i}. [{ch['title']}](#{a})" for i, (ch, a) in enumerate(zip(meta["chapters"], anchors), 1)] + [""]
+    for i, ch in enumerate(meta["chapters"], 1):
+        out += ["---", "", f"## {i}. {ch['title']}", ""]
+        lines = strip_header((work / ch["file"]).read_text(encoding="utf-8").splitlines())
+        for kind, payload in blocks(lines):
+            if kind == "doc":
+                body = "\n".join(payload).replace("**", "").strip("\n")
+                out += ["```text", body, "```", ""]
+                continue
+            text = re.sub(r"<!--.*?-->", "", " ".join(l.strip() for l in payload)).strip()
+            if not text:
+                continue
+            if text == "---":
+                out += ["<p align=\"center\">⁂</p>", ""]
+                continue
+            m = re.fullmatch(r"!\[(.*?)\]\((.+?)\)", text)
+            if m:
+                f = (work / m.group(2)).resolve()
+                if f.exists():
+                    out += [f"![{m.group(1)}]({os.path.relpath(f, outdir.resolve())})", ""]
+                continue
+            out += [text, ""]
+    return "\n".join(out).rstrip("\n") + "\n"
+
+
 def xhtml(title: str, body: str, lang: str) -> str:
     return f"""<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
@@ -247,6 +287,8 @@ def build(work: Path, out: Path | None = None) -> Path:
 """)
         for name, data in files.items():
             put("OEBPS/" + name, data)
+    md = out.with_suffix(".md")
+    md.write_text(render_markdown(meta, work, out.parent), encoding="utf-8")
     for w in warnings:
         print("warning:", w, file=sys.stderr)
     return out
@@ -258,7 +300,7 @@ def main(argv=None) -> int:
     ap.add_argument("--out", help="output path (default library/<slug>.epub)")
     a = ap.parse_args(argv)
     out = build(Path(a.work), Path(a.out) if a.out else None)
-    print(f"wrote {out}")
+    print(f"wrote {out} and {out.with_suffix('.md')}")
     return 0
 
 

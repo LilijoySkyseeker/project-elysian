@@ -1,6 +1,19 @@
-# X01 — (working title) *The Mirror*
-*A non-canon crossover novelette: My Little Pony: Friendship is Magic × Project Elysian. Private reading.*
+# The Mirror
 
+*A My Little Pony: Friendship is Magic × Project Elysian crossover (off-canon). Working title.*
+
+Project Elysian
+
+## Contents
+
+1. [The Mirror](#1-the-mirror)
+2. [Theta](#2-theta)
+3. [The Yard](#3-the-yard)
+4. [The Tab](#4-the-tab)
+5. [Liaison](#5-liaison)
+6. [Rain](#6-rain)
+7. [The Commission](#7-the-commission)
+8. [What There Is](#8-what-there-is)
 
 ---
 
@@ -38,7 +51,7 @@ She'd put it at the back of the barn, behind the hay rake, under the blue tarp w
 
 The wagon's side said APPLE BLOOM in red paint, in Big Mac's careful letters, with the B in BLOOM facing the wrong way. It had been like that since spring. Nobody had told him. Applejack said it was the principle of the thing, since he'd worked so hard; then she'd gone out behind the smokehouse and laughed until she had to sit down.
 
----
+<p align="center">⁂</p>
 
 The light was going grey under the trees, the kind of grey that at home meant you ought to have started the milking already, before somebody said so. Apple Bloom kept her head down and pulled. The path out of the Everfree was longer than the path in. On the way in, when it had been a dare, they'd trotted it. On the way out it was her wagon and her mirror and her neck, and a lot of roots.
 
@@ -70,7 +83,7 @@ She was still turning that over, head down, pulling.
 
 Scootaloo didn't say anything to that.
 
----
+<p align="center">⁂</p>
 
 They stopped at the bottom of a dip where a little brown stream ran across the path, because the wagon had to be walked through it one wheel at a time or it'd bog, and because Sweetie Belle had sat down.
 
@@ -162,7 +175,7 @@ Sweetie Belle nodded. Then she opened her saddlebag and took out half a daisy sa
 
 Sweetie Belle chewed and didn't answer that.
 
----
+<p align="center">⁂</p>
 
 They walked the wagon through the stream a wheel at a time. The water came up to Apple Bloom's knees, cold enough to make her teeth hurt. When the mirror rocked in the bed they all held their breath again, but again nothing broke. On the far side the path climbed. As Apple Bloom leaned into the traces she thought about the barn, the blue tarp and the rake, the hay loft ladder, and Clover the hen, who had pecked, but who hadn't deserved a fox.
 
@@ -236,7 +249,7 @@ The wagon stayed, with APPLE BLOOM on the side, bubbling. The hand was still on 
 
 She got up and ran.
 
----
+<p align="center">⁂</p>
 
 There wasn't a path. There had been a path, and now there was smoke, and trees, and a light behind them that made every tree throw a shadow the wrong way, toward her, long, so she kept thinking the ground was a hole and jumping over nothing. Sweetie Belle was beside her and then ahead of her and then beside her again. She had her saddlebag still, flapping. Apple Bloom could hear her breathing and she could hear the fire, which was bigger now, busy and cracking, and somewhere in it a tree went over with a long tearing sound and the ground shook under her hooves.
 
@@ -330,7 +343,7 @@ The fright went out through the frame and came back off four other bodies, doubl
 
 Nobody accepted it. Nobody argued with it either. The fright went round and round between them without settling; whenever it thinned in one body, it came back off another. Sloe was whining, very low, on every breath out. Madder counted hir own breaths until hir lost the count, then started again. When hir asked the Core for the time, it said ninety seconds. When hir asked again it said four minutes, though nothing had changed except the light on the underside of the leaves, which had gone from yellow to orange.
 
----
+<p align="center">⁂</p>
 
 When Sloe rolled off hir, Madder's chest did not come up after the weight had gone, so hir had to lift it. Hir got hir four lower hands under hir before hir pushed. Hir tail lay out behind hir like somebody else's cargo. One of hir hind hands had found Teasel's foot, and it stayed there.
 
@@ -466,7 +479,7 @@ Nobody took that any further.
 
 They went down the strip.
 
----
+<p align="center">⁂</p>
 
 The ash came up round them in a cloud wherever a foot came down. They went as a clump, close enough to knock shoulders: Teasel's flank against Madder's, Sloe's tail across the back of Madder's leg, Haw's point shrinking to three metres, then two. Inside ten paces Madder came down onto six, so that hir upper hands took weight they had never been asked for.
 
@@ -514,7 +527,7 @@ Haw put out one hand and laid it on the soft pale fur beside Yarrow's. Hir rider
 
 Haw left the hand where it was a moment longer than that. Then hir took it back and went to point.
 
----
+<p align="center">⁂</p>
 
 On the far side of the clearing the ground did not slope. It dropped straight down between the trunks, with no track on it and nothing burnt, as if it belonged to a different hill altogether. They came down it badly. Haw and Sloe were on the shafts, while Yarrow went behind with all four lower hands on the tailboard, holding the wagon back whenever it tried to run them over.
 
@@ -552,7 +565,7 @@ Sloe got up from under Haw and went to Teasel, who was folded tight on the bank 
 
 *[Downstream,]* hir sent. *[Stay off the stones]*
 
----
+<p align="center">⁂</p>
 
 They went down the stream all night.
 
@@ -646,7 +659,7 @@ As the stream widened it got louder, while the talk thinned to single threads un
 
 The eighth hour had no talk in it. There was the stream. There were the burrs in Madder's hand. Every few minutes Haw came back from point to put a hand on Sloe's shoulder before going away again, and each time Sloe's shoulder leaned into it. Teasel walked with hir tail hooked through Yarrow's. Behind them the orange had gone further round the hill.
 
----
+<p align="center">⁂</p>
 
 The trees stopped.
 
@@ -714,7 +727,7 @@ It took a moment over that too. "Is it safe to drink?"
 
 It seemed to think about that. Then it said, "I'm Madder," and waited, and when she did not give her own name back it did not ask for it. It turned its head, and the four at the tree line came down to the water on their own side together, as though it had called them. Madder went back off the planks to join them.
 
----
+<p align="center">⁂</p>
 
 She had eleven hens to find and a jackdaw in a crate by the stove who had to be fed every two hours or he would stop trying. So she went on with the morning. There was nothing else to do with it.
 
@@ -762,7 +775,7 @@ After that they all used it. They used it every time, at the start of anything t
 
 The small one, Teasel, did not come down to the bridge. It stayed at the back of the others on the far bank with its tail wrapped round its own feet. When she went past with the grain, it watched the grain. When she tipped the rabbits' pellets out at the hedge, it watched the pellets. When Angel sat on the back step and ate a dandelion leaf from one end to the other, it watched that too, all the way to the end, and its ears came forward. She looked at it and it looked away.
 
----
+<p align="center">⁂</p>
 
 Pepper was the last hen out. By the middle of the morning she was still out, on the near bank under the near end of the bridge, in a dip in the grass where she had decided she lived now. Fluttershy had been leaving her until the others were settled. Pepper could not be hurried; she had to be let come round to it.
 
@@ -790,7 +803,7 @@ Pepper went into the hedge and did not come out. The starlings, who had just beg
 
 Fluttershy picked up the egg basket. She did not look at Haw again. She took the eggs in and fed the jackdaw, who ate, and then she stood at the kitchen counter for a little while with her eyes shut, and said a word the hens had never heard from her, quietly, to the counter.
 
----
+<p align="center">⁂</p>
 
 When she came out again the smoke had got into the air.
 
@@ -824,7 +837,7 @@ They were in a knot on the bank by the bridge. They had drawn in close since she
 
 She went and moved the rest of the greens inside the hutch, where the others would have to come in for them.
 
----
+<p align="center">⁂</p>
 
 Rainbow Dash came down at a quarter to twelve, by the kitchen clock, and landed by the hen house hard enough to make the hatch rattle.
 
@@ -982,14 +995,13 @@ Teasel didn't send anything after that. Sloe asked the Core what water would add
 
 Nobody answered that. Out over the trees another cloud went along, low and grey, while the rain came out of it onto the smoke.
 
-
 *[Sloe. Food status, by dusk,]* hir sent. Then, after a moment: *[And a roof. This one's a duck's. I have been in charge of a duck house for fourteen hours, and I would like to hand it back]*
 
 *[Logged ~ laughing]*
 
 Madder's ears moved very slightly.
 
----
+<p align="center">⁂</p>
 
 *Three point four kilometres,* the Core said, when hir asked it at the end of Fluttershy's path how far it was to the town.
 
@@ -1029,7 +1041,7 @@ The town hall stood in the square, taller than the rest, with a clock in its gab
 
 *Ten fifty-two,* the Core said.
 
----
+<p align="center">⁂</p>
 
 The Mayor's office had a desk with a blotter on it, a window, and more paper than Sloe had seen in one place in hir life. The Mayor sat behind the desk with both her forehooves flat on the blotter. She was a tidy mare with her mane done up high and a pair of spectacles on a cord, and she smelled of the same sour thing as the street, held down under something like soap.
 
@@ -1069,7 +1081,7 @@ Crossing the square, hir looked up at the clock in the gable, and sent nothing a
 
 On the way out of town, with the key in hir hand, hir caught up with the egg cart. The stallion driving it said he did the bakery first, at five, and he said it while he was already shaking the reins.
 
----
+<p align="center">⁂</p>
 
 *[Roof,]* hir sent, from the bottom of the town, in the afternoon. *[A barn, on the river road. Four kilometres out of town and three from the meadow, so everybody walks. I've got the key. And paper that says the town will pay for food, in nine weeks ~ pleased with hirself for as long as that took, then less]*
 
@@ -1101,7 +1113,7 @@ The others were at the back of the barn, in the straw, already a heap. Sloe did 
 
 Hir lay there doing the chit. Twenty-five bits a week. Nine weeks. Hir did it again, and again, until Madder's hand came down flat on hir back without Madder waking, and hir stopped.
 
----
+<p align="center">⁂</p>
 
 A little after three, in the dark, Sloe got out of the heap. Hir untied the ribbon from hir own wrist with a thumb and hir teeth, and tied it round Teasel's, and Teasel did not wake.
 
@@ -1141,7 +1153,7 @@ She looked back through the door. There was a slate on the wall inside with chal
 
 She went in. The door swung to on the sack. Sloe stood in the alley a little longer in the bread smell, with flour on hir ears, and then went to find the fountain.
 
----
+<p align="center">⁂</p>
 
 The market was a square of stalls round the fountain, with doors behind it into the streets. Hir did it the way hir had always done a market: once through without buying, to learn where the prices sat, and then back.
 
@@ -1187,7 +1199,7 @@ Thirty. Hir laughed, up the ladder, a short chirr through the nose, and the stor
 
 "Nothing," Sloe said. "Tins."
 
----
+<p align="center">⁂</p>
 
 At dusk the last stall still packing up was at the far corner. It had sacks of dried beans, a crate of walnuts and another of hazelnuts from last autumn's store, eggs in straw, and a cart behind it with a yoke and no pony in it yet. The mare behind the stall wore a hat. She was folding a cloth over the eggs when hir came up, and she didn't stop folding it.
 
@@ -1237,7 +1249,7 @@ Hir asked the Core anyway. *Fourteen thousand six hundred, approximately.*
 
 *[A day and a half,]* hir sent. *[That's one stall, tonight, at closing. A day and a half off one stall. It can work]*
 
----
+<p align="center">⁂</p>
 
 On the fourth morning, the morning after the market, the mare at the blue door wanted five bits for a dozen, and she did not look glad.
 
@@ -1283,11 +1295,12 @@ Sloe didn't answer. Hir walked.
 
 *[Fine,]* Teasel sent.
 
----
+<p align="center">⁂</p>
 
+```text
 SPRING TABS — page 3
 
-**15th.** The strange one (Sloe). Seed barn, river rd. It says the town's good for it.
+15th. The strange one (Sloe). Seed barn, river rd. It says the town's good for it.
     Eggs, 3 doz @ 4 ......... 12
     Walnuts, 3 lb @ 5 ....... 15
     Beans, 2 lb @ 2 ......... 4
@@ -1298,7 +1311,7 @@ SPRING TABS — page 3
     Town chit ................... 21  (Quarter-day. Under the box.)
     Owing .......................... 4
 
-**16th.** Sloe. Eggs up, walnuts up. Told her why.
+16th. Sloe. Eggs up, walnuts up. Told her why.
     Eggs, ½ doz @ 6 .......... 3
     Cash .......................... 3
     Chit — she's used the week's.
@@ -1308,6 +1321,7 @@ SPRING TABS — page 3
 Held on town chit ............. 21
 Owing, cash ...................... 4
 Not in hand ..................... 25
+```
 
 ---
 
@@ -1331,7 +1345,7 @@ Spike thought it was nearly finished. She had told him so in February.
 
 "No. It's the visitors." She took a fresh sheet and wrote *Visitors* at the top of it, and under that, in a column: *Food. Water. Warm enough at night? Anyone ill.* She looked at it. Under that she wrote *Index, two hours after*, and underlined it. Then she turned her notebook over and opened it from the back, and wrote *Questions (not to ask)* across the top of the last page. Under that she wrote *Where are they from?* The quill was already on the next line. She lifted it off, shut the notebook, and went downstairs and made a cup of tea, which she left on the windowsill when Spike called up to ask where the good polishing cloth had gone.
 
----
+<p align="center">⁂</p>
 
 The river road went out of town past the mill, and after the mill there was nothing on it but fields.
 
@@ -1367,7 +1381,7 @@ Haw's hand came back to its chest. Nobody had said anything. It came back all at
 
 Twilight didn't know what to make of the order of that. Haw didn't look sorry. It was still looking at her mane.
 
----
+<p align="center">⁂</p>
 
 She asked her questions in order.
 
@@ -1449,7 +1463,7 @@ On the road, out of sight of the barn, she turned to the back and added *the fou
 
 "Not to ask," she said round the pencil, to nopony, and put the book away.
 
----
+<p align="center">⁂</p>
 
 The Mayor already knew.
 
@@ -1461,7 +1475,7 @@ The Mayor already knew.
 
 She wrote that afternoon, a proper letter, to the Royal Treasury rather than to the Princess. She set the figures out in a table, with a note on the prices, and sent it by Spike. Then she did six index cards before supper, which made four hundred and eighteen.
 
----
+<p align="center">⁂</p>
 
 After supper she meant to do twenty. She did one, and then went for *Hoofwright's Bestiary*, as a break between cards.
 
@@ -1473,13 +1487,7 @@ She found that her forehooves were pressed flat on the atlas, holding it down. S
 
 She opened her notebook from the back and read what she had.
 
-*Where are they from?*  
-*the pause before they answer*  
-*five heads at once*  
-*the four*  
-*like weather*  
-*the ears*  
-*Teasel's ribs*
+*Where are they from?* *the pause before they answer* *five heads at once* *the four* *like weather* *the ears* *Teasel's ribs*
 
 The clock on the landing struck three. The count stood at four hundred and nineteen.
 
@@ -1489,7 +1497,7 @@ In the morning Spike put the books back an armful at a time, with a small noise 
 
 He looked at the desk, and left them. "They're library books," he told the shelf. "They live on shelves."
 
----
+<p align="center">⁂</p>
 
 The miller came into the library on the sixth morning with his hat on.
 
@@ -1509,7 +1517,7 @@ On the way back she passed a mare she knew from the Tuesday reading group. The m
 
 The colt looked back over his shoulder at the barn roof all the way up the field. Twilight stood in the road until they were over the top.
 
----
+<p align="center">⁂</p>
 
 She got home a little after four. Spike had chalked his slate again. It hung on a nail by the library door where customers could see it, and it said, in his best capitals: *POLISHING — rubys, sapphires, anything shiny. NO opals (to fiddly).* Underneath, smaller, there was a price list. Under that he had rubbed something out and written it again.
 
@@ -1525,7 +1533,7 @@ He was at the back table with a sapphire the size of a hazelnut and a square of 
 
 She took a cup of tea upstairs and left it on the stairs when she stopped to find a pencil.
 
----
+<p align="center">⁂</p>
 
 The reply from Canterlot came on the seventh day. It was a printed form with a covering note. The note said that the matter was *being considered*, and that the enclosed form should be completed in full and returned to expedite it. The form wanted the number of persons, the daily requirement per person in bits, and the period for which relief was sought. In a box at the bottom marked *Names of persons (with numbers)*, it wanted their names.
 
@@ -1537,7 +1545,7 @@ It was nearly eleven. The index was upstairs. She had done no cards that day.
 
 The form was a perfectly good reason to walk out to the barn, and she let it be the reason. She put the form in her saddlebag, and her scarf round her neck, and went out.
 
----
+<p align="center">⁂</p>
 
 It was two and a half miles, and she had never walked the river road at night. There was a moon, and the fields were grey and silver under it. The smoke over the forest edge had thinned to almost nothing. Somewhere across the water an owl was working the tree line. She thought about the form, and then, since it was dark and nopony could see her do it, about the chapter in *The Winter Orchard* where the sisters find the letters in the wall, which she had been meaning to reread since Christmas. Then she thought about the form again.
 
@@ -1569,7 +1577,7 @@ She counted, without meaning to, the way she counted anything. She had got to ni
 
 She backed out of the door. She pulled it to, carefully, until it was open about as far as she had found it. Then she walked back along the river road to the town. She passed the mill, where a lamp was on in the house, and the fountain, where the bell hung dark on its post. She let herself into the library, and did not go to Mulberry Lane.
 
----
+<p align="center">⁂</p>
 
 Spike was asleep in his basket at the foot of the stairs, curled round the chamois, with the sapphire in his fist.
 
@@ -1631,7 +1639,7 @@ Hir came in the last time with the light grey in the door, and lay down against 
 
 *[Radish stallion's knee,]* Sloe sent, to nobody. *[Five days late. I'll tell him]*
 
----
+<p align="center">⁂</p>
 
 The crew's line ran along the foot of the trees on the far side of the river, from the mill down as far as the Pinwheel fields. Yarrow set out on four in the rain with hir upper hands carried. The road was mud now, though, and it took each lower hand to the second knuckle and let it go with a pull, so that by the mill bridge hir was on six.
 
@@ -1657,7 +1665,7 @@ Hir pulled the two halves out, threw them on the pile for burning, and took anot
 
 *[Stake,]* hir sent.
 
----
+<p align="center">⁂</p>
 
 The stakes driven on the days before already had their clouds. They lay along the edge at the height of the lowest branches, one to each stake, with a new hemp line off each underside down to Ruddock's knot. They were dark grey in the rain and rained steadily into the trees, where the ground under the burn steamed. Past the seventh, the eleven hir had driven that morning ran on down the bank toward the fields, bare, waiting for Dash to bring clouds down to them.
 
@@ -1681,7 +1689,7 @@ It was cold and wet, colder than the rain, and there was nothing there. Hir fing
 
 Yarrow took hir arm out.
 
----
+<p align="center">⁂</p>
 
 Rainbow Dash came on the line at nine.
 
@@ -1707,7 +1715,7 @@ Ruddock looked at Yarrow, and then at Dash.
 
 Yarrow went up the bank for the next one.
 
----
+<p align="center">⁂</p>
 
 At half past eleven a young pegasus with a notched ear sat down on the fourth cloud from the end to eat her lunch.
 
@@ -1727,7 +1735,7 @@ Hir lay there a moment, looking up through the grey at the shape of the pegasus 
 
 *[Under it,]* hir sent.
 
----
+<p align="center">⁂</p>
 
 They had it out at noon, while the crew ate under the tarpaulin and Yarrow sat on the stack of stakes in the rain with a cold egg Sloe had put in hir hand at the barn door.
 
@@ -1783,7 +1791,7 @@ When it came, it was the rota.
 
 Yarrow ate the egg, shell and all, and went back to the stakes.
 
----
+<p align="center">⁂</p>
 
 The wind got up a little after two. It came down off the forest through the wet trees, so that the rain came at the line sideways and every cloud leaned out on its tether toward the river. Yarrow, at the stack, heard it come on down the bank: a long low creak, stake after stake taking the load.
 
@@ -1839,7 +1847,7 @@ Hir set the stake again a metre up the bank, on firmer ground, with its head lea
 
 The captain was bent over his board. The dun mare was humming.
 
----
+<p align="center">⁂</p>
 
 The wagon came out of the burn at half past three, from up the slope behind the trees, above the mill end of the line.
 
@@ -1865,7 +1873,7 @@ Hir went on down the line and set the stake. From there hir could see the tailbo
 
 Yarrow went back up to the stack for the next one, and moved the snail.
 
----
+<p align="center">⁂</p>
 
 All that while Haw had been on the road. Hir had come out at three, as far as the mill bridge, with hir tail held straight up behind hir to keep it out of the mud.
 
@@ -1931,7 +1939,7 @@ She was braced for *why*. Sweetie closed her book and went. Her hooves on the st
 
 Later Rarity went up and knocked on Sweetie's door, and Sweetie said through it that she was doing her reading.
 
----
+<p align="center">⁂</p>
 
 The Countess's letter came with the morning post, and would not fold flat.
 
@@ -1953,7 +1961,7 @@ Mrs. Tansy came for a hem. While the pins went in round her, she said they had t
 
 Rarity turned her a quarter-turn and did not answer.
 
----
+<p align="center">⁂</p>
 
 Twilight came in a little before eleven, looking grey.
 
@@ -1979,7 +1987,7 @@ Rarity waited.
 
 Rarity had nothing to say to that, so she made tea. Twilight drank half of it before she went back to the hospital, and left the other half on the counter by the Countess's letter.
 
----
+<p align="center">⁂</p>
 
 At noon Rarity went over Spike's sapphires one at a time with the burnisher, easing each claw down a last hair onto its stone until none of them would catch a thread.
 
@@ -1987,7 +1995,7 @@ When she brought him thirty rough stones in a twist of paper, he had brought her
 
 She lifted Opal out of the gown box for the second time. Opal had taken the tissue paper for a bed and made it into one. She was put on the stairs with a lecture about Canterlot, which she did not attend to.
 
----
+<p align="center">⁂</p>
 
 Sweetie came home at four and stood in the workroom door with her satchel still on.
 
@@ -2005,7 +2013,7 @@ Rarity took the pins out. "And Big Mac what?"
 
 The clock on the landing struck the quarter. Rarity looked at the sleeve over her foreleg, and put the pins back in her mouth. Sweetie went upstairs.
 
----
+<p align="center">⁂</p>
 
 The first sleeve was set by ten, and it was the best she had ever done.
 
@@ -2043,7 +2051,7 @@ Sweetie looked up.
 
 Sweetie opened her mouth, and shut it, and went for her coat.
 
----
+<p align="center">⁂</p>
 
 The hospital on Mulberry Lane was a doctor's house with a ward built on the back. The night nurse who let them in wore a cap that had been starched by somepony who hated her, and she took them down the passage without a word.
 
@@ -2119,7 +2127,7 @@ Rarity waited for her to say something. She was sure, standing there, that Sweet
 
 In the armchair Twilight had not stirred. The nurse held the door.
 
----
+<p align="center">⁂</p>
 
 It was past half one when they got back. Sweetie went upstairs without being told. Rarity lit the second lamp and sat down to the sleeve.
 
@@ -2133,7 +2141,7 @@ She pressed it instead, as well as a seam that was wrong could be pressed. Then 
 
 She sat down in the chair by the worktable to rest her eyes for ten minutes before going up to the farm.
 
----
+<p align="center">⁂</p>
 
 The knock woke her at twenty to seven.
 
@@ -2181,7 +2189,7 @@ Hir felt it go out flat and smooth, with nothing under it, and felt what it cost
 
 That night hir lay on the outside of the heap, where hir tended to end up, and where Haw, reaching about in hir sleep some time after midnight, went over hir to get to Yarrow. At first grey the swallows' second brood started up in the rafters. Teasel lay still and counted the feeds. Before the sun reached the ridge there had been fifty-three, and every one was the same: a shape in the gap under the eaves, a shriek from the nest, and a beak being filled. When the sun was up hir went into town with Sloe for the eggs. On the river road hir fell behind at the mill, and then further, and Sloe waited at the far end of the bridge without sending why.
 
----
+<p align="center">⁂</p>
 
 The fillies came on the fifteenth day, in the afternoon, after the rain had stopped.
 
@@ -2277,7 +2285,7 @@ Scootaloo looked at hir. Sweetie Belle shut her mouth. Apple Bloom said, "Okay,"
 
 They went up the track in a row. At the gate Applejack took the grass stem out of her mouth and dropped it, and they went off up the river road with Applejack half a step behind Apple Bloom, close to her, not touching.
 
----
+<p align="center">⁂</p>
 
 They were barely past the gate when Madder sent.
 
@@ -2295,7 +2303,7 @@ The send stopped in the middle. Teasel had never felt Madder do that. When hir w
 
 When Madder came in after dark, hir lay down in the heap a body's width from Yarrow. The straw between them stayed cold all night, and all five of them could have said exactly how wide it was.
 
----
+<p align="center">⁂</p>
 
 In the fourth week Teasel went to the river more and more.
 
@@ -2323,7 +2331,7 @@ The old mare from the cottage had seen hir the first evening, from her step, whe
 
 Then she went back indoors and shut the door.
 
----
+<p align="center">⁂</p>
 
 Teasel went down to the pool the next evening, at dusk.
 
@@ -2357,7 +2365,7 @@ There were hooves on the towpath. A mare was coming along it from the mill end i
 
 The jam jar went away up the towpath with the stickleback turning in it. Teasel sat on the bank and rinsed hir hands in the river. Hir thumbs still had the neck in them, the small give and then nothing, and when hir took them out of the water they would not keep still. By the bread queue at five, hir thought, the miller would have it.
 
----
+<p align="center">⁂</p>
 
 Pinkie Pie was at the bakery's back door when Teasel and Sloe went by in the dark, with flour to her elbows and the oven open behind her, eating a heel of bread standing up. She stopped chewing when she saw them. Then she started again, and said "Morning," round the bread, a beat later than she used to. As they passed she said to Sloe, low, "Is she all right?"
 
@@ -2375,7 +2383,7 @@ Madder sent the rota every dusk, and nobody kept it. Haw went to the mill bridge
 
 Once, far off, on the path along the far side of the river road, Fluttershy went by with a basket on her back. She stopped and looked toward the barn for a while. Then she went on.
 
----
+<p align="center">⁂</p>
 
 That night Teasel came in late from the pool, smelling of the river, and lay down on the outside of the heap. Before hir lay down, hir put the egg in the straw by Haw's head, where it always went.
 
