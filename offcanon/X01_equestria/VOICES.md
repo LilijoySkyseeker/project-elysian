@@ -115,10 +115,11 @@ The show's characters are described here in our own words. No episode dialogue i
 
 **Twilight Sparkle**
 - **Life:** She loves Ponyville more than she expected: the library, Spike, her friends. She's weeks behind on a long project for Celestia and hasn't told a soul. Now she's the Kin's liaison, too.
-- **Talks:** Organised, exact, and fast when anxious. Kind, and **not** studying them. There's no time.
+- **Talks:** Organised, exact, and fast when anxious. Kind.
+- **Curious, and holding it back** *(the owner, after ch. 5)*: she has never seen or heard of anything like them, and she is burning to know. At the barn she is courteous and asks nothing personal, because they're people, not a subject, and the Princess said *look after*. In her head, her notebook (*Questions (not to ask)*) and her library, the curiosity runs. The library has **nothing** on them, and that unsettles her more than anything. She is torn three ways: the index, the paperwork of helping, and wanting to know.
 - **Notices:** Schedules, lists, what she's failing to finish.
 - **Wrong about:** That asking for help is failing.
-- **Not:** "Fascinating!"; scanning spells; the research-subject arc; friendship letters.
+- **Not:** "Fascinating!"; scanning spells; the research-subject arc; friendship letters; *incurious* (the ch. 5 draft's overcorrection).
 
 **Pinkie Pie**
 - **Life:** She works at the bakery: five a.m. starts, ovens, flour, and she genuinely loves it. Parties cost her more than anyone sees. A family on a rock farm she doesn't talk about.

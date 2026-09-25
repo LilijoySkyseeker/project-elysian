@@ -51,7 +51,7 @@ Each chapter is written through DOC-00H, with its own brief, predictability pass
 
 ### 5. Twilight: *liaison*
 **Span:** the first week, over several nights. **POV:** Twilight, close third.
-- Celestia has asked her to "look after the visitors". She is already weeks behind on the project she owes Celestia, and hasn't told anyone. The Kin are one more thing, and she is *good* at it, conscientious and kind and stretched. She is not studying them; there is no time.
+- Celestia has asked her to "look after the visitors". She is already weeks behind on the project she owes Celestia, and hasn't told anyone. The Kin are one more thing, and she is *good* at it, conscientious and kind and stretched. She is not studying them to their faces; she is burning to, and holds it back. Alone, she looks them up, and the library has nothing (owner's note, 2026-09-25).
 - **Spike** is running the library while she's out. He has something of his own going on (**decided: a small gem-polishing trade**, with customers, a price list, and pride). Neither of them notices the other is struggling.
 - Twilight visits the barn late one night with a question that could have waited, and sees the Cluster asleep: five bodies in one heap, not moving, not breathing that she can see. For a long terrible moment she thinks they're dead. They aren't. She leaves without waking them, and doesn't tell anyone what she thought.
 - **Threads:** Twilight (↑ she loves this town, the library, her friends; ↓ the hidden project, and now this); Spike (↑ his thing; ↓ being small).
