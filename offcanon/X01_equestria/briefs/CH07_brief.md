@@ -61,7 +61,10 @@ Haw fell from the corner tree (an old ash just below the mill bridge) at about f
 ---
 
 ## Lint
+**Draft 1 (3,994 words):** flow **failed** at 0.42 subordinators per *and*; chains 4.8/100; seven sentences with four or more *and*s (mostly Sweetie's run-on speech).
 ## Cold read
+First twinge at line 17 (*"which she noticed with some surprise"*). **Sure at 75, *"He had done them beautifully. That was the trouble."*** (a setup-and-reversal aphorism), confirmed by the Thursday callback. **Too many evenly placed echoes:** Thursday; *grown there* and *grow back*; the carried foal and the carried Kin; the hidden hem and the sleeve boxed good-side-up. Also flagged: a general rule about pony stillness; Applejack's plot recap; the confession too orderly for a frightened child; the order of the Wednesday morning. The ending line is over-shaped but is the story's real turn, so keep it.
 ## Fidelity read
+Channels correct, and the ward is good (knot, breathing together, stopping like a clock, ears). **Missing:** the whistle under Sloe's voice; an involuntary sound in the street; the Kin giving Haw's mass for the dose. **The bow:** Teasel wears it in front of Sweetie, who would know it; a dressmaker would see scorched grosgrain. **Yarrow's secret** needs a tie: the others glance at hir when the wagon is named. **Madder's** *"That's what I needed"* is too easy; one more exact question instead. **Continuity:** the thirtieth sapphire set twice; the duplicate "Mm"; **Sweetie's account against ch. 1** (Diamond Tiara is wrong; the slow scenes; the heap behind the wagon; Apple Bloom in the traces; she leaves out Scootaloo's stick, which is fine if Rarity feels a gap); the Countess's 110 clashes with the poor fund's 110; the procession time; **bed positions** (Madder and Sloe both "on the far side"). Pronouns switch before they've met; move the switch to the bedside.
 ## Revision log
 ## Owner's read
