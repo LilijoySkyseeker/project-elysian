@@ -1,6 +1,6 @@
 # The Mirror
 
-*A My Little Pony: Friendship is Magic × Project Elysian crossover (off-canon). Working title.*
+*A My Little Pony: Friendship is Magic × Project Elysian crossover (off-canon)*
 
 Project Elysian
 

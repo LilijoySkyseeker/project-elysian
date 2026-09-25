@@ -10,7 +10,7 @@
 ## How they want to work (2026-09-25)
 - **They review every brief** before drafting, and read every piece. End-to-end without them is the goal, once the pipeline has earned it.
 - **Delivery: ebooks** (EPUB), on a phone, an e-reader or a computer. **Low friction** is the requirement.
-- **Illustrations like the Narnia books**: small inline pictures that give the reader something to visualise without replacing the text. Generation via an **OpenRouter key** the owner will supply (it will also give access to other tools).
+- **Illustrations like the Narnia books**: small inline pictures that give the reader something to visualise without replacing the text. Generation via an **OpenRouter key** the owner will supply (it will also give access to other tools). **Deferred for now: text first** (2026-09-25).
 - **Tooling via Nix flakes.**
 - **Stories lead canon** (D-113).
 

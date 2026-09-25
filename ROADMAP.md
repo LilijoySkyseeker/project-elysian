@@ -6,7 +6,7 @@
 **Step 13, the production loop (standing).** On branch `claude/production-loop`, in order:
 1. **Purpose and canon policy.** This header, README, AGENTS.md; **D-113**, stories lead canon. ✅
 2. **Ebooks.** `tools/build_ebook.py` plus a `book.json` per work, building to `library/<work>.epub` and validated with epubcheck. X01 first.
-3. **Illustrations** (DOC-00I, drafted): Narnia-style inline spot illustrations. Generation waits for the owner's OpenRouter key.
+3. **Illustrations** (DOC-00I, drafted): Narnia-style inline spot illustrations. **Deferred (the owner, 2026-09-25): text first.** Generation waits for the owner's OpenRouter key.
 4. **The cold-session test** (DOC-00H §15), run by the owner on the whole loop: request → brief → story → EPUB.
 5. **Tooling** is managed with Nix flakes (`flake.nix`). ✅
 
