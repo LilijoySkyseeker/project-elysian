@@ -71,6 +71,14 @@
 52. **By breakfast on Thursday the 25th the town knew** (the miller and the night nurse; Clover Patch). **Applejack came to the boutique at 6:40 with Apple Bloom**: *"You told them before you told me."*
 53. **Rarity's gown** for the Countess Silverlace (who owes 40 on the last gown and 140 on this one) has one sleeve set a quarter-inch off. It was boxed for Thursday's eight o'clock train. Rarity owes Spike 60 bits and has 11.
 
+## Weeks three and four (chapter 8)
+54. **Haw** is home from the hospital with the arm bound in a sling the night nurse made from a flour sack; hir cracks eggs one-handed against hir knee, and eats four a day or more.
+55. **Teasel** had been moving hir own egg into the straw by Haw's head every morning since about day two. **The Cluster found out on the evening hir ate the fish** (week four).
+56. **Day fifteen:** the Crusaders came to the barn themselves (Applejack waited at the field gate). **Yarrow told the others on the radio that hir had known about the wagon for four days**, and Madder is angry. Madder asked the fillies *what was it like*; **Scootaloo told the stick**; Apple Bloom told the hand on the wagon and the bow; Sweetie Belle asked *what was it like for you*, and Madder didn't answer (*"Your account is received"*). **Teasel told them hir had smelled them first.** **The ribbon went back to Apple Bloom** (in her saddlebag, not her mane). Afterwards Madder sleeps a body's width from Yarrow.
+57. **Rushlight** (unnamed on the page so far) lives in a tarred cottage on the **town side of the weir**, with a barge's tiller for a gatepost. She pointed Teasel to **the deep pool under the weir apron**. **Fluttershy's stream joins the river below the weir.**
+58. **Week four:** Teasel caught, killed and ate a fish raw at the pool at dusk. A mare with two foals on the towpath saw; a foal said *"Gryphon"*. The town knew by morning. The egg mare puts her price up for the Kin. Pinkie asked Sloe *"Is she all right?"*
+59. **Four weeks on:** the tab is under two bits; rain on Tuesday and Thursday; Dash is on the crew line with Yarrow; Ruddock has given Yarrow a knot to tie; the rota is sent every dusk and nobody keeps it; Fluttershy looked toward the barn once from a distance, and went on.
+
 ## Standing facts
 - **The ship** carried about **1,400 Kin** (their Hum was the sky the five lived under) and a human crew besides. The five's Cluster slept in a web by the coolant bay. Crew names mentioned: Clary-6 (dead, before), Dunlin (alive, a rigger), Ilex (a joker on the training sims). Never shown.
 - **Five Kin, all present:** Madder-4, Sloe-5, Yarrow-3, Haw-2, Teasel. Nothing came with them but the plasma. No tools, no food: they were asleep.

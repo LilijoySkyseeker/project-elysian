@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 8 *(working title: "What There Is")*
 **Outline:** OUTLINE §8. **POV:** Teasel, close third, past tense, *hir*. **Target:** about 4,000–4,500 words (the last chapter). **Span:** weeks three and four, from about day fifteen (Saturday the 27th) to the end of the fourth week.
-**Status:** brief ✓ → predicted ✓ → drafted → linted → cold read + fidelity read → revised → owner
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold read + fidelity read ✓ → revised ✓ (1 round) → owner
 
 ---
 
@@ -109,4 +109,15 @@ Two mechanics: **the diet** (an acid gut built for dense protein; raw fish is fo
 ## Fidelity read
 Channels correct; the account (D-103) handled well; the ending works. **Continuity:** *"Ten days"* should be four (the wagon was day 11, the fillies day 15); the wrongness has lasted two weeks, not three; the ribbon "weeks ago" → days; no hen house at the barn; the tab arithmetic; Fluttershy downstream; Spike's debt unknowable to a Kin; Dash was off the line only one day; in ch. 7 two of them had already turned to Yarrow. **Missing:** the Cluster's reaction when it learns the cold place was Teasel's hunger (the biggest gap); touch while awake after the rift; ears and tails in the confrontation; the Core volunteering *Ten degrees*; the frog recall reads as an account without the frame feeling it; a content rider; Sloe sending clean. Plus physical clarity (doorway, bank) and no pony *she*. **Overall:** it ends better-not-perfect.
 ## Revision log
+**Round 1** (a fresh agent, 30 listed items): all done; about 4,250 words. Changes:
+- **Counts:** "four days"; two weeks of wrongness at the barn and three at the pool.
+- **The Cluster's burst** when it learns what the cold place was (Sloe counting back three weeks of eggs), cut off.
+- **Madder** lies down a body's width from Yarrow; Yarrow's reply to Madder becomes *[The small one's knees]*.
+- **Kin behaviour:** Madder's ears flat; the Core asked, not volunteering; the frog as a cold look-up; content riders trimmed; Sloe given riders; one beat in Teasel's thumbs after the kill.
+- **Pony *she*:** Pinkie's *"Is she all right?"* (Sloe: *"Right as rain"*).
+- **Glimpses varied:** Rarity eating toast over a letter.
+- **The plant** at the start folded into one clause; the last line unchanged.
+- **Cuts:** the stacked metaphors and about a dozen glosses.
+**Hand fixes:** the "three weeks" count unified; *"on the bank"* → *"in the ward"* (ch. 7's turn to Yarrow happened at the hospital); a flow pass (subordinators per *and* 0.47 → 0.50; chains 4.3/100).
+**Not re-run:** the readers.
 ## Owner's read
