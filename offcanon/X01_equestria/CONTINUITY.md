@@ -43,6 +43,17 @@
 32. **Teasel:** the low, steady something in the frame is there from day two, with no cause any of them can find. Hir sends less each time (*"I'm fine. Is anyone else hungry?"* → *"I'm fine. I had mine"* → *"Fine"*).
 33. **Pronouns:** the Mayor and Applejack say *it* (15th); **Applejack's tab has *she* by the 16th**.
 
+## The first week (chapter 5)
+34. **Calendar:** day three is **Monday the 15th**, the fourth morning is Tuesday the 16th, and Twilight's first visit is **day five, Tuesday the 17th**. (Clover Patch delivers Monday, Wednesday and Friday; the radish stallion's rain, forecast for Thursday and then Friday, **does not come in week one**. Yarrow's first rain is in week two, ch. 6.) Twilight's letter came on the evening of day four, the miller on day six, the Treasury form on day seven, and the night visit on the night of day seven into day eight.
+35. **Food cost:** about **45 bits a day** for the five on a walnut/egg mix, and 70 on eggs alone. There aren't enough walnuts. The chit is 25 a week. The town's poor fund is **110 bits for the whole spring**. Twilight wrote to the **Royal Treasury**; the answer is *being considered*, with a form (*Names of persons (with numbers)*).
+36. **Names given to Twilight:** Madder gave "Madder-four"; the others gave no number.
+37. **Unicorn magic, first sight:** Twilight's floating quill and notebook on day five. All five went still, and Sloe said afterwards it was *"like weather"*. She now writes with a pencil in her mouth at the barn.
+38. **Haw sat on the mill roof at dawn** on day six, above the wheel, having walked the river road from the barn in the dark. The miller complained to Twilight, and Madder said "Understood".
+39. **Twilight saw the heap on the night of day seven**, thought for a moment they were dead, saw a shiver go through all five under her horn-light, and left. **She has told nobody.**
+40. **Spike** is polishing thirty sapphires for Rarity's Canterlot commission; **Rarity hasn't paid him**, because Canterlot hasn't paid her.
+41. **Twilight's index:** about 3,000 cards due at the equinox, and about 420 done. Nobody knows, and Spike thinks it's nearly finished.
+42. **Units:** ponies measure in pounds, miles and feet; the Kin in metric.
+
 ## Standing facts
 - **The ship** carried about **1,400 Kin** (their Hum was the sky the five lived under) and a human crew besides. The five's Cluster slept in a web by the coolant bay. Crew names mentioned: Clary-6 (dead, before), Dunlin (alive, a rigger), Ilex (a joker on the training sims). Never shown.
 - **Five Kin, all present:** Madder-4, Sloe-5, Yarrow-3, Haw-2, Teasel. Nothing came with them but the plasma. No tools, no food: they were asleep.

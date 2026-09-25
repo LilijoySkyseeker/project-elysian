@@ -51,7 +51,10 @@ The seed barn on the river road, about 4 km from town, the river at the bottom a
 ---
 
 ## Lint
+**Draft 1 (3,817 words):** **flow failed**: 8.1 and-chained narration sentences per 100 (limit 6); subordinators per *and* 0.67. "four" ×14. **Recycled from CH04:** the barn and river-road descriptions (*the river going by at the bottom*, *the forest edge still had smoke*…). Voice distance to CH04 0.95 (nearest).
 ## Cold read
+Flicker at line 13 (*"the kind of thing that would soon be true"*); **sure at 81** (*"That had been a turning. This was a stopping"* and *"the quiet it left behind was loud"*). Confirmed by *"like weather, up close"* and the three cups of tea tied off as a set. Explaining lines: about eleven, including the rule about how ponies sleep and *"the dead don't make movements"*. Buttons: *"on schedule"*, *"We didn't know ears did that"*, *"That's all I've got"*. Mannerism: *saw X see it* ×2. The pronoun drift was noticed, and the reader wasn't sure it was deliberate. The worst moment is after the middle (*"how many"*), and the form and names are left open, to the chapter's credit.
 ## Fidelity read
+**Heap: right** for theta lock. **Quill reaction:** mostly right. Ears flat first reads as mammal fear. The recovery is too fast. Haw is not curious about the quill. **Touch missing in daylight**, and Sloe's ears aren't fanned in the sun. Madder's "Haw" aloud is borderline. **The arithmetic is backwards** (walnuts are the cheap kcal: about 20 bits a day on walnuts, 65–70 on eggs). POV leak: "Yarrow had rehung". The cabbages were on a different road. The Mayor/unicorn line is unsupported. "Tuesday" needs a calendar. Sloe has no pony idiom. Pronoun drift judged right.
 ## Revision log
 ## Owner's read
