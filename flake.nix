@@ -1,7 +1,8 @@
 {
   description = "Project Elysian: tools for agent-built stories (linter, ebook builder, validators)";
 
-  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.11";
+  # git+https (shallow) instead of github: so no GitHub API is needed (the cloud sandbox only allows git reads).
+  inputs.nixpkgs.url = "git+https://github.com/NixOS/nixpkgs?ref=nixos-24.11&shallow=1";
 
   outputs = { self, nixpkgs }:
     let
