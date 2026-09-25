@@ -1,6 +1,6 @@
 # BRIEF — X01 chapter 5 *(working title: "Liaison")*
 **Outline:** OUTLINE §5 plus the Magic thread. **POV:** Twilight Sparkle, close third, past tense. **Target:** about 3,500 words. **Span:** the first week: the evening of day four to the small hours of about day eight, over several nights.
-**Status:** brief ✓ → predicted ✓ → drafted → linted → cold read + fidelity read → revised → owner
+**Status:** brief ✓ → predicted ✓ → drafted ✓ → linted ✓ → cold read + fidelity read ✓ → revised ✓ (1 round) → owner
 
 ---
 
@@ -57,4 +57,13 @@ Flicker at line 13 (*"the kind of thing that would soon be true"*); **sure at 81
 ## Fidelity read
 **Heap: right** for theta lock. **Quill reaction:** mostly right. Ears flat first reads as mammal fear. The recovery is too fast. Haw is not curious about the quill. **Touch missing in daylight**, and Sloe's ears aren't fanned in the sun. Madder's "Haw" aloud is borderline. **The arithmetic is backwards** (walnuts are the cheap kcal: about 20 bits a day on walnuts, 65–70 on eggs). POV leak: "Yarrow had rehung". The cabbages were on a different road. The Mayor/unicorn line is unsupported. "Tuesday" needs a calendar. Sloe has no pony idiom. Pronoun drift judged right.
 ## Revision log
+**Round 1** (a fresh agent, 22 listed items): all done; 3,985 words.
+- **Facts:** 45 bits a day (70 on eggs alone); miles and feet for ponies; "doorpost" for the door; ch. 4's recycled description re-seen; no cabbages; no POV leak.
+- **Kin behaviour:** touch in daylight (Madder's hind hand on Teasel, Haw leaning on Sloe); Sloe's ears fanned from the sun, which Twilight misreads as annoyance; Twilight flinches from the touch on her mane; Haw's hand comes back *before* Madder's "Haw", which she notices.
+- **The quill:** ears flat as against a gale, then wide; Madder's huff; a slower recovery, with the five glancing at each other; Haw curious and stopped by Sloe's hand.
+- **Idiom:** Sloe's *"We don't bite the hoof that feeds us"*.
+- **Cuts:** the turning/stopping and loud-quiet lines, "the dead don't make movements", and the three cups of tea as a set (now one cup).
+- **Flow:** chains 8.1 → 0.4 per 100.
+**Hand pass:** the flow fix had chopped the narration (mean sentence 10.5 words, CV 0.71), the choppiness the owner objected to in ch. 1. About a dozen sentences were rejoined with *which*, *when* and *so that*. Result: chains 0.9/100, 0.83 subordinators per *and*, mean 10.9, CV 0.77. "five" ×13 kept (the heap, "how many").
+**Not re-run:** the readers.
 ## Owner's read
