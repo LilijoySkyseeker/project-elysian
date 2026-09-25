@@ -1,0 +1,57 @@
+# BRIEF — X01 chapter 5 *(working title: "Liaison")*
+**Outline:** OUTLINE §5 plus the Magic thread. **POV:** Twilight Sparkle, close third, past tense. **Target:** about 3,500 words. **Span:** the first week: the evening of day four to the small hours of about day eight, over several nights.
+**Status:** brief ✓ → predicted ✓ → drafted → linted → cold read + fidelity read → revised → owner
+
+---
+
+## 1. The want
+Twilight wants to do this properly: to look after five strangers in her town the way Princess Celestia asked, and to be good at it, which she is. **Under that:** she wants the hidden thing to go away. She is weeks behind on the job Celestia gave her before any of this, and she hasn't told anyone, and every hour she gives the visitors is an hour she isn't giving it.
+
+## 2. The shape (several nights; the quiet chapter)
+- **The hidden job:** a full **index of the royal library's catalogue of pre-Nightmare manuscripts**, one card per item, about **three thousand cards**, promised to Celestia **by the equinox**. She has done **about four hundred**. The cards are in a shoebox on her desk, held with a rubber band that has already snapped once and been knotted. Nobody knows. Spike thinks it's nearly finished, because she told him it was.
+- **Evening of day four: the letter.** Spike brings it up in the usual way, mid-sentence about something of his own. Celestia's note is short and kind: the Mayor has written to her, and would Twilight please *look after the visitors*. (One line of it quoted at most. **Not** a friendship report and not "Dear Princess Celestia" from Twilight.) Twilight makes a list, and she's good at lists.
+- **Day five: the barn, in daylight.** She walks out on the river road with her list. The five, as a pony sees them: they go still at once, and turn together; they touch without noticing; the pause before they answer is shorter than it was a week ago; careful plain speech; first names. Sloe does the talking, and she's tired and funny. Madder asks exact questions back. Twilight asks **practical** things only: food, water, cold at night, whether anyone is ill. She is **not studying them**, and there is no time to.
+- **The magic, first sight (the Magic thread).** Partway through, without thinking, she floats her quill and notebook out of her saddlebag to write, as she has done every day of her life. **All five go still.** Their ears go wrong: flat, then wide. One of them (Yarrow or Teasel) takes a step back, and another makes a small sound. Haw's tail goes round Sloe's leg. For a moment nobody answers her. **She misreads it**: she decides they're frightened of unicorns (the Crusaders' story has horns in it now, garbled, or they've never seen one), and she's a little hurt, and she puts the quill away and **writes the rest of the visit with the pencil in her mouth**, badly, which is kind, and she doesn't mention it. She doesn't know what she saw, and nor does the reader, beyond what she sees. Sloe, afterwards, says something small and not quite an explanation (*"It was like weather,"* or the like), and Twilight doesn't understand it and writes it down anyway.
+- **Days five to seven: the week's work.** Seen in pieces, fast, as her week is. She goes to the Mayor about the chit and learns the arithmetic Sloe already knows; she writes to Canterlot for money for the food, and the answer is that it is *being considered*. The miller comes to the library to complain that one of them was on the mill roof at dawn (Haw). Somepony won't let their foal walk past the barn. Twilight fixes **none of it properly**: late, partial, polite. She is good at this and it isn't enough. The index doesn't move.
+- **Spike, alongside:** he runs the library while she's out, and he has **his own small gem-polishing trade**: customers, a price list chalked on a slate in his own spelling, and real pride in it. His biggest order this month is **for Rarity**, gems for her big Canterlot commission, and **Rarity hasn't paid him yet** (her client hasn't paid her; that's ch. 7's, unexplained here). He mentions it once, sideways. Twilight doesn't hear it properly, and he doesn't say it twice. **Neither of them notices the other is struggling.** That is the thread, and nobody states it.
+- **After the middle, the worst of it (about night seven):** she walks out to the barn **late at night** with a question that could have waited until morning (whether the Canterlot form wants their names with the numbers or without, or whether they need blankets; something small and hers). The door is open a crack. She lights her horn to see. **The five are in one heap in the straw**, storm posture, foreheads in and tails wound together, and **not moving. Not breathing that she can see.** She stands there, and for a long terrible moment she thinks they are dead: all five, all at once, in her town, on her watch. She counts. She thinks about the doctor, about the letter she would have to write. Then, **with her horn-light still on them, a shiver goes through the whole heap at once**: five bodies, one movement, the tails tightening together, and then still again. She doesn't know that her light did it (the near-field weather); she only knows that they're alive. She puts the light out. She leaves without waking them. **She tells nobody what she thought.**
+- **Ending: unresolved, image.** Back at the library, the night half gone: the index open on the desk, the card she stopped on, the knotted rubber band, three cups of tea she made and didn't drink. Spike asleep. Stop there. No decision, no letter, no resolution.
+
+## 3. What is lost
+Time, which she can't get back, and the thing she was sure of at the start of the week: that doing it properly is enough.
+
+## 4. Voice card
+**Twilight** (VOICES.md) in the narration: organised, exact, fast when anxious, kind. Her mind makes lists and ranks them, and the narration can have her lists in it (briefly). **She loves this town**: let her notice it (the library at night, the market bell, her friends glimpsed at the edges) without making a speech of it. **Every pony POV has a person in it** (VOICES): mutters under her breath, her reactions, thoughts of her own that have nothing to do with the Kin (the index, Celestia, a book she means to reread, what she'll say to Spike). **Not** "Fascinating!", not the research-subject arc, not a scan spell, not a spell cast on them, not a friendship letter, not a comic freak-out.
+**Spike:** quick, sarcastic, a kid, proud of his trade. **Not** comic relief; no gem-eating gag; not jealous of the visitors.
+**The Mayor, the miller:** working ponies with a problem, not villains.
+**Pronouns:** Twilight starts with *it* for one of them, and *they* for the five; over the week she moves to *she*, without remarking on it (VOICES). By the night scene it's *she*.
+
+## 5. The Kin, from outside (she can't hear the radio)
+Stillness all at once, heads turning together, ears she misreads, constant touch, careful speech with a pause, first names. Sloe tired and warm, too many words; Madder exact; Haw everywhere, delighted, rude without noticing; Yarrow big and quiet, hands always on some part of the barn; Teasel small, watching what everyone eats, and **thinner** than a week ago (she notices, and writes it down, and does nothing with it yet). **The bow is on Teasel's wrist, and Twilight does not see it** (hidden in the heap at night; covered or out of sight by day). No Apple is present.
+
+## 6. Lore budget
+Two mechanics, both seen from outside, neither explained: **the Kin reaction to magic** (near-field weather: uncomfortable, never useful) and **the theta lock** (the heap asleep: still, slowed, synchronised). Everything else is behaviour.
+
+## 7. Continuity (CONTINUITY.md governs)
+The seed barn on the river road, about 4 km from town, the river at the bottom and swallows in the rafters; Yarrow's rehung door. The chit and Sloe's tab at Applejack's (ch. 4). The weather team has been on the forest edge since day one. **No Kin has seen unicorn magic before this chapter.** Haw has been climbing. Teasel is losing weight, and the cause is not known. The Crusaders' secret holds; the wagon has not been found yet (ch. 6).
+
+## 8. Details that demonstrate nothing (at least three)
+1. The shoebox of index cards with the knotted rubber band.
+2. Spike's slate: *POLISHING — rubys, sapphires, anything shiny. NO opals (to fiddly).*
+3. Three cups of tea, made and not drunk, going cold in different places around the library.
+4. The miller's hat, which he keeps on indoors and takes off only to hit his own leg with it.
+
+## 9. The predictable list (Stage 2): the drafter must not use any of it
+- **Versions:** Twilight studies them (a notebook of observations, a scan spell, "Fascinating!", tests); Twilight bonds with a Kin over books or learning; the chapter as a friendship-report letter; Twilight's comic freak-out over the deadline; Spike jealous of the visitors; the dead-seeming heap as a comic mix-up where they wake up and everyone laughs; Twilight solving it with magic (a warming spell, conjured food, a translation spell); Celestia arriving or writing the answer.
+- **Beats:** *"Dear Princess Celestia"*; a comically long checklist; Spike telling her to go to bed; a gem-eating joke; invasive questions (how do you reproduce, what's your culture, what are you); a Kin reciting something word-perfect to amaze her; offering them books to learn to read; the Kin panicking loudly at her horn; a spell cast on them; tears at the heap, then waking them; telling her friends at breakfast; Twilight finding the mirror or suspecting the Crusaders; *"It had been a long week."*
+- **Openings:** *"Twilight Sparkle had a list."*; *"Dear Princess Celestia"*; Spike burping a letter as the first line; *"It had been a long week."*; the library at dawn.
+- **Endings:** Twilight asleep at the desk and Spike putting a blanket over her; a letter written; *"She would tell them tomorrow."*; Twilight smiling at the index; *"They were alive."*; a resolution of any kind.
+- **Most obvious overall:** the scholar and her fascinating subjects, where the crisis is the deadline, the heap is a scare played for relief, and she learns to ask for help. **Changed:** she has no time to study them and doesn't; the magic moment is misread both ways; the heap is a real terror, nobody laughs, and she tells nobody; the chapter ends with nothing asked and nothing solved.
+
+---
+
+## Lint
+## Cold read
+## Fidelity read
+## Revision log
+## Owner's read
