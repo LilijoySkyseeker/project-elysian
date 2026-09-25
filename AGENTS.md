@@ -2,7 +2,11 @@
 Instructions for any agent (Claude Code or otherwise) working in this repository. `CLAUDE.md` points here.
 
 ## What this is
-**Project Elysian** is a world-and-species archive for the **Kin** (*Aethela*), a human-engineered successor species. Most of it is **fiction**: canon documents, a collection of scenes, and the tools and research for writing them well. The owner reads everything that is written. `README.md` has the full map.
+**Project Elysian** is a world-and-species archive for the **Kin** (*Aethela*), a human-engineered successor species. `README.md` has the full map.
+
+**What this repository is for** *(the owner, 2026-09-25)*. A world the owner builds, or has built, that pays them back in stories they enjoy. It combines canon, resources, tools, exemplars and a production process so that **agents can create media from it**: stories first, delivered as **ebooks**, with illustrations and other media to follow. The loop is: the world → agents → a work → **the owner's read** → the owner's notes back into the world and the tools. **The best stories are canon:** when a story is better for a change, canon changes, within the world's internal consistency (D-113).
+
+**How the owner works with it (2026-09-25):** the owner **reviews every brief** before drafting and **reads every piece** before it is passed. End-to-end without them is the goal, not yet the practice. Finished works go to them as **EPUB** (`library/`).
 
 ## Before you do anything
 | If you are… | Read first |
@@ -10,7 +14,8 @@ Instructions for any agent (Claude Code or otherwise) working in this repository
 | writing or revising **any fiction** | `docs/DOC-00G` (the standard, **§10: what X01 taught**), `docs/DOC-00H` (the pipeline, **§13–§15**), `research/OWNER_TASTE.md` (the owner's standing notes). Then run `/scene`. |
 | writing a **work in chapters** | the above, then `templates/long_work/README.md`, and the worked example `offcanon/X01_equestria/` |
 | writing **Kin dialogue** | `docs/DOC-00D` (the six channels); the X01 card "How Kin talk among Kin" in `offcanon/X01_equestria/VOICES.md` |
-| checking or changing **canon** | `CANON.md` (the numbers and the decision log) and `AUDIT.md`. **The design is closed (D-96):** a ruling is drafted only when a scene demands it, and only the owner rules. |
+| checking or changing **canon** | `CANON.md` (the numbers and the decision log) and `AUDIT.md`. **Stories lead canon (D-113, amending D-96):** a story that is better for a change proposes a ruling; a ripple check lists everything it touches; **only the owner rules**. |
+| building an **ebook** | `tools/build_ebook.py` and the work's `book.json`; output in `library/`. Validate with `epubcheck`. |
 | using the **linter** | `python3 tools/tells.py scene <file>` (see `--help`; `--counting-pov` for a teller who counts for a living) |
 
 ## The exemplar
@@ -33,6 +38,9 @@ Instructions for any agent (Claude Code or otherwise) working in this repository
    - update the continuity file.
 3. **The default Kin cast is a Cluster** (DOC-00G §10.1).
 4. **The owner passes work. No model reader does.** Short praise from the owner is a normal pass (`research/OWNER_TASTE.md`).
+
+## Tools: Nix
+All tooling comes from the flake: **`nix develop`** gives python3, epubcheck, zip and gawk (`flake.nix`). Run one command with `nix develop -c <command>`. The tools are also plain Python 3 with no dependencies, so `python3 tools/…` works without Nix. In the cloud sandbox, nixpkgs is fetched over shallow git (no GitHub API). If `nix` is not on `PATH`, run `. /root/.nix-profile/etc/profile.d/nix.sh`.
 
 ## Repository habits
 - **Log decisions where they live.** Owner's notes go into the brief's *Owner's read* and into `research/OWNER_TASTE.md`. New facts go into the work's `CONTINUITY.md`. Rulings go into `CANON.md` (owner only).

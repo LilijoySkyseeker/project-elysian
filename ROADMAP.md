@@ -1,4 +1,18 @@
 # PROJECT ELYSIAN — DESIGN ROADMAP
+
+## ▶ Where the project is (2026-09-25): the production phase
+**What this repository is for** *(the owner, 2026-09-25)*. A world the owner builds, or has built, that pays them back in stories they enjoy. It combines canon, resources, tools, exemplars and a production process so that **agents can create media from it**: stories first, delivered as **ebooks**, with illustrations and other media to follow. The loop is: the world → agents → a work → **the owner's read** → the owner's notes back into the world and the tools. **The best stories are canon:** when a story is better for a change, canon changes, within the world's internal consistency (D-113).
+
+**Step 13, the production loop (standing).** On branch `claude/production-loop`, in order:
+1. **Purpose and canon policy.** This header, README, AGENTS.md; **D-113**, stories lead canon. ✅
+2. **Ebooks.** `tools/build_ebook.py` plus a `book.json` per work, building to `library/<work>.epub` and validated with epubcheck. X01 first.
+3. **Illustrations** (DOC-00I, drafted): Narnia-style inline spot illustrations. Generation waits for the owner's OpenRouter key.
+4. **The cold-session test** (DOC-00H §15), run by the owner on the whole loop: request → brief → story → EPUB.
+5. **Tooling** is managed with Nix flakes (`flake.nix`). ✅
+
+The design history (Steps 1–12) follows unchanged.
+
+---
 **Where the design is (2026-09-22):** CLOSED at v3.2. Twenty-six documents, one hundred and two rulings, sixteen scenes (S013–S015 retired; numbers not reused). **The order of work has inverted (D-96):** from here a ruling is drafted only when a scene has demanded it, and is discharged by a scene before the next is made. Steps 1–11 are the record of the design phase; **Step 12 is the standing work.**
 
 **Where to go next, in order.** Each step is scoped so it can be done in one working session and unblocks the ones after it.

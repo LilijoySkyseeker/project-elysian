@@ -7,6 +7,13 @@
 - They push back in the form *"pushback on this if you need to"*. Disagree when you have a reason, and give the reason.
 - They think in physics and physiology. When they give a mechanism (*low brain activity → low O₂ demand → rare, synchronised breaths*), build on it and check it with numbers.
 
+## How they want to work (2026-09-25)
+- **They review every brief** before drafting, and read every piece. End-to-end without them is the goal, once the pipeline has earned it.
+- **Delivery: ebooks** (EPUB), on a phone, an e-reader or a computer. **Low friction** is the requirement.
+- **Illustrations like the Narnia books**: small inline pictures that give the reader something to visualise without replacing the text. Generation via an **OpenRouter key** the owner will supply (it will also give access to other tools).
+- **Tooling via Nix flakes.**
+- **Stories lead canon** (D-113).
+
 ## What "good" means to them (their words, X01, 2026-09-24/25)
 - **No rehash** of source material. Canon events may have happened; they are not shown.
 - **Characters are people with lives beyond the page**: money, work, family, bad days, things they're wrong about.

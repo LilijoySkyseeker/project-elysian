@@ -1,5 +1,9 @@
 # PROJECT ELYSIAN — World & Species Archive
-**Species:** Aethela (*Homo Sapiens Successor*) · **Self-Name:** The Kin · **Working dir for the design effort.**
+**Species:** Aethela (*Homo Sapiens Successor*) · **Self-Name:** The Kin
+
+**What this repository is for** *(the owner, 2026-09-25)*. A world the owner builds, or has built, that pays them back in stories they enjoy. It combines canon, resources, tools, exemplars and a production process so that **agents can create media from it**: stories first, delivered as **ebooks**, with illustrations and other media to follow. The loop is: the world → agents → a work → **the owner's read** → the owner's notes back into the world and the tools. **The best stories are canon:** when a story is better for a change, canon changes, within the world's internal consistency (D-113).
+
+The design phase (Steps 1–12 of `ROADMAP.md`) built the species; the production phase (Step 13) makes things from it.
 Source material lives in the Obsidian vault (`~/Documents/Vault/Projects/Project Elysium/Aethela`); this directory is the organized, audited working copy. Vault originals are untouched.
 
 ## Start here
