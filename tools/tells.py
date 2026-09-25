@@ -49,6 +49,10 @@ LIMITS = {
     # with "and" instead of ordering them; the owner read it as "disjointed, not quite full prose".
     "and_chain_per_100": 6.0,     # narration sentences with three or more "and", per 100 narration sentences
     "sub_per_and_min": 0.5,       # subordinators per "and" in narration
+    # Chopped prose: the overcorrection of the flow rule (X01 ch. 5 r1 went to CV 0.71). Warned, not failed.
+    # Estee's 10th percentiles, per chapter (research/R03; X01 debrief 2026-09-25): narration mean 10.6, CV 0.73.
+    "narr_mean_len_warn": 10.6,
+    "cv_len_warn": 0.73,
 }
 
 SUBORDINATORS = re.compile(r"\b(because|when|while|although|though|since|until|unless|after|before|so\s+that|if|"
@@ -230,6 +234,7 @@ class Metrics:
     participle_per_k: float       # ", verb-ing" clauses per 1000 words
     and_chain_per_100: float      # narration sentences with 3+ "and", per 100 narration sentences
     sub_per_and: float            # narration subordinators per "and"
+    narr_mean_len: float          # mean narration sentence length (dialogue and Kin-code excluded)
     number_repeats: dict[str, int]
     opener_top: list[tuple[str, int]]
     ending: str
@@ -268,6 +273,8 @@ def measure(scene: Scene) -> Metrics:
     nsubs = sum(len(SUBORDINATORS.findall(t)) for t in narr)
     and_chain = 100 * nchain / max(1, len(nsents))
     sub_per_and = nsubs / nands if nands else 9.99
+    nlens = [len(WORD.findall(x)) for x in nsents] or [0]
+    narr_mean = statistics.mean(nlens)
 
     wc = Counter(words)
     cap = max(LIMITS["number_word_repeat"], len(words) // 350)
@@ -282,13 +289,26 @@ def measure(scene: Scene) -> Metrics:
     ending = pars[-1].text if pars else ""
     return Metrics(len(words), len(sents), mean, cv, one_sent, stinger_ratio, len(secs),
                    dialogue, 1000 * emd / max(1, len(words)), and_chains,
-                   1000 * participles / max(1, len(words)), and_chain, sub_per_and, reps,
+                   1000 * participles / max(1, len(words)), and_chain, sub_per_and, narr_mean, reps,
                    openers.most_common(4), ending)
 
 
 # ─────────────────────────────────────────────────────────────── budgets
 
-def judge(scene: Scene, hits: list[Hit], m: Metrics) -> list[str]:
+def warnings(m: Metrics, counting_pov: bool = False) -> list[str]:
+    """Things a reader should look at that are not failures."""
+    w = []
+    if m.narr_mean_len < LIMITS["narr_mean_len_warn"] or m.cv_len < LIMITS["cv_len_warn"]:
+        w.append(f"possibly chopped: narration mean {m.narr_mean_len:.1f} words, CV {m.cv_len:.2f} "
+                 f"(Estee's 10th percentile {LIMITS['narr_mean_len_warn']} / {LIMITS['cv_len_warn']}); "
+                 "a flow fix that shortens every sentence is the overcorrection (DOC-00G §2.7)")
+    if counting_pov:
+        for word, n in m.number_repeats.items():
+            w.append(f"number words: '{word}' ×{n} (reported, not failed: --counting-pov)")
+    return w
+
+
+def judge(scene: Scene, hits: list[Hit], m: Metrics, counting_pov: bool = False) -> list[str]:
     """Return a list of budget failures (empty = within budget)."""
     fails = []
     per_k = 1000 / max(1, m.words)
@@ -309,8 +329,9 @@ def judge(scene: Scene, hits: list[Hit], m: Metrics) -> list[str]:
         fails.append(f"stingers: {m.stinger_ratio:.0%} of sections end on a short one-liner (limit {LIMITS['stinger_ratio']:.0%})")
     if not documentary and m.one_sentence_pars > LIMITS["one_sentence_par_ratio"]:
         fails.append(f"one-sentence paragraphs: {m.one_sentence_pars:.0%} (limit {LIMITS['one_sentence_par_ratio']:.0%})")
-    for w, n in m.number_repeats.items():
-        fails.append(f"number tic: '{w}' ×{n}")
+    if not counting_pov:     # a teller who counts for a living (a quartermaster) is exempt, and reported instead
+        for w, n in m.number_repeats.items():
+            fails.append(f"number tic: '{w}' ×{n}")
     if m.and_chain_per_100 > LIMITS["and_chain_per_100"]:
         fails.append(f"flow: {m.and_chain_per_100:.1f} and-chained narration sentences per 100 (limit {LIMITS['and_chain_per_100']}; "
                      "order the clauses: because / when / so / which)")
@@ -362,17 +383,20 @@ def recycled(scenes: list[Scene], n: int, min_scenes: int) -> list[tuple[str, li
 
 # ─────────────────────────────────────────────────────────────── reports
 
-def report_scene(path: Path, pats: list[Pattern], corpus: list[Scene] | None = None) -> tuple[str, bool]:
+def report_scene(path: Path, pats: list[Pattern], corpus: list[Scene] | None = None,
+                 counting_pov: bool = False) -> tuple[str, bool]:
     s = parse_scene(path)
     hits = find_hits(s, pats)
     m = measure(s)
-    fails = judge(s, hits, m)
+    fails = judge(s, hits, m, counting_pov)
     out = [f"# tells — {s.sid} {s.title}", "",
            f"POV: {s.pov or '?'} · Form: {s.form} · {m.words} words · {m.sentences} sentences · {m.sections} sections", ""]
     out += ["## Budget", ""]
     out += ([f"- ✗ {f}" for f in fails] or ["- ✓ within budget (this proves nothing about quality — DOC-00G §8)"])
+    out += [f"- ⚠ {w}" for w in warnings(m, counting_pov)]
     out += ["", "## Shape", "",
-            f"- sentence length: mean {m.mean_len:.1f} words, variation (CV) {m.cv_len:.2f}",
+            f"- sentence length: mean {m.mean_len:.1f} words (narration {m.narr_mean_len:.1f}), variation (CV) {m.cv_len:.2f} "
+            "(Estee 13.3 / 13.8 / 0.80)",
             f"- one-sentence paragraphs: {m.one_sentence_pars:.0%}",
             f"- sections ending on a short one-liner: {m.stinger_ratio:.0%}",
             f"- dialogue share of characters: {m.dialogue_share:.0%}",
@@ -569,7 +593,7 @@ def report_baseline(folder: str, pats: list[Pattern]) -> str:
             for h in find_hits(sc, pats):
                 if h.pat.status != "watch":
                     kinds[h.pat.kind] += 1
-            for k in ("mean_len", "cv_len", "one_sentence_pars", "dialogue_share", "emdash_per_k", "participle_per_k"):
+            for k in ("mean_len", "narr_mean_len", "cv_len", "one_sentence_pars", "dialogue_share", "emdash_per_k", "participle_per_k"):
                 shape[k].append(getattr(m, k))
             if m.sections >= 3:
                 shape["stinger_ratio"].append(m.stinger_ratio)
@@ -583,7 +607,7 @@ def report_baseline(folder: str, pats: list[Pattern]) -> str:
     for kind in ("reframe", "gnomic", "explain", "hedge", "lexicon"):   # tropes are Elysian-only beats
         a, b = 1000 * rk[kind] / rw, 1000 * ok[kind] / ow
         out.append(f"| {kind} per 1000 words | {a:.2f} | {b:.2f} | {b / a if a else float('inf'):.1f}× |")
-    for k, fmt in (("mean_len", "{:.1f}"), ("cv_len", "{:.2f}"), ("one_sentence_pars", "{:.0%}"), ("dialogue_share", "{:.0%}"),
+    for k, fmt in (("mean_len", "{:.1f}"), ("narr_mean_len", "{:.1f}"), ("cv_len", "{:.2f}"), ("one_sentence_pars", "{:.0%}"), ("dialogue_share", "{:.0%}"),
                    ("emdash_per_k", "{:.1f}"), ("participle_per_k", "{:.1f}"), ("stinger_ratio", "{:.0%}")):
         out.append(f"| {k} (median) | {fmt.format(rs.get(k, 0))} | {fmt.format(os_.get(k, 0))} | |")
     for w in ("three", "four", "eleven"):
@@ -597,6 +621,8 @@ def main(argv: list[str] | None = None) -> int:
     a = sub.add_parser("scene", help="report on one or more scenes; exit 1 if any is over budget")
     a.add_argument("paths", nargs="+")
     a.add_argument("--no-corpus", action="store_true", help="skip recycling and voice-distance checks")
+    a.add_argument("--counting-pov", action="store_true",
+                   help="the teller counts for a living (e.g. a quartermaster): report number words instead of failing them")
     a.add_argument("--patterns", help="pattern table to use instead of tools/tells_patterns.tsv (e.g. a side project's own)")
     a.add_argument("--corpus-glob", action="append", help="glob(s), relative to the repo root, for the comparison corpus "
                    "instead of the Elysian scenes; repeatable")
@@ -613,7 +639,7 @@ def main(argv: list[str] | None = None) -> int:
                                               if c.paragraphs]
         ok_all = True
         for p in args.paths:
-            text, ok = report_scene(Path(p), pats, corpus)
+            text, ok = report_scene(Path(p), pats, corpus, args.counting_pov)
             print(text)
             ok_all &= ok
         return 0 if ok_all else 1
