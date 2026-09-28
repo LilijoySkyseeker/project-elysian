@@ -121,7 +121,20 @@ Line numbers are the prose file's own (prose only, from "Choosing which hours is
   - L195–199 "The frame had the weather." Rue is sixteen and pushing, so the exchange can stay if it misfires: Rue should answer a different question.
 - **The opening saying.** It is a line hir has *heard* said at every Telling, so it belongs to someone. It is kept as heard speech, not as the narrator's rule: "Everyone said the choosing was the rite."
 
+**Fidelity reader** (canon checked: DOC-00D, D-92/99/102–104, DOC-11):
+- **Channels:** no Kin speaks aloud to Kin, which is correct. Aster sends every line clean even when spent. By DOC-00D §1C/§8 a tired Kin leaks, so one or two of hir last lines should carry a rider.
+- **Ears:** "could not keep hir ears up" is a dog's reading of ears. In canon, ears flat means cold or exhaustion.
+- **Numbers:**
+  - *all four hours in a second and a half*: four hours cold is 14,400 s ÷ 52 = 277 s. A human cannot receive a record either way.
+  - *Rue could have them cold with the rest*: the *Gannet* is fifty-two years back, so it is not in this year's stream.
+  - *from seven sides* / *eight people*: five Kin were on the line, and the rest had only the weather of it.
+- **Calendar:** agrees with the orchestrator's computation. With one read head, the stream pauses for lived hours, so the stream cannot end on the seventh day even with none. Fix: the fourth morning, the fourth afternoon, the sixth night, and the eighth day.
+- **Dell's visits and the lived tally:** agrees (44 visits contradicts "most afternoons"; the shown lived hours total ≈3 h 05).
+- **Range:** a frame of ~12 km, the Hum at 800 km, and "a rider does not carry" all check out.
+- **Open, not fixed:** the *Gannet* salvage was "off Pallas", while Dell has been seventy years on the spire. This is fine if she crewed away on a job; left for the owner.
+
 ## Revision log (Stage 6 — max two model rounds)
+**Round 1 (2026-09-28).** A fresh reviser worked from a numbered list (scratchpad `REVISE_r1.md`, 47 items): continuity fixes first (calendar, visit tally 260 h / 219 visits, lived tally 3 h 18, the catch crew, the *Gannet* arithmetic, a tired rider, ears), then the cut list, then a keep list. Target length 3,300–3,800. Output: `drafts/S027_real_time_v2.md`; v1 kept.
 
 ## Owner's read (Stage 7)
 
