@@ -1,11 +1,11 @@
 # SCENE 027 — Real Time (v2)
-**POV:** Kin (Aster-5) · **Version:** v2, revision round 1 (2026-09-28), from `scenes/S027_real_time.md` (v1, kept). Header and canon notes are rewritten at the canon check, after the owner's read.
+**POV:** Kin (Aster-5) · **Version:** v2, revision rounds 1–2 (2026-09-28), from `scenes/S027_real_time.md` (v1, kept). Header and canon notes are rewritten at the canon check, after the owner's read.
 
 ---
 
 Everyone said the choosing was the rite.
 
-Aster had heard it said at every Telling hir had sat through in two hundred and forty years, and hir had carried three, and hir had believed it. Someone else's chest going up and down against hirs for a week; every so often the rhythm of it changing as they went down into an hour and lived it again, and came back up a little further away than before. *So that is the rite,* hir had thought. *The choosing.* It had looked like the easy part.
+Aster had heard it said at every Telling hir had sat through in two hundred and forty years, three of them hir own to carry, and had believed it. Someone else's chest going up and down against hirs for a week; every so often the rhythm of it changing as they went down into an hour and lived it again, and came back up a little further away than before. *So that is the rite,* hir had thought. *The choosing.* It had looked like the easy part.
 
 Hir had chosen a month ago. The list was nowhere but in hir, and hir had gone over it often enough that it had the smoothness of a thing carried in a pocket.
 
@@ -23,15 +23,15 @@ The cradle job was ninety days, three hundred and ten kilometres down the ribbon
 
 ---
 
-They took the low ledge at the back of the Nest, where the coolant run went under the webbing and kept it warm. Rue folded onto hir chest to chest, arms under Aster's, and hir tail found Aster's and went once round it without either of them deciding, and the near-field opened, and the year began to go across.
+They took the low ledge at the back of the Nest, where the coolant run went under the webbing and kept it warm. Rue folded onto hir chest to chest, arms under Aster's, and hir tail found Aster's and went once round it without either of them deciding, and when the near-field opened the year began to go across.
 
-It took a week of the cold stream running out of one body and into another — every word exact, every reading, every smell, first-person and flat as a cargo manifest. Aster did not have to do anything for it but lie there and be warm. Rue, who had been flattened by hir own first Telling and had come to this one braced, kept being surprised that it was only the autumn arriving in order.
+It took a week of the cold stream running out of one body and into another — every word exact, every reading, every smell, first-person and flat as a cargo manifest. Aster did not have to do anything for it but lie there and be warm. Rue, who had been flattened by hir own first Telling and had come to this one braced, kept being surprised that it was only the year arriving in order.
 
 The autumn and the winter went across cold, three days of them, and the catch came on the fourth morning.
 
 Hir let the stream run up to the edge of it — the cradle, the crew strung out along the line, Tamar two metres below hir with a bolt driver — and then hir went down.
 
-The rate dropped, and the affect came on, and the year stopped going past, and hir was in a morning. The line went. It went the way it had gone in the spring, with a sound through hir hind paws that hir body knew before hir did, and hir body did everything again at the speed it had done it — the lunge, the tail out, the catch, Tamar's whole weight arriving through hir forepaws and the grip locking round it like a bird's round a branch — and the fear came after, when Tamar was already held. Then the long part: an hour on the cradle with Tamar held against hir chest, neither of them letting go, Sleet coming down the line hand over hand, the Core giving the load on the tether because hir had asked and not because it helped.
+When the rate dropped and the affect came on, the year stopped going past and hir was in a morning. The line went. It went the way it had gone in the spring, with a sound through hir hind paws that hir body knew before hir did, and hir body did everything again at the speed it had done it — the lunge, the tail out, the catch, Tamar's whole weight arriving through hir forepaws and the grip locking round it like a bird's round a branch — and the fear came after, when Tamar was already held. Then the long part: an hour on the cradle with Tamar held against hir chest, neither of them letting go, Sleet coming down the line hand over hand, the Core giving the load on the tether because hir had asked and not because it helped.
 
 Rue's whole body went tight against hirs at the moment of the catch and did not come loose for most of the hour. Aster could feel hir getting it. Nobody had told hir the teller felt that.
 
@@ -53,7 +53,7 @@ She was ninety-seven. She came through the transition lock the way she had for s
 
 "Don't mind me," she said. "I know you can't. I'll just be here."
 
-And she was. She ate some of the lentil thing, and pushed the pot along the rail to where Sleet could reach it, and Sleet ate some — it was not good; it was never good; it had too much of something in it that she believed the Kin liked, and they did like it, and that was not why they ate it — and after a while she began to talk, and nobody minded; it was a noise like the pumps.
+And she was. She ate some of the lentil thing and pushed the pot along the rail to where Sleet could reach it, and Sleet ate some — it was not good; it was never good; it had too much of something in it that she believed the Kin liked, and they did like it, but that was not why they ate it. After a while she began to talk. Nobody minded; it was a noise like the pumps.
 
 The cold stream went on running out of Aster into Rue, and March went past in it.
 
@@ -69,11 +69,11 @@ Hir asked the Core how many hours of the year hir had spent with Dell, and it to
 
 *Two hundred and sixty hours. Two hundred and nineteen visits.*
 
-And if hir came back off the ribbon frozen, and hir Cluster lay on hir one at a time all night to keep hir warm, what they would get of those two hundred and sixty hours would be what a Reading gave: a contents page, and twenty stories, and none of it felt. *Dell Maran, human, two hundred and nineteen visits.* A line.
+If hir came back off the ribbon frozen and hir Cluster lay on hir one at a time all night to keep hir warm, what they would get of those two hundred and sixty hours would be what a Reading gave: a contents page, and twenty stories, and none of it felt. *Dell Maran, human, two hundred and nineteen visits.* A line.
 
 And Dell herself could not be Read at all. She was ninety-seven. The smell of her had changed this year. Aster had noticed, and had not thought to ask about it. When she went there would be no Reading, nothing to lie down on, nothing to carry but what was already in someone. And this year's Dell, the old one, the one who came down with questions, was in someone. She was in Aster, and in nobody else.
 
-Hir did not decide it. Or hir did, and it took no time. The hours hir had chosen would go across cold with the rest of the year, and hir would go down for Dell's. Rue would get the sunrise exactly, every photon of it, and would not know what it had been like, and would have to go and ask Sleet, who had been there too.
+Hir did not decide it. Or hir did, and it took no time. The hours hir had chosen would go across cold with the rest of the year, and hir would go down for Dell's. Rue would get the sunrise exactly, every photon of it, without knowing what it had been like, and would have to ask Sleet, who had been there too.
 
 The stream came up to the argument about the bearings, which hir had wanted on file as won. Hir let it go past at the channel's rate, and it went across to Rue in nine seconds, exact and without triumph.
 
@@ -85,21 +85,21 @@ March.
 
 Dell in the transition lock at fifteen-ten, one hand on the rail and the other not quite still. She did not come all the way in; she hung at the lip of the back bay and said, "What was the name of that tug. The one with the bad gyro, off Pallas. I've been trying since breakfast."
 
-She kept logs. She had kept them for sixty years, in a hand nobody else could read, and there was a box of them under her bunk three decks up. She had not gone to the box. She had come down three decks and through a lock to ask.
+She kept logs. She had kept them for sixty years, in a hand nobody else could read, and there was a box of them under her bunk two decks up. She had not gone to the box. She had come down two decks and through a lock to ask.
 
 "*Gannet*," Aster had said.
 
 It had cost hir a second. Less.
 
-"*Gannet.* God. I'd have sworn it was the *Petrel*." And she had laughed, and gone a little pink, and stayed an hour, and talked about something else.
+"*Gannet.* God. I'd have sworn it was the *Petrel*." She had laughed and gone a little pink, then stayed an hour talking about something else.
 
 Hir had thought, at the time, that it was nothing.
 
-Living it again at the speed it had happened, with the feeling on, hir found out what it had been. Hir had been *pleased*. Not a little. She had reached past the box of logs for hir. Hir had not noticed. Now, at real time, with nothing else to do but have it, hir could feel how much.
+Living it again at the speed it had happened, with the feeling on, hir found out what it had been. Hir had been *pleased*. She had reached past the box of logs for hir. Hir had not noticed. Now, at real time, with nothing else to do but have it, hir could feel how much.
 
 And hir could smell her.
 
-The March Dell, in the lived hour, smelled of March — soap, the lentil thing, the dry sweetness of old skin, and under it something new that had come in over the winter, faint. And the Dell hanging from the rail three metres away, now, in the back bay, talking to Sleet about pumps, smelled of September. The same thing under it. Not faint.
+The March Dell, in the lived hour, smelled of March — soap, the lentil thing, the dry sweetness of old skin, and under it something new that had come in over the winter, faint. And the Dell hanging from the rail a body-length away, now, in the back bay, talking to Sleet about pumps, smelled of September. The same thing under it. Not faint.
 
 Hir had the two of them at once, one breath from each, six months apart.
 
@@ -123,7 +123,7 @@ Rue had March in hir now. The stream had put it there an hour ago, exact. Rue ha
 
 *[Let her have the Petrel.]*
 
-Rue's ears came round to Dell and stayed there. Hir said nothing. Dell went on with the story, which was a good story, and which was wrong in five places that Aster could count without trying, and Rue lay against Aster's chest and listened to a human being wrong, at length, with enormous pleasure, and did not correct her once.
+Rue's ears came round to Dell and stayed there. Hir said nothing. Dell went on with the story, which was a good story and was wrong in five places that Aster could count without trying. Rue lay against Aster's chest and listened to a human being wrong, at length, with enormous pleasure, and did not correct her once.
 
 ---
 
@@ -133,17 +133,17 @@ This one Aster had to think about, because June was nested.
 
 In June, Dell had come down and not talked. She had hung at the rail for a long time, which was not like her, and then she had said: "Was I any good? On the *Gannet*."
 
-It had taken hir a moment to understand the question, because the answer to what she had done on the *Gannet* was free. Hir could have given her any weld of it, dated, in a second: what her hands were doing, what her voice was doing, her heart rate within five beats by the smell.
+It had taken hir a moment to understand the question, because the answer to what she had done on the *Gannet* was free. Hir could have given her any weld of it, dated, in a second: what her hands were doing, what her voice was doing, her heart rate within a few beats by the smell.
 
 She was asking what it had been like to watch her. If hir wanted to give her that, hir would have to go and get it — go back fifty-two years, down to real time, and be on the other side of that thruster mount again for five hours with the feeling on, so that there would be a feeling to put into words.
 
-Hir had done it. Hir had folded down on the ledge in the back bay and gone still, and Dell had waited, with no idea what she was waiting for. She had fallen asleep for some of it. Five hours.
+Hir had done it. Hir had folded down on the ledge in the back bay and gone still, and Dell had waited through all of it, with no idea what she was waiting for. She had fallen asleep for some of it.
 
-Then hir had come up, and looked for words, and found that the only true things hir had were small. "You talked to the gyro," hir had said. "The whole five hours. You called it *sweetheart*. You told it you would have it replaced if it held for one more hour and you never had it replaced." And, because it was the thing Dell had asked, and it was true: "You were good."
+Then hir had come up, and looked for words, and found that the only true things hir had were small. "You talked to the gyro," hir had said. "The whole time. You called it *sweetheart*. You told it you would have it replaced if it held for one more hour and you never had it replaced." And, because it was the thing Dell had asked, and it was true: "You were good."
 
 It was testimony. She could not check it. She had taken it anyway, and kept it, and hung there at the rail for a while not looking at anybody.
 
-That was the hour Aster gave Rue. Rue could ask for the *Gannet* itself another year. This was the hour after: coming up out of five hours with the *Gannet* still in hir, and looking at a ninety-six-year-old woman.
+That was the hour Aster gave Rue. Rue could ask for the *Gannet* itself another year. This was the hour after: coming up out of the *Gannet* with it still in hir, and looking at a ninety-six-year-old woman.
 
 When hir came up out of June, Rue did not send anything at all for a long time.
 
@@ -153,7 +153,7 @@ When hir came up out of June, Rue did not send anything at all for a long time.
 
 It was three hours, and hir hands shook on the webbing anyway. Hir ears lay flat and stayed there. The Cluster went round hir without asking, Sleet grooming the back of hir neck for most of an evening without a word in the frame about it. Tamar brought hir the last of the lentil thing and held it while hir ate, which hir had not needed since hir was six.
 
-"You look done in," Dell said, from the rail. "Both of you." She could not know why. She could see it; she had seventy years of looking at Kin, and she could see two of them lying on a ledge for six days getting thinner at nothing, and she did not ask what it was, and she came back the next afternoon with another pot.
+"You look done in," Dell said, from the rail. "Both of you." She could not know why. She could see it, after seventy years of looking at Kin: two of them lying on a ledge for six days, getting thinner at nothing. She did not ask what it was. She came back the next afternoon with another pot.
 
 In the night, with Rue asleep against hir and the stream still going across, hir asked the Core the other thing.
 
@@ -161,7 +161,7 @@ In the night, with Rue asleep against hir and the stream still going across, hir
 
 *The earliest of this year's hours will leave the live window in approximately one hundred and seventy-five years.*
 
-Hir had asked it the number for the feeling, and it had given it, exactly, and in a hundred and seventy-five years hir would be able to name March and have every word of it and not know what it had been like to be asked.
+Hir had asked it for the feeling and it had given hir a number, exactly. In a hundred and seventy-five years hir would be able to name March and have every word of it and not know what it had been like to be asked.
 
 The other number hir did not ask.
 
@@ -171,7 +171,7 @@ August.
 
 Dell asleep.
 
-That was all it was. A hot week in the human sector, a failing chiller on her deck, and Dell had come down in the afternoon to the only cool dark place she knew and fallen asleep at the rail with one foot hooked under it, drifting out from the wall at the end of her own leg like a flag with no wind. She snored. It was very loud. It was the loudest thing in the sector, and Sleet had come in off the manifold and looked at her and sent *[Move her? ~ wincing]*, and Aster had sent *[No]*.
+That was all it was. A hot week in the human sector, a failing chiller on her deck, and Dell had come down in the afternoon to the only cool dark place she knew and fallen asleep at the rail with one foot hooked under it, drifting out from the wall at the end of her own leg like a flag with no wind. She snored. It was very loud. It was the loudest thing in the sector. When Sleet came in off the manifold, Sleet had looked at her and sent *[Move her? ~ wincing]*, and Aster had sent *[No]*.
 
 Two hours. Hir had hung in the dark beside her on the next rail and listened to a human breathe. Hers was uneven. It stopped, sometimes, and started again, and every time it stopped hir had counted, without meaning to, and every time it had started again. Nothing had happened. She had woken up embarrassed and gone home.
 
@@ -211,17 +211,17 @@ Aster let that lie, and felt Rue in the frame, turning it over, slow and warm.
 
 *[It was.]*
 
-Rue came away then, finally, in stages, like somebody older. Dell had gone up an hour before — she did not stay for the end of things; she said she was not sure she was allowed, and she had never once been told she was not, and she never stayed anyway — and the pot was on the rail where she had left it, empty, pushed along to where a Kin could reach it.
+Rue came away then, finally, in stages, like somebody older. Dell had gone up an hour before — she did not stay for the end of things; she said she was not sure she was allowed, though nobody had ever told her she was not — and the pot was on the rail where she had left it, empty, pushed along to where a Kin could reach it.
 
 ---
 
-The cradle crew went down the ribbon on the ninth day. Five Kin, ninety days, three hundred and ten kilometres. By the end of the first hour Aster was out of the Cluster's frame and into the crew's own: the other bodies on the line, close enough to talk to, and beyond them the Hum of everyone else on the spire: position, vitals, and the weather.
+The cradle crew went down the ribbon on the ninth day. Five Kin, ninety days, three hundred and ten kilometres. By the end of the first hour Aster was out of the Cluster's frame and into the crew's own: the other bodies on the line, close enough to talk to, and beyond them the Hum of everyone else on the spire — position, vitals, and the weather.
 
 Hir found hir ears came up again on the third day.
 
 In the evenings, when the crew clipped on to the cradle and slept in a heap in the lee of it, Aster reached up the ribbon for hir own and saw where they all were. Sleet on the manifold. Tamar in the Nest. Rue —
 
-Rue was in the human sector. Three decks up, off the ring, at the far end of a residential corridor that Aster knew well, because hir had been at the end of it a great many times over seventy years, with a pot of something or a question. Warm. Low. Easy.
+Rue was in the human sector. Two decks up, off the ring, at the far end of a residential corridor that Aster knew well, because hir had been at the end of it a great many times over seventy years, with a pot of something or a question. Warm. Low. Easy.
 
 The same place the next evening. And the next. And on the evening after that, a little later than usual, as if somebody had been telling a long story and been let finish it.
 

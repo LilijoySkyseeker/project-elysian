@@ -1,6 +1,6 @@
 # BRIEF — S027 *Real Time* (retrofit, for revision)
 **Slate entry:** none. Written 2026-09-24 as "S024" in a concurrent session, outside the pipeline; renumbered S027 on merge (2026-09-28). This brief is **retrofitted** (DOC-00H §11) for the scene as it stands. **Ledger gap it fills:** a Telling from the teller's side (ROADMAP Step 12), and a tone that is not "comic, then sad" (tender, then tired).
-**Status:** brief (retrofit) ✓ → linted ✓ → cold-read ✓ → revised → owner → canon → filed
+**Status:** brief (retrofit) ✓ → linted ✓ → cold-read ✓ → revised ✓ (2 rounds) → **owner** → canon → filed
 
 ---
 
@@ -135,6 +135,32 @@ Line numbers are the prose file's own (prose only, from "Choosing which hours is
 
 ## Revision log (Stage 6 — max two model rounds)
 **Round 1 (2026-09-28).** A fresh reviser worked from a numbered list (scratchpad `REVISE_r1.md`, 47 items): continuity fixes first (calendar, visit tally 260 h / 219 visits, lived tally 3 h 18, the catch crew, the *Gannet* arithmetic, a tired rider, ears), then the cut list, then a keep list. Target length 3,300–3,800. Output: `drafts/S027_real_time_v2.md`; v1 kept.
+
+**Round 1 result.** 4,033 → 3,455 words. The banned hit, both rested hits and all eleven gnomic asides are gone. Still open: 10 reframes, the numbers *three* and *five* as tics (the reviser moved the *Gannet* from four hours to five, and Dell from four decks to three), flow at 8.4 chains per 100, and voice nearest S019 at 0.86 against an anchor of 0.92.
+
+**Round 2 (2026-09-28).** A fresh reviser worked from a 16-item list (scratchpad `REVISE_r2.md`): order the and-chained sentences without chopping (DOC-00G §2.7, §10.7), then the number tics (Dell two decks up; fewer *five hours*), then two small cuts. **Result:** 3,430 words.
+```
+- ✗ reframe: 8 hits = 2.3/1000 words (budget 1.0)
+- ✗ voice: as close as one narrator's two drafts to S019 (0.85), S023 (0.89), S016 (0.89), S017 (0.90), S020 (0.91), S006 (0.92)
+flow: 5.2 chains/100 (limit 6.0) · 0.54 subordinators per 'and' (min 0.5), both now within budget · narration mean 15.4 words, CV 0.91 (not chopped)
+```
+**Orchestrator's read after round 2** (whole file, not the diff):
+- **Hand fixes.**
+  - "hir had looked at her" (August) was ambiguous, so it now names Sleet.
+  - A double colon in the ribbon paragraph became a dash.
+- **World-logic pass:**
+  - Dell cannot know why the two are thin, and doesn't.
+  - The Hum gives position and weather only, and Rue's evenings are read from those.
+  - The ears lie flat from exhaustion.
+  - The stream pauses for lived hours, so it ends on the eighth day.
+  - Stream positions were recomputed after the fixes: catch ≈ early March (day 4 morning); March visit day 4 afternoon; June ≈ day 5–6; tally night 6 ≈ 3 h 10 shown + minutes; August day 7; end day 8 afternoon. All consistent.
+- **Reframes kept (8), as the teller's.** "Not pain. Less of something."; "it was not good; it was never good"; "She had not gone to the box."; "Not the catch."; "Not faint."; "She did not touch it."; the Core "because hir had asked and not because it helped"; "did not have to do anything for it but lie there". Each is Aster's body or Aster's flat, rigger's way of saying a thing, and cutting them would take the smell passage's turn with them. **Recorded here as kept on purpose (DOC-00H Stage 4).**
+- **Voice: not fixed, and not fixable by line edits** (DOC-00H Stage 4). The house voice's surface is gone (no *the way you*, no gnomic asides). The measure still puts this narrator as close to S019 as one narrator's two drafts, and within the anchor of five others. By the pipeline's rule the next step is a **Stage 3 redraft** from this brief's voice card. That is the owner's call after the read: the owner asked for revisions, and two model rounds are the limit.
+- **Unresolved, for the owner:**
+  1. Keep the ribbon section, or end on the empty pot?
+  2. Rue's "*Sleet was there. Sleet ate the lentil thing.*" is a deliberate misfire (DOC-00G §3.5): Rue answers from September, not March. Does it read?
+  3. The *Gannet* "off Pallas", against seventy years on the spire.
+  4. No readers were re-run after revision.
 
 ## Owner's read (Stage 7)
 

@@ -28,7 +28,7 @@ Every scene written for Project Elysian, in collection order, each with its orig
 | S023 | `S023_the_eighty_year_build.md` | Long-Baseline Survey Platform, Uncrewed | The eighty-year build; nobody ever asked; the Weavers logged as a site visit | Kin (Juniper → Sable-6) | Draft; offers no canon |
 | S024 | `S024_outer_relay.md` | Outer Relay | A Kin who is wrong and loses; the weather is public; the cheap check as a weapon | Kin (Pell-3), present tense | **Accepted 2026-09-24; offers no canon.** First scene written through the DOC-00H pipeline |
 | S025 | `S025_request_4471.md` | Request #4471 | A Kin forced to argue in writing; a ferment, a complaint, a recycler | Document (ticket thread) | **Accepted 2026-09-24; offers no canon.** |
-| S027 | `S027_real_time.md` | Real Time | A Telling from the teller's side; the hours with a human that nobody else holds | Kin (Aster-5) | Draft; offers no canon. Written 2026-09-24 as "S024" in a concurrent session; renumbered on merge |
+| S027 | `S027_real_time.md` | Real Time | A Telling from the teller's side; the hours with a human that nobody else holds | Kin (Aster-5) | Draft; offers no canon. Written 2026-09-24 as "S024" in a concurrent session; renumbered on merge. **v2 draft** (`drafts/S027_real_time_v2.md`, revised through DOC-00H §11), awaiting the owner's read; v1 kept |
 
 **Numbering.** S013, S014 and S015 are not in the collection. The numbers are **not reused** — like a name, the count does not reset. S026 is held by *Guest Slot* (unmerged branch). The next scene is S028.
 
