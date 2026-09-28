@@ -40,3 +40,6 @@
 - Quiet chapters that are allowed to be quiet (ch. 5: *"exactly the quiet scene promised"*).
 - Endings that are images or other people's lines, left unanswered.
 - **X01 as a whole: "the best writing example we have by a mile."**
+
+## What they rejected (and why, in their words)
+- **S007 v2, 2026-09-28** (the anthem as a pub songbook page with marginal notes in several hands; a plot about the song being sold): *"It is not a good continuation of the original song, it does not feel musical at all."* Abandoned; v1 stands. The lesson, inferred rather than stated: a song scene has to work as a song first. Continue the original and its inspiration (*Fire in the Sky*), and don't bury the lyric under a frame.
