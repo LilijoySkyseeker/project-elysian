@@ -19,25 +19,25 @@
 
 ---
 
-### 2. PRONOUNS (D-55)
+### 2. PRONOUNS (D-113, superseding D-55)
 
-**The Kin's pronoun is *hir* — single-form, every case.**
+**In English, a Kin is *she / her / hers / herself*.** It's the same on the page and in the voice. *(D-55's single-form* hir *is retired, 2026-09-28: no narrator voice could say it, and a human reader found it hard to parse. Older text still has* hir *until it's revised.)*
 
 | Case | Form | Example |
 | :--- | :--- | :--- |
-| Subject | hir | *Hir went to the bay.* |
-| Object | hir | *I gave hir the scanner.* |
-| Possessive | hir | *hir tail, hir Cluster* |
-| Independent possessive | hirs | *The scanner is hirs.* |
-| Reflexive | hirself | *Hir folded hirself onto the ledge.* |
+| Subject | she | *She went to the bay.* |
+| Object | her | *I gave her the scanner.* |
+| Possessive | her | *her tail, her Cluster* |
+| Independent possessive | hers | *The scanner is hers.* |
+| Reflexive | herself | *She folded herself onto the ledge.* |
 
-Capitalise at a sentence start. The Kin together are *they*.
+The Kin together are *they*.
 
 **Who says what:**
-- *Hir* is the word the makers chose — a designed pronoun for a designed species, one more small over-design. Kin speaking English use it and prefer it.
-- **Humans, by habit, say *she*** — the voice, the fur, the size — and sometimes *he* or *they*. The Kin prefer *hir* but rarely enough to correct a human; most let it pass. A human who says *hir* is telling you something about that human.
-- **The narrator always uses the correct pronoun for the POV.** Kin POV and documentary voice: *hir*. Human POV: whatever that human says — usually *she* — and the narration never corrects it.
-- The Core is ***it***, always — never *she*, never *hir* (D-13). A Cluster is *they*.
+- **The Kin's own pronoun is in Kin-code**, and it carries its full meaning there. English has no word that holds it, so English uses *she*. The Kin accept it without fuss: *human speech is so limited; "her" works fine.* Don't explain this on the page. At most a Kin says it once, dryly, to a human who asks.
+- **Humans say *she*** (the voice, the fur, the size), sometimes *he* or *they*. The Kin let either pass.
+- **The narrator uses *she*** in Kin POV and in the documentary voice. In a human or pony POV the narrator uses whatever that teller says (X01's ponies begin with *it*), and the narration never corrects it.
+- The Core is ***it***, always (D-13). A Cluster is *they*.
 
 ---
 
@@ -45,9 +45,9 @@ Capitalise at a sentence start. The Kin together are *they*.
 
 **Call-names.** One or two syllables, soft, a thing in the world — plants, stars, light, weather, **in every human language** (the pool must hold ~52,000 living names, and does). The pool as it stands in English: Vesper, Lyra, Sol, Sylvan, Lyric, Kirin, Sorrel, Ashe, Ilex, Sable, Kaelen. Add to it in kind.
 
-**The number is the count of the name.** *Lyra-4* is the fourth Kin to carry *Lyra*. Names come free at death and are **carried, like memory** — a young Kin often takes, at the first Telling, the name of the one hir Read. *Vesper-7* is the seventh Vesper; six are dead, and hir knows some of them.
+**The number is the count of the name.** *Lyra-4* is the fourth Kin to carry *Lyra*. Names come free at death and are **carried, like memory** — a young Kin often takes, at the first Telling, the name of the one she Read. *Vesper-7* is the seventh Vesper; six are dead, and she knows some of them.
 
-**How a name passes (D-90).** *Taken, never assigned; by the living, from the dead; only once adult.* **One living holder per name** — a name can be taken only when it has come free, and the count is the number of holders there have ever been (*six are dead* is only true because Vesper-7 is the only living Vesper). **Two moments:** at the first Telling, from the one whose carried memory hir has just received; or at any later Reading, when the name of the one hir just Read comes free. Both are one act — *I carry hir, so I carry hir name.* **A living Kin may set a name down, but only to take a dead one's;** the set-down name comes free, so names circulate and the count never resets. A Kin with no number is first of the line, or has never carried anyone's — and everyone can hear which. **A high count is heavy, not just old:** Lyra-5 is answerable for four people other Kin may ask after. Two Kin wanting one name at a Reading is settled by custom in the frame — *the one who took the most of hir* — and the other waits for the next. The Written are the exception in every clause.
+**How a name passes (D-90).** *Taken, never assigned; by the living, from the dead; only once adult.* **One living holder per name** — a name can be taken only when it has come free, and the count is the number of holders there have ever been (*six are dead* is only true because Vesper-7 is the only living Vesper). **Two moments:** at the first Telling, from the one whose carried memory she has just received; or at any later Reading, when the name of the one she just Read comes free. Both are one act — *I carry her, so I carry her name.* **A living Kin may set a name down, but only to take a dead one's;** the set-down name comes free, so names circulate and the count never resets. A Kin with no number is first of the line, or has never carried anyone's — and everyone can hear which. **A high count is heavy, not just old:** Lyra-5 is answerable for four people other Kin may ask after. Two Kin wanting one name at a Reading is settled by custom in the frame — *the one who took the most of her* — and the other waits for the next. The Written are the exception in every clause.
 
 - No number means first of the name — or the number dropped among friends.
 - **A name carries a trade** (D-88): every Sedge since the second tunes stations; take a name and you have taken what the line is for. (D-90 above: the earlier holders are *in* you.)
@@ -95,7 +95,7 @@ Three or four symbols at most — a Burst is not a sentence. Numbers allowed, si
 
 ### 7. VACUUM IN PROSE
 
-*Voiding* is the noun, *to void* the verb — *hir voided in the bay*. "State A", "State B" and "Crawl-Home" are documentary. In prose a Kin has **the seventeen minutes**, then is **crawling home**, then is **drifting** or **asleep**. Nobody says "torpor" out loud.
+*Voiding* is the noun, *to void* the verb — *she voided in the bay*. "State A", "State B" and "Crawl-Home" are documentary. In prose a Kin has **the seventeen minutes**, then is **crawling home**, then is **drifting** or **asleep**. Nobody says "torpor" out loud.
 
 ---
 
@@ -108,7 +108,7 @@ They do not write things down (D-19); a Kin-authored log is terse and one line l
 ### 9. QUICK REFERENCE
 
 ```
-the Kin / a Kin / Kin sector          hir · hir · hir · hirs · hirself
+the Kin / a Kin / Kin sector          her · her · her · hers · herself
 humans say she (uncorrected)          the Core = it · a Cluster = they
 Vesper-7 = seventh Vesper             Written: maker-names, no numbers
 [Warmth / Family]  ⟨whistle⟩          AF 236 · "the two-hundred-and-thirty-sixth year"

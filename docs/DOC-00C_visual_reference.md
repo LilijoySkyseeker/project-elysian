@@ -261,7 +261,7 @@ Against a 1.72 m human standing:
 | Top of head, reared | bottom of the ribs |
 | Ear tips, reared | mid-sternum |
 
-A 0.90 m counter is above the head of a Kin on all six and about chin height once hir rears — easily reached, which is why counters get used and chairs never do; for close work hir sits up onto it. Sitting tall on a console ledge, hir head is at a seated human's eye level. Carrying one is a two-person job.
+A 0.90 m counter is above the head of a Kin on all six and about chin height once her rears — easily reached, which is why counters get used and chairs never do; for close work she sits up onto it. Sitting tall on a console ledge, her head is at a seated human's eye level. Carrying one is a two-person job.
 
 ---
 

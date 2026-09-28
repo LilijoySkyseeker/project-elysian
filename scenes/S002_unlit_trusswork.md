@@ -1,4 +1,5 @@
 # SCENE 002 — Unlit Trusswork
+**Pronoun sweep, 2026-09-28 (D-113):** *hir* is now *she / her / herself*. The text is otherwise unchanged; the *hir* version is in git history before this commit.
 **Origin:** DOC-05 Scene 01 (v1.2) · **Theme:** Sensory & vacuum mobility · **POV:** Kin (Vesper-7)
 **Style:** DOC-00 governs names and pronouns (human POV says *she*; Kin POV and documentary voice say *hir*).  
 **Canon status:** ORIGINAL TEXT PRESERVED — drift notes below; not yet revised.
@@ -7,13 +8,13 @@
 
 The unlit maintenance shaft of Orbital Spire *Elysium-4* was completely pitch black. To a human technician, it was a terrifying 200-meter drop into nothingness. To Vesper-7, it was a bright, geometric playground.
 
-Vesper’s swiveling ears flared slightly, emitting a series of invisible 5.8 GHz bio-RADAR pulses. In hir visual cortex, the dark steel girders bloomed into a high-definition 3D vector map. Hir proximity pit sensors along hir shoulders buzzed pleasantly, keeping track of the conduit bundle passing inches above hir back.
+Vesper’s swiveling ears flared slightly, emitting a series of invisible 5.8 GHz bio-RADAR pulses. In her visual cortex, the dark steel girders bloomed into a high-definition 3D vector map. Her proximity pit sensors along her shoulders buzzed pleasantly, keeping track of the conduit bundle passing inches above her back.
 
-Moving with fluid, feline agility, Vesper pushed off a crossbeam with hir rear prehensile paws, flipped twice in zero-g, and locked all four lower feet onto an overhead carbon rail. Hir upper hands were free, holding a diagnostic scanner.
+Moving with fluid, feline agility, Vesper pushed off a crossbeam with her rear prehensile paws, flipped twice in zero-g, and locked all four lower feet onto an overhead carbon rail. Her upper hands were free, holding a diagnostic scanner.
 
-*[Local Mesh Telemetry: Thruster Valve 4B - Realignment Complete]* Vesper sent the data burst across the local RF link before even landing. Hir long tail curled around the rail as an anchor, leaving hir hands free to stow the scanner.
+*[Local Mesh Telemetry: Thruster Valve 4B - Realignment Complete]* Vesper sent the data burst across the local RF link before even landing. Her long tail curled around the rail as an anchor, leaving her hands free to stow the scanner.
 
-"Overkill," Vesper murmured aloud in human trade-pidgin, just to hear the warm acoustics ring through hir head cavity. "Humans needed four floodlights for this bay. All it takes is a good pulse."
+"Overkill," Vesper murmured aloud in human trade-pidgin, just to hear the warm acoustics ring through her head cavity. "Humans needed four floodlights for this bay. All it takes is a good pulse."
 
 
 ---

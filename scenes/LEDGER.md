@@ -28,8 +28,8 @@ Words are from `python3 tools/tells.py ledger`. Rows for S001–S023 were classi
 | S020 | close 3rd, Marek | short story | past 3rd | 1759 | ~1 hour + coda | Core-baiting; +pause, the Written | W | none | no | coda | comic, then sad |
 | S021 | close 3rd, Rowan-2, present-tense frame | short story | past 3rd + present | 1396 | minutes + 19 yrs | whistle; Nest; +Long Message | N | Idris never learns | arguably the Kin, by not telling him | quiet withheld truth | tender-sly |
 | S022 | close 3rd, Brume, narrator asides | short story | past 3rd | 1678 | evening + 4 days | the Drop; a record carried in a Telling | W | Kaelen's memory going | no | coda | quiet awe |
-| S023 | close 3rd, Juniper → Sable-6, chronicle | linked vignettes | past 3rd | 2134 | 80 years | the ark built unseen; the name count; +Reading, Weavers | W | Noor dies; Sable can't pass on what hir holds | no (institutional inertia) | coda | elegiac-dry |
-| S024 | close 3rd, Pell-3; the narration behaves like hir mind | short story | **present 3rd** | 2093 | ~40 min | the weather is public; the cheap check; +beyond 800 km | **Y** | Agnes's regard; hir calls Pell "Pell-3" | **Pell** (Kin, wrong, uses a private grief as a weapon); Agnes stays sharp | **cut mid-action** | comic, then ugly |
+| S023 | close 3rd, Juniper → Sable-6, chronicle | linked vignettes | past 3rd | 2134 | 80 years | the ark built unseen; the name count; +Reading, Weavers | W | Noor dies; Sable can't pass on what she holds | no (institutional inertia) | coda | elegiac-dry |
+| S024 | close 3rd, Pell-3; the narration behaves like her mind | short story | **present 3rd** | 2093 | ~40 min | the weather is public; the cheap check; +beyond 800 km | **Y** | Agnes's regard; she calls Pell "Pell-3" | **Pell** (Kin, wrong, uses a private grief as a weapon); Agnes stays sharp | **cut mid-action** | comic, then ugly |
 | S025 | none: three writers and a ticket system | **ticket thread** | mixed 1st, present | 1303 | 19 days | writing is a loss; food as translation | **Y** | the 63-year ferment | **Farrow** (petty, right about the rule, never redeemed) | **unresolved** | dry comic, then bleak |
 
 ## What the ledger says (2026-09-24)
@@ -43,8 +43,8 @@ Words are from `python3 tools/tells.py ledger`. Rows for S001–S023 were classi
 ## Each scene's best human thing
 These are the things to protect in revision and to learn from. None of them is a lore demonstration.
 - **S001** Kirin slows to twelve words a second for a tired man.
-- **S002** Vesper talks aloud only to hear the warm sound in hir own head.
-- **S003** (Little. Note the typo at the ending: Sylvan curls hir tail round *Sylvan's* own paw.)
+- **S002** Vesper talks aloud only to hear the warm sound in her own head.
+- **S003** (Little. Note the typo at the ending: Sylvan curls her tail round *Sylvan's* own paw.)
 - **S004** A painting that only sings under RADAR, and Miller closing his eyes.
 - **S005** "Yes… And I like you."
 - **S006** Padraig takes the kitchen insult personally, then runs the fan for her anyway.
@@ -60,10 +60,10 @@ These are the things to protect in revision and to learn from. None of them is a
 - **S018** Vesper-11 can find the name in ninety seconds, "and it won't be the same thing."
 - **S019** Gil's rained-on notebooks: "Asked how sharp. Got a look."
 - **S020** Amity stops laughing a second before the others, and only Marek sees her face.
-- **S021** Rowan fetches tea from a machine hir had to ask twice. "It was close."
+- **S021** Rowan fetches tea from a machine she had to ask twice. "It was close."
 - **S022** "In a year or two I could still have given you the numbers."
 - **S025** *"It is the base of the Thursday seam broth, the one Dermot has."*
-- **S024** Agnes genuinely does not remember Vetch-2, and Pell realises hir never asked Vetch anything either.
+- **S024** Agnes genuinely does not remember Vetch-2, and Pell realises she never asked Vetch anything either.
 - **S023** They carry Noor's body in warm before realising warmth doesn't matter for a human.
 
 ## Off-canon works (not in the collection's rotation; recorded for reference)

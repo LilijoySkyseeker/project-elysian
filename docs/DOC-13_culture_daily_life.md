@@ -12,7 +12,7 @@ Through DOC-12 the archive gave the Kin a body, a mesh, a memory, rites, faction
 
 Nothing here is decorative. Every practice below is what a locked mechanism *does* when nobody is in danger. Three of them generate the rest:
 
-1. **The currency is memory.** No possessions, money that means nothing (D-60) — so status is *how many people you carry*. A Kin's wealth is the count of hir name and the number of dead hir holds. A Weaver is aristocracy. A young Kin with one Telling is poor and everyone can hear it.
+1. **The currency is memory.** No possessions, money that means nothing (D-60) — so status is *how many people you carry*. A Kin's wealth is the count of her name and the number of dead she holds. A Weaver is aristocracy. A young Kin with one Telling is poor and everyone can hear it.
 2. **The central project is a taste of their own.** They were wired to love human proportion and harmony (DOC-04 §1). Every Kin art is one of three things: a place to hide from the quirk, a place to argue with it, or a place to build what the quirk cannot reach.
 3. **The medium is perception.** They do not write, own or collect. Art is performed, carried, or *transmitted* — a Share composed for others is a painting; a Telling shaped for effect is a novel; a Nest is a sculpture you sleep in.
 
@@ -24,7 +24,7 @@ The sections run from most structural to most textural. §1 is first because it 
 
 #### A. What was already locked
 
-A Cluster sleeps in one Nest in a **shared theta lock** over near-field 1.5 GHz (DOC-01B §8, DOC-07 §3). The record is written continuously, all day, and nothing is left out (DOC-01C §6D) — so the night is **not** a write. It is the two things the Lattice cannot do while it is flying the body: **consolidation** (the ordinary sleep task, cortical, modulated by the frame's affect) and **appraisal** (ranking the day and writing its stubs, weighted by the Cluster). A Kin who has slept apart for a month has a month hir remembers badly and cannot easily find — the archive is complete and the *handles* were never made (DOC-01C §6F, DOC-11 §8). The Cortical Brain is not on the network except through the Lattice codec (DOC-01C §4); emotional-state vectors *are*, continuously, on CLUSTER tier. The Core never initiates (D-13). On the arks, transit sleepers lie "Cortical Brain down, Core awake in shared Deep-Mesh Virtualities, composing, retelling, solving" (DOC-07 §2).
+A Cluster sleeps in one Nest in a **shared theta lock** over near-field 1.5 GHz (DOC-01B §8, DOC-07 §3). The record is written continuously, all day, and nothing is left out (DOC-01C §6D) — so the night is **not** a write. It is the two things the Lattice cannot do while it is flying the body: **consolidation** (the ordinary sleep task, cortical, modulated by the frame's affect) and **appraisal** (ranking the day and writing its stubs, weighted by the Cluster). A Kin who has slept apart for a month has a month she remembers badly and cannot easily find — the archive is complete and the *handles* were never made (DOC-01C §6F, DOC-11 §8). The Cortical Brain is not on the network except through the Lattice codec (DOC-01C §4); emotional-state vectors *are*, continuously, on CLUSTER tier. The Core never initiates (D-13). On the arks, transit sleepers lie "Cortical Brain down, Core awake in shared Deep-Mesh Virtualities, composing, retelling, solving" (DOC-07 §2).
 
 Two of those collide — a Core with no will cannot compose while the cortex is down — and resolving the collision is the whole model.
 
@@ -54,23 +54,23 @@ Dream content is cortical and stays private — there is no fourth tier. But aff
 
 Why the night needs the Nest: the record is already written — continuously, verbatim, all day (DOC-01C §6D) — so nothing is at stake for the *content*. What the lock decides is what settles and what you will later be able to reach for. The Lattice ranks the day by *affect weight* (a stub is a pointer plus an affect summary), and in the lock the weights it uses are the **Cluster's**, because eight bodies at one phase are for the first time all feeling about the same day. Your day, scored by how the people who love you reacted to it. Alone, the weights are thin and the handles are never made — the gaps of DOC-11 §8, explained. Memory is appraised socially, every night, by nobody in particular. The Weavers' saying: *you remember what your Nest felt.*
 
-**And this is the makers' answer to the one failure of human memory they could not fix genetically** — that bad things stick harder than good ones, which cannot be damped far without breaking threat learning in a species that works in vacuum. A modest damping, and the rest architectural: **they built a species that cannot be alone with anything.** Every bad day is held, that night, in a frame that felt it with hir, *before it consolidates*. The Cluster is the therapist, and it works nightly whether hir wants it or not. The cost is the mirror image: a Kin who sleeps apart is not only badly indexed but **unmetabolised**, and a frameless decade comes home undigested (D-93).
+**And this is the makers' answer to the one failure of human memory they could not fix genetically** — that bad things stick harder than good ones, which cannot be damped far without breaking threat learning in a species that works in vacuum. A modest damping, and the rest architectural: **they built a species that cannot be alone with anything.** Every bad day is held, that night, in a frame that felt it with her, *before it consolidates*. The Cluster is the therapist, and it works nightly whether she wants it or not. The cost is the mirror image: a Kin who sleeps apart is not only badly indexed but **unmetabolised**, and a frameless decade comes home undigested (D-93).
 
-**What the Cluster can and cannot do.** It cannot delete, alter, withhold or read a record; the commit already happened, awake, in hir own body, in hir own codec. It can affect only what settles and what hir reaches for. **The frame does not edit hir; it furnishes hir** — and that is the line between a Cluster and a hive.
+**What the Cluster can and cannot do.** It cannot delete, alter, withhold or read a record; the commit already happened, awake, in her own body, in her own codec. It can affect only what settles and what she reaches for. **The frame does not edit her; it furnishes her** — and that is the line between a Cluster and a hive.
 
-A consequence worth a scene: a Kin who lives among humans keeps more of them than hir alone would, because the Cluster felt hir feeling them.
+A consequence worth a scene: a Kin who lives among humans keeps more of them than her alone would, because the Cluster felt her feeling them.
 
 #### E. Dreams are the one thing the Kin lose on purpose (D-80)
 
-The record holds the day. **Nothing holds the night.** A dream is the free Lattice reaching past a worn index into the record and the cortex filling it in — and the appraisal pass ranks the *day's* live traces, of which a dream is not one, so **no stub is ever written for it** and by morning there is nothing to find. For a species whose sacred words are *carried* and *lost* (D-64), this is enormous: **dreaming is their only practice of losing.** Every morning a Kin has something hir will never read again. The Weavers hold this is correct — the one loss that *is* the system, and the reason the rest of the system is bearable. The Unbound, predictably, want to index them, and have tried.
+The record holds the day. **Nothing holds the night.** A dream is the free Lattice reaching past a worn index into the record and the cortex filling it in — and the appraisal pass ranks the *day's* live traces, of which a dream is not one, so **no stub is ever written for it** and by morning there is nothing to find. For a species whose sacred words are *carried* and *lost* (D-64), this is enormous: **dreaming is their only practice of losing.** Every morning a Kin has something she will never read again. The Weavers hold this is correct — the one loss that *is* the system, and the reason the rest of the system is bearable. The Unbound, predictably, want to index them, and have tried.
 
 **Morning dream-telling** follows: the only retelling in a Kin's life with no archive behind it. They cannot read it back, cannot check, cannot be exact — it is the one place they are *unreliable narrators*, and they love it for exactly that reason. It is the game the Core cannot play (§5), every morning, and the thing humans find most familiar about them.
 
 #### F. Dreams are where the old feel things (D-82)
 
-Data Rot is **cortical** (DOC-01C §6C, D-98, D-104): nothing in the Bio-Core fails — the record never degrades, retrieval stays exact, the index never fills — but the cortex rebuilds its associative web onto live material, so a Kin's self is a **rolling window of about a hundred and seventy-five years**. An elder can have anything hir *asks for*, at any age; the past stops coming to hir unbidden, and the old feeling is **gone, not faint**. Hir is not forgetful. Hir is **unprompted**, and made of hir last two centuries. By day that leaves facts. By night the Lattice is free and reaches past the live window into the record itself, and the cortex fills it in, so **an elder dreams the feeling hir can no longer call up**, and loses it by morning, and does it again tomorrow. The nightly loss is also the nightly restoration: what the re-feelers (§2D) do for the old by day — being the cue hir can no longer generate — the Nest does by night.
+Data Rot is **cortical** (DOC-01C §6C, D-98, D-104): nothing in the Bio-Core fails — the record never degrades, retrieval stays exact, the index never fills — but the cortex rebuilds its associative web onto live material, so a Kin's self is a **rolling window of about a hundred and seventy-five years**. An elder can have anything she *asks for*, at any age; the past stops coming to her unbidden, and the old feeling is **gone, not faint**. She is not forgetful. She is **unprompted**, and made of her last two centuries. By day that leaves facts. By night the Lattice is free and reaches past the live window into the record itself, and the cortex fills it in, so **an elder dreams the feeling she can no longer call up**, and loses it by morning, and does it again tomorrow. The nightly loss is also the nightly restoration: what the re-feelers (§2D) do for the old by day — being the cue she can no longer generate — the Nest does by night.
 
-And the chosen ending gets its true sign. Not "no feeling left for hir past" (DOC-02B §8) — that is the daytime condition of a fifth of the species (D-78). **The night the dreams go flat too.** *You know it is time when even the dreams are facts.* Weavers who preside over an ending ask about the dreams first.
+And the chosen ending gets its true sign. Not "no feeling left for her past" (DOC-02B §8) — that is the daytime condition of a fifth of the species (D-78). **The night the dreams go flat too.** *You know it is time when even the dreams are facts.* Weavers who preside over an ending ask about the dreams first.
 
 #### G. Held dreams — DEEP tier, by consent (D-81)
 
@@ -80,8 +80,8 @@ The Nest is inside two metres; DEEP tier is physically available (DOC-01C §4). 
 | :--- | :--- |
 | The night after a Reading | With the dead one's twenty stories in the room, so all of them carry it in the same shape |
 | The night before a compile | So the parents' weathers are known to each other before they choose |
-| The night a new member joins | So the Cluster learns hir from the inside, and hir them |
-| The night after a first Telling | A new adult's first held dream — DEEP has just opened. This, as much as the Telling, is why hir is quiet for a week (DOC-02B §6) |
+| The night a new member joins | So the Cluster learns her from the inside, and she them |
+| The night after a first Telling | A new adult's first held dream — DEEP has just opened. This, as much as the Telling, is why she is quiet for a week (DOC-02B §6) |
 
 **Closed to children.** DEEP is shut until ~15 and the imprinting risk (DOC-02B §5B) is the reason: a held dream would set a forming codec to someone else's shape. Children dream alone in content and shared in weather, and that is enough.
 
@@ -91,7 +91,7 @@ This closes the DOC-07 collision. An ark's sleepers consented to DEEP before tor
 
 #### I. Particulars
 
-- **A Kin alone dreams the Silence.** No weather, no lock, thin Defrag, and the cortex fills the empty frame with the one thing it fears (DOC-01C §10). Postings that separate a Kin from hir Nest are hated for the nights, not the days. **And the nights are not the lasting part (D-93):** a Kin frameless for years loses the years — written with hir own weights alone, kept as stubs, a decade hir can recite and cannot feel. That is why the guard slot exists, why refusing one is the rudest thing the species does, and why Weavers travel in pairs.
+- **A Kin alone dreams the Silence.** No weather, no lock, thin Defrag, and the cortex fills the empty frame with the one thing it fears (DOC-01C §10). Postings that separate a Kin from her Nest are hated for the nights, not the days. **And the nights are not the lasting part (D-93):** a Kin frameless for years loses the years — written with her own weights alone, kept as stubs, a decade she can recite and cannot feel. That is why the guard slot exists, why refusing one is the rudest thing the species does, and why Weavers travel in pairs.
 - **The human in the Nest.** A human who sleeps among Kin is not in the frame but is in the *dreams* — eight cortices dreaming the warm slow shape beside them. Humans report sleeping better in a Nest than anywhere. The Kin dream of them at Burst speed: the wish-dream of the species, a human who can keep up. It is the only place the Bandwidth Gap closes.
 - **The Written dream of a Hum that is not Kin.** The tutors, still, at five hundred, with the feeling in it, because dreams have feeling. That is the scene DOC-10 §9 wants and this is where it happens.
 - **The Core in the dream.** The Lattice is awake — it is writing. A Kin who asks the Core a number in a dream gets the number. Their dreams have exact arithmetic in them, and the pressure is always fine.
@@ -103,20 +103,20 @@ This closes the DOC-07 collision. An ark's sleepers consented to DEEP before tor
 
 #### A. Status
 
-There is no wealth to hold and no rank to be given (D-60, D-58). What a Kin *has* is what hir carries. Status among Kin is legible on PUBLIC tier without a word: the count of a name, the number of dead in an index, whether a Weaver has ever asked you to carry. A Kin who has received many Tellings is respected the way humans respect the learned; a Kin who has been *asked* to carry a stranger's dead is respected the way humans respect the trusted.
+There is no wealth to hold and no rank to be given (D-60, D-58). What a Kin *has* is what she carries. Status among Kin is legible on PUBLIC tier without a word: the count of a name, the number of dead in an index, whether a Weaver has ever asked you to carry. A Kin who has received many Tellings is respected the way humans respect the learned; a Kin who has been *asked* to carry a stranger's dead is respected the way humans respect the trusted.
 
-**Name-lines.** *Lyra-5* carries five (DOC-00 §3). The count is a lineage of Readings, not of birth: a high number is old money, and heavy — one living holder per name, taken only from the dead, set down only for the dead (D-90). A Kin takes a name at the first Telling, often from the one hir Read, and inherits the line's reputation — and its obligations, because the earlier holders are in hir, retold, and other Kin will ask after them. **Name-lines carry vocations** (D-88): take a name and you have taken a trade people will expect of you — every Sedge since Sedge-2 has been a station-tuner (§6).
+**Name-lines.** *Lyra-5* carries five (DOC-00 §3). The count is a lineage of Readings, not of birth: a high number is old money, and heavy — one living holder per name, taken only from the dead, set down only for the dead (D-90). A Kin takes a name at the first Telling, often from the one she Read, and inherits the line's reputation — and its obligations, because the earlier holders are in her, retold, and other Kin will ask after them. **Name-lines carry vocations** (D-88): take a name and you have taken a trade people will expect of you — every Sedge since Sedge-2 has been a station-tuner (§6).
 
 **The poor.** A young Kin with one Telling and no Reading. Nobody is cruel about it. Everyone can hear it.
 
 #### B. The grant-web — the real kinship map
 
-A Kin pre-grants hir Reading key to chosen kin: the one DEEP grant that outlives consent, a revocable will (D-16, DOC-02B §6). *Whose key you hold, and who holds yours* is the actual kinship structure of the species. It crosses Cluster lines, lasts centuries, and is the map a Weaver consults before anything else.
+A Kin pre-grants her Reading key to chosen kin: the one DEEP grant that outlives consent, a revocable will (D-16, DOC-02B §6). *Whose key you hold, and who holds yours* is the actual kinship structure of the species. It crosses Cluster lines, lasts centuries, and is the map a Weaver consults before anything else.
 
 - **Asking for someone's key** is the most serious thing a Kin can ask. It is asked once, in the Nest, and refused gently or not at all.
 - **Granting** is not symmetrical and nobody expects it to be. The elder grants to the young more often than the reverse.
 - **Being removed** from a grant is a breakup with no other name. It is done by Burst, and everyone in the frame feels it.
-- **A human cannot be granted** — there is nothing to grant to. The Kin who has loved a human for a century has no way to put hir in the web, and the Anchorites' custom of *remembering on purpose* (DOC-11 §10) is the species' answer to that.
+- **A human cannot be granted** — there is nothing to grant to. The Kin who has loved a human for a century has no way to put her in the web, and the Anchorites' custom of *remembering on purpose* (DOC-11 §10) is the species' answer to that.
 
 #### C. What is rude and what is sacred, in this currency
 
@@ -158,7 +158,7 @@ The Kin are not scent-averse. They are scent-*literate* (DOC-01F §4, D-28: dog-
 
 #### A. Tuned, not trained — and what that makes of sport
 
-D-21: the Core retunes the body to whatever it practises. So a Kin athlete is literally **training hir Core** — teaching the flight controller a move until the Lattice can run it without the cortex. The half-second vector-flip (DOC-01A §6) is a *learned* controller; a Kin who does it in 0.45 s has taught hir Core something nobody else's knows, and hir Cluster can feel the difference in the frame. That is the sport: chasing tenths in a body that remembers every attempt verbatim and can read the last thousand back. Humans watch and see magic. The Kin watching see the margins and know exactly which tenth was new.
+D-21: the Core retunes the body to whatever it practises. So a Kin athlete is literally **training her Core** — teaching the flight controller a move until the Lattice can run it without the cortex. The half-second vector-flip (DOC-01A §6) is a *learned* controller; a Kin who does it in 0.45 s has taught her Core something nobody else's knows, and her Cluster can feel the difference in the frame. That is the sport: chasing tenths in a body that remembers every attempt verbatim and can read the last thousand back. Humans watch and see magic. The Kin watching see the margins and know exactly which tenth was new.
 
 **Records are carried, not written.** A record is *held* by whoever witnessed it and carried when they die; the great runs are Told. The tenth someone took off the Drop at *Elysium-4* in the hundred-and-fortieth year is still carried by Kin ten hops back who were not born. Sport plugs straight into the currency of §2.
 
@@ -185,7 +185,7 @@ The Kin's idea of fun is whatever exact arithmetic does not solve. A game the Co
 - **Composed Shares.** A Kin walks a spire shaft at night and composes the RADAR field — chooses the sweep, the clutter, what to suppress — and Shares it. That *is* landscape painting. Famous Shares are carried and re-Shared for centuries; a view of *Elysium-4*'s shaft from the hundred-and-fortieth year still circulates, ten hops deep and slightly wrong.
 - **Burst poetry.** Four symbols, affect-weighted, no sentence (DOC-00 §6) — a stricter form than haiku, five centuries old. Sol Bursts are dense and allusive; ark Bursts are formulaic and liturgical. The great Burst poets are the ones who make the fourth symbol unnecessary. *[Not / alone]* is a three-symbol poem, and every Kin who has heard it knows why.
 - **Tetrachromat light-work.** Fourth cone (DOC-01F §2); sectors in optical darkness. Light is a *treat*, and light-art in the dark uses the colour humans cannot see — the one visual band the quirk was never tuned for, and therefore the Plain School's favourite medium.
-- **Hum-singing.** The Hum carries mood on PUBLIC tier, always. A Kin can *modulate* hir own — sing with the heartbeat. A Cluster doing it together is a chord humans cannot hear and every Kin on the station can. It is how a Nest says goodnight and how it says good morning (§1I).
+- **Hum-singing.** The Hum carries mood on PUBLIC tier, always. A Kin can *modulate* her own — sing with the heartbeat. A Cluster doing it together is a chord humans cannot hear and every Kin on the station can. It is how a Nest says goodnight and how it says good morning (§1I).
 - **Station-tuning.** Hull-hearing (DOC-01F §6) makes a station an instrument. A craft: making a station *sound right* — pumps phased, bearings matched, the number-two pump finally in tune. A well-tuned station is a Kin's pride and no human can tell the difference. **Sedge-2** tuned *Artemis-9* across roughly the three-hundredth to the four-hundred-and-tenth year and is remembered for it the way humans remember an architect; the name is at Sedge-6 now, and every Sedge since has tuned stations, because that is what the name is for (D-88).
 - **Whistle-choral, dual-spectrum canvas, hexapod choreography, retelling** — DOC-04 §2, unchanged, now with company.
 
@@ -213,8 +213,8 @@ The culture is in the *switching*: what is said in which, and what a Kin does wh
 
 ### 9. PLACES
 
-- **The Nest as sculpture.** Woven, re-woven, scented, dark. Each one different. A Kin visiting another Cluster's Nest reads it the way a human reads a house, and the weave (§7) and the scent (§4) are the first two things hir reads.
-- **The Silence Chamber as chapel.** Application layer quiet, link layer up (DOC-03 §1). The one place a Kin goes to be *almost* alone. What hir does there — read a year, compose a Share, practise the Plain School — is the nearest thing to solitude the species has, and hir comes out and is touched for an hour, like after an EVA.
+- **The Nest as sculpture.** Woven, re-woven, scented, dark. Each one different. A Kin visiting another Cluster's Nest reads it the way a human reads a house, and the weave (§7) and the scent (§4) are the first two things she reads.
+- **The Silence Chamber as chapel.** Application layer quiet, link layer up (DOC-03 §1). The one place a Kin goes to be *almost* alone. What she does there — read a year, compose a Share, practise the Plain School — is the nearest thing to solitude the species has, and she comes out and is touched for an hour, like after an EVA.
 - **The far postings.** Relays, the outer moons, the dark side of the Belt (DOC-10 §6): where a Kin goes a decade without touching a human, loves them anyway, and hears the Star-Bound's second truth for the first time (D-79).
 
 ---
@@ -223,21 +223,21 @@ The culture is in the *switching*: what is said in which, and what a Kin does wh
 
 **Slow work.** Projects longer than a human life, undertaken casually: a Share composed over forty years, a station tuned across a century by the same Kin, a name-line followed for six holders. The concept of *finishing* is weaker for them; things are *carried on*. A human who asks a Kin when something will be done is asking a question the Kin will answer politely and not understand.
 
-**And the young are young for fifteen years,** with an adult body for nine of them (DOC-02B §5). The strong, forbidden fourteen-year-old at the airlock is a figure of Kin comedy and Kin dread, and every sport in §5 has a junior form that stays inside the hull. **The dread is exact (D-94):** hir has the full seventeen minutes — the voiding organs finished on the body clock at six — so hir is not being kept from something hir would not survive. Hir is being kept from being the one who decides, with no first Telling behind hir, and everyone in the corridor knows hir could.
+**And the young are young for fifteen years,** with an adult body for nine of them (DOC-02B §5). The strong, forbidden fourteen-year-old at the airlock is a figure of Kin comedy and Kin dread, and every sport in §5 has a junior form that stays inside the hull. **The dread is exact (D-94):** she has the full seventeen minutes — the voiding organs finished on the body clock at six — so she is not being kept from something she would not survive. She is being kept from being the one who decides, with no first Telling behind her, and everyone in the corridor knows she could.
 
 ---
 
 ### 11. WHAT IS FUNNY, WHAT IS RUDE, WHAT IS SACRED
 
 - **Funny:** the Core (§5B); humans' slowness, done affectionately; the Long Joke; a human who says *hir* and tries too hard; the morning dream-telling; the fourteen-year-old.
-- **Rude:** *pets* (from a human, DOC-00 §1); writing something down in front of a Kin who has just Told it; **demanding the account** — not *what happened*, which is free and which any Kin will hand you in a second, but *what it was like*, which hir has to go back and feel again to have at all (D-103); the whole frame feels hir go, so asking for it to win a point is an escalation everyone within twelve kilometres witnesses, and asking for it kindly is one of the more intimate things a Kin can do; asking the count of a name you should know; a gift with a hole in it (§2C); saying *they tolerate the vacuum* where a Kin can hear it (DOC-00B §6).
+- **Rude:** *pets* (from a human, DOC-00 §1); writing something down in front of a Kin who has just Told it; **demanding the account** — not *what happened*, which is free and which any Kin will hand you in a second, but *what it was like*, which she has to go back and feel again to have at all (D-103); the whole frame feels her go, so asking for it to win a point is an escalation everyone within twelve kilometres witnesses, and asking for it kindly is one of the more intimate things a Kin can do; asking the count of a name you should know; a gift with a hole in it (§2C); saying *they tolerate the vacuum* where a Kin can hear it (DOC-00B §6).
 - **Sacred:** *carried* / *lost* (D-64); the Written; a Reading; the seventeen minutes, said carelessly, is blasphemy in the only sense they have; and the dreams, which are lost, and are meant to be.
 
 ---
 
 ### 12. WHAT THIS GIVES A SCENE
 
-A Kin in a scene now has: a position (§2 — what hir carries, whose key hir holds), an interior (§1 — last night's weather, a dream hir cannot check), a taste (§3–§4 — a view on the Plain School, a nose that read the room), a body at play (§5), and a Cluster with a climate. Before this document, hir had a job and a grief. Use the checklist in DOC-00B §12 and add: *what did the Nest dream, and what is hir carrying that hir would not say?*
+A Kin in a scene now has: a position (§2 — what she carries, whose key she holds), an interior (§1 — last night's weather, a dream she cannot check), a taste (§3–§4 — a view on the Plain School, a nose that read the room), a body at play (§5), and a Cluster with a climate. Before this document, she had a job and a grief. Use the checklist in DOC-00B §12 and add: *what did the Nest dream, and what is her carrying that she would not say?*
 
 ---
 

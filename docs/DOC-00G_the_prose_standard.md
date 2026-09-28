@@ -2,7 +2,7 @@
 ## Document ID: DOC-00G — The Prose Standard: What Good Writing Is Here
 **Codename:** Project Elysian | **Species:** Aethela (*Homo Sapiens Successor*) | **Self-Name:** The Kin  
 **Classification:** Tool, not canon. It governs *how* a scene is written. DOC-00B governs what a Kin is like on the page, and the docs govern what is true. Where DOC-00B's §12 checklist and this document disagree about **drafting**, this document wins; DOC-00B still governs **canon checking**.  
-**Status:** v1.1, 2026-09-25: §10 added, the lessons of X01 (an eight-chapter crossover the owner passed chapter by chapter; now the first exemplar, §7). v1.0, 2026-09-24. Evidence: `research/R01` (what the literature says) and `research/R02` (what the collection does). Tooling: `tools/tells.py`. Process: DOC-00H.
+**Status:** v1.2, 2026-09-28: §11 added, writing for the ear (the owner adopted *The Wandering Inn*'s style after the narration tests). v1.1, 2026-09-25: §10 added, the lessons of X01 (an eight-chapter crossover the owner passed chapter by chapter; now the first exemplar, §7). v1.0, 2026-09-24. Evidence: `research/R01` (what the literature says) and `research/R02` (what the collection does). Tooling: `tools/tells.py`. Process: DOC-00H.
 
 ---
 
@@ -93,13 +93,13 @@ These are the specific habits of *this* collection's writer, with a fix for each
 
 **3.7 The lore lecture.** *"Because that is the rule, and it is not a rule anyone made, it is just what a record is when nobody writes anything down."* This is the Turkey City *expository lump* (R01 §5), delivered as wisdom. **Fix:** §4.
 
-**3.8 The stock beat.** The fan, the very good assistant, the hand flat on the chest, the dog whistle, *"I am hot"*, the tail round the ankle, *"for as long as hir has anything"*, the number-two pump. **Each is rested** (§6.3). A rested beat may come back only if the scene is *about* it, and then it is new.
+**3.8 The stock beat.** The fan, the very good assistant, the hand flat on the chest, the dog whistle, *"I am hot"*, the tail round the ankle, *"for as long as she has anything"*, the number-two pump. **Each is rested** (§6.3). A rested beat may come back only if the scene is *about* it, and then it is new.
 
 **3.9 The coda.** See §2.6.
 
 **3.10 The general machine vocabulary** (L01–L04): tapestry, testament, delve, barely above a whisper, something shifted, the weight of, unspoken, palpable. Mostly absent since S005; kept at zero. *Bioluminescent*, *thrummed* and *hum* are near-defaults in SF and are especially exposed here, because the Hum is canon. Use the canon noun, and do not let it spread into the verbs.
 
-**3.11 What is *not* a tell here.** Em dashes (R01 1.10: weak evidence, and human writers use them heavily; the tool reports them and never fails a scene on them). Short sentences. British spelling. *Hir*. Understatement as such. A human writer uses all of these. The problem is having nothing else.
+**3.11 What is *not* a tell here.** Em dashes (R01 1.10: weak evidence, and human writers use them heavily; the tool reports them and never fails a scene on them). Short sentences. British spelling. *She/her* for the Kin (D-113; older text has *hir*). Understatement as such. A human writer uses all of these. The problem is having nothing else.
 
 ---
 
@@ -108,7 +108,7 @@ These are the specific habits of *this* collection's writer, with a fix for each
 The world is the project's great strength, and on the page it has been a liability. Every scene has been asked to show every system (R02 §2). From now on:
 
 1. **Canon is assumed.** The people in the scene live in this world and do not notice it. A Kin does not explain the Hum to a Kin, and the narrator does not explain it to the reader. The reader works it out, as a visitor does. This is Jo Walton's *incluing* (R01 §5): the information is scattered through the story, and the story never stops to deliver it.
-**Native channels are not lore** *(added 2026-09-24 after X01 ch. 2)*. When the viewpoint belongs to a Kin, hir own ways of talking and sensing (Kin-code, the frame's weather, the body, the Core) are **the medium, not mechanics**, and are **never rationed** by the budget below. Rationing them turns Kin into humans in Kin bodies. X01 ch. 2's first draft did exactly that, because its brief said "Kin-code, sparingly". The budget limits what a scene *demonstrates*. It never limits how a character *lives*.
+**Native channels are not lore** *(added 2026-09-24 after X01 ch. 2)*. When the viewpoint belongs to a Kin, her own ways of talking and sensing (Kin-code, the frame's weather, the body, the Core) are **the medium, not mechanics**, and are **never rationed** by the budget below. Rationing them turns Kin into humans in Kin bodies. X01 ch. 2's first draft did exactly that, because its brief said "Kin-code, sparingly". The budget limits what a scene *demonstrates*. It never limits how a character *lives*.
 2. **Budget: two mechanics.** At most **two** canon mechanics may matter to the plot of one scene. Everything else that appears is texture: named, used and never explained. Or it is absent. A scene about the whistle does not also demonstrate the pause, the Core, the ears, the frame, the Reading and the Nest.
 3. **The Kin test.** For any sentence that explains lore, ask whether this teller would say it to this listener. A Kin telling another Kin would not. A human in week three would say it wrong. A letter-writer would assume it. If nobody would say it, cut it.
 4. **Wrong is allowed.** Human tellers are wrong about Kin in ways the docs make clear (DOC-00B §10). Let the error stand uncorrected when the scene doesn't need the correction. The reader who knows the docs gets a second pleasure. The reader who doesn't gets a person.
@@ -212,7 +212,7 @@ The middle is good: the conduit that goes quiet when someone looks at it, the ru
 
 **Revised to the standard.** The frame is cut, the whistle's privacy is shown rather than stated, and there is one detail that demonstrates nothing:
 
-> The conduit had been ticking for three days and it stopped the second Rowan put a hand on it, which was the third time it had done that, and hir was starting to take it personally.
+> The conduit had been ticking for three days and it stopped the second Rowan put a hand on it, which was the third time it had done that, and she was starting to take it personally.
 >
 > ⟨*anything?*⟩ Sable, from the far end of the run.
 >
@@ -269,7 +269,7 @@ A callback is fine. **A pattern of callbacks is the tell.**
 `tells.py` cannot see this. The cold reader can (question 9), and the predictability pass should list the likely echo.
 
 #### 10.4 Every point of view has a person and a lens
-- **A person** *(the owner, after ch. 3)*: the teller mutters, reacts, and has thoughts of hir own that have nothing to do with the plot. Fluttershy's jackdaw, Twilight's *Winter Orchard*, Rarity's christening hem. A few, lightly. The work still carries the chapter.
+- **A person** *(the owner, after ch. 3)*: the teller mutters, reacts, and has thoughts of her own that have nothing to do with the plot. Fluttershy's jackdaw, Twilight's *Winter Orchard*, Rarity's christening hem. A few, lightly. The work still carries the chapter.
 - **A lens.** Each teller orders the world by one habit of attention: Fluttershy's animals, Sloe's counts, Yarrow's loads, Twilight's lists, Rarity's workmanship, Teasel's *what everyone is eating*. The lens did more to make the chapters distinct than the voice cards did. **It goes in the voice card's *Notices* field as one sentence, and the drafter is told to run the chapter through it.**
 
 #### 10.5 World logic and period
@@ -302,4 +302,31 @@ In X01 the model readers caught continuity, arithmetic, positions and tells, and
 
 #### 10.9 Length
 Chapters ran about 30% over target. Most of the overrun was the owner's notes adding what was missing (chatter, interiority, a section on magic). **Budget a long work at target × 1.3**, and don't cut to hit a number the owner didn't ask for.
+
+---
+
+### 11. WRITING FOR THE EAR *(added 2026-09-28; the owner adopted The Wandering Inn's style)*
+
+The owner's words: *"let's try to adopt the Wandering Inn's style, I enjoy it, and it translates well to page and to speech."* One text should serve both the reader and the narrator. The owner rejected an audiobook adaptation as the default.
+
+**Evidence.** Measured with code on 20 chapters of pirateaba's *The Wandering Inn* against all of X01 (`/mnt/project-files/audio/EAR_WRITING.md`, script in `/mnt/project-files/audio/tools/ear.py`). In TWI, **every** speech paragraph is bare speech. **None** is split talk–narration–talk, and almost none carries a *said*-type tag. In X01's Kin chapters, 50 % are split and 66 % are tagged. Listening tests (ElevenLabs, 2026-09-28) showed what that costs: a split line comes out in two tones, a how-she-said-it tag is dead weight next to a performed read, and bracketed chatter is a jumble by ear. **Not yet proven in a scene.** The first scene written under this section is its test.
+
+#### 11.1 Speech
+- **One speaker, one paragraph, bare.** A line of speech is its own paragraph, with nothing but the speech in it.
+- **The speaker is set before the line**, by the beat paragraph just before it (*Sloe put the scoop down.*), by a name inside the speech (*"Haw, come down."*), or by a voice so distinct it needs neither. In a two-hander the alternation carries it.
+- **Never split a line with narration.** If the moment needs a beat mid-speech, end the line, give the beat its own paragraph, and start a new one.
+- **No *said* by default, and never *how* she said it.** Tone lives in the beat next to the line or in the words themselves. *"In the voice she used for a hen in the kitchen"* is what the narrator's performance does. Keep a tag only where the verb is an act (*shouted from the roof*).
+
+#### 11.2 Kin-code
+- **Every code line gets a sender the ear can hear:** a beat naming her, with ***sent*** (DOC-00D §1A already prefers it). *Haw sent it over the top of all of them.* Then the line alone. On the page, *sent* marks the channel as clearly as the brackets do.
+- **At most two or three unattributed threads in a row.** When a burst is bigger than that, narration counts the rest: *and three more under that, all at once*. The overlap is felt, not transcribed.
+- **Riders stay in the bracket.** The narrator reads the rider aloud after the line and colours the line with it (the owner's audio ruling). So the rider must be something a voice can speak: a phrase, not a symbol.
+- **Short.** Code is fast (DOC-00D §1D). Short lines keep it fast in the ear too.
+
+#### 11.3 Sentences, sounds, italics
+- **Shorter sentences.** TWI averages about 9 words a sentence and 1 % over 30; X01 averages 12 and 5 %. Long sentences are still allowed, as a choice.
+- **A sound gets one plain short sentence** (*Somebody whined.*), which the audio can replace with the effect. Don't describe the sound's texture in prose.
+- **Italics can't carry meaning alone.** The Core is marked by *the Core said*, and a thought or an emphasis must still work when heard.
+
+**Check:** read the scene aloud, or have it read. If you can't tell who is speaking, or on which channel, without seeing the page, it fails this section.
 

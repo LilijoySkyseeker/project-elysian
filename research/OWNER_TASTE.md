@@ -41,5 +41,16 @@
 - Endings that are images or other people's lines, left unanswered.
 - **X01 as a whole: "the best writing example we have by a mile."**
 
+## Audio and narration (their listening notes, 2026-09-28; detail in `/mnt/project-files/audio/NARRATION_PLAN.md`)
+- **Kin-code "reads fine on a page, but not here."** Spoken aloud, overlapping bracketed chatter is jumbled. The ear needs its own marker for Kin speech.
+- **"talk, narration, talk" splits a voice in two.** The halves of one line come out in different tones.
+- **How-she-said-it prose is worse than the performance.** When the delivery carries the tone, *"in the voice she used for…"* is dead weight. The same goes for narrating a sound the audio already plays.
+- **Unridered code isn't flat.** Flat affect is not the default reading of a line without a rider.
+- **"hir" is gone: *she/her* on the page and in the voice** (D-113). The TTS "butchers anything that's not her", and a human reader found *hir* hard to parse.
+- **Adopt The Wandering Inn's style for both page and ear** (DOC-00G §11): *"I enjoy it, and it translates well to page and to speech."*
+- **The Core in audio: the narrator, "robotic".** Maximum-stability flat sounded "just tired".
+- **One narrator can carry distinct character voices by tag** (round-2 test R3, both passed). There's no need to split voices yet.
+- **The model for writing for the ear is *The Wandering Inn*.** *"The wandering inn doesn't need it"* (an audiobook variant), *"so let's figure out why."*
+
 ## What they rejected (and why, in their words)
 - **S007 v2, 2026-09-28** (the anthem as a pub songbook page with marginal notes in several hands; a plot about the song being sold): *"It is not a good continuation of the original song, it does not feel musical at all."* Abandoned; v1 stands. The lesson, inferred rather than stated: a song scene has to work as a song first. Continue the original and its inspiration (*Fire in the Sky*), and don't bury the lyric under a frame.

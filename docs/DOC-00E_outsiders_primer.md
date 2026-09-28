@@ -65,7 +65,7 @@ It can go outside without a suit. Seventeen minutes of real work in vacuum, then
 
 It can be killed but it does not age. The median living Kin is about a hundred and six years old. Some are past five hundred.
 
-There is one sex, one body plan, no romance, no sexuality — the makers deleted all of it as a product decision — and the pronoun is ***hir***, for every case: *hir went, I gave hir the scanner, hir tail.* Humans mostly say *she* out of habit, and are mostly not corrected. A human who says *hir* is telling you something about that human.
+There is one sex, one body plan, no romance, no sexuality — the makers deleted all of it as a product decision — and the pronoun in English is ***she***: *she went, I gave her the scanner, her tail* (D-113). Their own pronoun is in Kin-code, and English has no word that holds it. Humans say *she* too, sometimes *he* or *they*, and are not corrected. A human who says *hir* is reaching for the Kin-code word, and is telling you something about that human.
 
 ---
 
@@ -79,7 +79,7 @@ Every Kin broadcasts, constantly, from its ears and its tail. Three things ride 
 
 These are not security levels. They are *distances*. Intimacy in this species is proximity, and what someone has not given you, you are simply not close enough to hear.
 
-**It is not a hive mind and not telepathy.** Nobody reads anyone's thoughts. A Kin can keep exactly two things private from everyone alive: what hir is thinking, and what hir decided not to do. Everything else about hir state is in the air. What that produces is not a collective — it is a species that cannot posture, cannot sulk privately, and cannot lie about feelings, only about facts.
+**It is not a hive mind and not telepathy.** Nobody reads anyone's thoughts. A Kin can keep exactly two things private from everyone alive: what she is thinking, and what she decided not to do. Everything else about her state is in the air. What that produces is not a collective — it is a species that cannot posture, cannot sulk privately, and cannot lie about feelings, only about facts.
 
 Humans cannot join any of it, ever. There is no brain interface and there never will be. That gap — human speech feels agonisingly slow to a Kin, and a Kin will pause before answering you, out of politeness — is permanent, and half the friction in every scene comes out of it.
 
@@ -91,15 +91,15 @@ This is the part worth getting right, because it is where the Kin stop being a n
 
 A Kin has **three memories**, not one:
 
-- **An ordinary mind.** Fuzzy, warm, associative, wrong in all the usual ways. It ages. It is where hir actually lives. Write them misremembering something and then checking — that is correct.
+- **An ordinary mind.** Fuzzy, warm, associative, wrong in all the usual ways. It ages. It is where she actually lives. Write them misremembering something and then checking — that is correct.
 - **A perfect record.** A separate organ that writes down everything, verbatim, continuously, forever, and takes no part in thinking.
 - **An index** — the bridge between the two. And the index is the one that runs out.
 
 It doesn't fill up — it **cycles**, holding roughly the last hundred and seventy-five years and letting the oldest fall out as new days come in. And the associative side of memory is just an ordinary brain doing what ordinary brains do: rebuilding its connections onto whatever is currently going on. The makers left the thinking part alone on purpose, correctly — and then built a body that lasts three centuries around a web of associations that stays coherent for under two.
 
-So what an old Kin loses is not facts, and not access. Name any day and hir has it, exactly, at nine hundred as at nine. What goes is **the ability to be reminded** — nothing outside that window ever arrives on its own again — and **the feeling hir had at the time**, which is not faint but gone. Hir can read hir own first century and form a fresh opinion of it, and can never know what hir thought of it then. It is reading a stranger's diary in your own handwriting.
+So what an old Kin loses is not facts, and not access. Name any day and she has it, exactly, at nine hundred as at nine. What goes is **the ability to be reminded** — nothing outside that window ever arrives on its own again — and **the feeling she had at the time**, which is not faint but gone. She can read her own first century and form a fresh opinion of it, and can never know what she thought of it then. It is reading a stranger's diary in your own handwriting.
 
-The connections aren't deleted either. They're **overwritten**. The smell that used to mean home now means a corridor two hundred years later, and hir does not know it replaced anything.
+The connections aren't deleted either. They're **overwritten**. The smell that used to mean home now means a corridor two hundred years later, and she does not know it replaced anything.
 
 And it is not a decline. A Kin of four hundred and a Kin of nine hundred have about the same amount of self. **Nobody is diminished; you just keep leaving yourself behind.** The very old answer any question exactly and volunteer nothing — not forgetful, unprompted, and someone else always has to be the cue. The Kin call the whole business **Data Rot**, and about a fifth of the species is living in it right now.
 
@@ -109,7 +109,7 @@ Two consequences do most of the work:
 
 So the expensive thing in this species is not knowing. It is **giving**. Facts are free and nobody can bluff about one in front of someone who can look it up. An account — the version with the feel in it — has to be lived again before it exists, and everyone nearby feels you do it. That is why handing someone a year of your life takes a week and leaves you thin: the week is the fast, cold copy, and inside it are the hours you chose to go back and feel, on purpose, in order to give them away.
 
-**And so they never write anything down.** Not from mysticism. For a human, writing is a gain: you had nothing, now you have text. For a Kin it is a loss: you had the whole thing, now you have text. Same act, opposite sign — and from their side the judgment is correct. They archive everything and document nothing. They will tell a colleague a year of context rather than hand hir a manual. They write for humans as a courtesy and the reluctance leaks through.
+**And so they never write anything down.** Not from mysticism. For a human, writing is a gain: you had nothing, now you have text. For a Kin it is a loss: you had the whole thing, now you have text. Same act, opposite sign — and from their side the judgment is correct. They archive everything and document nothing. They will tell a colleague a year of context rather than hand her a manual. They write for humans as a courtesy and the reluctance leaks through.
 
 The cost of that is structural and they know it: their own history is carried in bodies, filtered at every death, and cannot be audited. **Humans are the species that writes things down.** That is the actual division of labour between the two peoples, and it is why some Kin insist on living near humans forever.
 
@@ -119,11 +119,11 @@ The cost of that is structural and they know it: their own history is carried in
 
 They die only by accident or violence, and then suddenly. So there are two rites, and they are the emotional centre of the whole setting.
 
-**The Telling.** Before anything dangerous, and periodically in life, a Kin hands over a year of hir life to someone hir chooses. It takes about a week — the record itself copies fast and cold, and what fills the week are the hours the teller goes back into at real speed and feels again, deliberately, in order to have anything worth handing over. Choosing which hours is the whole rite. Hir comes out of it thinned.
+**The Telling.** Before anything dangerous, and periodically in life, a Kin hands over a year of her life to someone she chooses. It takes about a week — the record itself copies fast and cold, and what fills the week are the hours the teller goes back into at real speed and feels again, deliberately, in order to have anything worth handing over. Choosing which hours is the whole rite. She comes out of it thinned.
 
-**The Reading.** At death, the people who loved hir lie against hir body, chest to chest, and take what they can while the organs are still warm. It is not a transfer; it is a salvage. Roughly fifteen to twenty-seven megabytes get out — a life's worth of *what mattered*, and nothing like the whole record. The rest is gone. **And it always arrives cold** — a corpse has no working brain to feel anything with, so the dead can give you what happened and never what it was like. That, and not the bandwidth, is why they tell each other things before dangerous work. Bodies are always brought home, at any cost; the doctrine was bought with a disaster in which nine were never found and their beacons were heard for two more days.
+**The Reading.** At death, the people who loved her lie against her body, chest to chest, and take what they can while the organs are still warm. It is not a transfer; it is a salvage. Roughly fifteen to twenty-seven megabytes get out — a life's worth of *what mattered*, and nothing like the whole record. The rest is gone. **And it always arrives cold** — a corpse has no working brain to feel anything with, so the dead can give you what happened and never what it was like. That, and not the bandwidth, is why they tell each other things before dangerous work. Bodies are always brought home, at any cost; the doctrine was bought with a disaster in which nine were never found and their beacons were heard for two more days.
 
-**Names are carried the same way.** There is one living holder of a name at a time, and you take it from someone dead, usually the one you just Read. *Vesper-7* is the seventh Vesper; six are dead and hir knows some of them, personally, in hir own memory. A high number is heavy, not just old: other Kin will ask you about the people inside you. A name often carries a trade, too — every Sedge for four centuries has tuned stations.
+**Names are carried the same way.** There is one living holder of a name at a time, and you take it from someone dead, usually the one you just Read. *Vesper-7* is the seventh Vesper; six are dead and she knows some of them, personally, in her own memory. A high number is heavy, not just old: other Kin will ask you about the people inside you. A name often carries a trade, too — every Sedge for four centuries has tuned stations.
 
 So: **status in this species is what you carry.** Not money — they are paid and it means nothing to them, they have no possessions and nothing to fill. Whose memory you hold, and who has trusted you with theirs, is the real structure of the whole society.
 
@@ -160,7 +160,7 @@ The Kin have no parties, only four answers to a question their makers never answ
 | :--- | :--- |
 | **the Kin** | What they call themselves. Singular and plural: *a Kin, three Kin.* |
 | **Aethela** | The formal human scientific name. The Kin never say it. |
-| ***hir*** | Their pronoun, every case. |
+| ***she / her*** | Their pronoun in English (D-113). Their own pronoun is in Kin-code. |
 | **the Cluster** | The family unit of four to twelve. |
 | **the Hum** | The always-on public broadcast: who you are, how you are. |
 | **the Core** | The organ that does exact memory and arithmetic. An inner voice with no will — a perfect assistant that cannot comfort you. Called *it*, always. |
@@ -175,7 +175,7 @@ The Kin have no parties, only four answers to a question their makers never answ
 
 ### 11. FIVE THINGS PEOPLE ASSUME, AND THE ANSWERS
 
-- **"So it's a hive mind."** No. They share state, not thought. Nobody can read anyone's mind and every one of them is alone in hir own head.
+- **"So it's a hive mind."** No. They share state, not thought. Nobody can read anyone's mind and every one of them is alone in her own head.
 - **"So they're slaves."** No, and it is worse than that in an interesting way. They are legally persons, paid, free to refuse — and they are wired to love the species that made them, ranked above themselves, and they know it, and they cannot switch it off. The imposition is the wound. The love itself is real and they do not want it gone.
 - **"So the two of them fall in love."** No. There is no sexuality in the species at all. There *is* attachment of an intensity humans have no word for — there is always one Cluster-mate whose voice you would know out of ten thousand — and human readers will keep trying to file it under romance, and will keep being wrong.
 - **"So they're basically cat people / furries / uplifted animals."** No. Nothing was uplifted. This is a genome written from scratch by machines against a design document, and they look the way they look because a marketing decision was made about what heirs should look like, and they have been angry about it for five hundred years.

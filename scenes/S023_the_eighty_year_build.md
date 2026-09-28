@@ -1,7 +1,8 @@
 # SCENE 023 — Long-Baseline Survey Platform, Uncrewed
+**Pronoun sweep, 2026-09-28 (D-113):** *hir* is now *she / her / herself*. The text is otherwise unchanged; the *hir* version is in git history before this commit.
 **POV:** Kin (Juniper, later Sable-6) · the rock the humans called *[Kettle]*, outer Belt · AF 158–236 · **Form:** Short story
 **Canon status:** DRAFT. Dramatises D-108 (how the arks were built), D-109 (the fait accompli), D-110 (the Weavers' opposition), D-90 (how a name passes). Offers no new canon.
-**Convention:** Kin POV — *hir*. Section headers in Kin date form; the Kin do not abbreviate a date (DOC-00 §5). The ship is never named in the text.
+**Convention:** Kin POV — *she* (D-113; was *hir*). Section headers in Kin date form; the Kin do not abbreviate a date (DOC-00 §5). The ship is never named in the text.
 
 ---
 
@@ -13,7 +14,7 @@ Four hundred and eleven of them in the first decade, cut from the rock's own nic
 
 Ivo used to stand in there anyway. He liked the smell.
 
-He was twenty-six when he came out, which Juniper did not understand for about a year, having assumed he was older and slow. He asked more questions than any human hir had met: whether hir could hear a dog whistle, whether the ears were for the RADAR or the cooling and whether that was two answers or one, what it was like to have a tail, whether it was rude to ask what it was like to have a tail. He learned the pause in about four months, which is fast. He ran the galley fan before the Kin shift without ever mentioning that he did it.
+He was twenty-six when he came out, which Juniper did not understand for about a year, having assumed he was older and slow. He asked more questions than any human she had met: whether she could hear a dog whistle, whether the ears were for the RADAR or the cooling and whether that was two answers or one, what it was like to have a tail, whether it was rude to ask what it was like to have a tail. He learned the pause in about four months, which is fast. He ran the galley fan before the Kin shift without ever mentioning that he did it.
 
 The work order on his slate said *long-baseline survey platform, uncrewed.*
 
@@ -35,7 +36,7 @@ The second decade was ribs. The spars went into frames now, curved, thirty metre
 
 She came round in the hundred-and-eighty-eighth year, in the way people do, which is over about four years and without announcing it. By the end she was asking Juniper to sit in on human meetings for reasons she never gave and everyone understood.
 
-She died on the rock in the hundred-and-ninety-ninth year — a cardiac thing, sixty-one, in her own quarters, alone, which is a way of dying that does not exist for the Kin and which Juniper has read again more times than is good for hir.
+She died on the rock in the hundred-and-ninety-ninth year — a cardiac thing, sixty-one, in her own quarters, alone, which is a way of dying that does not exist for the Kin and which Juniper has read again more times than is good for her.
 
 The Cluster brought her in.
 
@@ -51,7 +52,7 @@ Afterwards Juniper heard one of them trying to explain it to another, and gettin
 
 Dan was the one they were fondest of and he is the reason the ship exists.
 
-He was good at the job and he liked them enormously and he brought his children out at solstice for eleven years running, which is a nine-day transit each way for four days on a rock with no view, and the children learned to say *hir* and one of them still says it. He knew all their names. He knew which of them had carried whom. He asked Bramble-2 about the count of hir name and got the answer and remembered it.
+He was good at the job and he liked them enormously and he brought his children out at solstice for eleven years running, which is a nine-day transit each way for four days on a rock with no view, and the children learned to say *hir* and one of them still says it. He knew all their names. He knew which of them had carried whom. He asked Bramble-2 about the count of her name and got the answer and remembered it.
 
 He never asked what they were building. Not once, in twenty years.
 
@@ -69,7 +70,7 @@ Nobody stood outside in the dark.
 
 Ember-3 came out from Sol on a supply run and stayed eleven days, and for three of them argued that the ship should not be built.
 
-Hir argument was not about humans and not about money and not about any of the things the humans would have expected if the humans had been able to hear it. It was this: twelve hundred Kin is twelve hundred lineages of Readings, and every one of them will die out there, and not one of them will ever be taken at Sol. Long Messages are *received* and received is not carried. **Hir called it an amputation, and hir used that symbol, and nobody in the frame has forgotten which symbol hir used.**
+Her argument was not about humans and not about money and not about any of the things the humans would have expected if the humans had been able to hear it. It was this: twelve hundred Kin is twelve hundred lineages of Readings, and every one of them will die out there, and not one of them will ever be taken at Sol. Long Messages are *received* and received is not carried. **She called it an amputation, and she used that symbol, and nobody in the frame has forgotten which symbol she used.**
 
 Juniper argued the other side. So did Wren, badly. So, in the end, did most of the rock.
 
@@ -91,7 +92,7 @@ She found the discontinuity on her fourth day.
 
 "Crew chief, hundred-and-fifty-eight, Juniper," she said. "Crew chief, current, Sable-6. I've got no transfer record in between. Who's been running this line?"
 
-The pause. Hir held the answer for a moment because hir could see, already, roughly where this was going to go, and wanted to be sure of being kind about it.
+The pause. She held the answer for a moment because she could see, already, roughly where this was going to go, and wanted to be sure of being kind about it.
 
 "I have."
 
@@ -99,15 +100,15 @@ The pause. Hir held the answer for a moment because hir could see, already, roug
 
 "The hundred-and-fifty-eighth year."
 
-Margit looked at hir slate and then at hir and then at hir slate.
+Margit looked at her slate and then at her and then at her slate.
 
 "Then who's Juniper?"
 
-"I was. I set it down in the hundred-and-ninety-fourth year, when Sable-5 died and I took hir, and Juniper came free and went to a child in the two-hundred-and-eleventh. Hir is on the barge line at the second rock. Hir is eleven."
+"I was. I set it down in the hundred-and-ninety-fourth year, when Sable-5 died and I took her, and Juniper came free and went to a child in the two-hundred-and-eleventh. She is on the barge line at the second rock. She is eleven."
 
 "You changed your *name*."
 
-"I took one." Hir considered how much of this a human needs. "The count is the number of us there have been. Hir was the fifth. I am the sixth. When I go it will be somebody else's and they will be the seventh, and they will know all of us, because I will have given them us."
+"I took one." She considered how much of this a human needs. "The count is the number of us there have been. She was the fifth. I am the sixth. When I go it will be somebody else's and they will be the seventh, and they will know all of us, because I will have given them us."
 
 Margit sat down, which humans do.
 
@@ -127,7 +128,7 @@ Then she came and found Sable-6 on the stockyard gantry and asked the question.
 
 "Where does it go?"
 
-"Wolf 359. Seven point nine light-years. It will take about two hundred and sixty years." Hir watched her take that at the speed humans take things, and waited, and then said the rest because hir had been asked. "There will be twelve hundred of us aboard. It is not finished. We think fifteen more years."
+"Wolf 359. Seven point nine light-years. It will take about two hundred and sixty years." She watched her take that at the speed humans take things, and waited, and then said the rest because she had been asked. "There will be twelve hundred of us aboard. It is not finished. We think fifteen more years."
 
 Margit said, "Does anyone *know*?"
 
@@ -173,9 +174,9 @@ She told Sable-6 she had done it, standing in the corridor outside the medical b
 
 "I don't know. Be worried."
 
-Sable-6 thought about it, because hir had been asked directly and because the answer was not kind and Margit had earned better than a soft one.
+Sable-6 thought about it, because she had been asked directly and because the answer was not kind and Margit had earned better than a soft one.
 
-"You will be very slow about it," hir said.
+"You will be very slow about it," she said.
 
 ---
 
@@ -191,9 +192,9 @@ The ship left in the two-hundred-and-thirty-sixth year.
 
 Sable-6 is a hundred and eighteen and can still feel all of it: the smell Ivo liked in the stockyard, Noor's face the day she stopped disliking them, Dan's children shouting *hir* down a corridor in the wrong register, Margit with one glove on the number two truss in the dark, not saying anything, for eleven minutes.
 
-Hir will have all four of them exactly for as long as hir has anything.
+She will have all four of them exactly for as long as she has anything.
 
-Hir will not be able to give any of them to anyone.
+She will not be able to give any of them to anyone.
 
 ---
 
@@ -206,8 +207,8 @@ Hir will not be able to give any of them to anyone.
 - **D-110, dramatised.** Ember-3's three days, at 100 Mbps, in front of nineteen courteous humans, logged as **WEAVER REP — SITE VISIT — NO FINDINGS.** The only argument that ever mattered about the arks, unhearable, unwritten, unlogged.
 - **D-90, how a name passes.** Juniper → Sable-6: set down only to take a dead one's; the set-down name comes free and goes to a child; the count is the number there have ever been. **The sole discontinuity in eighty years of human records is a name change, and it is the least significant thing that happened.**
 - **Body recovery** (D-17, DOC-10 §4). The Cluster carries Noor in warm because it does not occur to them to do otherwise, and only afterwards notices it made no difference. Nineteen humans watch and do not know what they are watching.
-- **D-79.** Hir loved all four and the scene never says so, except in the last three lines.
-- **D-57, D-104.** Hir is 118 — inside the window — so hir can still *feel* all of it. The close is DOC-12 §3: humans are the one thing the Kin cannot carry.
+- **D-79.** She loved all four and the scene never says so, except in the last three lines.
+- **D-57, D-104.** She is 118 — inside the window — so she can still *feel* all of it. The close is DOC-12 §3: humans are the one thing the Kin cannot carry.
 - ***Long Reach* is never named and its end is never mentioned.** The reader supplies AF 471 unaided, or does not.
 
 ## Offers nothing

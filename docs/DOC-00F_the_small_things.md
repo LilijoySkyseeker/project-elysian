@@ -43,12 +43,12 @@ This document is that slot, widened. Shuffle it. Take one.
 | :--- | :--- | :--- |
 | **W** | Puts a tool **on the deck** rather than holding it out at chest height. You hand a Kin things downward | six limbs; 0.70 m at the head on all six |
 | **W** | Nobody steps over a tail. You go round, or you wait | the tail is a limb, not an ornament (DOC-01A §3A) |
-| **W** | **Sits down** so hir does not have to rear to talk to him | 0.70 m vs 1.15 m reared |
-| **W** | In an accident he puts his hands over hir **chest**, not hir head. Under pressure, almost nobody gets this right | no brain in the head (DOC-01B §1) |
+| **W** | **Sits down** so she does not have to rear to talk to him | 0.70 m vs 1.15 m reared |
+| **W** | In an accident he puts his hands over her **chest**, not her head. Under pressure, almost nobody gets this right | no brain in the head (DOC-01B §1) |
 | **W** | Carries the kit of a void-built Kin newly down a gravity well, without being asked and without saying why | reversible builds (DOC-01A §5) |
-| **W** | Does not offer hir a chair, and does not make a performance of not offering | DOC-12 §7 |
+| **W** | Does not offer her a chair, and does not make a performance of not offering | DOC-12 §7 |
 | **P** | Discharges on a rail before touching a board. He picked it up from them and now does it for no reason at all | conductive melanin-metal coat |
-| **C** | Has stopped finding it alarming that hir talks to him with hir head turned all the way round while hir hands keep working | 180° head rotation |
+| **C** | Has stopped finding it alarming that she talks to him with her head turned all the way round while her hands keep working | 180° head rotation |
 | **C** | A digit growing back over a year, and nobody mentioning it | regeneration at developmental pace |
 | **E** | **Unsheathed claws on deck plate.** Every human on a station learns what that sound means and not one of them is ever taught it | claws sheathed on habitat surfaces (DOC-01A §3B) |
 | **E** | A Kin asleep in the web, which looks exactly like a dead one | the sleep-web, storm posture |
@@ -63,12 +63,12 @@ This document is that slot, widened. Shuffle it. Take one.
 | :--- | :--- | :--- |
 | **W** | She has been crying and does not have to say so and is not asked | the literate nose (DOC-01F §4) |
 | **W** | The Kin-sector displays run at a higher refresh. He notices his eyes hurt less in there and never finds out why | 120 Hz flicker fusion |
-| **P** | Hir puts a hand flat on the deck mid-sentence and everyone stops talking | hull-hearing (DOC-01F §6) |
+| **P** | She puts a hand flat on the deck mid-sentence and everyone stops talking | hull-hearing (DOC-01F §6) |
 | **C** | There is something in the paint. He will never see it. The argument about whether it is beautiful has run for two centuries and he is not in it | the fourth cone; the Plain School (DOC-13 §3) |
-| **E** | Hir knows he is ill three days before he does, and the etiquette is entirely about whether to say | the nose |
-| **E** | Hir head comes up at nothing, and four people move | leak-hearing |
+| **E** | She knows he is ill three days before he does, and the etiquette is entirely about whether to say | the nose |
+| **E** | Her head comes up at nothing, and four people move | leak-hearing |
 | **E** | The room he calls quiet is not | 20 Hz–50 kHz |
-| **E** | Hir does not need the light on and has left it on for him | RADAR, optical darkness in Kin sectors |
+| **E** | She does not need the light on and has left it on for him | RADAR, optical darkness in Kin sectors |
 
 ---
 
@@ -78,13 +78,13 @@ This document is that slot, widened. Shuffle it. Take one.
 | :--- | :--- | :--- |
 | **W** | After a Burst, one of them says aloud, roughly, what it was about. A courtesy, unprompted, every time | the Bandwidth Gap (DOC-02 §3) |
 | **W** | **Checks the beacon is live before he asks a Kin to go into a shielded space** | post-Storm standard (DOC-03 §1, D-87) |
-| **W** | Lets hir finish before speaking, and does not treat the silence as an invitation | frame traffic |
+| **W** | Lets her finish before speaking, and does not treat the silence as an invitation | frame traffic |
 | **P** | He never looks at the mood column on the console — or he does, and pretends he does not | telemetry (D-85, D-92) |
-| **E** | Hir answers a question he asked somebody else, from the next bay | the frame |
+| **E** | She answers a question he asked somebody else, from the next bay | the frame |
 | **E** | Two of them do a two-person job in total silence for forty minutes | sub-20 ms shared perception |
-| **E** | Hir goes still and slightly wrong for a second and then comes back. Something happened twelve kilometres away | the frame |
+| **E** | She goes still and slightly wrong for a second and then comes back. Something happened twelve kilometres away | the frame |
 | **E** | Nobody knocks. You cannot approach a Kin unheard | the Hum, ~800 km |
-| **R** | Talks about hir in the third person in the same room, because he has not worked out that there is no distance at which hir cannot hear him | PUBLIC tier |
+| **R** | Talks about her in the third person in the same room, because he has not worked out that there is no distance at which she cannot hear him | PUBLIC tier |
 
 ---
 
@@ -92,14 +92,14 @@ This document is that slot, widened. Shuffle it. Take one.
 
 | | The detail | Derived from |
 | :--- | :--- | :--- |
-| **W** | **Goes and asks hir rather than pulling the file.** Faster, more accurate, and hir is slightly pleased to be asked | D-19, D-101 |
-| **W** | He has learned to ask the *next* question of an elder, because hir will answer anything exactly and volunteer nothing | D-98, D-104 |
-| **W** | He says *I don't remember* and hir does not find it suspicious, having learned | the asymmetry |
+| **W** | **Goes and asks her rather than pulling the file.** Faster, more accurate, and she is slightly pleased to be asked | D-19, D-101 |
+| **W** | He has learned to ask the *next* question of an elder, because she will answer anything exactly and volunteer nothing | D-98, D-104 |
+| **W** | He says *I don't remember* and she does not find it suspicious, having learned | the asymmetry |
 | **W** | Reads a one-line Kin log correctly, including the part that leaks | D-19 |
-| **C** | Hir names the date instead of saying *a while back*. Every time. It is mildly unnerving and hir does not know it | hard handles (D-98) |
+| **C** | She names the date instead of saying *a while back*. Every time. It is mildly unnerving and she does not know it | hard handles (D-98) |
 | **C** | A human with forty words of Kin-code, using them confidently and slightly wrong | Kin-code dialects |
 | **R** | Writing something down in front of a Kin who has just Told it to him | DOC-13 §11 |
-| **R** | **Demanding the account** — not *what happened*, which is free, but *what it was like*, which hir must go back and feel again to have at all | D-103, D-104 |
+| **R** | **Demanding the account** — not *what happened*, which is free, but *what it was like*, which she must go back and feel again to have at all | D-103, D-104 |
 
 ---
 
@@ -108,11 +108,11 @@ This document is that slot, widened. Shuffle it. Take one.
 | | The detail | Derived from |
 | :--- | :--- | :--- |
 | **W** | Eating in the dark is the compliment | the nose |
-| **W** | Hir leans against him while he works and neither of them mentions it | touch is the resting state (DOC-01F §4) |
+| **W** | Her leans against him while he works and neither of them mentions it | touch is the resting state (DOC-01F §4) |
 | **C** | Brings the copper ration as a treat and is embarrassed about it | metals taste good |
 | **C** | Grooming somebody mid-argument, neither party acknowledging it | the Nest |
 | **C** | Kin-sized chairs, used as shelves | DOC-12 §7 |
-| **E** | Hir has no idea where his personal space is and has never been told there is one | no personal space |
+| **E** | She has no idea where his personal space is and has never been told there is one | no personal space |
 
 ---
 
@@ -126,9 +126,9 @@ This document is that slot, widened. Shuffle it. Take one.
 | **W** | A Kin with exactly one object, and what it is | no possessions (D-60) |
 | **C** | Expects a Sedge to tune the station, and is right | D-88 |
 | **C** | Tries too hard with *hir* | DOC-13 §11 |
-| **C** | Buys hir a gift and gets it wrong in a way that is specifically about possessions | D-60 |
+| **C** | Buys her a gift and gets it wrong in a way that is specifically about possessions | D-60 |
 | **R** | Asks the count of a name he should know | DOC-13 §11 |
-| **R** | *"They tolerate the vacuum,"* said where hir can hear it | DOC-00B §6 |
+| **R** | *"They tolerate the vacuum,"* said where she can hear it | DOC-00B §6 |
 | **R** | *pets* | DOC-00 §1 |
 
 ---
@@ -141,9 +141,9 @@ This document is that slot, widened. Shuffle it. Take one.
 | **W** | A human *hand* for a Kin child | DOC-02B §5 |
 | **W** | Writes the log the Kin will not write, and knows why | DOC-12 §7 |
 | **P** | The safety reviewer who cites the Kin-specific margin, has read the manual, and has not read the inquiry | DOC-10 §4, the Field |
-| **E** | At a chosen ending, the human is there **because hir cannot understand**, and some Kin want that in the room | DOC-11 §10 |
+| **E** | At a chosen ending, the human is there **because she cannot understand**, and some Kin want that in the room | DOC-11 §10 |
 | **R** | The seventeen minutes, said carelessly. Blasphemy in the only sense they have | DOC-13 §11 |
-| **R** | Sizing the shelter · the margin on the tether · asking hir to write it up · posting one alone | DOC-12 §7 |
+| **R** | Sizing the shelter · the margin on the tether · asking her to write it up · posting one alone | DOC-12 §7 |
 
 ---
 
@@ -159,7 +159,7 @@ Mark an entry here when a scene uses it. **Rest anything with three or more mark
 | The hand on the chest, not flinched at | S020 (as the tail on the boot) | Rested |
 | A human who learns a little whistle | S021 | **Spent — it is that scene's whole subject.** Do not reuse. |
 | Naming the date instead of *a while back* | S022, S023 | Rest one scene |
-| Nobody knocks / no distance at which hir cannot hear | — | Free |
+| Nobody knocks / no distance at which she cannot hear | — | Free |
 | The chest, not the head, in an accident | — | Free |
 | The beacon checked before the shielded space | — | Free |
 | Goes and asks rather than pulling the file | — | Free — **and it is the best unused W in the deck** |

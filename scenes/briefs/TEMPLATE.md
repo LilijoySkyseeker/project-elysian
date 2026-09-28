@@ -26,7 +26,7 @@
 | Notices (the **lens**: what this teller orders the world by, DOC-00G §10.4) | |
 | Wrong about | |
 | Humour | |
-| A person, not a job (mutters, reactions, thoughts of hir own) | |
+| A person, not a job (mutters, reactions, thoughts of her own) | |
 | Keeps (the trait each trope ban must not strip, §10.2) | |
 
 ## 5. Shape

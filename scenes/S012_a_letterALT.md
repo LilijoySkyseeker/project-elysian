@@ -1,4 +1,5 @@
 # SCENE 012 — A Letter (v2)
+**Pronoun sweep, 2026-09-28 (D-113):** *hir* is now *she / her / herself*. The text is otherwise unchanged; the *hir* version is in git history before this commit.
 **Origin:** Fresh-context rewrite, 2026-09-19 · **Form:** Letter · **POV:** Human (Teodor Lind)
 **Canon status:** DRAFT v2 — awaiting review. Introduces no canon.
 
@@ -12,7 +13,7 @@ One thing before I forget, because I will. Take a clothes brush. A real one, bri
 
 Alder-3 on the roster. I never once heard anybody say the three out loud, and I knew men who'd have said it just to see what happened. She could play cards with two hands and hold the pump manual open with the other two, and I never proved she wasn't keeping a second pack somewhere in the rest. I lost eleven weeks' chocolate to her the first year. What she did with it I never found out. After that I stopped playing for chocolate and lost for nothing, which is how I'd have you do it. That's not the advice. The brush is the advice.
 
-Your mother writes hir on her forms. I said she from the first day out of habit, and Alder answered to it, and about year five I asked her whether it bothered her. She took her time and said it was fine from where I was standing. I didn't know what to do with that so I kept saying she. I'm too old to change now and she'd have said so herself.
+Your mother writes her on her forms. I said she from the first day out of habit, and Alder answered to it, and about year five I asked her whether it bothered her. She took her time and said it was fine from where I was standing. I didn't know what to do with that so I kept saying she. I'm too old to change now and she'd have said so herself.
 
 The number-two pump on the loop was never right. I want that on a record somewhere and this is the only record I've got. Wen and I rebuilt it twice. Alder rebuilt it once on her own in a shift and a half and it was still never right, and the day I left she told me it was still never right, and I think that was the nearest she came to a going-away present.
 

@@ -39,7 +39,7 @@ Sub-dermal nodes along the shoulders, dorsal line and flanks (DOC-01 §3), of th
 
 * **Principle:** passive and active **electrostatic / capacitive near-field** sensing. The nodes hold a small standing charge and read its distortion by nearby mass — conductor or dielectric, bulkhead or body. No medium is required, so **it works in vacuum.**
 * **Range:** roughly the size of the object — $\sim 1\text{ m}$ for a bulkhead or a body, $\sim 0.2\text{ m}$ for a hand tool. Resolution is coarse: *something, this big, closing at this rate, from there.*
-* **Percept:** a pressure-like sense with no human word — Vesper-7's "pleasant buzz" (S002) as a conduit passes over hir back. It is the sense of *what is about to touch me*, and it is why Kin move through crowded rails without looking.
+* **Percept:** a pressure-like sense with no human word — Vesper-7's "pleasant buzz" (S002) as a conduit passes over her back. It is the sense of *what is about to touch me*, and it is why Kin move through crowded rails without looking.
 * **Cost:** strong static discharges (the reason for the conductive-pad grounding of DOC-01B §6) blind it briefly; a badly grounded human sector *itches*.
 * **In vacuum:** fully functional, and the only near-field sense left.
 
@@ -100,7 +100,7 @@ The pinnae are radiators (DOC-01B §8), phased arrays (DOC-01D) and acoustic pin
 | Fanned wide | Heat dump | Neither aimed |
 | Folded flat | Heat retention (vacuum, cold) | Nearly deaf; RADAR narrowed |
 
-Humans read ear position as emotion. **Half the time it is thermal management.** Sorrel's ears flaring "when thinking" is a real tell — the Echo Cortex and Lattice warming under load — but a Kin fanning hir ears at you in a hot bay is not interested, just hot. Kin learn early which humans can tell the difference.
+Humans read ear position as emotion. **Half the time it is thermal management.** Sorrel's ears flaring "when thinking" is a real tell — the Echo Cortex and Lattice warming under load — but a Kin fanning her ears at you in a hot bay is not interested, just hot. Kin learn early which humans can tell the difference.
 
 ---
 
@@ -108,7 +108,7 @@ Humans read ear position as emotion. **Half the time it is thermal management.**
 
 * **Pads and hands:** human-grade tactile acuity in the hands; paw pads coarser but load-sensing (the anchor budget of DOC-01A §3 is *felt*).
 * **Whiskers:** vibrissae on the muzzle and above the eyes — near-field airflow and contact in the dark. In vacuum they report only contact.
-* **Hull-hearing.** In vacuum there is no sound, but a Kin locked to the rails feels **structure-borne vibration** through pads and tail — pumps, impacts, a hull working under thermal load, a pressure door cycling three frames away. The pit-node tissue family reads it. A Kin on EVA does not just fix the hull; hir listens to it, and comes back in with an opinion about the number-two pump.
+* **Hull-hearing.** In vacuum there is no sound, but a Kin locked to the rails feels **structure-borne vibration** through pads and tail — pumps, impacts, a hull working under thermal load, a pressure door cycling three frames away. The pit-node tissue family reads it. A Kin on EVA does not just fix the hull; she listens to it, and comes back in with an opinion about the number-two pump.
 
 ---
 

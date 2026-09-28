@@ -68,7 +68,7 @@ PARTICIPLE = re.compile(r",\s+(?!(?:thing|nothing|something|anything|everything|
                         r"being|king|ring|string|wing|spring|bring|sing|swing|sting|ping|ling|ding|awning)\b)"
                         r"[a-z]+ing\b", re.I)
 
-# Pronouns are fixed by the style sheet (hir/she by POV), so they are excluded from voice profiles.
+# Pronouns are fixed by the style sheet (she/her, D-113; older text has hir), so they are excluded from voice profiles.
 PRONOUNS = set("i me my mine we us our you your he him his she her hers hir hirs it its they them their".split())
 
 
