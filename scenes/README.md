@@ -1,7 +1,7 @@
 # SCENES — Collection Index
 Every scene written for Project Elysian, in collection order, each with its origin, theme, POV and a running **canon-drift** list (what has changed in the design since the scene was written). Original text is preserved until a scene is deliberately revised; a revision gets a new version header, never an overwrite.
 
-**Index last rebuilt 2026-09-22; S024–S025 added 2026-09-24** against the directory as it stood. If a scene has been added since, add its row.
+**Index last rebuilt 2026-09-22; S024–S025 added 2026-09-24; S027 added 2026-09-28** against the directory as it stood. If a scene has been added since, add its row.
 
 | # | File | Title | Theme | POV | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -28,8 +28,9 @@ Every scene written for Project Elysian, in collection order, each with its orig
 | S023 | `S023_the_eighty_year_build.md` | Long-Baseline Survey Platform, Uncrewed | The eighty-year build; nobody ever asked; the Weavers logged as a site visit | Kin (Juniper → Sable-6) | Draft; offers no canon |
 | S024 | `S024_outer_relay.md` | Outer Relay | A Kin who is wrong and loses; the weather is public; the cheap check as a weapon | Kin (Pell-3), present tense | **Accepted 2026-09-24; offers no canon.** First scene written through the DOC-00H pipeline |
 | S025 | `S025_request_4471.md` | Request #4471 | A Kin forced to argue in writing; a ferment, a complaint, a recycler | Document (ticket thread) | **Accepted 2026-09-24; offers no canon.** |
+| S027 | `S027_real_time.md` | Real Time | A Telling from the teller's side; the hours with a human that nobody else holds | Kin (Aster-5) | Draft; offers no canon. Written 2026-09-24 as "S024" in a concurrent session; renumbered on merge. **v2 draft** (`drafts/S027_real_time_v2.md`, revised through DOC-00H §11), awaiting the owner's read; v1 kept |
 
-**Numbering.** S013, S014 and S015 are not in the collection. The numbers are **not reused** — like a name, the count does not reset. The next scene is S026.
+**Numbering.** S013, S014 and S015 are not in the collection. The numbers are **not reused** — like a name, the count does not reset. S026 is held by *Guest Slot* (unmerged branch). The next scene is S028.
 
 ---
 
@@ -63,7 +64,7 @@ Drift notes for the memory pass are on **S009** and **S012**. Nothing else in th
 
 Through the pipeline (DOC-00H). The header block and canon notes are written **last**, by the canon check, never used as the brief. Next number, same header block, drift list empty on first write. Add the scene's row to `LEDGER.md`, and run `python3 tools/tells.py corpus --out reports/tells_latest.md`. Scenes that *introduce* canon (a named place, a new custom, a mechanism) should say so in the header, and offer it explicitly, so `CANON.md` can cite it. **Since D-96 the collection leads:** a ruling is drafted only when a scene has demanded it. `ROADMAP.md` Step 12 holds the scene debt and the undramatised queue.
 
-**Scenes the design is currently owed** (ROADMAP Step 12): the unprompted elder, with someone else as the cue; the account asked for — someone wanting not the fact but what it was like, and the Kin deciding whether to go back to 1× for hir (⟨don't make me read it⟩); the cheap check — a fact settled in a second, mid-argument, unremarked, which is the ordinary case and has never been shown; the reach for a thing that is not there — a Kin in the worst hour of hir life knowing it is going on file and cannot be stopped (D-105); the night nobody attended; a Kin asking for the retroactive holding (D-107); a Cluster realising they will never know how hir died; a Telling from the teller's side; the first posting-bonus child; two claimants at a Reading; the grant-web removed.
+**Scenes the design is currently owed** (ROADMAP Step 12). *S027 has discharged a Telling from the teller's side and the account asked for; S024 and S027 both show the cheap check.* Still owed: the unprompted elder, with someone else as the cue; the account asked for — someone wanting not the fact but what it was like, and the Kin deciding whether to go back to 1× for hir (⟨don't make me read it⟩); the cheap check — a fact settled in a second, mid-argument, unremarked, which is the ordinary case and has never been shown; the reach for a thing that is not there — a Kin in the worst hour of hir life knowing it is going on file and cannot be stopped (D-105); the night nobody attended; a Kin asking for the retroactive holding (D-107); a Cluster realising they will never know how hir died; a Telling from the teller's side; the first posting-bonus child; two claimants at a Reading; the grant-web removed.
 
 ---
 
@@ -82,3 +83,5 @@ Through the pipeline (DOC-00H). The header block and canon notes are written **l
 **S024 (2026-09-24)**: *Outer Relay*. Pell-3 asks the postings officer for six months beyond 800 km, where nobody can feel how embarrassed hir is, and loses: first on the facts, and then, worse, by using one. **Accepted; offers no canon.** It is the first scene written through the DOC-00H pipeline, and the brief (`briefs/S024_brief.md`) keeps the whole record: the predictability pass that changed the premise, the lint, the cold read, and the revision log. Its signature move, a Kin quoting a human's private words back exactly as a weapon, is now rested (`tools/tells_patterns.tsv` T16).
 
 **S025 (2026-09-24)**: *Request #4471*. A facilities ticket thread: a complaint about a smell in the seam galley, a Kin cook made to answer in writing, a compromise, and then a second report that sends the crock to the recycler. It ends open. **Accepted; offers no canon.** The cold read found no machine sentence, only a machine *structure* (every thread paid off on schedule), and the revision untied it (brief §Cold read).
+
+**S027 (2026-09-24)** — *Real Time*: a Telling before a dangerous job, from the teller's side. Aster-5 arrives with seven chosen hours and, a day in, asks which of them anybody else holds — the frame had the weather of hir afternoons with Dell Maran (97, human) and not the news — and spends the week's lived hours on her instead. Discharges two Step 12 debts: **the teller's side** (D-102, D-103) and **the account asked for** (Dell's *was I any good?*); it also shows **the cheap check** (Rue settling the name of a tug from a year hir has held for an hour, unremarked), which S024 had already used as a weapon. DOC-00F marker used: *goes and asks rather than pulling the file*. Offers no canon; flags one arithmetic question (the lived hours against a 7.05-day cold year) as evidence only. **Written in a concurrent session as "S024", outside the DOC-00H pipeline: no brief, no lint or cold read on record, no owner's read. Renumbered S027 on merge (2026-09-28); S024 went to *Outer Relay* and S026 is held by *Guest Slot*.** No `LEDGER.md` row yet.
