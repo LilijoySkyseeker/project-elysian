@@ -147,12 +147,12 @@ Each of these is a ruling the archive leans on and has never put on a page.
 | Ruling | What has never been shown | Shape |
 | :--- | :--- | :--- |
 | **D-83** | The grant-web — whose Reading key you hold, who holds yours. *Removal from a grant is the breakup with no other name.* The kinship map the species actually runs on. | The removal, from either side |
-| **D-90** | Two claimants at a Reading for one name; custom settles it *in the frame — the one who took the most of hir*. | The loser's story |
+| **D-90** | Two claimants at a Reading for one name; custom settles it *in the frame — the one who took the most of her*. | The loser's story |
 | **D-76** | A Cluster tuning a child toward a posting, and an operator's bonus behind it. The ruling itself says *the first case is a scene*. | The compile log at a Weave |
 | **D-77** | The gestation licence failing — the only miscarriage the Kin have, and currently a table row | Quiet, two parents |
 | **D-82** | The night the dreams go flat; the Weaver who presides asks about the dreams first | The chosen ending, from the Weaver's side |
 | **D-87** | An interrogation — a day verbatim per half hour, and the Cluster afterwards | An operator's dispute, not a court |
-| **D-85** | The console: a human reading a Kin's mood off a screen and never off hir face | Human POV, ordinary day |
+| **D-85** | The console: a human reading a Kin's mood off a screen and never off her face | Human POV, ordinary day |
 | **D-88** | The Alder piece — *[Off / by / one]* — played at a human funeral while the Kin stand with nothing to do | Either POV |
 
 ### The memory re-derivation (D-97…D-101, 2026-09-22)
@@ -178,7 +178,7 @@ Not a new pass under the rule of order — a **re-derivation**, on the D-73 prec
 | What costs | *(implied: every use of the archive)* | **giving, not knowing** (D-103) — a checked fact is a second; an account has to be felt again to exist |
 | Why a Reading is slow | asserted | **death takes the reader, not the book** — 12 MB/s is cortical; ≤10 kbps is what is left without one |
 
-**Scene debt (as amended by D-103).** *The account asked for* — someone wanting not the fact but what it was like, and the Kin deciding whether to go back to 1× for hir. *The cheap check* — a fact settled in a second, mid-argument, and nobody remarking on it, because that is the ordinary case and no scene has shown it. *The unprompted elder* — someone else being the cue. *The reach for a thing that is not there* — a Kin in the worst hour of hir life knowing, exactly, that this is going on file and cannot be stopped (D-105). *The lag* — a Cluster realising they will never know how hir died. *The Weaver's index* — what it costs to take a stranger's year. *A Telling from the teller's side* — the week, and the hours hir chooses to live again inside it (D-102, D-103). *The Defrag* — an elder choosing which century hir keeps the feel of.
+**Scene debt (as amended by D-103).** *The account asked for* — someone wanting not the fact but what it was like, and the Kin deciding whether to go back to 1× for her. *The cheap check* — a fact settled in a second, mid-argument, and nobody remarking on it, because that is the ordinary case and no scene has shown it. *The unprompted elder* — someone else being the cue. *The reach for a thing that is not there* — a Kin in the worst hour of her life knowing, exactly, that this is going on file and cannot be stopped (D-105). *The lag* — a Cluster realising they will never know how she died. *The Weaver's index* — what it costs to take a stranger's year. *A Telling from the teller's side* — the week, and the hours she chooses to live again inside it (D-102, D-103). *The Defrag* — an elder choosing which century she keeps the feel of.
 
 `models/` owes nothing; no physics number moved.
 
@@ -188,8 +188,8 @@ Not a new pass under the rule of order — a **re-derivation**, on the D-73 prec
 | :--- | :--- |
 | **D-91** the override | Not H-01 — that stays open. The *affordable* version: a Kin overriding the ranking in a small way, in a frame, and the Cluster feeling the weather turn and not asking. |
 | **D-92** coarse affect | A console and a human who cannot tell grief from fear, and a human beside him who can read ears and can. |
-| **D-93** the Kin alone | Two: the guard slot offered to a stranger on a relay; and a Kin home from a long lone posting, reciting a decade hir cannot feel. |
-| **D-94** the child's envelope | The fourteen-year-old at the airlock, written as the thing hir *could* do. (The archive has wanted this since DOC-02B; S008 approaches it from the other side.) |
+| **D-93** the Kin alone | Two: the guard slot offered to a stranger on a relay; and a Kin home from a long lone posting, reciting a decade she cannot feel. |
+| **D-94** the child's envelope | The fourteen-year-old at the airlock, written as the thing she *could* do. (The archive has wanted this since DOC-02B; S008 approaches it from the other side.) |
 | **D-95** after the burn | The first hour after a hard burn, worked in the dark; the human being told where to put his hands. |
 
 ### And choose the fuses (N-09 → H-10)
@@ -230,7 +230,7 @@ The design is closed; the world is open. Candidates, in no order:
 | :--- | :--- |
 | **The overwriting** | A Kin notices a smell now means the wrong decade, works out by hard handle what it used to mean, gets the answer exactly, and feels nothing. |
 | **The re-anchor** | A centennial Defrag from inside: being shown what already went, and choosing the few to carry forward at the cost of others. |
-| **The elder moved by a stranger** | A Written runs hir own first year at 1×, is moved by it the way anyone is moved by someone else's life, and does not say so. |
+| **The elder moved by a stranger** | A Written runs her own first year at 1×, is moved by it the way anyone is moved by someone else's life, and does not say so. |
 
 ### Scene debt from D-108…D-110 (where the arks came from)
 

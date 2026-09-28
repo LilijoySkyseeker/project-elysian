@@ -21,11 +21,11 @@ Each chapter is written through DOC-00H, with its own brief, predictability pass
 
 ### 2. Madder-4: *theta*
 **Span:** the same night, to near dawn. **POV:** Madder-4, close third. *(The one who refuses: procedure as a handrail.)*
-- They wake out of theta lock in a heap, under gravity. Void-built bodies fold. Madder counts presences: five, all there, whole. Then hir reaches for the ship and there is nothing in the sky. Within a minute every one of them has worked out what the ship felt: five presences stopping in one tenth of a second. Nobody says it. Madder gives orders instead.
+- They wake out of theta lock in a heap, under gravity. Void-built bodies fold. Madder counts presences: five, all there, whole. Then she reaches for the ship and there is nothing in the sky. Within a minute every one of them has worked out what the ship felt: five presences stopping in one tenth of a second. Nobody says it. Madder gives orders instead.
 - Only the plasma came through, not the reactor. It is burning in the undergrowth. Not panic, just *let's not be here*. Madder sets a watch rota. Nobody has a watch to keep.
 - The forest: smell, noise, wet. **The first animal any of them has ever seen** is something ordinary (a moth at the fire, an owl), and it frightens a sixty-kilo rigger more than the fire does.
 - The walk out, on bodies that don't work under gravity. Haw is enjoying it, which Madder cannot forgive.
-- **Threads:** Madder (↑ they're alive and hir rota keeps them moving; ↓ home thinks hir let four people die with hir); Haw (↑↑).
+- **Threads:** Madder (↑ they're alive and her rota keeps them moving; ↓ home thinks she let four people die with her); Haw (↑↑).
 - **Ending: image, no comment.** A small house at the forest's edge, and it is full of animals. **Escalates:** yes (the realisation about home comes after the first relief).
 - **Not:** a panic scene over the silent band; stars; pointing home.
 
@@ -43,9 +43,9 @@ Each chapter is written through DOC-00H, with its own brief, predictability pass
 **Span:** days two to four. **POV:** Sloe-5, close third. *(Adapts, and pays for it.)*
 - The Crusaders' story has spread: garbled, monstrous, and half-believed. The Mayor, a lot of closed doors, and one empty building (an old barn or a disused mill) given to them because it's far from anything.
 - **Food.** Five of them need about 10,000 kcal of protein a day. Ponyville eats flowers, hay and cake. Sloe learns the market: eggs, cheese, beans and nuts are what's usable, and there aren't enough of them. They have no bits. Sloe trades work, and is bad at knowing what work is worth here.
-- **Applejack** sells to hir: commerce, not charity. The farm needs money and she needs it more than she'll say. She drives a fair bargain and a hard one. Sloe likes her enormously.
+- **Applejack** sells to her: commerce, not charity. The farm needs money and she needs it more than she'll say. She drives a fair bargain and a hard one. Sloe likes her enormously.
 - **Pinkie** is at the bakery at five in the morning, on shift, flour to the elbows. There's a moment where a welcome party is plainly on her mind, and she doesn't throw one. (The reason is hers; the chapter doesn't explain it.)
-- **Threads:** Sloe (↑ markets delight hir, and hir is good at people; ↓ always tired, and the arithmetic doesn't close); Applejack (↓ the loan; ↑ a buyer); Pinkie (↑ the bakery; ↓ the private cost).
+- **Threads:** Sloe (↑ markets delight her, and she is good at people; ↓ always tired, and the arithmetic doesn't close); Applejack (↓ the loan; ↑ a buyer); Pinkie (↑ the bakery; ↓ the private cost).
 - **Ending: document end.** A tab, in Applejack's handwriting, and the running total. **Escalates:** the numbers do.
 - **Not:** a welcome party; farm work for the Kin; charity.
 
@@ -60,8 +60,8 @@ Each chapter is written through DOC-00H, with its own brief, predictability pass
 
 ### 6. Yarrow-3: *rain*
 **Span:** week two. **POV:** Yarrow-3, close third. *(Wants to work.)*
-- The weather team is soaking the forest edge. The Everfree's weather runs itself, so they can only work the border, and they argue about whether it's even their job. The rain falls on Ponyville's side too. It is **Yarrow's first rain, ever.** Hir can't stop going out in it.
-- A half-job: hauling, anchoring, the kind of work where hir hands are good and hir body is wrong for the gravity. Dash is on the crew. They work well together for about an hour, until Dash's showing-off costs her with the team captain in front of everyone, and Yarrow sees it happen and has no idea what hir's seeing.
+- The weather team is soaking the forest edge. The Everfree's weather runs itself, so they can only work the border, and they argue about whether it's even their job. The rain falls on Ponyville's side too. It is **Yarrow's first rain, ever.** She can't stop going out in it.
+- A half-job: hauling, anchoring, the kind of work where her hands are good and her body is wrong for the gravity. Dash is on the crew. They work well together for about an hour, until Dash's showing-off costs her with the team captain in front of everyone, and Yarrow sees it happen and has no idea what she's seeing.
 - **Haw** has been climbing everything in town: roofs, the clock tower, trees. It's *wonderful*. Void-built bodies misjudge falls under gravity.
 - **Threads:** Yarrow (↑ rain, work; ↓ half a job is not a job); Dash (↓ the reprimand made public); Haw (↑↑, about to be ↓).
 - **Ending: cut mid-action.** Haw, at a height, and the sound. **Escalates:** yes.
@@ -79,13 +79,13 @@ Each chapter is written through DOC-00H, with its own brief, predictability pass
 
 ### 8. Teasel: *what there is*
 **Span:** weeks three and four. **POV:** Teasel, close third. *(Quietly failing.)*
-- Teasel can't eat what there is and is losing weight. The Cluster can feel that hir is in distress, but hir won't tell them why. The **fish** in the river are the obvious protein. **Decided: the line is crossed.** A Kin eats an animal, near ponies. To most of Ponyville it's unthinkable, because they have never thought about it; to worldly ponies it's what gryphons do. Fluttershy lives two hundred metres downstream.
-- **Rushlight** (an original pony, not from the show): an old earth mare, a retired river-barge hand who lives by the weir below the mill. She is kind to Teasel **without fuss**. She has worked the river ports down to Manehattan and seen gryphons eat fish off the dock. **Worldly ponies know some species do this; most ponies have never thought about it.** She's not shocked, not fond of it either, and shows hir the deep pool.
+- Teasel can't eat what there is and is losing weight. The Cluster can feel that she is in distress, but she won't tell them why. The **fish** in the river are the obvious protein. **Decided: the line is crossed.** A Kin eats an animal, near ponies. To most of Ponyville it's unthinkable, because they have never thought about it; to worldly ponies it's what gryphons do. Fluttershy lives two hundred metres downstream.
+- **Rushlight** (an original pony, not from the show): an old earth mare, a retired river-barge hand who lives by the weir below the mill. She is kind to Teasel **without fuss**. She has worked the river ports down to Manehattan and seen gryphons eat fish off the dock. **Worldly ponies know some species do this; most ponies have never thought about it.** She's not shocked, not fond of it either, and shows her the deep pool.
 - The Crusaders come to the barn, sent or not sent, to say it to the Kin themselves. **(Decided in ch. 7's brief: Rarity said it *for* Sweetie at the hospital, and the town knew by breakfast. So in ch. 8 the three come to say it in their own words, which is the thing Rarity took from them.)** The five do not agree about what to say back. Madder is cold, Haw (arm bound) laughs, Sloe tries to manage it, Yarrow says nothing, and Teasel…
 - Life goes on at four weeks: a tab at the Apple stall, rain some days, a rota nobody keeps.
 - **Threads:** Teasel (↓ hunger; ↑ the one kind pony, and the smell of the forest after rain); the Crusaders (↓ the telling; ↑ it's told); everyone else, glimpsed.
 - **Ending: image, no comment**, and **better**: Teasel has eaten. **No** group hug, lesson, letter or stars. **Escalates:** the hunger does, until the river. Then it turns.
-- **Not:** a pony *fixing* Teasel's hunger (Rushlight shows hir the pool; Teasel does the rest, and pays the social cost); forgiveness as resolution.
+- **Not:** a pony *fixing* Teasel's hunger (Rushlight shows her the pool; Teasel does the rest, and pays the social cost); forgiveness as resolution.
 
 ---
 
@@ -109,7 +109,7 @@ The charred wagon is left broken on the steep slope below the scorched clearing 
 The Kin are engineers from a ship, and they meet magic as **numbers that don't close**. They have no word for it and don't reach for one.
 - **Ch. 3–4, pegasi:** Dash comes down out of the sky on day one; the weather team hauls and drops clouds along the edge from day one afternoon into day two. Ch. 4 (Sloe) has them watch from the duck house and run the Core on it: wing area against mass, water in a cloud. It doesn't close. Somebody says that what brought them here didn't follow the numbers either, and nobody answers.
 - **Unicorns are rare in Ponyville.** The Kin haven't seen unicorn magic by the end of ch. 4. **First sight: ch. 5**, Twilight's own telekinesis, from her POV. She does it without thinking (a book, a quill), and she sees them react (ears, stillness, a Kin stepping back from the near-field "weather", BIBLE §6) and doesn't know what she's seeing. She is **not** studying them, and no spell is cast *on* them.
-- **Their own talk about it:** its own section in **ch. 6** (Yarrow), where hir works with the weather team and gets hir hands on a cloud: what holds it up, what it's made of, why hir falls through where a pegasus stands. Kin-code, several threads, engineers arguing. It ends unresolved, and it's allowed to frighten them a little (their procedures assume physics).
+- **Their own talk about it:** its own section in **ch. 6** (Yarrow), where she works with the weather team and gets her hands on a cloud: what holds it up, what it's made of, why she falls through where a pegasus stands. Kin-code, several threads, engineers arguing. It ends unresolved, and it's allowed to frighten them a little (their procedures assume physics).
 - **Never:** a scan spell; magic explained to them by a pony; the Kin "detecting" magic usefully; magic solving anything.
 
 ## Decided (2026-09-24)

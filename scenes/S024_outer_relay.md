@@ -1,11 +1,12 @@
 # SCENE 024 — Outer Relay
+**Pronoun sweep, 2026-09-28 (D-113):** *hir* is now *she / her / herself*. The text is otherwise unchanged; the *hir* version is in git history before this commit.
 **POV:** Kin (Pell-3) · *Halcyon-3*, the postings office and the outer ring · AF ~512 · **Form:** Short story, present tense
 **Canon status:** ACCEPTED 2026-09-24. The first scene written through the DOC-00H pipeline (brief, predictability pass, cold read and revision log: `scenes/briefs/S024_brief.md`). Rests on D-92 (the weather is public), D-103 (the cheap check) and D-93 (what beyond 800 km costs). This header was written after the scene, not briefed from. **Offers no canon.**
 **Introduces:** Pell-3, Rue-3, Bracken-5, Linnet-2, Vetch-2 (Kin); Agnes Ruhl, Dev, Hana, Toller (human); *Tallow* Outer Relay; the *Carrow* deep-transit tender; *Halcyon-1*. The postings form's distance bands (<12 / 12–800 / >800 km) are texture, not a ruling.
 
 ---
 
-Firstly, the form is filled in. Pell filled it in on the walk up from the ring, in hir head, and then again at the terminal in the mess annex, and it is correct in every field, including next of kin: *Cluster (Rue-3, Bracken-5, Linnet-2)*.
+Firstly, the form is filled in. Pell filled it in on the walk up from the ring, in her head, and then again at the terminal in the mess annex, and it is correct in every field, including next of kin: *Cluster (Rue-3, Bracken-5, Linnet-2)*.
 
 Secondly, Agnes Ruhl is eating.
 
@@ -17,7 +18,7 @@ She has a paper twist of sunflower seeds open by her keyboard and a work jacket 
 
 "My door's always open. That's so people can see it's lunch." She cracks a seed with her front teeth, works the kernel out with her tongue and spits the two halves of shell into her cupped left hand. "Go on. You've got a face on."
 
-Pell does not have a face on. Pell has a face. Hir sets the form on the desk, square to the edge, and pushes it across with one finger.
+Pell does not have a face on. Pell has a face. She sets the form on the desk, square to the edge, and pushes it across with one finger.
 
 Agnes reads it without putting the pliers down. Pell watches her eyes get to the posting line, *Tallow Outer Relay, watch and maintenance, six months*, and then to the box under it, where the form asks, in the voice forms have, *Distance from nearest Kin (km): <12 / 12–800 / >800*, and to the last of the three, which Pell has ticked hard enough to dent the paper.
 
@@ -39,7 +40,7 @@ On the side of her console there is the strip that shows the ring crew's weather
 
 *[You spiked ~ worried, fond, too much of both]*
 
-Fond. It comes up the frame at hir like somebody opening an oven door, and it is kind, and it is all about Saturday, and there it is again without being sent for, hir own voice in the ring mess — *and I've known Dev since he was the one who let go of the torque wrench on* — and the sentence goes off the edge and Pell hauls it back, and the line on Agnes's console climbs a second time. Now Bracken as well. Linnet, sleepily, from wherever Linnet has got to.
+Fond. It comes up the frame at her like somebody opening an oven door, and it is kind, and it is all about Saturday, and there it is again without being sent for, her own voice in the ring mess — *and I've known Dev since he was the one who let go of the torque wrench on* — and the sentence goes off the edge and Pell hauls it back, and the line on Agnes's console climbs a second time. Now Bracken as well. Linnet, sleepily, from wherever Linnet has got to.
 
 *[I'm in a meeting]*
 
@@ -69,9 +70,9 @@ Fond. It comes up the frame at hir like somebody opening an oven door, and it is
 
 "No, you want it now, because of Saturday." She doesn't look up. "I heard."
 
-Everybody heard. There were a hundred and thirty people in the ring mess and the feed was open to the families on the inner stations, and Pell had been so quick all evening, so pleased with hirself for being quick, that when Dev's sister said *does anybody else want to*— That's as far as it goes. Past that hir would have to go back and live it, and hir won't.
+Everybody heard. There were a hundred and thirty people in the ring mess and the feed was open to the families on the inner stations, and Pell had been so quick all evening, so pleased with herself for being quick, that when Dev's sister said *does anybody else want to*— That's as far as it goes. Past that she would have to go back and live it, and she won't.
 
-Hir line goes up anyway. Hir can see the corner of it, a clean climb, like a load cell with somebody standing on the hook. Linnet, properly awake now, sends something wordless and warm that tastes of the little almond pastries the galley does on rest days, and that is worse, because there were almond pastries on Saturday, on the long table, under the banner with the spelling mistake.
+Her line goes up anyway. She can see the corner of it, a clean climb, like a load cell with somebody standing on the hook. Linnet, properly awake now, sends something wordless and warm that tastes of the little almond pastries the galley does on rest days, and that is worse, because there were almond pastries on Saturday, on the long table, under the banner with the spelling mistake.
 
 *[Stop it]*
 
@@ -93,17 +94,17 @@ Hir line goes up anyway. Hir can see the corner of it, a clean climb, like a loa
 
 "I've no idea. The loo. Does it matter?"
 
-It matters. Pell would give a great deal to know whether a woman in a green dress left the ring mess at nine minutes past twenty-one hundred because of what Pell was saying at nine minutes past twenty-one hundred or because her feet hurt, and there is no form for that, and nobody to ask. Hir already knows the exact minute.
+It matters. Pell would give a great deal to know whether a woman in a green dress left the ring mess at nine minutes past twenty-one hundred because of what Pell was saying at nine minutes past twenty-one hundred or because her feet hurt, and there is no form for that, and nobody to ask. She already knows the exact minute.
 
 Agnes has gone back to the zip.
 
-There is a sticky note on the edge of her console, yellow, curling at the corners, that says *BERNARD — NO* in her square capitals. It has been there since at least the five-hundred-and-sixth year. Pell has never asked. Pell looks at it now for something to look at, and while hir is looking at it hir works it out, the thing under the refit, and it is so obvious hir is annoyed not to have got it on the stairs.
+There is a sticky note on the edge of her console, yellow, curling at the corners, that says *BERNARD — NO* in her square capitals. It has been there since at least the five-hundred-and-sixth year. Pell has never asked. Pell looks at it now for something to look at, and while she is looking at it she works it out, the thing under the refit, and it is so obvious she is annoyed not to have got it on the stairs.
 
 "You've posted one Kin past eight hundred," Pell says. "In thirty years. One."
 
 "Have I."
 
-"Vetch-2." It arrives whole. "Posted to the Carrow deep-transit tender on the two-hundred-and-first day of the four-hundred-and-ninety-third year, revision B, eight months, your signature, countersigned by Operations. Hir came back on the ninetieth day of the four-hundred-and-ninety-fourth. At the ring meeting that week you said, and I'm quoting, *'Vetch'll want feeding up, so if anybody's got room on their rota, put her on it, and don't ask her about the trip.'* Hir came back thin, Agnes. You know hir came back thin. That's why you won't sign. It isn't the refit."
+"Vetch-2." It arrives whole. "Posted to the Carrow deep-transit tender on the two-hundred-and-first day of the four-hundred-and-ninety-third year, revision B, eight months, your signature, countersigned by Operations. She came back on the ninetieth day of the four-hundred-and-ninety-fourth. At the ring meeting that week you said, and I'm quoting, *'Vetch'll want feeding up, so if anybody's got room on their rota, put her on it, and don't ask her about the trip.'* She came back thin, Agnes. You know she came back thin. That's why you won't sign. It isn't the refit."
 
 Agnes puts the pliers down.
 
@@ -113,31 +114,31 @@ Agnes puts the pliers down.
 
 "Vetch," she says, trying it out. "Was she ring crew?"
 
-"Hull. Bay Six. Hir had a notch out of the left ear."
+"Hull. Bay Six. She had a notch out of the left ear."
 
 "Nineteen years ago."
 
 "Nineteen years ago."
 
-"Pell, I did every posting on this station before they split the office. Humans and Kin. Every form." She is not being clever. Pell can smell that she is not being clever; there is no fresh sweat, her hands are loose, she looks, if anything, a bit sorry for hir. "I couldn't tell you who I posted last Tuesday. Was she all right? After?"
+"Pell, I did every posting on this station before they split the office. Humans and Kin. Every form." She is not being clever. Pell can smell that she is not being clever; there is no fresh sweat, her hands are loose, she looks, if anything, a bit sorry for her. "I couldn't tell you who I posted last Tuesday. Was she all right? After?"
 
-Pell opens hir mouth and what comes is: *transferred to Halcyon-1, the three-hundredth day of the four-hundred-and-ninety-fourth year, at own request*. Which is all there is. Pell never asked Vetch anything either.
+Pell opens her mouth and what comes is: *transferred to Halcyon-1, the three-hundredth day of the four-hundred-and-ninety-fourth year, at own request*. Which is all there is. Pell never asked Vetch anything either.
 
-"Hir transferred," Pell says.
+"She transferred," Pell says.
 
 "Well, there you go." Agnes picks the pliers back up. "Probably fine, then."
 
-And the line on the console, which had been coming down, goes straight up through the top of its own scale and stays there, and Pell can hear hirself breathing, and down on deck nine the Cluster is not asking any more, they're just sending, all three of them, warmth on warmth, and every one of them says *Saturday* and every one of them says *we saw* and Pell is — hir is a Kin of ninety standing in a postings office being wrong twice in a week in front of the one human on the ring who talks to hir like a rigger, and *so raise your glasses, if you can find them, to* —
+And the line on the console, which had been coming down, goes straight up through the top of its own scale and stays there, and Pell can hear herself breathing, and down on deck nine the Cluster is not asking any more, they're just sending, all three of them, warmth on warmth, and every one of them says *Saturday* and every one of them says *we saw* and Pell is — she is a Kin of ninety standing in a postings office being wrong twice in a week in front of the one human on the ring who talks to her like a rigger, and *so raise your glasses, if you can find them, to* —
 
 *[Stop. Stop. I mean it]*
 
 *[Pell ~ frightened now]*
 
-"The three-hundred-and-twelfth day of the five-hundred-and-first year," Pell says. "Third shift. We were on the snub at spoke nineteen, because Toller had called in sick, and you'd brought a flask. You said, *'You're all right, you. I can say anything to you, you don't count.'* And then you said, *'I'd have gone. If he'd asked. I'd have packed a bag, I'd have — thirty-one years, and it never came up. Whether I'd come. It just never came up.'* And then you said, *'Don't you dare put that in your head,'* and I said I wouldn't." Hir breathes. "So don't tell me it's the refit."
+"The three-hundred-and-twelfth day of the five-hundred-and-first year," Pell says. "Third shift. We were on the snub at spoke nineteen, because Toller had called in sick, and you'd brought a flask. You said, *'You're all right, you. I can say anything to you, you don't count.'* And then you said, *'I'd have gone. If he'd asked. I'd have packed a bag, I'd have — thirty-one years, and it never came up. Whether I'd come. It just never came up.'* And then you said, *'Don't you dare put that in your head,'* and I said I wouldn't." She breathes. "So don't tell me it's the refit."
 
-That is all Pell has: that she doesn't move. No weather. Nothing on any console anywhere. The pliers are open in her hand with the zip ring caught in the jaws, and she doesn't close them. Hir can smell her now, though, a hot sharp change coming off her skin all at once, and hir knows that one from the ring. It's what humans smell like when a line parts.
+That is all Pell has: that she doesn't move. No weather. Nothing on any console anywhere. The pliers are open in her hand with the zip ring caught in the jaws, and she doesn't close them. She can smell her now, though, a hot sharp change coming off her skin all at once, and she knows that one from the ring. It's what humans smell like when a line parts.
 
-Pell could say it again. Hir could say it again in ten years, word for word, the flask and all.
+Pell could say it again. She could say it again in ten years, word for word, the flask and all.
 
 Agnes puts the pliers on the desk, and the jacket over the back of her chair, and takes the form, revision E, and puts it on the pile to her left.
 
@@ -147,24 +148,24 @@ Agnes puts the pliers on the desk, and the jacket over the back of her chair, an
 
 Pell shuts the door.
 
-In the corridor two of the galley staff are coming the other way with a trolley, and one of them says something and the other one laughs, and Pell walks past them very fast with hir ears flat and does not turn round to find out what it was about.
+In the corridor two of the galley staff are coming the other way with a trolley, and one of them says something and the other one laughs, and Pell walks past them very fast with her ears flat and does not turn round to find out what it was about.
 
-The ring is already coming apart when hir gets down to it. The riggers have strung the first of the refit catenaries between spokes seventeen and twenty-one, orange line on grey, and somebody's music is going on a speaker hung off a bollard, too loud: *Kettle and Brass*, which Bracken likes and nobody else will admit to. Rue is at nineteen with a coil over hir shoulder. Hir looks at Pell, and hir mouth opens, and Pell holds up a hand, and Rue shuts it again.
+The ring is already coming apart when she gets down to it. The riggers have strung the first of the refit catenaries between spokes seventeen and twenty-one, orange line on grey, and somebody's music is going on a speaker hung off a bollard, too loud: *Kettle and Brass*, which Bracken likes and nobody else will admit to. Rue is at nineteen with a coil over her shoulder. She looks at Pell, and her mouth opens, and Pell holds up a hand, and Rue shuts it again.
 
-Pell clips hir lanyard to the rail, tugs it, clips the second one. Takes the tail of the line off Rue without a word and walks it to the snub post and lays three turns on, tight, the way Agnes likes them, and leans back against the bite till hir feels the preload start to come on through the post and into hir feet.
+Pell clips her lanyard to the rail, tugs it, clips the second one. Takes the tail of the line off Rue without a word and walks it to the snub post and lays three turns on, tight, the way Agnes likes them, and leans back against the bite till she feels the preload start to come on through the post and into her feet.
 
-"Taking," hir calls up the spoke. Somebody up there says it back. The spoke creaks. Pell eases off a hand's width of slack, then another, then—
+"Taking," she calls up the spoke. Somebody up there says it back. The spoke creaks. Pell eases off a hand's width of slack, then another, then—
 
 ---
 
 ## Canon consistency (2026-09-24, DOC-00B §12 run after the draft)
-- **The weather is public (D-92).** Agnes's console shows Pell's line and nothing else: valence and arousal, no object. She reads *that* hir is up and down, and knows *why* only from station gossip. The Cluster, inside 12 km, feels it to the second and answers (CLUSTER tier). The warmth that "tastes of" almond pastries is Pell's association, not transmitted content.
-- **The cheap check (D-98, D-103).** Every date and quote Pell produces arrives exact and costs nothing. Nobody remarks on it, including Agnes. What Pell will not do is go back to the toast at 1× (*"Past that hir would have to go back and live it"*). That is the account, not the fact. The Vetch record is exact and empty: **Pell never asked** (D-98's failure is not-asking, here in a young Kin).
+- **The weather is public (D-92).** Agnes's console shows Pell's line and nothing else: valence and arousal, no object. She reads *that* she is up and down, and knows *why* only from station gossip. The Cluster, inside 12 km, feels it to the second and answers (CLUSTER tier). The warmth that "tastes of" almond pastries is Pell's association, not transmitted content.
+- **The cheap check (D-98, D-103).** Every date and quote Pell produces arrives exact and costs nothing. Nobody remarks on it, including Agnes. What Pell will not do is go back to the toast at 1× (*"Past that she would have to go back and live it"*). That is the account, not the fact. The Vetch record is exact and empty: **Pell never asked** (D-98's failure is not-asking, here in a young Kin).
 - **Beyond 800 km (D-93).** *Tallow* and the *Carrow* tender are "nothing in the sky". Vetch "came back thin", which is D-93(c)'s erasure, stated only as the ring said it. "No Compact rule" is D-93(d).
 - **The human who is right (DOC-00B §10).** Agnes wins for a plain reason (the refit) that is also the right one. She is never shown to be secretly kind and never confesses. The collection's first Kin who is wrong and loses to a human.
 - **Kin write for humans as a courtesy (D-101).** Pell filled the form at a terminal, correctly, every field.
 - **Pronouns (DOC-00 §2).** Agnes says *she* of every Kin and is not corrected. Pell's narration says *hir*.
-- **The body.** "Hir feet" are hind paws on the snub post; "ears flat" in the corridor is affect, not heat. Lanyards on refit rigging are site safety, not grip.
+- **The body.** "Her feet" are hind paws on the snub post; "ears flat" in the corridor is affect, not heat. Lanyards on refit rigging are site safety, not grip.
 - **Not used, on purpose:** the pause, the Core, the fan, ears-as-heat, the tail, any rite (DOC-00G §4 lore budget).
 
 ## Offers nothing

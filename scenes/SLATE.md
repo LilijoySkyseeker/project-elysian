@@ -15,17 +15,17 @@ Marked [NEW] or [QUEUED — angle] against ROADMAP Step 12; **[WRITTEN]** when d
 
 ### A1. The Setup  [NEW]
 The Long Joke from the other end. Year one.
-**POV:** Ilex. **Moment:** hir says a nothing sentence about a compressor in a
+**POV:** Ilex. **Moment:** she says a nothing sentence about a compressor in a
 corridor, and decides — right there, mid-sentence, watching Sedge's ears — that
 this will be funny in about eleven years. Then says nothing more about it and
 goes to work. Scene ends with no payoff at all.
 *A comedy of premeditation. Diptych with S017; can be read either order.*
 
 ### A2. Translation  [NEW]
-A Kin cooks for humans. Food is a human art the Kin were built to love, so hir
+A Kin cooks for humans. Food is a human art the Kin were built to love, so her
 composes — a structure in the trace-metal register, a joke in the fifth course —
 for eight people who are constitutionally unable to perceive any of it.
-**POV:** Kin. **Moment:** a human says "that's nice," and hir is *delighted*,
+**POV:** Kin. **Moment:** a human says "that's nice," and she is *delighted*,
 because the whole art form is that they cannot tell. The failure is the form.
 *Pairs with the reverse: a human cooking for Kin, badly, which is the kindest
 thing a human can do badly.*
@@ -34,20 +34,20 @@ thing a human can do badly.*
 The children's game, played by adults at a Weave, for money nobody needs.
 **POV:** Kin, middle-aged, competitive. **Moment:** hiding means finding the RF
 shadow, and the best hider in the room is a Written who learned it when the
-rules were different and who will not explain hir method to anyone.
+rules were different and who will not explain her method to anyone.
 *Comedy of dignity. Adults are embarrassed to lose and lose anyway.*
 
 ### A4. The Unreliable Hour  **[WRITTEN — `drafts/S018_out_loud.md`]**
 Morning dream-telling. The one thing in a Kin's life with no archive behind it.
 **POV:** Kin. **Moment:** four of them cheerfully contradicting each other about
 a dream none of them can check, and one of them is obviously making it up, and
-everybody lets hir, because the Core cannot play this and that is the entire point.
+everybody lets her, because the Core cannot play this and that is the entire point.
 *The funniest available scene. Also the most human thing about them.*
 
 ### A5. In Tune  [NEW]
 A Sedge chases one bad bearing across a station for six weeks.
 **POV:** Kin. **Moment:** it comes in, and the whole station changes note, and
-hir stands in a corridor for a while, and no human aboard can hear the difference.
+she stands in a corridor for a while, and no human aboard can hear the difference.
 A human asks what's wrong. Nothing is wrong.
 *Slow work. Quiet pride. The craft nobody can be congratulated for.*
 
@@ -64,18 +64,18 @@ its own performance. He gets none of it and has a lovely evening.
 
 ### B1. Clean  [NEW]
 The strip as drama. A Kin holds every line flat through a conversation that
-should break hir.
+should break her.
 **POV:** a Cluster-mate. **Moment:** nobody says anything about it. They all know
-exactly what sending clean for an hour costs, and they let hir have it, and one
-of them leans on hir afterwards without comment.
+exactly what sending clean for an hour costs, and they let she have it, and one
+of them leans on her afterwards without comment.
 *Discharges the "stripping" proposal, DOC-00D §9.2.*
 
 ### B2. Off the Mesh  [NEW]
 Two Kin move a conversation onto the whistle so their own frame doesn't get it.
 **POV:** a third Kin, in the room, who notices the absence.
-**Moment:** the frame goes thin in one direction. Hir knows precisely who is
-talking and precisely that hir is not meant to have it, and the etiquette is that
-you do not ask, and hir does not ask, and thinks about it for a week.
+**Moment:** the frame goes thin in one direction. She knows precisely who is
+talking and precisely that she is not meant to have it, and the etiquette is that
+you do not ask, and she does not ask, and thinks about it for a week.
 *Privacy inside a species that has none. Probably the strongest new engine here.*
 
 ### B3. Fluent  [NEW]
@@ -93,7 +93,7 @@ agree with each other and the scene does not settle them.
 
 ### C1. Two Consoles  [QUEUED — D-92/D-85 — angle]
 **Moment:** two operators, one shift. One reads ears; one reads the screen. A Kin
-300 km out is having the worst day of hir life and the screen says *arousal high,
+300 km out is having the worst day of her life and the screen says *arousal high,
 valence low* and nothing else, forever. The one who can read ears is worth three
 times the other's salary and both of them know exactly why.
 
@@ -102,21 +102,21 @@ Two parents arguing about their child's coat for a year. Fashion at the genome
 level, once every twenty years.
 **Moment:** it is funny for eleven months — lineage look, taste, what the humans
 will think — and then one of them says the quiet thing: *this is what was done to us.*
-And they do it anyway, because they want hir to be beautiful. Both true.
+And they do it anyway, because they want her to be beautiful. Both true.
 
 ### C3. The Rematch  [NEW — sequel to S017]
-Bramble at the first Telling, a year on. Hir receives a year of someone else's
+Bramble at the first Telling, a year on. She receives a year of someone else's
 life, goes quiet for a week, and takes their name.
-**Moment:** the first thing hir does on the eighth day is go to Bay Nine and try
-the move again, with a name now, and everything hir did at fourteen still carried
+**Moment:** the first thing she does on the eighth day is go to Bay Nine and try
+the move again, with a name now, and everything she did at fourteen still carried
 by sixteen people who were watching.
 *Converts S017's joy into the memory economy without souring it.*
 
 ### C4. Revolving  [QUEUED — D-94 — angle]
-The fourteen-year-old at the airlock, written as the thing hir **could** do.
-**Moment:** hir is alone at the frame, and hir has the full seventeen minutes,
+The fourteen-year-old at the airlock, written as the thing her **could** do.
+**Moment:** she is alone at the frame, and she has the full seventeen minutes,
 and the rule is a rule and not a physiology, and everyone in the corridor knows
-it — and the scene is only about the ninety seconds in which hir does not.
+it — and the scene is only about the ninety seconds in which she does not.
 
 ---
 
@@ -130,12 +130,12 @@ know what to do with the fact that nothing was concealed.
 ### D2. The Order  [QUEUED — H-04]
 An operator's lab, seen entirely from outside: a Kin notices an equipment order.
 Twenty years of reader programme behind it and nothing illegal in any line.
-**Moment:** hir does not report it. Hir carries it. Which is the only thing hir
+**Moment:** she does not report it. She carries it. Which is the only thing her
 can do with it, and is also exactly the wrong thing.
 
 ### D3. First Command  [QUEUED — DOC-10 §6, "not yet common"]
 A Kin over a human crew for the first time on that ship. No villain, no incident.
-**Moment:** an ordinary scheduling argument in which hir is right, and wins, and
+**Moment:** an ordinary scheduling argument in which she is right, and wins, and
 the crew comply, and the compliance has a texture nobody can name afterwards.
 
 ---

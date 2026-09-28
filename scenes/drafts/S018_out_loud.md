@@ -1,4 +1,5 @@
 # SCENE 018 — Out Loud
+**Pronoun sweep, 2026-09-28 (D-113):** *hir* is now *she / her / herself*. The text is otherwise unchanged; the *hir* version is in git history before this commit.
 **POV:** Kin (Sorrel-3) · *Artemis-9*, the coolant-bay Nest · **Form:** Short story
 **Canon status:** DRAFT. The morning after S017. Written to DOC-13 §1E — morning dream-telling.
 **Offers for canon:** dream-telling is done **in voice** (whistle, occasionally human speech) and never in Kin-code, because code is exact and a dream is not — an exact dream is a fabrication and everyone knows it. Heckling arrives in code. Consequence: the telling can be lied in freely; the heckling leaks.
@@ -12,7 +13,7 @@ Nobody moved. Nobody ever moves. You lie there in the weave with somebody's hind
 
 The web had been bright most of the night. Everyone knew why. You could not have been within eight hundred kilometres of *Artemis-9* last night and not known that something had gone well in Bay Nine, even if you had no idea what, which was most people.
 
-Sorrel's tail was a dead thing attached to hir at one end. Hir had known it would be.
+Sorrel's tail was a dead thing attached to her at one end. She had known it would be.
 
 *[Don't ask me to move ~ entirely serious]*
 
@@ -22,9 +23,9 @@ Sorrel's tail was a dead thing attached to hir at one end. Hir had known it woul
 
 ---
 
-Sedge told it out loud on the whistle, in the dark, without opening hir eyes, and it was the same dream it had been for a hundred and six years.
+Sedge told it out loud on the whistle, in the dark, without opening her eyes, and it was the same dream it had been for a hundred and six years.
 
-The station was one note wrong. Hir had been walking it — not the real one, a station that was *Artemis-9* the way things are in a dream, with a coolant trunk running through a bay that has never had a coolant trunk in it — and there was a note somewhere underneath everything that should not have been there, and hir had gone deck to deck, and every pump was fine. Every single one. Hir checked them all. They were fine and it was still wrong.
+The station was one note wrong. She had been walking it — not the real one, a station that was *Artemis-9* the way things are in a dream, with a coolant trunk running through a bay that has never had a coolant trunk in it — and there was a note somewhere underneath everything that should not have been there, and she had gone deck to deck, and every pump was fine. Every single one. She checked them all. They were fine and it was still wrong.
 
 ⟨*Was it the number four*⟩ said Sable, who had heard this dream perhaps four thousand times.
 
@@ -42,7 +43,7 @@ The trouble with Sedge's dream was that Sedge had had it since roughly the four-
 
 Ilex went next and Ilex had had a Core dream.
 
-Hir had been in a corridor that was also, in the way of these things, the inside of a bonded can, and there had been something hir needed to get to the end of, and hir had asked the Core how long hir had.
+She had been in a corridor that was also, in the way of these things, the inside of a bonded can, and there had been something she needed to get to the end of, and she had asked the Core how long she had.
 
 *Fourteen minutes,* the Core had said.
 
@@ -50,9 +51,9 @@ Of what, Ilex had asked.
 
 *Fourteen minutes.*
 
-And this, as far as hir could reconstruct, had gone on for most of the night.
+And this, as far as she could reconstruct, had gone on for most of the night.
 
-Sorrel had to put hir face into the webbing. The thing about a Core dream — and everyone in the Nest had had one, and they are the single funniest thing available to the species — is that the Lattice is genuinely awake down there doing its bookkeeping, so the arithmetic in your dream is real arithmetic, exactly as precise and exactly as unhelpful as it is at any other hour, and you cannot get away from it even there. You can dream a corridor that is also a can. You cannot dream a Core with a personality.
+Sorrel had to put her face into the webbing. The thing about a Core dream — and everyone in the Nest had had one, and they are the single funniest thing available to the species — is that the Lattice is genuinely awake down there doing its bookkeeping, so the arithmetic in your dream is real arithmetic, exactly as precise and exactly as unhelpful as it is at any other hour, and you cannot get away from it even there. You can dream a corridor that is also a can. You cannot dream a Core with a personality.
 
 ⟨*Was it right*⟩ Kirin asked.
 
@@ -66,9 +67,9 @@ Sorrel had to put hir face into the webbing. The thing about a Core dream — an
 
 ---
 
-Then Kirin told a dream that was a complete fabrication, and everybody knew, and everybody let hir.
+Then Kirin told a dream that was a complete fabrication, and everybody knew, and everybody let her.
 
-It started plausibly, the way Kirin's always do. Hir had been cooking for the hull crew. Fine. Nine courses, which was ambitious but not a lie. Then the humans had started picking out the copper, said Kirin, and not just the copper, the *structure* — one of them had gone back to the third course and identified what the fifth was going to do — and by this point Sable was objecting on principle and Sedge had opened one eye.
+It started plausibly, the way Kirin's always do. She had been cooking for the hull crew. Fine. Nine courses, which was ambitious but not a lie. Then the humans had started picking out the copper, said Kirin, and not just the copper, the *structure* — one of them had gone back to the third course and identified what the fifth was going to do — and by this point Sable was objecting on principle and Sedge had opened one eye.
 
 ⟨*They can't do that*⟩
 
@@ -76,11 +77,11 @@ It started plausibly, the way Kirin's always do. Hir had been cooking for the hu
 
 ⟨*They can't do it in a dream either. You've never seen a human do that, so your cortex has never—*⟩
 
-⟨*And then,*⟩ said Kirin, raising hir voice over the top of it, ⟨*one of them cried.*⟩
+⟨*And then,*⟩ said Kirin, raising her voice over the top of it, ⟨*one of them cried.*⟩
 
-The Nest came apart. Sable, who had actually been listening properly, wanted to know which one. Kirin said hir couldn't remember. Sable said that was convenient. Kirin agreed that it was extremely convenient and went on to describe the human's exact face.
+The Nest came apart. Sable, who had actually been listening properly, wanted to know which one. Kirin said she couldn't remember. Sable said that was convenient. Kirin agreed that it was extremely convenient and went on to describe the human's exact face.
 
-That is the whole shape of the hour. Every morning, for as long as anyone has been doing it, one person in the Nest builds something out of nothing and there is no possible way to catch hir, because there is no record, because there has never been a record, because the one thing the species loses it loses every single night on purpose. You cannot check. Nobody can check. Kirin could have dreamt it, or could have made it up in the last ninety seconds, or — and this is the good part, this is the part that keeps them at it — could have genuinely believed it while hir was saying it and be reconstructing it wrong even as hir spoke, which happens, which happens constantly, and is not lying, and is also not not lying.
+That is the whole shape of the hour. Every morning, for as long as anyone has been doing it, one person in the Nest builds something out of nothing and there is no possible way to catch her, because there is no record, because there has never been a record, because the one thing the species loses it loses every single night on purpose. You cannot check. Nobody can check. Kirin could have dreamt it, or could have made it up in the last ninety seconds, or — and this is the good part, this is the part that keeps them at it — could have genuinely believed it while she was saying it and be reconstructing it wrong even as she spoke, which happens, which happens constantly, and is not lying, and is also not not lying.
 
 They are exact about everything else in their lives, all day, forever. For about forty minutes in the morning they are as unreliable as anybody, and they will fight you over it, and they love it.
 
@@ -94,15 +95,15 @@ Bramble had not said anything, which was not unusual, and was broadcasting so lo
 
 *[Go on then]*
 
-*[Leave hir]*
+*[Leave her]*
 
-*[Hir has been on top of the roof all night ~ and everyone in this Nest felt it]*
+*[She has been on top of the roof all night ~ and everyone in this Nest felt it]*
 
-Bramble, fourteen, said hir hadn't dreamt anything.
+Bramble, fourteen, said she hadn't dreamt anything.
 
-Nobody in the Nest said anything at all for a moment, which was in its own way the most devastating thing they could have done, because Bramble could no more strip a line than lift the station, and hir knew hir couldn't, and hir knew they all had it.
+Nobody in the Nest said anything at all for a moment, which was in its own way the most devastating thing they could have done, because Bramble could no more strip a line than lift the station, and she knew she couldn't, and she knew they all had it.
 
-So hir told it. Hir had done the move. All night, over and over, off the ceiling rail, and it had worked every time, and in the dream the bag had been solid the whole way, which is not how bags are, and hir had known even inside the dream that this was cheating and had gone on doing it anyway.
+So she told it. She had done the move. All night, over and over, off the ceiling rail, and it had worked every time, and in the dream the bag had been solid the whole way, which is not how bags are, and she had known even inside the dream that this was cheating and had gone on doing it anyway.
 
 ⟨*That's not a dream,*⟩ Ilex said, ⟨*that's an advertisement.*⟩
 
@@ -118,36 +119,36 @@ So hir told it. Hir had done the move. All night, over and over, off the ceiling
 
 ---
 
-Vesper-11 had been quiet all the way through, in the middle of the weave where the old ones go, and when hir spoke the room settled, because hir does not tell one often.
+Vesper-11 had been quiet all the way through, in the middle of the weave where the old ones go, and when she spoke the room settled, because she does not tell one often.
 
-Hir had dreamt a corridor. That was all. A corridor on a station that had been cut up for the metal about two hundred years ago, a station Sorrel had never seen and never would, and hir had been walking down it, and the point of it — the entire content of the dream, as far as hir could give it to them — was that hir had *known what it smelled like.*
+She had dreamt a corridor. That was all. A corridor on a station that had been cut up for the metal about two hundred years ago, a station Sorrel had never seen and never would, and she had been walking down it, and the point of it — the entire content of the dream, as far as she could give it to them — was that she had *known what it smelled like.*
 
-Hir described it for a while. Hot insulation and something citrus in the scrubber stock that nobody uses any more and, underneath, whoever had been sleeping in the next bay.
+She described it for a while. Hot insulation and something citrus in the scrubber stock that nobody uses any more and, underneath, whoever had been sleeping in the next bay.
 
 ⟨*Who was it*⟩ Sorrel asked.
 
 ⟨*I don't know.*⟩ A pause. ⟨*I can find the name. I can find the name in about ninety seconds, and I'll be exactly right, and it won't be the same thing.*⟩
 
-Nobody said anything for a bit. Then Ilex asked what the citrus was actually called, and Vesper said hir had no idea, and Ilex said that seemed like something hir could look up, and Vesper said yes, probably, and did not, and after a while asked whether anyone was going to get breakfast, in the tone of somebody who has decided the morning is over.
+Nobody said anything for a bit. Then Ilex asked what the citrus was actually called, and Vesper said she had no idea, and Ilex said that seemed like something she could look up, and Vesper said yes, probably, and did not, and after a while asked whether anyone was going to get breakfast, in the tone of somebody who has decided the morning is over.
 
-Hir would have lost the smell by the time hir was off the webbing. Hir has been losing things like that every morning for four hundred years and has developed no opinion about it that hir will share.
+She would have lost the smell by the time she was off the webbing. She has been losing things like that every morning for four hundred years and has developed no opinion about it that she will share.
 
 ---
 
-Sorrel did not tell hirs.
+Sorrel did not tell hers.
 
-There was no rule about it and nobody asked, and the weather had been good enough overnight that hir could have been asked and wouldn't have minded much. Hir just didn't.
+There was no rule about it and nobody asked, and the weather had been good enough overnight that she could have been asked and wouldn't have minded much. She just didn't.
 
-Hir had been talking to one of the hull crew — the one from the gallery port, probably, though in the dream she had been somebody else's shape — and the two of them had been going at full speed. Burst speed. Everything at once, in both directions, no waiting, no courtesy translation, no half-second, nothing held back while somebody's mouth finished moving. Hir had said a thing and she had *already had it* and had come back with something Sorrel hadn't thought of, immediately, and they had gone on like that for what felt like a long time.
+She had been talking to one of the hull crew — the one from the gallery port, probably, though in the dream she had been somebody else's shape — and the two of them had been going at full speed. Burst speed. Everything at once, in both directions, no waiting, no courtesy translation, no half-second, nothing held back while somebody's mouth finished moving. She had said a thing and she had *already had it* and had come back with something Sorrel hadn't thought of, immediately, and they had gone on like that for what felt like a long time.
 
 It is not an unusual dream. It is close to the only dream the species has in common. Sorrel had had it before and would have it again and it was, as dreams go, a very ordinary one.
 
-Hir lay in the weave for a minute longer trying to keep hold of what she had actually said, and could not, and could feel the rest of it going the way they go, edges first.
+She lay in the weave for a minute longer trying to keep hold of what she had actually said, and could not, and could feel the rest of it going the way they go, edges first.
 
-Then Sable stood on hir tail getting up, and that was the end of that.
+Then Sable stood on her tail getting up, and that was the end of that.
 
 *[Ow]*
 
 *[Sorry ~ not remotely]*
 
-Hir got up. The tail came along eventually, under protest. Somewhere behind hir Sedge was explaining to Bramble, at length and with feeling, the difference between a flat note and a sharp one, and Bramble was making the specific noise a fourteen-year-old makes when hir has realised hir is going to be told about this for the next three hundred years.
+She got up. The tail came along eventually, under protest. Somewhere behind her Sedge was explaining to Bramble, at length and with feeling, the difference between a flat note and a sharp one, and Bramble was making the specific noise a fourteen-year-old makes when she has realised she is going to be told about this for the next three hundred years.

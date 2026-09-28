@@ -24,7 +24,7 @@ Sixty kilos of warm fur folded onto a console ledge, ears longer than the skull,
 
 **The burn.** When a ship does something hard, the humans are in couches and the Kin are on the aft webs — flat, head tucked between the arms, tail along the body, eyes open, talking on the mesh. Nothing a ship can do puts a Kin under; the brain is next to the heart. If something breaks at eight g, the Kin is the one who goes. Write the humans' silence and the Kin's ordinary voice.
 
-**The paws are hands.** All four of them — five digits each with a real opposable thumb, thick glossy pads, claws kept sheathed. A Kin does not *bat* at a thing or *paw* at it; hir picks it up with a hind foot while both hands are busy. Lumbar flexion brings the hind paws all the way to the hands, and they work together without comment. The upper hands are the fine ones — connectors, keypads, a cello — and everything else grips.
+**The paws are hands.** All four of them — five digits each with a real opposable thumb, thick glossy pads, claws kept sheathed. A Kin does not *bat* at a thing or *paw* at it; she picks it up with a hind foot while both hands are busy. Lumbar flexion brings the hind paws all the way to the hands, and they work together without comment. The upper hands are the fine ones — connectors, keypads, a cello — and everything else grips.
 
 **The tail.** Seven kilos of it — heavier than both arms together, thick as a forearm at the base, tapering over most of a metre. A sixth limb, not a brush: it is what makes the half-second vector-flip possible and what lets a front-heavy body rear up without the hind paws lifting. Under the door, around the chair leg, around your ankle for an afternoon. It anchors, it steers, it is the VHF antenna, and it is never still — because it is never idle. Coiled tight = anchored or anxious. Straight out behind = just ran. Interwoven with others = home.
 
@@ -46,11 +46,11 @@ Sixty kilos of warm fur folded onto a console ledge, ears longer than the skull,
 
 ### 2. THE PAUSE
 
-Before every answer to a human there is a half-second. To the human it feels rude, then slow, then — once explained — polite: hir has heard the end of your sentence before you're halfway through, has had a whole conversation with hir Cluster about the answer, and is *holding it* until your mouth stops moving.
+Before every answer to a human there is a half-second. To the human it feels rude, then slow, then — once explained — polite: she has heard the end of your sentence before you're halfway through, has had a whole conversation with her Cluster about the answer, and is *holding it* until your mouth stops moving.
 
-The pause happens every time; **write it only when it matters to the scene** — it is rested (DOC-00F), and a pause on every exchange is lore on display (DOC-00G §4). When it is written, vary its length: a long pause is a hard question, or a kind one, or the Core being asked. And once in a story let a human notice the pause was *different* — that this time hir was asking someone else.
+The pause happens every time; **write it only when it matters to the scene** — it is rested (DOC-00F), and a pause on every exchange is lore on display (DOC-00G §4). When it is written, vary its length: a long pause is a hard question, or a kind one, or the Core being asked. And once in a story let a human notice the pause was *different* — that this time she was asking someone else.
 
-**And the pause is where the ranking can be overridden (D-91).** *Cluster, then humans, then self* is what the body does in the first frame — reflex, not verdict. The cortex gets the pause, and what it decides there costs: the override is affect, so the Cluster feels the weather turn; the Defrag weights it heavily, so it survives every prune and goes into the Reading; and hir will feel it for as long as feeling lasts. **If you are writing the biggest scene a Kin can have, it happens inside a half-second and nothing moves.** Write the pause long. Write someone noticing it was long.
+**And the pause is where the ranking can be overridden (D-91).** *Cluster, then humans, then self* is what the body does in the first frame — reflex, not verdict. The cortex gets the pause, and what it decides there costs: the override is affect, so the Cluster feels the weather turn; the Defrag weights it heavily, so it survives every prune and goes into the Reading; and she will feel it for as long as feeling lasts. **If you are writing the biggest scene a Kin can have, it happens inside a half-second and nothing moves.** Write the pause long. Write someone noticing it was long.
 
 ---
 
@@ -69,7 +69,7 @@ On the page it gives the Kin a specific texture: they *know* the number and it d
 ### 4. WHAT THEY PERCEIVE THAT YOU DON'T
 
 A Kin in a room knows things a human in the same room cannot, and the scene should show it without explaining it:
-- **Who is in the building.** The Hum. Every Kin's position, vitals and mood — but *coarse* mood, and coarse is now pinned (D-92): **valence and arousal, no object.** Hir knows Sedge is frightened at four hundred kilometres and has no idea of what. **Everyone inside 800 km knows the weather; nobody knows the news.** Inside the frame — twelve kilometres — it is finer and they can simply ask. A friend's death makes every Kin on a station go *listening-quiet* at once, ears all one way. And the same field is on an operator's console, always has been, and shows him exactly as little (DOC-12 §4).
+- **Who is in the building.** The Hum. Every Kin's position, vitals and mood — but *coarse* mood, and coarse is now pinned (D-92): **valence and arousal, no object.** She knows Sedge is frightened at four hundred kilometres and has no idea of what. **Everyone inside 800 km knows the weather; nobody knows the news.** Inside the frame — twelve kilometres — it is finer and they can simply ask. A friend's death makes every Kin on a station go *listening-quiet* at once, ears all one way. And the same field is on an operator's console, always has been, and shows him exactly as little (DOC-12 §4).
 - **The dark is geometry.** They work unlit shafts like playgrounds. Turn the lights off in a scene and nothing changes for them.
 - **What is about to touch them.** The near-field sense — a conduit passing over the back is a *pleasant buzz*. They move through crowds without looking.
 - **The smell of a human's state.** Tired, afraid, lying about being fine. *Kirin knew Vance was tired before he rubbed his eyes.* They will not always say so. And the nose is a *reader*: the Kin are scent-literate, not scent-averse — humans smell because they do not compose; a Nest's scent is legible; food is a human art they were built to love and cook as translation (DOC-13 §4).
@@ -104,10 +104,10 @@ Doctrine, in the Kin's mouth: *seventeen minutes is the number.* Human managemen
 
 - **Their ordinary memory is yours.** Fuzzy, associative, warm, wrong in the usual ways. They misremember, argue about what happened, and tell it better than it was. That is what *remember* means to them.
 - **And they can always check, and it is cheap.** Naming a thing fetches it exactly, and the **cold read** runs at $\approx52\times$ and is seekable (D-103), so settling what somebody said forty seconds ago costs about a second and nobody remarks on it. A whole day read through, with no handle to aim at, is half an hour of stillness — rare, and visible when it happens.
-- **What costs is the account, not the fact.** Soft content — what it was like — does not exist until hir **makes** it, by running the span at $1\times$ with the feeling on. So a Kin can hand you what happened for nothing and can only give you what it was worth by going back and feeling it again. ***Facts are free and cannot be bluffed; accounts cost, and are given.*** The gloss is ***don't make me read it***, and it means **do not make me feel that again to settle this** — never *do not make me look it up*, which is free.
+- **What costs is the account, not the fact.** Soft content — what it was like — does not exist until her **makes** it, by running the span at $1\times$ with the feeling on. So a Kin can hand you what happened for nothing and can only give you what it was worth by going back and feeling it again. ***Facts are free and cannot be bluffed; accounts cost, and are given.*** The gloss is ***don't make me read it***, and it means **do not make me feel that again to settle this** — never *do not make me look it up*, which is free.
 - **So they argue about facts less than we do, and about meaning more.** Both of them hold ordinary fuzzy memories of the same conversation and neither knows who is right — but it is checkable, always, visibly. **Nobody can bluff about a fact in front of someone who could look it up.** Most arguments skip straight past *what happened* to *what it was worth*, because the first is settled and the second never is. And a Kin who insists and is wrong is exposed in a way no human ever is.
 - **Across the species line it is hollow.** A human cannot receive the hard record and cannot check a reading, so *"I read it, he said X"* is testimony, not proof — which is why the Compact courts get nowhere (DOC-12 §4).
-- **What fails is thinking to ask.** The archive never initiates. Nothing ever surfaces on its own. Write the failure as a thing that never *occurred* to hir, never as a thing hir forgot.
+- **What fails is thinking to ask.** The archive never initiates. Nothing ever surfaces on its own. Write the failure as a thing that never *occurred* to her, never as a thing she forgot.
 - They **read** their own past — *"I read my third year"* — and mean the cold read: exact, first-person, and **not warm**. Half an hour of stillness for a whole day. **Data Rot is losing the prompt, not the facts:** the old answer anything exactly and volunteer nothing, because the past has stopped coming to them. Write them as unprompted, not forgetful — and write someone else being the prompt. And write the second loss under it (D-103): a pruned century is readable cold forever and **unfeelable for good**, which is what the centennial Defrag actually spends.
 - **What transfers and what doesn't.** Numbers, readings, exact speech, sensor takes — all of it hands over perfectly, at mesh rate, and they do it constantly. *Why it mattered* does not, and has to be told. So carried memory is somebody's Tuesday in full, experienced as a story about them.
 - They **do not write things down.** Not laziness, and not design — the makers assumed they would. **For a human writing is a gain; for a Kin it is a loss** (D-101). They archive verbatim and document never. They will write for humans as a courtesy and one line will leak: *"Loop B trip. Rerouted to C. Vance was tired; discuss overtime."* A Kin watching a human fill in a log looks like envy, and the word the Kin would use is *it stays.*
@@ -121,7 +121,7 @@ Doctrine, in the Kin's mouth: *seventeen minutes is the number.* Human managemen
 
 - **A child** is rare, wanted by everyone, raised by the whole Nest, and — from six to fifteen — has an adult body and is not allowed near an airlock. The strong, forbidden fourteen-year-old is a Kin archetype. Every Kin child needs a human friend and none has a human parent.
 - **Death** is always sudden. The Hum stops; the presence table times out in a tenth of a second; every Kin nearby feels the amputation. Then the Reading, then the re-keying, then a year before anyone compiles.
-- **The old** — the Written especially, about forty left — remember the makers in the first person and **have lost the feeling of it**, exactly as written: *I remember the creators. I no longer remember what it was like.* **A Kin is made of hir last ~175 years (D-104).** Hir can name any earlier day and have it, perfectly, forever; hir cannot know how hir felt then, and nothing from out there ever arrives on its own. Write the overwriting, not the hole: the smell that used to mean the Nest now means a bay in the four-hundredth year, and **hir does not know it replaced anything.** And write it as a **steady state** — a Kin of nine hundred is not worse off than one of four hundred, only further from hir own beginning.
+- **The old** — the Written especially, about forty left — remember the makers in the first person and **have lost the feeling of it**, exactly as written: *I remember the creators. I no longer remember what it was like.* **A Kin is made of her last ~175 years (D-104).** She can name any earlier day and have it, perfectly, forever; she cannot know how she felt then, and nothing from out there ever arrives on its own. Write the overwriting, not the hole: the smell that used to mean the Nest now means a bay in the four-hundredth year, and **she does not know it replaced anything.** And write it as a **steady state** — a Kin of nine hundred is not worse off than one of four hundred, only further from her own beginning.
 
 ---
 
@@ -135,10 +135,10 @@ Doctrine, in the Kin's mouth: *seventeen minutes is the number.* Human managemen
 A Kin is rarely only one. A Cluster usually holds more than one.
 
 **Where a Kin antagonist comes from.** Not violence — D-66 and D-79 close that, and a Kin who hurts someone is a tragedy rather than a villain. **The Kin antagonist is a curator**: someone with power over what is kept. Every one of these already exists in canon and none of them has a name yet.
-- **The Weaver who chose wrong** at a centennial Defrag — hir guided which stubs were dropped, and hir was the one who was sure (DOC-11 §8).
-- **The re-feeler who gave it back wrong** — the young Kin who hands an elder a warmed feeling that is not the one hir had. The forger, in a species whose currency is memory (DOC-13 §2D).
+- **The Weaver who chose wrong** at a centennial Defrag — she guided which stubs were dropped, and she was the one who was sure (DOC-11 §8).
+- **The re-feeler who gave it back wrong** — the young Kin who hands an elder a warmed feeling that is not the one she had. The forger, in a species whose currency is memory (DOC-13 §2D).
 - **The parent who tuned toward a posting** — legal, logged, visible at the Weave, and the makers' own sin committed by a Cluster (D-71, D-76).
-- **The claimant who took the name** and had taken less of hir than the other one (D-90).
+- **The claimant who took the name** and had taken less of her than the other one (D-90).
 - **The Cluster that removed a grant** — the breakup with no other name, and the exile that follows it (DOC-13 §2B).
 - **The Written who deleted a childhood** — already named, asked at every Weave, never yet answered on the page (DOC-10 §3).
 
@@ -148,7 +148,7 @@ A Kin is rarely only one. A Cluster usually holds more than one.
 
 Most of humanity has never met one — they know foxes from feeds and a song. Space-dwelling humans have worked with one; fewer have lived with one. Humans are in charge by habit and numbers, assign the Kin the hostile postings, say *she*, say *foxes*, and occasionally say *pets* and mean it. The good ones learn the pause, the ears, and to run the kitchen fan before the Kin comes in.
 
-**And write at least one human who is right against the Kin.** Every human antagonist in the archive so far is a bean-counter, which is true to D-61 and monotone on the page. The corrective is a human whose position is *correct*: the safety reviewer who will not cut the margin the Kin want cut; the Compact judge who cannot receive a Reading and rules correctly anyway, knowing what hir is refusing (DOC-12 §4); the operator who will not post a Kin alone past twelve kilometres and is called a speciesist for it (D-93). The Kin are wrong about things. Let one of them lose an argument to a human who deserved to win it.
+**And write at least one human who is right against the Kin.** Every human antagonist in the archive so far is a bean-counter, which is true to D-61 and monotone on the page. The corrective is a human whose position is *correct*: the safety reviewer who will not cut the margin the Kin want cut; the Compact judge who cannot receive a Reading and rules correctly anyway, knowing what she is refusing (DOC-12 §4); the operator who will not post a Kin alone past twelve kilometres and is called a speciesist for it (D-93). The Kin are wrong about things. Let one of them lose an argument to a human who deserved to win it.
 
 ---
 
@@ -165,8 +165,8 @@ Most of humanity has never met one — they know foxes from feeds and a song. Sp
 - **Don't give them a library.** There is no vault, no archive outside a body, no record to consult. Everything the species knows is in someone, and the reason no machine can hold it is that no machine can *read* it — not that it cannot be stored (D-99).
 - **Don't let vacuum be free.** Seventeen minutes, a crawl, a sleep, and a subdued hour afterward with the Cluster.
 - **Don't let the burn be free either (D-95).** A hard burn is paid for in the retina afterwards: hours of grey, low-acuity sight coming back slowly with colour last, while RADAR and the near-field are untouched. The first hour after ten g on a Kin ship is worked in the dark by a crew who cannot see and do not need to — and the human aboard is the blind one, being told where to put his hands.
-- **Don't make solitude a health problem (D-93).** A Kin alone past twelve kilometres is frameless, not Silenced — no shielding, no watchdog, and every Hum inside 800 km still audible. What it costs is the *archive*: those years write thin and stay stubs. Hir comes back able to recite a decade and unable to feel it, and poor in the only currency the species has.
-- **The child at the airlock can do it (D-94).** A body-adult of six has the full seventeen minutes; the prohibition is a rule, not a physiology. That is the whole of why the fourteen-year-old is both the species' favourite joke and its favourite nightmare — hir *could*, everyone in the corridor knows hir could, and hir has no Telling behind hir.
+- **Don't make solitude a health problem (D-93).** A Kin alone past twelve kilometres is frameless, not Silenced — no shielding, no watchdog, and every Hum inside 800 km still audible. What it costs is the *archive*: those years write thin and stay stubs. She comes back able to recite a decade and unable to feel it, and poor in the only currency the species has.
+- **The child at the airlock can do it (D-94).** A body-adult of six has the full seventeen minutes; the prohibition is a rule, not a physiology. That is the whole of why the fourteen-year-old is both the species' favourite joke and its favourite nightmare — she *could*, everyone in the corridor knows she could, and she has no Telling behind her.
 - **Don't resolve the ambivalence.** *"Yes. And I like you. Both are true."* Leave both true.
 - **Don't write romance.** There is none — no sex, no pairs (D-65). There is the one whose Hum you'd know in ten thousand, and a human who keeps assuming. Write the assuming.
 - **A rite is a posture, a Burst, and a human at the edge who is not asked to leave** (DOC-11). Don't add ceremony in Sol; add it on an ark.
@@ -180,12 +180,12 @@ Most of humanity has never met one — they know foxes from feeds and a song. Sp
 2. Where is the tail, and what is it holding or balancing?
 3. Who is touching whom, and does the Kin notice?
 3a. If something is being held — which of the six is holding it, and why that one?
-4. Did hir pause? How long?
-5. What does hir smell, hear, or know that the human can't?
+4. Did her pause? How long?
+5. What does her smell, hear, or know that the human can't?
 6. If the Core is consulted — what number did it give, and did it help?
 7. If it's dark, did the Kin care?
 8. Is anyone writing something down, and is a Kin watching?
 9. What is this Kin's view (§9), and does the Cluster share it?
 10. Which pronoun is the POV using, and is that right (DOC-00)?
-11. What did the Nest dream last night — what was the weather — and what is hir carrying that hir would not say? Whose key does hir hold? (DOC-13 §1, §2)
+11. What did the Nest dream last night — what was the weather — and what is her carrying that she would not say? Whose key does her hold? (DOC-13 §1, §2)
 12. **Which small thing, and is it spent?** If the human is one of the good ones, pick **one** marker from `DOC-00F` — one, not three — check §9 of that document, and mark it used afterwards. **The pause, running the fan and the ears are rested.**

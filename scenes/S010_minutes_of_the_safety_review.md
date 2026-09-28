@@ -1,4 +1,5 @@
 # SCENE 010 — Minutes of the Safety Review
+**Pronoun sweep, 2026-09-28 (D-113):** *hir* is now *she / her / herself*. The text is otherwise unchanged; the *hir* version is in git history before this commit.
 **Origin:** Fresh-context agent, 2026-09-19 · **Form:** Human document (meeting minutes) · **POV:** Human (minute-taker)
 **Style:** DOC-00 governs names and pronouns.  
 **Canon status:** DRAFT — awaiting review. Introduces no canon. Introduces (not canon): Teasdale Orbital (operator); *Harrow Yard* (Belt cargo and refit station); the Spar Cluster (Nest at the Boom 2 spar root); Rowan-3 and Lyric-4 (Kin); M. Delacroix, J. Farrukh, D. Mbeki, L. Pryce, T. Ahlgren, S. Vo (humans).
@@ -80,7 +81,7 @@ ACTION A6: Add advance-notice field to the shift-planning notice for Aethela uns
 
 **7. Close**
 
-7.1 The Chair thanked attendees and asked Rowan to pass on the Company's thanks to Lyric for completing the actuator work within the shift. Rowan said, "I will tell hir."
+7.1 The Chair thanked attendees and asked Rowan to pass on the Company's thanks to Lyric for completing the actuator work within the shift. Rowan said, "I will tell her."
 
 7.2 Rowan asked whether the minutes would record the thirty-four minutes. The Chair said the actual exposure is recorded at 2.3. Rowan said, "Good. Then it is in two places."
 
@@ -94,6 +95,6 @@ L. Pryce, Ops Admin
 - **Seventeen minutes planned, "approximately forty minutes" survivability, 34 min actual, "on her paws with nothing in her hands"** — matches the State-A envelope (DOC-01E.2 §6: 17 min full, +~25 min Crawl-Home, ~42 min conscious). Lyric was ~17 min into Crawl-Home: rails only, tools abandoned, straight to the Cluster, stood down afterward. ✅
 - **"They tolerate the vacuum" as operator doctrine; the Field cited at a safety review; margin cut on the written survival figure; the Kin have read the manuals** — DOC-09 §4, DOC-12 §4, §6 (the operators' current). Rowan quotes section and paragraph from memory; the humans check. ✅
 - **The Field (AF 212, the Hesper tether works, forty scattered)** — DOC-10 §4; the Chair gives forty fatalities, which is the operator's count (thirty-one recovered, nine never found). "Hesper" is a DOC-10 placeholder name, used unchanged. ✅
-- **No statements, no written comments; a human writes it up for hir** — D-19 / DOC-02 §3 / DOC-12 §7 ("asking a Kin to write it up"). Cluster named by where the Nest is (DOC-00 §3). Money: joint account, "no preference" on sick vs unpaid (DOC-12 §5). Compact threshold, operator postings, Category C — the legal skeleton of DOC-12 §4, no new facts. ✅
+- **No statements, no written comments; a human writes it up for her** — D-19 / DOC-02 §3 / DOC-12 §7 ("asking a Kin to write it up"). Cluster named by where the Nest is (DOC-00 §3). Money: joint account, "no preference" on sick vs unpaid (DOC-12 §5). Compact threshold, operator postings, Category C — the legal skeleton of DOC-12 §4, no new facts. ✅
 - **6.1 "so that there is time — to be told"** is the Telling before risk (DOC-09 §2, §4; DOC-11), reduced to a form field; "a week is what we would do" is the year-in-a-week. 7.2 "in two places" reads as Weaver doctrine (carry it in more than one body, DOC-10 §5) and as S005's *it stays*. The minute-taker understands neither; nothing is explained. ✅
 - **Pronouns and names** — human document says *she*, uses call-names, drops the number in running text; *Aethela* appears only in the operator's formal usage; Rowan uses human first names ("Dee"). Rowan speaks seven times, each briefly, and pauses twice, the second time differently (DOC-00B §2). ✅

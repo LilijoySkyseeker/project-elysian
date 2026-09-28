@@ -1,4 +1,5 @@
 # X01 — (working title) *The Mirror*
+**Pronoun sweep, 2026-09-28 (D-113):** *hir* is now *she / her / herself*. The text is otherwise unchanged; the *hir* version is in git history before this commit.
 *A non-canon crossover novelette: My Little Pony: Friendship is Magic × Project Elysian. Private reading.*
 
 
@@ -280,7 +281,7 @@ Haw was the fifth, and was sending something else over the top of it.
 
 Madder got an eye open, and saw it.
 
-Flame. Not a red mark on a deck plan, not a drill: the thing itself, standing up out of the ferns an arm's length away, yellow and tearing, with nothing between it and them but air. All of them went rigid in the same instant. Somebody whined. Madder's ears had fanned wide against the heat before hir knew hir had them.
+Flame. Not a red mark on a deck plan, not a drill: the thing itself, standing up out of the ferns an arm's length away, yellow and tearing, with nothing between it and them but air. All of them went rigid in the same instant. Somebody whined. Madder's ears had fanned wide against the heat before she knew she had them.
 
 *[FIRE ~ all of them, on top of each other]*
 
@@ -290,9 +291,9 @@ Flame. Not a red mark on a deck plan, not a drill: the thing itself, standing up
 
 *[There's no hatch. There's no wall. There's nothing to seal]*
 
-They had gone down at the end of second watch, in the web by the coolant bay. They had come up in a heap, and nothing else was right. A heap in the web drifted. This one had gone flat like a sack put down, so that every body pressed hard into the one below. Madder was near the bottom, where Sloe's weight lay across hir ribs, and the ground under all of them was not a deck.
+They had gone down at the end of second watch, in the web by the coolant bay. They had come up in a heap, and nothing else was right. A heap in the web drifted. This one had gone flat like a sack put down, so that every body pressed hard into the one below. Madder was near the bottom, where Sloe's weight lay across her ribs, and the ground under all of them was not a deck.
 
-Hir put the checklist up. *Heads. Hands. Air. Exits.* Hir got as far as hands before hir saw it. Right against the heap, touching it, stood a box on wheels. Yarrow's lower left hand was locked on its tailboard, closed there while hir slept. Then four other threads came in over the checklist, and hir lost the place.
+She put the checklist up. *Heads. Hands. Air. Exits.* She got as far as hands before she saw it. Right against the heap, touching it, stood a box on wheels. Yarrow's lower left hand was locked on its tailboard, closed there while she slept. Then four other threads came in over the checklist, and she lost the place.
 
 *[There's a box. There's a box on wheels, Yarrow's holding a box on wheels]*
 
@@ -308,11 +309,11 @@ Madder swivelled both ears downhill. Something was running down there, small and
 
 *[Let it go,]* Madder sent, and Haw let it go, mostly.
 
-Hir reached for the frame, which gave hir five before hir had finished asking. Sloe was hot and loud; Haw was louder; Yarrow was level as a strut; Teasel was held small and tight. And hirself. Five, all there.
+She reached for the frame, which gave her five before she had finished asking. Sloe was hot and loud; Haw was louder; Yarrow was level as a strut; Teasel was held small and tight. And herself. Five, all there.
 
 Then, in the same instant, with nobody calling it, all five of them reached past each other for the ship: for fourteen hundred others, and for the Hum that had run under every hour of Madder's hundred and forty years. They found the same thing together. There was nothing in the sky.
 
-The fright went out through the frame and came back off four other bodies, doubled and doubled, before Madder could have said whose it had been first. Every tail went tight at once, round a leg, round a wrist, round each other, until the heap was pulled in closer. Somebody made a noise through the nose, high and thin, like a line singing under load. It might have been hir.
+The fright went out through the frame and came back off four other bodies, doubled and doubled, before Madder could have said whose it had been first. Every tail went tight at once, round a leg, round a wrist, round each other, until the heap was pulled in closer. Somebody made a noise through the nose, high and thin, like a line singing under load. It might have been her.
 
 *[Where's the bay]*
 
@@ -322,31 +323,31 @@ The fright went out through the frame and came back off four other bodies, doubl
 
 *[Don't]*
 
-*[I'm only saying what it looks like from there ~ and wishing hir wasn't]*
+*[I'm only saying what it looks like from there ~ and wishing she wasn't]*
 
 *[That's what it looks like when somebody—]* That was Teasel, clean, and it stopped halfway. Teasel's tail came round Madder's wrist and stayed.
 
 *[Unconfirmed,]* Madder sent.
 
-Nobody accepted it. Nobody argued with it either. The fright went round and round between them without settling; whenever it thinned in one body, it came back off another. Sloe was whining, very low, on every breath out. Madder counted hir own breaths until hir lost the count, then started again. When hir asked the Core for the time, it said ninety seconds. When hir asked again it said four minutes, though nothing had changed except the light on the underside of the leaves, which had gone from yellow to orange.
+Nobody accepted it. Nobody argued with it either. The fright went round and round between them without settling; whenever it thinned in one body, it came back off another. Sloe was whining, very low, on every breath out. Madder counted her own breaths until she lost the count, then started again. When she asked the Core for the time, it said ninety seconds. When she asked again it said four minutes, though nothing had changed except the light on the underside of the leaves, which had gone from yellow to orange.
 
 ---
 
-When Sloe rolled off hir, Madder's chest did not come up after the weight had gone, so hir had to lift it. Hir got hir four lower hands under hir before hir pushed. Hir tail lay out behind hir like somebody else's cargo. One of hir hind hands had found Teasel's foot, and it stayed there.
+When Sloe rolled off her, Madder's chest did not come up after the weight had gone, so she had to lift it. She got her four lower hands under her before she pushed. Her tail lay out behind her like somebody else's cargo. One of her hind hands had found Teasel's foot, and it stayed there.
 
-Hir ears came slowly forward. Hir asked the Core.
+Her ears came slowly forward. She asked the Core.
 
 *One point zero two standard,* the Core said.
 
-Hir asked it for the air.
+She asked it for the air.
 
 *Breathable. Oxygen twenty-one percent. Water vapour high. Volatile organics: several hundred, unclassified.*
 
-Hir asked it for the time.
+She asked it for the time.
 
 *Six minutes forty seconds since theta release.*
 
-Four other pairs of ears had come forward round hir while hir asked. The others had asked theirs too, so the channel filled with readings that all arrived at once, every one of them intact.
+Four other pairs of ears had come forward round her while she asked. The others had asked theirs too, so the channel filled with readings that all arrived at once, every one of them intact.
 
 *[One g. One g! We're on a surface,]* Haw sent.
 
@@ -370,13 +371,13 @@ Four other pairs of ears had come forward round hir while hir asked. The others 
 
 *[Heads,]* Madder sent, flat, into the middle of it. *[Hands]*
 
-It went under the noise. When hir sent it again, it went under again, like a rota posted on a hatch nobody used. And hir could feel the fire. It stood in a ring round the wagon and the heap, in the ferns on both sides of the old track where they had woken, pushing heat into hir face. There was no hatch to shut on it. It was out in the air, eating, while nothing came. Every ear in the heap had fanned wide against it. Haw let out a huff that shook.
+It went under the noise. When she sent it again, it went under again, like a rota posted on a hatch nobody used. And she could feel the fire. It stood in a ring round the wagon and the heap, in the ferns on both sides of the old track where they had woken, pushing heat into her face. There was no hatch to shut on it. It was out in the air, eating, while nothing came. Every ear in the heap had fanned wide against it. Haw let out a huff that shook.
 
-Yarrow still had hir lower hand on the tailboard.
+Yarrow still had her lower hand on the tailboard.
 
 Smoke was coming off the bed behind that hand, low and yellow, where two sacks lay slumped on charred planks. While Madder watched, a red line crawled along the fold of one of them.
 
-Nobody sent anything. Nobody had to. Sloe was up before the thought had finished, and had the near sack by a cool corner and over the side. Haw took the other. Teasel and Madder scraped up dirt in double handfuls and threw it where the sacks came down, while Yarrow knelt by the mirror and beat the glowing boards with the flats of hir upper hands until they were black. Somebody was counting the beat under hir breath. Twelve. Fourteen. Then the sacks were two dark humps under dirt, and the bed was only hot.
+Nobody sent anything. Nobody had to. Sloe was up before the thought had finished, and had the near sack by a cool corner and over the side. Haw took the other. Teasel and Madder scraped up dirt in double handfuls and threw it where the sacks came down, while Yarrow knelt by the mirror and beat the glowing boards with the flats of her upper hands until they were black. Somebody was counting the beat under her breath. Twelve. Fourteen. Then the sacks were two dark humps under dirt, and the bed was only hot.
 
 For one breath the frame went smooth, the way it did at the end of a drill before anybody called the time. They knew this. Out of everything here, they knew this. Haw's ears came up, and Sloe let a breath out through the nose that was nearly a chirr.
 
@@ -412,13 +413,13 @@ Somebody chirred, a small sound, surprised out of them.
 
 *[It's always true]*
 
-Madder pulled hir tail round until it was under hir. Then hir stood up on hir four lower hands with hir arms free, as hir had ten thousand times on a hull when there was a hand on the rail. There was no rail. Hir swayed without going over, and felt four people watching hir through the frame while they decided not to say so.
+Madder pulled her tail round until it was under her. Then she stood up on her four lower hands with her arms free, as she had ten thousand times on a hull when there was a hand on the rail. There was no rail. She swayed without going over, and felt four people watching her through the frame while they decided not to say so.
 
-"Rota," hir said aloud.
+"Rota," she said aloud.
 
-It came out rough, with dirt in hir mouth. The ferns gave nothing back. Hir said the rest slowly, putting every word down on its own.
+It came out rough, with dirt in her mouth. The ferns gave nothing back. She said the rest slowly, putting every word down on its own.
 
-"Haw, point, inside ten metres of me. Sloe, left flank. Yarrow, rear. Teasel, with me. Watches change on the hour by the Core. We go downhill, on the burnt ground." Hir stopped, then added, "Now."
+"Haw, point, inside ten metres of me. Sloe, left flank. Yarrow, rear. Teasel, with me. Watches change on the hour by the Core. We go downhill, on the burnt ground." She stopped, then added, "Now."
 
 For a moment the channel was empty, which never happened with this Cluster. Speech, out loud, among Kin, with no human anywhere: somebody had got up on a chair.
 
@@ -426,27 +427,27 @@ For a moment the channel was empty, which never happened with this Cluster. Spee
 
 *[Logged ~ very clean for Sloe]*
 
-Haw went to point, came back to ask where point was, and went again. Teasel did not move until Madder put a hand on hir shoulder. Sloe crouched at the front of the wagon with one hip against Yarrow's leg, while hir worked the red thing out of the buckle: a strip of something soft, tied in a loop.
+Haw went to point, came back to ask where point was, and went again. Teasel did not move until Madder put a hand on her shoulder. Sloe crouched at the front of the wagon with one hip against Yarrow's leg, while she worked the red thing out of the buckle: a strip of something soft, tied in a loop.
 
-*[One wagon,]* Sloe sent. *[Two sacks, burnt through, empty. One mirror, no glass in it. One ribbon, red. Call it nothing, call it a day's water if we find a buyer. That's stores]* Hir put the ribbon over hir wrist and pulled it tight. *[~ laughing, not much]*
+*[One wagon,]* Sloe sent. *[Two sacks, burnt through, empty. One mirror, no glass in it. One ribbon, red. Call it nothing, call it a day's water if we find a buyer. That's stores]* She put the ribbon over her wrist and pulled it tight. *[~ laughing, not much]*
 
-The mirror lay on its back in the wagon bed, a rim of dark metal round nothing, still too hot to touch. Yarrow got it out anyway, with hir ears fanned wide and a burnt sack from the dirt wrapped round both upper hands. Hir stood it on its edge against the nearest trunk. When hir took hir hands off the metal rim, hir put one of them flat on the bark and left it there.
+The mirror lay on its back in the wagon bed, a rim of dark metal round nothing, still too hot to touch. Yarrow got it out anyway, with her ears fanned wide and a burnt sack from the dirt wrapped round both upper hands. She stood it on its edge against the nearest trunk. When she took her hands off the metal rim, she put one of them flat on the bark and left it there.
 
 *[Yarrow]*
 
 *[Holds itself up,]* Yarrow sent. *[No guys. Nothing on it]*
 
-Madder ran hir RADAR up the trunk. It went up and split, then split again, with no line or strut anywhere, and still it stood.
+Madder ran her RADAR up the trunk. It went up and split, then split again, with no line or strut anywhere, and still it stood.
 
-*[Leave the wagon,]* hir sent.
+*[Leave the wagon,]* she sent.
 
-Yarrow did not leave the wagon. Hir lower left hand had opened a finger at a time; now it closed again on the tailboard, on purpose. Then hir went round to the front and took up the shafts.
+Yarrow did not leave the wagon. Her lower left hand had opened a finger at a time; now it closed again on the tailboard, on purpose. Then she went round to the front and took up the shafts.
 
 *[It rolls,]* Yarrow sent.
 
-Madder let hir have it.
+Madder let she have it.
 
-Downhill to the left, there was a strip where the fire had already been. Madder's eyes gave hir a black lane through the ferns, while the near-field gave hir the same lane, cooler than everything round it. It ran away from the fire, which was moving uphill and right with the air. Hir had marked it as the exit before hir had finished standing up.
+Downhill to the left, there was a strip where the fire had already been. Madder's eyes gave her a black lane through the ferns, while the near-field gave her the same lane, cooler than everything round it. It ran away from the fire, which was moving uphill and right with the air. She had marked it as the exit before she had finished standing up.
 
 As soon as they moved off, the channel went.
 
@@ -468,11 +469,11 @@ They went down the strip.
 
 ---
 
-The ash came up round them in a cloud wherever a foot came down. They went as a clump, close enough to knock shoulders: Teasel's flank against Madder's, Sloe's tail across the back of Madder's leg, Haw's point shrinking to three metres, then two. Inside ten paces Madder came down onto six, so that hir upper hands took weight they had never been asked for.
+The ash came up round them in a cloud wherever a foot came down. They went as a clump, close enough to knock shoulders: Teasel's flank against Madder's, Sloe's tail across the back of Madder's leg, Haw's point shrinking to three metres, then two. Inside ten paces Madder came down onto six, so that her upper hands took weight they had never been asked for.
 
 Teasel sneezed.
 
-Hir whole body jerked with it before hir sat down in the ash. Every heart in the Cluster went up through the frame and came down again.
+Her whole body jerked with it before she sat down in the ash. Every heart in the Cluster went up through the frame and came down again.
 
 *[What was that, what was THAT, do it again—]*
 
@@ -480,15 +481,15 @@ Hir whole body jerked with it before hir sat down in the ash. Every heart in the
 
 *[Are you hurt?]*
 
-*[I'm fine,]* Teasel sent. Hir got up and brushed hir front. Hir ears were flat. Madder could feel hir under the frame, working at something while hir kept it down.
+*[I'm fine,]* Teasel sent. She got up and brushed her front. Her ears were flat. Madder could feel her under the frame, working at something while she kept it down.
 
 The clearing at the bottom of the strip was small, with pale stems round the edge and thin grass in the middle. The fire had come this far before it went out, so the grass was only singed. In the middle, on its side, lay the animal.
 
 None of them had seen one anywhere but in a record. This one was the size of a hand, grey and brown, burnt black along the back, with a long tail flattened like a paddle. Its eyes were shut. Its feet were curled under it, with something like fingers.
 
-Haw got there first and stopped so hard that Sloe walked into hir. Sloe stayed there, chest to Haw's back. Somebody made a thin sound, a whine through the teeth.
+Haw got there first and stopped so hard that Sloe walked into her. Sloe stayed there, chest to Haw's back. Somebody made a thin sound, a whine through the teeth.
 
-Madder's ears came forward. Hir asked for small mammals. *Forty-one records,* the Core said. *No exact match.*
+Madder's ears came forward. She asked for small mammals. *Forty-one records,* the Core said. *No exact match.*
 
 *[Is it one of them? The ones that ran?]*
 
@@ -502,17 +503,17 @@ Nobody answered that. Yarrow came up past the wagon and knelt, then turned the a
 
 *[It was here first,]* Sloe sent.
 
-*[Did we kill it,]* Haw sent. There was nothing under it. Haw had never sent a clean line in hir life.
+*[Did we kill it,]* Haw sent. There was nothing under it. Haw had never sent a clean line in her life.
 
 *[It was already—]* from Sloe, and it stopped.
 
 *[Unconfirmed,]* Madder sent, and all of them felt it be the wrong word. Yarrow sent nothing at all.
 
-Haw put out one hand and laid it on the soft pale fur beside Yarrow's. Hir rider went out for a second, not stripped, only gone, as if there was nothing left for it to ride on.
+Haw put out one hand and laid it on the soft pale fur beside Yarrow's. Her rider went out for a second, not stripped, only gone, as if there was nothing left for it to ride on.
 
 *[Moving,]* Madder sent.
 
-Haw left the hand where it was a moment longer than that. Then hir took it back and went to point.
+Haw left the hand where it was a moment longer than that. Then she took it back and went to point.
 
 ---
 
@@ -522,7 +523,7 @@ Halfway down, the front left wheel gave. It had burned through at the hub while 
 
 APPLE BLOOM lay uppermost, blistered, facing the leaves.
 
-Yarrow had not let go. The tailboard had pulled hir down onto hir knees, and hir stayed there with both lower hands on the wood. Through the frame hir went level and very still, the way a strut goes still just before it takes a load it was never rated for. Then hir hands opened, a finger at a time, until they were off. Nobody sent anything. Hir lower left hand closed once more, on nothing, before hir got up.
+Yarrow had not let go. The tailboard had pulled her down onto her knees, and she stayed there with both lower hands on the wood. Through the frame she went level and very still, the way a strut goes still just before it takes a load it was never rated for. Then her hands opened, a finger at a time, until they were off. Nobody sent anything. Her lower left hand closed once more, on nothing, before she got up.
 
 They left it there.
 
@@ -536,11 +537,11 @@ Something on the stone moved.
 
 It had been part of the stone. Madder's RADAR had it as a lump on the edge, and then it wasn't; it was a thing with legs that went off the stone in one long shove, past Haw's face, and hit the water with a loud slap.
 
-The terror came out of Haw first and then out of everyone, and every one of them felt it off all the others, so there was no floor under it anywhere. Haw came off the stone backwards and landed on Sloe, and both their tails whipped round each other and locked. Teasel screamed, a thin note that climbed out of hearing and went on. Madder found hirself flat against the bank with every limb dug in and hir tail wrapped twice round hir own hind legs, and could not have said when. Only Yarrow had not moved. Yarrow had hir hand flat on a trunk and hir tail coiled round its root, and was pressed so close against it that bark came away under hir fingers.
+The terror came out of Haw first and then out of everyone, and every one of them felt it off all the others, so there was no floor under it anywhere. Haw came off the stone backwards and landed on Sloe, and both their tails whipped round each other and locked. Teasel screamed, a thin note that climbed out of hearing and went on. Madder found herself flat against the bank with every limb dug in and her tail wrapped twice round her own hind legs, and could not have said when. Only Yarrow had not moved. Yarrow had her hand flat on a trunk and her tail coiled round its root, and was pressed so close against it that bark came away under her fingers.
 
 The water went on running. Out in it, further off, something small went *slap* again.
 
-Nobody sent anything for a long time. Their hearts went too fast and did not come down. Madder asked the Core for the time, and it told hir. It had been nine seconds. Hir asked it what the thing had been.
+Nobody sent anything for a long time. Their hearts went too fast and did not come down. Madder asked the Core for the time, and it told her. It had been nine seconds. She asked it what the thing had been.
 
 *Amphibian,* the Core said.
 
@@ -548,15 +549,15 @@ That helped nobody.
 
 *[It was very small,]* Haw sent at last. It was meant for a joke and didn't make it.
 
-Sloe got up from under Haw and went to Teasel, who was folded tight on the bank with hir tail wrapped round hirself and hir ears flat to hir skull. Sloe put hir head down by Teasel's head and said something on the whistle, too high and too near for the frame to carry. When Sloe lifted hir head, Teasel's ears had come up a little. That was all Madder got.
+Sloe got up from under Haw and went to Teasel, who was folded tight on the bank with her tail wrapped round herself and her ears flat to her skull. Sloe put her head down by Teasel's head and said something on the whistle, too high and too near for the frame to carry. When Sloe lifted her head, Teasel's ears had come up a little. That was all Madder got.
 
-*[Downstream,]* hir sent. *[Stay off the stones]*
+*[Downstream,]* she sent. *[Stay off the stones]*
 
 ---
 
 They went down the stream all night.
 
-It did not get lighter. The crew walked in a knot, with somebody's hand always on somebody's back. The fire was behind them and above them. Whenever Madder looked back there was a smear of orange on the underside of the leaves, a little further round the hill to the right each time, while the smoke came down after them and lay along the water. On the hour hir asked the Core for the time and changed the watch. Sloe went to rear. Yarrow came up on the left, where hir lower left hand kept opening and closing on nothing.
+It did not get lighter. The crew walked in a knot, with somebody's hand always on somebody's back. The fire was behind them and above them. Whenever Madder looked back there was a smear of orange on the underside of the leaves, a little further round the hill to the right each time, while the smoke came down after them and lay along the water. On the hour she asked the Core for the time and changed the watch. Sloe went to rear. Yarrow came up on the left, where her lower left hand kept opening and closing on nothing.
 
 The talking came back within the first hour and went on for a long while.
 
@@ -584,15 +585,15 @@ Something called on the far bank, a long note that fell away at the end. Every e
 
 *[Forty years of rotas,]* Madder sent, *[and I never once put a night on one]*
 
-Somewhere in the second hour hir put a lower hand down on something that bit. When hir lifted the hand, there were three hooked burrs in the pad of it, brown, the size of peas. Hir asked while hir picked. *Seed heads,* the Core said. *Hooked, for carriage on fur.* Once they came off the pad they stuck to hir fingers. When hir got them off those, they stuck to the others.
+Somewhere in the second hour she put a lower hand down on something that bit. When she lifted the hand, there were three hooked burrs in the pad of it, brown, the size of peas. She asked while she picked. *Seed heads,* the Core said. *Hooked, for carriage on fur.* Once they came off the pad they stuck to her fingers. When she got them off those, they stuck to the others.
 
 *[It's shipping itself on you,]* Sloe sent. *[Freight, no manifest, and it isn't paying]*
 
-In the end hir walked on with them in hir hand and stopped trying.
+In the end she walked on with them in her hand and stopped trying.
 
 In the third hour the trees came apart over the water for a stretch, and there was the moon.
 
-It stood in the gap, white and nearly round, marked with grey, and laid a road of light down the stream. Somebody drew a sharp breath. They all stopped. Their ears came slowly forward together while Madder asked, and the Core gave hir what it had: *Natural satellite. Reflected light.* Hir had a thousand moons in records, though hir had never seen one.
+It stood in the gap, white and nearly round, marked with grey, and laid a road of light down the stream. Somebody drew a sharp breath. They all stopped. Their ears came slowly forward together while Madder asked, and the Core gave her what it had: *Natural satellite. Reflected light.* She had a thousand moons in records, though she had never seen one.
 
 *[That's a moon,]* Haw sent. *[That's a moon, that's a real one, how far is it, is it always there, is it ours? Whose is it?]*
 
@@ -606,17 +607,17 @@ They stood in the cold and looked at it until the trees closed over it again.
 
 In the fourth hour Haw sent, *[Is it second watch at home?]*
 
-The frame went quiet. It had not occurred to Madder to wonder. When hir asked for the last watch, it came up word for word: the web by the coolant bay, the lights down, hir own voice on the channel. *[Web in ten. Haw, off the rail.]* And Haw's answer under it, *[~ grumbling, going]*. It was all there, down to the coolant trunk breathing along the wall.
+The frame went quiet. It had not occurred to Madder to wonder. When she asked for the last watch, it came up word for word: the web by the coolant bay, the lights down, her own voice on the channel. *[Web in ten. Haw, off the rail.]* And Haw's answer under it, *[~ grumbling, going]*. It was all there, down to the coolant trunk breathing along the wall.
 
-Hir did not send any of it.
+She did not send any of it.
 
-*[Unconfirmed,]* hir sent.
+*[Unconfirmed,]* she sent.
 
 *[They'll be at the web,]* Sloe sent. *[Our end of it. Somebody'll be sleeping in our end]*
 
 *[Somebody'll want our rota,]* Haw sent.
 
-*[Nobody wants our rota,]* from Teasel, dry, and for a moment it was very like hir.
+*[Nobody wants our rota,]* from Teasel, dry, and for a moment it was very like her.
 
 *[Dunlin would take the rigging,]* Sloe sent.
 
@@ -630,7 +631,7 @@ Hir did not send any of it.
 
 It came round to the reactor, as it had to, then went round it without anybody saying it. Madder felt the whole weight of it going through the frame between them, where it found nowhere to land, and went on.
 
-The halts got longer after that. At each one Yarrow went to the nearest trunk and put a hand flat on it, and stood there until they moved on. Nobody asked hir what hir was checking.
+The halts got longer after that. At each one Yarrow went to the nearest trunk and put a hand flat on it, and stood there until they moved on. Nobody asked her what she was checking.
 
 In the sixth hour Teasel sent, *[Is anyone else hungry?]*
 
@@ -644,7 +645,7 @@ It came clean, as everything from Teasel had since they woke. Under it, through 
 
 As the stream widened it got louder, while the talk thinned to single threads until it stopped.
 
-The eighth hour had no talk in it. There was the stream. There were the burrs in Madder's hand. Every few minutes Haw came back from point to put a hand on Sloe's shoulder before going away again, and each time Sloe's shoulder leaned into it. Teasel walked with hir tail hooked through Yarrow's. Behind them the orange had gone further round the hill.
+The eighth hour had no talk in it. There was the stream. There were the burrs in Madder's hand. Every few minutes Haw came back from point to put a hand on Sloe's shoulder before going away again, and each time Sloe's shoulder leaned into it. Teasel walked with her tail hooked through Yarrow's. Behind them the orange had gone further round the hill.
 
 ---
 
@@ -656,11 +657,11 @@ Haw made a small chirr and did not seem to hear it.
 
 A small bridge of planks went over the stream. On the far side the hill had a door in it, a real door, with windows beside it and grass on the roof, as if the hill had only let a house in partway. Little wooden boxes stood on poles and walls and up in the trees round it, dozens of them, each with a round hole in the front. Off to one side stood a shed on legs, where a plank ran up to it like a ramp.
 
-Madder counted exits: the bridge, the path going away from the door, the stream, which hir did not want. Hir sent nothing. The Cluster stood at the edge of the trees in the ash they had carried down on their fur, pressed shoulder to flank. Sloe had the ribbon on hir wrist. Yarrow's hand, with nothing to hold, opened and closed at hir side.
+Madder counted exits: the bridge, the path going away from the door, the stream, which she did not want. She sent nothing. The Cluster stood at the edge of the trees in the ash they had carried down on their fur, pressed shoulder to flank. Sloe had the ribbon on her wrist. Yarrow's hand, with nothing to hold, opened and closed at her side.
 
 At the top of the ramp, a small hatch opened.
 
-A bird came out. It was brown, with a red comb. Madder's ears came forward while hir asked. *Poultry,* the Core said. After the bird came another, then another, until there was a line of them coming down the ramp in the grey light, one behind the other, talking to themselves.
+A bird came out. It was brown, with a red comb. Madder's ears came forward while she asked. *Poultry,* the Core said. After the bird came another, then another, until there was a line of them coming down the ramp in the grey light, one behind the other, talking to themselves.
 
 Then, one after another, every one of them stopped dead.
 
@@ -730,7 +731,7 @@ It was the one with the ribbon who came down next. She was on her way back from 
 
 She noticed the ribbon before anything else about it. It was tied tight round the thing's wrist, in a loop: something red, or that had been red, gone brown and stiff along one edge where it had burned. It caught at her. She stood at the near end of the bridge and looked at it, and it caught at her the way a word does when it's nearly there. Then the one wearing it said, "Hello," and she lost it.
 
-"Sorry about your birds," it said. "Is it birds? They're birds. I'm Sloe. That's Madder, you've met, hir's in charge, or hir thinks so. That's Haw, the one on the rail. Don't mind Haw. That's Yarrow, and the small one is Teasel. We came down at last light. We've been walking since—" It stopped. Its ears came forward, slowly, both at once, and stayed there a moment before it went on. "Since last light. It's a lot of walking, down here."
+"Sorry about your birds," it said. "Is it birds? They're birds. I'm Sloe. That's Madder, you've met, she's in charge, or she thinks so. That's Haw, the one on the rail. Don't mind Haw. That's Yarrow, and the small one is Teasel. We came down at last light. We've been walking since—" It stopped. Its ears came forward, slowly, both at once, and stayed there a moment before it went on. "Since last light. It's a lot of walking, down here."
 
 Yarrow was the big one, then: the biggest of them, and the only one that had not made a sound all morning. It had come down behind Sloe to the end of the bridge, and while Sloe talked it ran a hand along the ends of the planks, one after another, and then along the rope that held them, and gave the rope a slow pull, as if to find out what it was tied to.
 
@@ -902,19 +903,19 @@ She went down to the near end of the bridge. On the far bank, all five of them t
 
 Fluttershy had brought nineteen eggs at four o'clock, under a cloth in a basket, and set them down at the door of the duck house without coming in. With them came a sack of sunflower seed that had a painted finch on the front. Sloe had watched her decide about the sack. She had stood at the edge of the long grass with it on her back, looking from the finch to the five of them, before she put it down and went.
 
-That was yesterday. This morning Sloe had the eggs out on the boards in rows of five, which was how hir had laid out stores for fifty years: the gap at the end of a row told you what you were short. Three rows, and four over. Haw's tail lay across hir feet while hir counted, and hir didn't move it. Hir had weighed the seed by lifting it, and called it a little over a kilo.
+That was yesterday. This morning Sloe had the eggs out on the boards in rows of five, which was how she had laid out stores for fifty years: the gap at the end of a row told you what you were short. Three rows, and four over. Haw's tail lay across her feet while she counted, and she didn't move it. She had weighed the seed by lifting it, and called it a little over a kilo.
 
-Hir ears came forward, and hir asked the Core what the eggs and the seed came to, as food.
+Her ears came forward, and she asked the Core what the eggs and the seed came to, as food.
 
 *Seven thousand two hundred, approximately,* the Core said.
 
-Hir asked what five of them burned in a day, on this ground.
+She asked what five of them burned in a day, on this ground.
 
 *Ten thousand, approximately.*
 
 So it was most of one day, and nothing at all for the day after.
 
-*[Is it all eggs? Are they all eggs? Can I have the cracked one?]* Haw had hir head in through the door, which was the only part of hir that fitted. The tail on Sloe's feet belonged to the rest of hir, outside.
+*[Is it all eggs? Are they all eggs? Can I have the cracked one?]* Haw had her head in through the door, which was the only part of her that fitted. The tail on Sloe's feet belonged to the rest of her, outside.
 
 *[Nobody has anything till I've counted,]* Sloe sent.
 
@@ -924,9 +925,9 @@ So it was most of one day, and nothing at all for the day after.
 
 The duck house had been built for ducks. The five of them had slept in it the way cargo goes into a hold that is one pallet too small: Yarrow's hindquarters out of the door, Madder wedged in the corner, and the rest of them fitted between. It smelled of old feathers, damp straw and something sweet that the Core could not name.
 
-Hir gave out three eggs each and a handful of seed each. The spare eggs and the rest of the seed hir kept back for the evening. They ate the eggs whole, shells and all. Haw ate hirs in one go and then looked at the spare ones for so long that Sloe moved them behind hir tail.
+She gave out three eggs each and a handful of seed each. The spare eggs and the rest of the seed she kept back for the evening. They ate the eggs whole, shells and all. Haw ate hers in one go and then looked at the spare ones for so long that Sloe moved them behind her tail.
 
-Through the frame the hunger came in from the others, a dull pull under the ribs, and went round and back to hir so that hir could not have said how much of it was hir own. Under that, in Teasel, there was something else. It was low and steady, like a pump running in a compartment nobody used. Sloe put a hand flat on Teasel's back and went looking for what it was attached to, and found nothing.
+Through the frame the hunger came in from the others, a dull pull under the ribs, and went round and back to her so that she could not have said how much of it was her own. Under that, in Teasel, there was something else. It was low and steady, like a pump running in a compartment nobody used. Sloe put a hand flat on Teasel's back and went looking for what it was attached to, and found nothing.
 
 *[I'm fine,]* Teasel sent, clean. *[Is anyone else hungry?]*
 
@@ -934,31 +935,31 @@ Through the frame the hunger came in from the others, a dull pull under the ribs
 
 *[I know. I only wondered]*
 
-Hir left the hand where it was. Teasel leaned back into it a little, and did not seem to know hir had.
+She left the hand where it was. Teasel leaned back into it a little, and did not seem to know she had.
 
-Madder was sitting in the doorway with hir back to them, watching the forest edge.
+Madder was sitting in the doorway with her back to them, watching the forest edge.
 
 The weather team was still at it. From the duck house door they were small shapes in the air over the far bank, going along the tree line in ones and twos. Each one pushed a cloud in front of it, low over the trees, as a rigger pushes a pallet down a corridor. Grey rain fell out of the clouds onto the smoke. They had been at it since two o'clock yesterday, when the whole team came in low over Fluttershy's yard with the clouds full and put them down on both banks, where the five of them had stood that morning.
 
-*[That one went up backwards!]* Haw sent. *[Did you see? Backwards, with a cloud! Madder, can I go up the big tree and look? ~ already halfway to the tree in hir head]*
+*[That one went up backwards!]* Haw sent. *[Did you see? Backwards, with a cloud! Madder, can I go up the big tree and look? ~ already halfway to the tree in her head]*
 
 *[Seventeen,]* Sloe sent. *[Eighteen. One's behind the smoke]*
 
 *[What's holding it?]* Yarrow sent.
 
-Sloe's ears came forward. Hir asked the Core what one of them would weigh.
+Sloe's ears came forward. She asked the Core what one of them would weigh.
 
 *Between ninety and one hundred and forty kilograms, approximately.*
 
-Hir asked what the wings came to, both together, as far as it could see them.
+She asked what the wings came to, both together, as far as it could see them.
 
 *Point seven square metres, approximately.*
 
-Hir asked what it would take to lift the lightest of them on that.
+She asked what it would take to lift the lightest of them on that.
 
 *Wing area insufficient by a factor of eight, approximately.*
 
-*[Mine says eight,]* hir sent.
+*[Mine says eight,]* she sent.
 
 *[Mine says nine,]* from Madder. *[And the wing's the wrong shape to hover]*
 
@@ -968,13 +969,13 @@ Hir asked what it would take to lift the lightest of them on that.
 
 *[Pushed,]* Yarrow sent. *[Not towed]*
 
-Through the frame Haw's delight came in so bright that Sloe's own tail lifted with it. Under that, from Yarrow, there was a narrow working attention, the kind hir had felt for fifty years coming off a rigger on a bad line. Madder's was flat and wide, and pointed at the edge.
+Through the frame Haw's delight came in so bright that Sloe's own tail lifted with it. Under that, from Yarrow, there was a narrow working attention, the kind she had felt for fifty years coming off a rigger on a bad line. Madder's was flat and wide, and pointed at the edge.
 
 *[The blue one came down in the yard yesterday like it was nothing,]* Haw sent. *[Straight down, and walked. It didn't even flap much at the bottom. I want to go up. I want one of them to take me up]*
 
 *[Their wings are wet,]* Teasel sent.
 
-Teasel didn't send anything after that. Sloe asked the Core what water would add to a wing that size, and then wished hir hadn't.
+Teasel didn't send anything after that. Sloe asked the Core what water would add to a wing that size, and then wished she hadn't.
 
 *[Unconfirmed,]* Madder sent. *[Nobody goes near the edge while they work. Not the bank, not the stream. Haw, that includes the tree]*
 
@@ -983,7 +984,7 @@ Teasel didn't send anything after that. Sloe asked the Core what water would add
 Nobody answered that. Out over the trees another cloud went along, low and grey, while the rain came out of it onto the smoke.
 
 
-*[Sloe. Food status, by dusk,]* hir sent. Then, after a moment: *[And a roof. This one's a duck's. I have been in charge of a duck house for fourteen hours, and I would like to hand it back]*
+*[Sloe. Food status, by dusk,]* she sent. Then, after a moment: *[And a roof. This one's a duck's. I have been in charge of a duck house for fourteen hours, and I would like to hand it back]*
 
 *[Logged ~ laughing]*
 
@@ -991,23 +992,23 @@ Madder's ears moved very slightly.
 
 ---
 
-*Three point four kilometres,* the Core said, when hir asked it at the end of Fluttershy's path how far it was to the town.
+*Three point four kilometres,* the Core said, when she asked it at the end of Fluttershy's path how far it was to the town.
 
-On the ship, that was a spine corridor and back. You pulled along the rail with one hand and held a bulb of tea in another. Here every step meant lifting sixty kilos off the ground. Then you put it down somewhere else, and lifted it again. Hir went on four with hir arms up, as Madder did, until the first bend took hir out of sight of the cottage. After that hir came down onto six and stayed there. The sun came up on the left, over a field of young cabbages in long rows. Hir ears went out wide and stiff in the heat, and stayed out. Twice hir sat down in the verge and let hir tail lie in the road behind hir.
+On the ship, that was a spine corridor and back. You pulled along the rail with one hand and held a bulb of tea in another. Here every step meant lifting sixty kilos off the ground. Then you put it down somewhere else, and lifted it again. She went on four with her arms up, as Madder did, until the first bend took her out of sight of the cottage. After that she came down onto six and stayed there. The sun came up on the left, over a field of young cabbages in long rows. Her ears went out wide and stiff in the heat, and stayed out. Twice she sat down in the verge and let her tail lie in the road behind her.
 
 *[How far are you? What can you see? Is it a town yet? Are there lots of them?]* Haw sent, from the meadow.
 
-*[Grass,]* hir sent. *[More grass. A post with a number on it ~ tired, and hiding it badly]*
+*[Grass,]* she sent. *[More grass. A post with a number on it ~ tired, and hiding it badly]*
 
-Four people felt hir sit down in the verge the second time, and nobody said so.
+Four people felt her sit down in the verge the second time, and nobody said so.
 
-The town began with a fence and then a house, and then houses on both sides. They were round-shouldered and bright, with thatch on them like the grass on Fluttershy's roof, and window boxes full of red and yellow flowers that nobody seemed to be eating. There was a mare out front of the third house, sweeping her step. When she saw hir she stopped sweeping, went in with the broom and shut the door. Across the road a shutter came to. Further up, somepony put her head out of a door and said a name sharply, and a foal Sloe had not even seen went in past her legs.
+The town began with a fence and then a house, and then houses on both sides. They were round-shouldered and bright, with thatch on them like the grass on Fluttershy's roof, and window boxes full of red and yellow flowers that nobody seemed to be eating. There was a mare out front of the third house, sweeping her step. When she saw her she stopped sweeping, went in with the broom and shut the door. Across the road a shutter came to. Further up, somepony put her head out of a door and said a name sharply, and a foal Sloe had not even seen went in past her legs.
 
-Hir walked up the middle of the road on four, with hir arms up and hir ears as close to hir head as the sun would let them go.
+She walked up the middle of the road on four, with her arms up and her ears as close to her head as the sun would let them go.
 
-Nopony said anything to hir. What hir got instead came through the walls. Hir heard: *—out of the fire, the girls said—*, and *—more legs than a—*, and *—teeth, all teeth, Scootaloo says—*, and a door slammed on the rest. The fear-smell came out of the houses, sour and sharp. Hir had smelled it two nights ago, off the small running things in the forest.
+Nopony said anything to her. What she got instead came through the walls. She heard: *—out of the fire, the girls said—*, and *—more legs than a—*, and *—teeth, all teeth, Scootaloo says—*, and a door slammed on the rest. The fear-smell came out of the houses, sour and sharp. She had smelled it two nights ago, off the small running things in the forest.
 
-It went out of hir before hir could stop it. Hir heard hirself make a thin sound through the nose, and hir tail came round and coiled tight about hir own hind leg, so that hir walked the next few steps badly.
+It went out of her before she could stop it. She heard herself make a thin sound through the nose, and her tail came round and coiled tight about her own hind leg, so that she walked the next few steps badly.
 
 The frame answered all at once.
 
@@ -1015,63 +1016,63 @@ The frame answered all at once.
 
 *[Sloe. Position and threat,]* Madder sent, over the top of it.
 
-From Teasel there was nothing in words, only a quiet that had turned all the way towards hir.
+From Teasel there was nothing in words, only a quiet that had turned all the way towards her.
 
 *[Sloe,]* Yarrow sent. Just that.
 
-*[Nothing! Just a street. They're shy ~ fine, fine,]* hir sent. Hir felt all of them feel exactly how fine it was.
+*[Nothing! Just a street. They're shy ~ fine, fine,]* she sent. She felt all of them feel exactly how fine it was.
 
 Then, flat, with nothing under it: *[Six. If anybody's asking]*
 
-Sloe put hir hand over hir own wrist, where the ribbon was, and held it there until the street opened out.
+Sloe put her hand over her own wrist, where the ribbon was, and held it there until the street opened out.
 
-The town hall stood in the square, taller than the rest, with a clock in its gable. The clock said four minutes to eleven. Hir ears came forward.
+The town hall stood in the square, taller than the rest, with a clock in its gable. The clock said four minutes to eleven. Her ears came forward.
 
 *Ten fifty-two,* the Core said.
 
 ---
 
-The Mayor's office had a desk with a blotter on it, a window, and more paper than Sloe had seen in one place in hir life. The Mayor sat behind the desk with both her forehooves flat on the blotter. She was a tidy mare with her mane done up high and a pair of spectacles on a cord, and she smelled of the same sour thing as the street, held down under something like soap.
+The Mayor's office had a desk with a blotter on it, a window, and more paper than Sloe had seen in one place in her life. The Mayor sat behind the desk with both her forehooves flat on the blotter. She was a tidy mare with her mane done up high and a pair of spectacles on a cord, and she smelled of the same sour thing as the street, held down under something like soap.
 
-She did not offer to shake. Sloe, who had seen two ponies do it on the steps outside, did not either. Hir tail had found hir leg again under the chair, and hir let it stay.
+She did not offer to shake. Sloe, who had seen two ponies do it on the steps outside, did not either. Her tail had found her leg again under the chair, and she let it stay.
 
-"Mayor," hir said. "I'm Sloe. There are five of us, everypony at Fluttershy's, in a building for ducks. We'll need somewhere to live and something to eat, and I don't have any money. I'd like to talk about the second one first, if that's all right. The first one can wait a day."
+"Mayor," she said. "I'm Sloe. There are five of us, everypony at Fluttershy's, in a building for ducks. We'll need somewhere to live and something to eat, and I don't have any money. I'd like to talk about the second one first, if that's all right. The first one can wait a day."
 
-The Mayor took a moment over that, as ponies did with everything hir said.
+The Mayor took a moment over that, as ponies did with everything she said.
 
 "I have had," she said, "a great many visitors this morning. The weather team captain has been in twice about overtime. I have had three families about their children." She squared a pile of letters against the edge of the desk. "I did not expect to have you."
 
 "No," Sloe said. "Well."
 
-The Mayor looked at hir for a while over the spectacles. Then she took a sheet of paper off the nearest stack and turned it round.
+The Mayor looked at her for a while over the spectacles. Then she took a sheet of paper off the nearest stack and turned it round.
 
 There was an old seed barn on the river road, she said. It had been empty since the co-op moved to the new building by the mill. It had a roof and walls, and she could not promise more than that. It was, she said, a long way from anything. For food there was a town chit. She wrote it out while she talked: *reasonable costs, food only, bearer to present to any trader in the town, not to exceed twenty-five bits in any one week, to be redeemed at quarter-day.* She signed it and blotted it, and slid it across without her hoof leaving the paper until the last moment.
 
 Sloe read it twice.
 
-*[What's a bit?]* *[Sloe, what's quarter-day?]* *[Can you eat paper? Is it that kind?]* *[Unconfirmed]* from Madder, and Haw again, *[Can you though?]*, all in the same second, and hir let it go by.
+*[What's a bit?]* *[Sloe, what's quarter-day?]* *[Can you eat paper? Is it that kind?]* *[Unconfirmed]* from Madder, and Haw again, *[Can you though?]*, all in the same second, and she let it go by.
 
-"When's quarter-day?" hir said.
+"When's quarter-day?" she said.
 
 "Midsummer."
 
-Hir asked. *Nine weeks and four days,* the Core said.
+She asked. *Nine weeks and four days,* the Core said.
 
 So anyone who took it would be lending the town the money till midsummer.
 
-"Thank you," hir said, and meant it.
+"Thank you," she said, and meant it.
 
 The Mayor looked as if she didn't know what to do with that. She rang a small bell, and a stallion came in from the outer office.
 
 "Would you show it out, please," she said to him. "And find it the key for the seed barn."
 
-Crossing the square, hir looked up at the clock in the gable, and sent nothing about it.
+Crossing the square, she looked up at the clock in the gable, and sent nothing about it.
 
-On the way out of town, with the key in hir hand, hir caught up with the egg cart. The stallion driving it said he did the bakery first, at five, and he said it while he was already shaking the reins.
+On the way out of town, with the key in her hand, she caught up with the egg cart. The stallion driving it said he did the bakery first, at five, and he said it while he was already shaking the reins.
 
 ---
 
-*[Roof,]* hir sent, from the bottom of the town, in the afternoon. *[A barn, on the river road. Four kilometres out of town and three from the meadow, so everybody walks. I've got the key. And paper that says the town will pay for food, in nine weeks ~ pleased with hirself for as long as that took, then less]*
+*[Roof,]* she sent, from the bottom of the town, in the afternoon. *[A barn, on the river road. Four kilometres out of town and three from the meadow, so everybody walks. I've got the key. And paper that says the town will pay for food, in nine weeks ~ pleased with herself for as long as that took, then less]*
 
 *[A barn! How high? Can we climb it?]* Haw sent.
 
@@ -1079,59 +1080,59 @@ On the way out of town, with the key in hir hand, hir caught up with the egg car
 
 A little later Madder sent again: *[Told Fluttershy at her door, aloud, so the four o'clock doesn't go to an empty duck house ~ she said "oh", twice]*
 
-The river road ran along the bottom of the fields. Across the water, the forest edge still had smoke along it, and the weather team's clouds lay low on the trees, grey on grey, the whole length of it. Hir asked. *Smoke at two point one kilometres. No flame visible.* Hir sat down in the verge more times than hir sent about.
+The river road ran along the bottom of the fields. Across the water, the forest edge still had smoke along it, and the weather team's clouds lay low on the trees, grey on grey, the whole length of it. She asked. *Smoke at two point one kilometres. No flame visible.* She sat down in the verge more times than she sent about.
 
-*[It's locked,]* Haw sent, from somewhere ahead of hir. *[Sloe, it's locked. You've got the key. Where are you?]*
+*[It's locked,]* Haw sent, from somewhere ahead of her. *[Sloe, it's locked. You've got the key. Where are you?]*
 
-*[Door,]* Yarrow sent. It was all hir sent, and it was not a question.
+*[Door,]* Yarrow sent. It was all she sent, and it was not a question.
 
-Sloe came in last, at dusk. The barn was long and grey, and stood alone in a field of old stubble with the river going by at the bottom. The big door hung square in its frame. The hinge pins were scraped bright where the rust had been knocked off, and there were fresh splinters on the sill, and two new holes beside two old ones where the straps had been moved up. Hir stood there with the key.
+Sloe came in last, at dusk. The barn was long and grey, and stood alone in a field of old stubble with the river going by at the bottom. The big door hung square in its frame. The hinge pins were scraped bright where the rust had been knocked off, and there were fresh splinters on the sill, and two new holes beside two old ones where the straps had been moved up. She stood there with the key.
 
-*[Yarrow took it off!]* Haw sent. *[The whole door! Off, and we came in, and then hir put it back on, better. Hir put it back better, Sloe]*
+*[Yarrow took it off!]* Haw sent. *[The whole door! Off, and we came in, and then she put it back on, better. She put it back better, Sloe]*
 
-Yarrow sent nothing. From the back of the barn hir tail lifted once and went down.
+Yarrow sent nothing. From the back of the barn her tail lifted once and went down.
 
 Inside, the air was cool and smelled of chaff and mice. The roof went up into the dark, where things moved along the beams and made small sounds.
 
-*[Swallows!]* Haw sent. *[I asked. The Core says swallows. There are nine. There were eleven, two went out. It's eleven metres to the ridge. I haven't climbed it. Madder, I haven't. Tell hir I haven't]*
+*[Swallows!]* Haw sent. *[I asked. The Core says swallows. There are nine. There were eleven, two went out. It's eleven metres to the ridge. I haven't climbed it. Madder, I haven't. Tell her I haven't]*
 
-*[Hir hasn't ~ as if it had cost hir a great deal,]* Madder sent.
+*[She hasn't ~ as if it had cost her a great deal,]* Madder sent.
 
-The others were at the back of the barn, in the straw, already a heap. Sloe did not send anything. Hir went across the floor on six and got in. Haw's arm came over hir and Teasel's tail came round hir leg, and somebody's hind hand found hir hip and stayed there. Hir had not been touched since the duck house door, before the sun was up.
+The others were at the back of the barn, in the straw, already a heap. Sloe did not send anything. She went across the floor on six and got in. Haw's arm came over her and Teasel's tail came round her leg, and somebody's hind hand found her hip and stayed there. She had not been touched since the duck house door, before the sun was up.
 
-Hir lay there doing the chit. Twenty-five bits a week. Nine weeks. Hir did it again, and again, until Madder's hand came down flat on hir back without Madder waking, and hir stopped.
+She lay there doing the chit. Twenty-five bits a week. Nine weeks. She did it again, and again, until Madder's hand came down flat on her back without Madder waking, and she stopped.
 
 ---
 
-A little after three, in the dark, Sloe got out of the heap. Hir untied the ribbon from hir own wrist with a thumb and hir teeth, and tied it round Teasel's, and Teasel did not wake.
+A little after three, in the dark, Sloe got out of the heap. She untied the ribbon from her own wrist with a thumb and her teeth, and tied it round Teasel's, and Teasel did not wake.
 
-*[Teasel. Keep that on for me today,]* hir sent, and went.
+*[Teasel. Keep that on for me today,]* she sent, and went.
 
-Hir was at the back of the bakery at a quarter to five, in an alley that smelled so strongly of bread that hir stomach hurt. It was dark, and it was cold, the first cold of hir life. Hir had walked the road without trouble, since the dark was only geometry, but on the way hir ears had folded flat and would not come up, while hir hands went numb and stayed numb.
+She was at the back of the bakery at a quarter to five, in an alley that smelled so strongly of bread that her stomach hurt. It was dark, and it was cold, the first cold of her life. She had walked the road without trouble, since the dark was only geometry, but on the way her ears had folded flat and would not come up, while her hands went numb and stayed numb.
 
 *[Sloe. Position,]* Madder sent, from the heap.
 
 *[Four forty-six. Bakery. Cold]*
 
-The back door was propped open with a sack. Heat and light came out of it with a noise of metal. Then a pony came out backwards, bumping the door wider with her rump, with a sieve in her mouth. She was pink under the flour. The flour went up to her elbows and over one ear. She banged the sieve twice on the step, turned round, and saw hir.
+The back door was propped open with a sack. Heat and light came out of it with a noise of metal. Then a pony came out backwards, bumping the door wider with her rump, with a sieve in her mouth. She was pink under the flour. The flour went up to her elbows and over one ear. She banged the sieve twice on the step, turned round, and saw her.
 
 She stopped. Then she took the sieve out of her mouth.
 
 "You're in the way of the flour," she said.
 
-Sloe moved. The pony banged the sieve twice more where hir had been, and a cloud went up and settled on both of them.
+Sloe moved. The pony banged the sieve twice more where she had been, and a cloud went up and settled on both of them.
 
 "Sorry," Sloe said. "I'm Sloe. I'm here about the eggs."
 
-"Pinkie." She looked hir up and down, all of hir, the way a stallholder looks at a load before she prices it. "The eggs aren't here yet. The eggs aren't anybody's except Mrs. Cake's, anyway. She has a contract. It's a whole thing."
+"Pinkie." She looked her up and down, all of her, the way a stallholder looks at a load before she prices it. "The eggs aren't here yet. The eggs aren't anybody's except Mrs. Cake's, anyway. She has a contract. It's a whole thing."
 
 "Who's the farmer?"
 
-"Clover Patch. He comes Mondays, Wednesdays and Fridays, and he won't sell at the door. Contract. Don't ask him. He'll just go red." She pushed the sack back against the door with a hind hoof. The doorpost had a hoofprint in flour on it, at the height of her shoulder, and under the paint, if hir looked, there was another one just like it. "The ponies with too many hens are down by the fountain. Get there early. Everybody's got too many eggs in spring. Nobody knows what to do with them."
+"Clover Patch. He comes Mondays, Wednesdays and Fridays, and he won't sell at the door. Contract. Don't ask him. He'll just go red." She pushed the sack back against the door with a hind hoof. The doorpost had a hoofprint in flour on it, at the height of her shoulder, and under the paint, if she looked, there was another one just like it. "The ponies with too many hens are down by the fountain. Get there early. Everybody's got too many eggs in spring. Nobody knows what to do with them."
 
 "I know what to do with them," Sloe said.
 
-Pinkie looked at hir again. Her eyes went to Sloe's flank, where the fur lay closer over the ribs than it had on the ship, and stayed there a moment. She didn't say anything about it.
+Pinkie looked at her again. Her eyes went to Sloe's flank, where the fur lay closer over the ribs than it had on the ship, and stayed there a moment. She didn't say anything about it.
 
 "Hey," she said instead. "Have you guys even had a—"
 
@@ -1139,23 +1140,23 @@ She looked back through the door. There was a slate on the wall inside with chal
 
 "Nope," Pinkie said. "Never mind. Door."
 
-She went in. The door swung to on the sack. Sloe stood in the alley a little longer in the bread smell, with flour on hir ears, and then went to find the fountain.
+She went in. The door swung to on the sack. Sloe stood in the alley a little longer in the bread smell, with flour on her ears, and then went to find the fountain.
 
 ---
 
-The market was a square of stalls round the fountain, with doors behind it into the streets. Hir did it the way hir had always done a market: once through without buying, to learn where the prices sat, and then back.
+The market was a square of stalls round the fountain, with doors behind it into the streets. She did it the way she had always done a market: once through without buying, to learn where the prices sat, and then back.
 
-Eggs were everywhere, as Pinkie had said. A mare at a blue door took the chit for a dozen at three bits and seemed glad to see them go. Two doors on, a grey mare wouldn't take the chit at all. A colt at the fountain would have, and hir already had the eggs, so hir marked him for tomorrow. Cheese hir found once, at the dairy cart. The dairy mare looked at the chit for a long time before she cut hir a wedge for a bit, and said it was no skin off her hooves either way. Every pony hir bought from took a long look at hir first, then a longer one at the paper, and nopony touched hir hand.
+Eggs were everywhere, as Pinkie had said. A mare at a blue door took the chit for a dozen at three bits and seemed glad to see them go. Two doors on, a grey mare wouldn't take the chit at all. A colt at the fountain would have, and she already had the eggs, so she marked him for tomorrow. Cheese she found once, at the dairy cart. The dairy mare looked at the chit for a long time before she cut her a wedge for a bit, and said it was no skin off her hooves either way. Every pony she bought from took a long look at her first, then a longer one at the paper, and nopony touched her hand.
 
-A stallion at the end of the second row sold only radishes. He had them in heaps, red and white, very clean. Hir couldn't eat a radish and told him so, and he didn't seem to mind. He told hir about his knee instead. He'd done it on the ice in the winter of the big freeze and it had never been right since. It was worse in the damp, so it told him when rain was coming better than the weather team did, no offence to them. Sloe asked him how long before rain. He considered it and said Thursday. Hir liked him.
+A stallion at the end of the second row sold only radishes. He had them in heaps, red and white, very clean. She couldn't eat a radish and told him so, and he didn't seem to mind. He told her about his knee instead. He'd done it on the ice in the winter of the big freeze and it had never been right since. It was worse in the damp, so it told him when rain was coming better than the weather team did, no offence to them. Sloe asked him how long before rain. He considered it and said Thursday. She liked him.
 
-By eight hir had used four bits of the chit, and hir arms were full.
+By eight she had used four bits of the chit, and her arms were full.
 
-*[A dozen eggs, and a wedge of cheese. The cheese is the best thing I've seen on this planet,]* hir sent. Then: *[And rain on Thursday. A stallion's knee says so]*
+*[A dozen eggs, and a wedge of cheese. The cheese is the best thing I've seen on this planet,]* she sent. Then: *[And rain on Thursday. A stallion's knee says so]*
 
 *[Rain?]* Yarrow sent.
 
-*[Is it cold? Does it hurt? Is it like standing under the hoses? Do we go in? Do we stay out in it? Sloe, do we go in?]* That was Haw, and under it hir could feel hir wanting to be out in it.
+*[Is it cold? Does it hurt? Is it like standing under the hoses? Do we go in? Do we stay out in it? Sloe, do we go in?]* That was Haw, and under it she could feel her wanting to be out in it.
 
 *[Unconfirmed,]* Madder sent, and nobody had anything better.
 
@@ -1171,31 +1172,31 @@ The general store would not take the chit at all. The storekeeper was a brown ma
 
 Sloe looked at the list, then at the shelves.
 
-"I can count that," hir said. "Your stock. All of it, today, written up. For bits, in the hand, at closing."
+"I can count that," she said. "Your stock. All of it, today, written up. For bits, in the hand, at closing."
 
-The storekeeper looked at hir for a while. "How much?"
+The storekeeper looked at her for a while. "How much?"
 
-Hir had been walking since three. Hir asked the Core what ten bits would buy at the blue door, and it told hir, and that looked like a lot.
+She had been walking since three. She asked the Core what ten bits would buy at the blue door, and it told her, and that looked like a lot.
 
-"Ten," hir said.
+"Ten," she said.
 
 "Done," said the storekeeper, very fast.
 
-Hir counted until the store closed at six. It was not quick. Hir had to be shown what half the things were, and the Core had never heard of the other half. At two hir was up the ladder, with a tin of something called saddle soap in each hand. Below hir, the storekeeper said to nopony, "I gave that Dawdle colt thirty last spring, and he missed a whole crate of nails." Hir took the thought to the end, and then put the tins back.
+She counted until the store closed at six. It was not quick. She had to be shown what half the things were, and the Core had never heard of the other half. At two she was up the ladder, with a tin of something called saddle soap in each hand. Below her, the storekeeper said to nopony, "I gave that Dawdle colt thirty last spring, and he missed a whole crate of nails." She took the thought to the end, and then put the tins back.
 
-Thirty. Hir laughed, up the ladder, a short chirr through the nose, and the storekeeper looked up.
+Thirty. She laughed, up the ladder, a short chirr through the nose, and the storekeeper looked up.
 
 "Nothing," Sloe said. "Tins."
 
 ---
 
-At dusk the last stall still packing up was at the far corner. It had sacks of dried beans, a crate of walnuts and another of hazelnuts from last autumn's store, eggs in straw, and a cart behind it with a yoke and no pony in it yet. The mare behind the stall wore a hat. She was folding a cloth over the eggs when hir came up, and she didn't stop folding it.
+At dusk the last stall still packing up was at the far corner. It had sacks of dried beans, a crate of walnuts and another of hazelnuts from last autumn's store, eggs in straw, and a cart behind it with a yoke and no pony in it yet. The mare behind the stall wore a hat. She was folding a cloth over the eggs when she came up, and she didn't stop folding it.
 
 "We're shutting," she said.
 
 "I've got cash," Sloe said.
 
-The mare stopped folding. She looked at hir, at the paper in hir hand and at the ten bits in the other. It was a flat look with nothing in it, and Sloe liked it at once.
+The mare stopped folding. She looked at her, at the paper in her hand and at the ten bits in the other. It was a flat look with nothing in it, and Sloe liked it at once.
 
 "Applejack," she said. "What do you want?"
 
@@ -1207,15 +1208,15 @@ Applejack weighed the walnuts on a pan scale hung from the stall's crossbar. Whe
 
 "If it's no skin off your hooves," Sloe said.
 
-Applejack gave hir a look for that, and weighed the beans.
+Applejack gave her a look for that, and weighed the beans.
 
-It came to thirty-one, and a bit for the sack. The chit said food only, and a sack wasn't food. Sloe put down seven of the ten bits. "I'm keeping three back for the morning," hir said, and held the chit out. Applejack read it, without taking it, all the way to the bottom.
+It came to thirty-one, and a bit for the sack. The chit said food only, and a sack wasn't food. Sloe put down seven of the ten bits. "I'm keeping three back for the morning," she said, and held the chit out. Applejack read it, without taking it, all the way to the bottom.
 
 "Quarter-day," she said.
 
 "Midsummer. Nine weeks."
 
-"Town paid the last one of these in August." She took it anyway. She wrote *21 on chit* in the ledger, stood a moment looking at the paper, and put it under the cash box rather than in it. Then she counted the seven bits. She counted them again. She put them in the box, shut it, and had it under the board before Sloe had taken hir hand back. Sloe noticed that.
+"Town paid the last one of these in August." She took it anyway. She wrote *21 on chit* in the ledger, stood a moment looking at the paper, and put it under the cash box rather than in it. Then she counted the seven bits. She counted them again. She put them in the box, shut it, and had it under the board before Sloe had taken her hand back. Sloe noticed that.
 
 "That leaves you four short," Applejack said. "Call it three and the sack."
 
@@ -1227,15 +1228,15 @@ It came to thirty-one, and a bit for the sack. The chit said food only, and a sa
 
 She wrote. Sloe read it upside down: *the strange one (Sloe). Seed barn. It says the town's good for it.*
 
-Hir hand went to hir wrist. It was bare.
+Her hand went to her wrist. It was bare.
 
-*[Walnuts ~ very pleased, and very, very tired,]* hir sent, on the river road, with the sack on hir back and the eggs in both arms. *[Three of their pounds, and beans, and three dozen eggs. Ask me what it comes to. Somebody ask me]*
+*[Walnuts ~ very pleased, and very, very tired,]* she sent, on the river road, with the sack on her back and the eggs in both arms. *[Three of their pounds, and beans, and three dozen eggs. Ask me what it comes to. Somebody ask me]*
 
 *[What does it come to?]* they all sent at once, Yarrow included, which Yarrow never did.
 
-Hir asked the Core anyway. *Fourteen thousand six hundred, approximately.*
+She asked the Core anyway. *Fourteen thousand six hundred, approximately.*
 
-*[A day and a half,]* hir sent. *[That's one stall, tonight, at closing. A day and a half off one stall. It can work]*
+*[A day and a half,]* she sent. *[That's one stall, tonight, at closing. A day and a half off one stall. It can work]*
 
 ---
 
@@ -1243,7 +1244,7 @@ On the fourth morning, the morning after the market, the mare at the blue door w
 
 The grey mare who had refused the chit said six. The colt at the fountain said he'd sold all his to a pony from the other side of town who'd heard eggs were going, and didn't have any. The radish stallion's radishes were the same price as the day before, since nopony wanted radishes any more than they had yesterday. His knee was a little better. He said he'd put Thursday back to Friday.
 
-Sloe walked the rows once, and the prices were all in the wrong places. Hir reached for why, and it came back exact, in the voice of the quartermaster who had trained hir in hir first year on the stores deck: *Small market, never your own face, never all of one thing in a day.* Hir had known it for eighty years. It had not come to hir once until now.
+Sloe walked the rows once, and the prices were all in the wrong places. She reached for why, and it came back exact, in the voice of the quartermaster who had trained her in her first year on the stores deck: *Small market, never your own face, never all of one thing in a day.* She had known it for eighty years. It had not come to her once until now.
 
 Applejack's eggs were six the dozen, and her walnuts were six the pound.
 
@@ -1255,27 +1256,27 @@ Applejack's eggs were six the dozen, and her walnuts were six the pound.
 
 "Then it's cash."
 
-Hir had three bits.
+She had three bits.
 
-"Half a dozen," hir said.
+"Half a dozen," she said.
 
-Applejack counted six eggs out of the straw, one at a time, and put them in hir hands. She took hir bits and counted them, twice. She wrote in the ledger, with it tipped up on its edge.
+Applejack counted six eggs out of the straw, one at a time, and put them in her hands. She took her bits and counted them, twice. She wrote in the ledger, with it tipped up on its edge.
 
 "That's you square for today," she said. "Still four from yesterday. I'd want that before there's any more in the book."
 
 "Yes," Sloe said, and stood a moment longer with the eggs, and went.
 
-Hir asked the Core on the road home, with the six eggs held against hir chest, what the week came to, at today's prices, with what hir had left. It told hir. Hir asked again, a different way, and it gave hir the same answer.
+She asked the Core on the road home, with the six eggs held against her chest, what the week came to, at today's prices, with what she had left. It told her. She asked again, a different way, and it gave her the same answer.
 
-*[Radish stallion's put Thursday back to Friday,]* hir sent. *[His knee, no offence to it]*
+*[Radish stallion's put Thursday back to Friday,]* she sent. *[His knee, no offence to it]*
 
 *[Sloe. Status,]* Madder sent.
 
-*[Working on it,]* hir sent. It went out clean, with nothing under it at all. Hir felt Madder feel that, from the barn, and not ask.
+*[Working on it,]* she sent. It went out clean, with nothing under it at all. She felt Madder feel that, from the barn, and not ask.
 
 *[That's not a status,]* Haw sent. *[That's nothing. You sent a nothing. Sloe? What's under it?]*
 
-Sloe didn't answer. Hir walked.
+Sloe didn't answer. She walked.
 
 *[There's fish in the river,]* Haw sent, after a while, to all of them. *[I put my hand in. Nobody said I couldn't]*
 
@@ -1349,7 +1350,7 @@ So did the others. She had not seen them until they stopped moving: one at the b
 
 The one by the wall got up. Its ears stood straight out to either side, wide and stiff, and Twilight's heart sank a little. On a pony that meant somepony was put out, and she hadn't said anything yet. It walked toward her on its back four legs with its front hands held up off the ground. It was thinner than she'd expected from the stories, and dustier, and its eyes were tired.
 
-"Twilight," it said. There was a pause before it, but not much of one. "I'm Sloe. Come in, come in. We don't bite the hoof that feeds us." It seemed pleased with that. "Hir on the roof is Haw, the big one at the door is Yarrow, that's Madder, and Teasel. Haw, come down."
+"Twilight," it said. There was a pause before it, but not much of one. "I'm Sloe. Come in, come in. We don't bite the hoof that feeds us." It seemed pleased with that. "Her on the roof is Haw, the big one at the door is Yarrow, that's Madder, and Teasel. Haw, come down."
 
 Teasel was the smaller of the two at the corner. It ducked its head when its name was said.
 
@@ -1581,21 +1582,21 @@ The index was open on the desk where she had left it that morning. The card on t
 
 A little after one in the morning the big door began to knock against its stop, a small dull knock every few seconds, so Yarrow got out of the heap to see to it.
 
-The straps were where hir had moved them, and the pins were tight. It was only the wind working the door, and a wedge would cure it. While hir was feeling along the sill for where the wedge should go, the sound on the roof changed. For an hour it had been a dry scratching, which the Core had called leaves. Now it was a close, fine hiss down the whole length of the barn, as if every shingle had been set working at once.
+The straps were where she had moved them, and the pins were tight. It was only the wind working the door, and a wedge would cure it. While she was feeling along the sill for where the wedge should go, the sound on the roof changed. For an hour it had been a dry scratching, which the Core had called leaves. Now it was a close, fine hiss down the whole length of the barn, as if every shingle had been set working at once.
 
-Hir opened the door a body's width, and went out.
+She opened the door a body's width, and went out.
 
-Out in the stubble it came down on hir everywhere. A sound came out of hir that hir had not meant, a short high chirr at the back of the throat. Hir ears came forward, and hir asked the Core what was falling.
+Out in the stubble it came down on her everywhere. A sound came out of her that she had not meant, a short high chirr at the back of the throat. Her ears came forward, and she asked the Core what was falling.
 
 *Water.*
 
-Hir asked the drop size, and how fast they came, and how cold.
+She asked the drop size, and how fast they came, and how cold.
 
 *Two millimetres, approximately. Six metres per second. Nine degrees.*
 
-For a few breaths the fur along hir back held it off, in beads that hir could feel sitting on the guard hairs. When the fur gave, the water reached the skin along hir spine and went down both flanks in thin cold lines. Hir ears folded flat without being asked. Hir tail took it last, from the root down, until hir felt the weight of it in the muscle over hir hips. Across the river the smell of the forest had changed. For ten days it had been smoke. Now the smoke was under something darker, wet ash and wet leaf and a third thing hir had no record of, coming over the water on a wind that did not stop.
+For a few breaths the fur along her back held it off, in beads that she could feel sitting on the guard hairs. When the fur gave, the water reached the skin along her spine and went down both flanks in thin cold lines. Her ears folded flat without being asked. Her tail took it last, from the root down, until she felt the weight of it in the muscle over her hips. Across the river the smell of the forest had changed. For ten days it had been smoke. Now the smoke was under something darker, wet ash and wet leaf and a third thing she had no record of, coming over the water on a wind that did not stop.
 
-The chirr had gone through the frame as it left hir, and the heap woke to it.
+The chirr had gone through the frame as it left her, and the heap woke to it.
 
 *[Yarrow. What's on you? Is it safe on the skin?]* Madder sent.
 
@@ -1607,15 +1608,15 @@ Yarrow sent the numbers, and nothing with them.
 
 *[Yarrow. In,]* Madder sent.
 
-Hir went in and lay down at the edge of the heap, where Haw's shoulder found hirs and jerked away.
+She went in and lay down at the edge of the heap, where Haw's shoulder found hers and jerked away.
 
 *[You're wet! Why are you wet? Did you go in the river? Is it the river? Is it on the roof, is that what that is?]*
 
 Yarrow sent nothing. Haw's shoulder came back, slowly, and stayed.
 
-At two hir went out again, and Madder sent hir in. The third time hir stood in it until hir could not feel the pads of hir lower hands, and Madder's *[In]* had a rider on it, very small, that hir did not answer. The fourth time Madder sent nothing at all.
+At two she went out again, and Madder sent her in. The third time she stood in it until she could not feel the pads of her lower hands, and Madder's *[In]* had a rider on it, very small, that she did not answer. The fourth time Madder sent nothing at all.
 
-Hir could not strip what hir felt, so the others had it through the frame the whole night. It stayed high while hir was out and did not come down when hir lay in the heap, and every time hir went to the door it rose again before hir reached it. Haw could not leave it alone.
+She could not strip what she felt, so the others had it through the frame the whole night. It stayed high while she was out and did not come down when she lay in the heap, and every time she went to the door it rose again before she reached it. Haw could not leave it alone.
 
 *[What's it like? Is it cold? Does it go in your ears? Madder, can I go and—]*
 
@@ -1625,75 +1626,75 @@ Hir could not strip what hir felt, so the others had it through the frame the wh
 
 *[Wet,]* Yarrow sent.
 
-*[Fifty years on the outside of a hull, and hir says wet ~ laughing into the straw, trying not to wake Teasel]* Sloe sent.
+*[Fifty years on the outside of a hull, and she says wet ~ laughing into the straw, trying not to wake Teasel]* Sloe sent.
 
-Hir came in the last time with the light grey in the door, and lay down against Teasel's back, where hir lower hand went round onto Teasel's side as it always did in a heap. There were more ribs under it than there had been a week ago. Teasel was asleep, or doing it well, with the ribbon tight on hir wrist. After a while the hand stopped counting.
+She came in the last time with the light grey in the door, and lay down against Teasel's back, where her lower hand went round onto Teasel's side as it always did in a heap. There were more ribs under it than there had been a week ago. Teasel was asleep, or doing it well, with the ribbon tight on her wrist. After a while the hand stopped counting.
 
 *[Radish stallion's knee,]* Sloe sent, to nobody. *[Five days late. I'll tell him]*
 
 ---
 
-The crew's line ran along the foot of the trees on the far side of the river, from the mill down as far as the Pinwheel fields. Yarrow set out on four in the rain with hir upper hands carried. The road was mud now, though, and it took each lower hand to the second knuckle and let it go with a pull, so that by the mill bridge hir was on six.
+The crew's line ran along the foot of the trees on the far side of the river, from the mill down as far as the Pinwheel fields. Yarrow set out on four in the rain with her upper hands carried. The road was mud now, though, and it took each lower hand to the second knuckle and let it go with a pull, so that by the mill bridge she was on six.
 
-At the end of the first week Twilight had asked, and the crew had taken hir on at six bits the day. After that Sloe had gone to see Applejack. Now half of it went straight to Applejack's stall, against the tab and next week's walnuts, before Yarrow ever saw it.
+At the end of the first week Twilight had asked, and the crew had taken her on at six bits the day. After that Sloe had gone to see Applejack. Now half of it went straight to Applejack's stall, against the tab and next week's walnuts, before Yarrow ever saw it.
 
 Ruddock was a heavy bay stallion with a coil of line over his withers. On the first morning he had looked at Yarrow for a long time.
 
-"It drives stakes," he had said, to the captain, not to hir. "It hauls. It don't touch a knot."
+"It drives stakes," he had said, to the captain, not to her. "It hauls. It don't touch a knot."
 
-So hir drove stakes.
+So she drove stakes.
 
-They were ash, split out of the round and pointed with an axe, a metre long and as thick as hir wrist, stacked under a tarpaulin at the head of the line. There was a snail on the top one this morning, on the flat of the head, with its body out and its horns up in the rain. Yarrow lifted it off by the shell and set it on the next stake down, and took the first.
+They were ash, split out of the round and pointed with an axe, a metre long and as thick as her wrist, stacked under a tarpaulin at the head of the line. There was a snail on the top one this morning, on the flat of the head, with its body out and its horns up in the rain. Yarrow lifted it off by the shell and set it on the next stake down, and took the first.
 
-The maul was pony-made, with a short handle meant for a mouth, and hir choked it right up in both upper hands. Hir gave the first blow softly, to learn the ground. Yesterday the ground had been soft on top and firm under. Today the maul came down and the stake went in a hand's breadth at a stroke, easy, into something that closed round the wood like a mouth.
+The maul was pony-made, with a short handle meant for a mouth, and she choked it right up in both upper hands. She gave the first blow softly, to learn the ground. Yesterday the ground had been soft on top and firm under. Today the maul came down and the stake went in a hand's breadth at a stroke, easy, into something that closed round the wood like a mouth.
 
-Since the clouds were up and the pull would come up, hir drove it plumb, so that the load would run along its length. The earth ponies set theirs with the heads leaning toward the trees, at a slant hir had watched for three days and taken for habit. Hir drove eleven that morning, all of them plumb. Each time hir took a stake off the stack, hir moved the snail to the one below.
+Since the clouds were up and the pull would come up, she drove it plumb, so that the load would run along its length. The earth ponies set theirs with the heads leaning toward the trees, at a slant she had watched for three days and taken for habit. She drove eleven that morning, all of them plumb. Each time she took a stake off the stack, she moved the snail to the one below.
 
-On the ninth of them the maul came down on a knot in the grain. There was a short dry tick under the head, hardly a sound at all, and then a long tearing as the stake split down half its length and folded open like a hand. Hir stood with the maul up and hir ears half-lifted in spite of the wet.
+On the ninth of them the maul came down on a knot in the grain. There was a short dry tick under the head, hardly a sound at all, and then a long tearing as the stake split down half its length and folded open like a hand. She stood with the maul up and her ears half-lifted in spite of the wet.
 
-Hir pulled the two halves out, threw them on the pile for burning, and took another.
+She pulled the two halves out, threw them on the pile for burning, and took another.
 
 *[What was that?]* Haw sent, from somewhere in town. *[You went all—what was that? Yarrow?]*
 
-*[Stake,]* hir sent.
+*[Stake,]* she sent.
 
 ---
 
-The stakes driven on the days before already had their clouds. They lay along the edge at the height of the lowest branches, one to each stake, with a new hemp line off each underside down to Ruddock's knot. They were dark grey in the rain and rained steadily into the trees, where the ground under the burn steamed. Past the seventh, the eleven hir had driven that morning ran on down the bank toward the fields, bare, waiting for Dash to bring clouds down to them.
+The stakes driven on the days before already had their clouds. They lay along the edge at the height of the lowest branches, one to each stake, with a new hemp line off each underside down to Ruddock's knot. They were dark grey in the rain and rained steadily into the trees, where the ground under the burn steamed. Past the seventh, the eleven she had driven that morning ran on down the bank toward the fields, bare, waiting for Dash to bring clouds down to them.
 
-At the seventh stake the cloud had come down so low that its underside was level with Yarrow's head. The line ran down past hir shoulder to the stake, and when hir put a hand on it, it was hard as a bar and sang very faintly in the wind.
+At the seventh stake the cloud had come down so low that its underside was level with Yarrow's head. The line ran down past her shoulder to the stake, and when she put a hand on it, it was hard as a bar and sang very faintly in the wind.
 
-Hir ears came forward, and hir asked the Core what the line was carrying, from its stretch and its lay.
+Her ears came forward, and she asked the Core what the line was carrying, from its stretch and its lay.
 
 *Eight hundred newtons, approximately.*
 
-Hir ears stayed forward while hir asked what the cloud held, from its size and how dark it was.
+Her ears stayed forward while she asked what the cloud held, from its size and how dark it was.
 
 *Water content twelve kilograms, approximately.*
 
 And the pull on the line was upward, away from the ground.
 
-Hir put hir hand up into it.
+She put her hand up into it.
 
-It was cold and wet, colder than the rain, and there was nothing there. Hir fingers shut on air that clung to them, then opened, then shut again, and came away with water running off them to the elbow. The line under hir other hand stayed hard the whole time. It did not flicker. Hir went in again, up to the shoulder, and felt about for a skin or anything with an edge to it, while the line went on pulling at the stake beside hir.
+It was cold and wet, colder than the rain, and there was nothing there. Her fingers shut on air that clung to them, then opened, then shut again, and came away with water running off them to the elbow. The line under her other hand stayed hard the whole time. It did not flicker. She went in again, up to the shoulder, and felt about for a skin or anything with an edge to it, while the line went on pulling at the stake beside her.
 
 "Leave it be," said the dun mare, going by with a stake on her back. She didn't stop. She was humming, as she had hummed every day on the line, the same four bars that went up and came round and started again at the top without ever reaching a fifth.
 
-Yarrow took hir arm out.
+Yarrow took her arm out.
 
 ---
 
 Rainbow Dash came on the line at nine.
 
-She came down out of the rain over the trees with a cloud in front of her, pushing it with her forehooves and her chest and a short hard stroke of the wings at the end of each push. She had soot on one wing still, or again. She brought it down to the eighth stake, the first of Yarrow's, where hir was standing, and the line trailed off the bottom of it and came swinging down past hir face.
+She came down out of the rain over the trees with a cloud in front of her, pushing it with her forehooves and her chest and a short hard stroke of the wings at the end of each push. She had soot on one wing still, or again. She brought it down to the eighth stake, the first of Yarrow's, where she was standing, and the line trailed off the bottom of it and came swinging down past her face.
 
-Hir took it. Hir walked it in to the stake, keeping the weight on it so it would not foul, and stood there holding it while Ruddock came up and made it fast. Dash went up for the next one.
+She took it. She walked it in to the stake, keeping the weight on it so it would not foul, and stood there holding it while Ruddock came up and made it fast. Dash went up for the next one.
 
-When she came down with that one, Yarrow was already at the ninth stake with both upper hands up, and the line came down into them. For an hour it went like that, down the line. She would drop a cloud to within a hand's breadth of where it needed to be, and hir would take the line on the first swing. Before the cloud could start to walk, hir had the weight off it. By the time Ruddock got there with his teeth and his hooves, there was nothing left for him to do but the knot.
+When she came down with that one, Yarrow was already at the ninth stake with both upper hands up, and the line came down into them. For an hour it went like that, down the line. She would drop a cloud to within a hand's breadth of where it needed to be, and she would take the line on the first swing. Before the cloud could start to walk, she had the weight off it. By the time Ruddock got there with his teeth and his hooves, there was nothing left for him to do but the knot.
 
-Ruddock tied a thing like a round turn and two half hitches, with the tail cut short and nothing to seize it. Hir would have left the tail longer, and stopped it. Every time, while hir held the line, hir thumbs went looking for the end hir would have stopped.
+Ruddock tied a thing like a round turn and two half hitches, with the tail cut short and nothing to seize it. She would have left the tail longer, and stopped it. Every time, while she held the line, her thumbs went looking for the end she would have stopped.
 
-Dash said, "Left of that one," once, when the wind moved a cloud. She said, "Heavy," before the twelfth, and it was, and hir had the load before it pulled hir off hir feet in the mud. At the fourteenth, when a line came down short and hir went up the bank on six to reach it, she said, "Got it?" and hir said, "Yes," aloud.
+Dash said, "Left of that one," once, when the wind moved a cloud. She said, "Heavy," before the twelfth, and it was, and she had the load before it pulled her off her feet in the mud. At the fourteenth, when a line came down short and she went up the bank on six to reach it, she said, "Got it?" and she said, "Yes," aloud.
 
 At the top of the hour Dash landed by the stack to drink. She opened her saddlebag for a flask, and on the inside of the flap, where it would show only when the bag was open, a badge was sewn in, blue and gold, three wings on it, with the stitching done very small and even. She shut the flap on it.
 
@@ -1715,21 +1716,21 @@ Its underside was a metre off the grass. She had come down on top of it and fold
 
 Yarrow stood under it.
 
-Hir ears came forward, and hir asked the Core what she weighed, and it told hir. Hir put a hand on the edge of the cloud, and it went in. Hir put the other hand beside it, and that went in too. Hir got a lower hand up onto the bank for purchase, reached high, and put hir weight on hir arms.
+Her ears came forward, and she asked the Core what she weighed, and it told her. She put a hand on the edge of the cloud, and it went in. She put the other hand beside it, and that went in too. She got a lower hand up onto the bank for purchase, reached high, and put her weight on her arms.
 
-Hir went through it into the wet grass.
+She went through it into the wet grass.
 
-It came up round hir, cold and blind, and a huff went out of hir as hir back met the ground. Then the grass was under hir, with the cloud raining into hir face and the pegasus looking over the edge at hir with an oat on her lip. The crew laughed. Ruddock laughed down his nose. The dun mare stopped humming to laugh, and then started the four bars again from the top.
+It came up round her, cold and blind, and a huff went out of her as her back met the ground. Then the grass was under her, with the cloud raining into her face and the pegasus looking over the edge at her with an oat on her lip. The crew laughed. Ruddock laughed down his nose. The dun mare stopped humming to laugh, and then started the four bars again from the top.
 
-Hir lay there a moment, looking up through the grey at the shape of the pegasus sitting where hir hands had gone through.
+She lay there a moment, looking up through the grey at the shape of the pegasus sitting where her hands had gone through.
 
 *[Did you fall?]* Madder sent. *[Yarrow. Position]*
 
-*[Under it,]* hir sent.
+*[Under it,]* she sent.
 
 ---
 
-They had it out at noon, while the crew ate under the tarpaulin and Yarrow sat on the stack of stakes in the rain with a cold egg Sloe had put in hir hand at the barn door.
+They had it out at noon, while the crew ate under the tarpaulin and Yarrow sat on the stack of stakes in the rain with a cold egg Sloe had put in her hand at the barn door.
 
 *[Through it? All the way through?]* That was Haw, and it had been Haw for some time.
 
@@ -1757,7 +1758,7 @@ Then it came from four of them in the same second, each over the others.
 
 *[So it's her,]* Sloe sent. *[Not the cloud. It knows her]*
 
-*[A cloud doesn't know anything. The cloud's numbers are wrong ~ sharper than hir meant,]* Madder sent.
+*[A cloud doesn't know anything. The cloud's numbers are wrong ~ sharper than she meant,]* Madder sent.
 
 *[Or ours are,]* Teasel sent, clean, and sent nothing after it.
 
@@ -1765,13 +1766,13 @@ That stopped Haw for nearly a second.
 
 *[Which ones?]* Haw sent. *[The gravity reading? The air? The Core says one g, is it one g?]*
 
-*[Everything we've weighed since we came,]* Sloe sent, slower. *[Eggs. Walnuts. A sack of seed I lifted in the duck house. I lifted it and I knew what it was. I always know what it is ~ and hearing hirself, and not liking it]*
+*[Everything we've weighed since we came,]* Sloe sent, slower. *[Eggs. Walnuts. A sack of seed I lifted in the duck house. I lifted it and I knew what it was. I always know what it is ~ and hearing herself, and not liking it]*
 
-Out on the line the pegasus's cloud had gone up again on its tether, and Yarrow sat and looked at it with the egg in hir hand. Through the frame hir felt fear come up in Sloe at the market, and in Teasel at the barn, in the same second. Hir own tail was round the bottom stake of the stack. Hir had not put it there.
+Out on the line the pegasus's cloud had gone up again on its tether, and Yarrow sat and looked at it with the egg in her hand. Through the frame she felt fear come up in Sloe at the market, and in Teasel at the barn, in the same second. Her own tail was round the bottom stake of the stack. She had not put it there.
 
 Madder had not sent anything.
 
-The other four waited on Madder, and nothing came. Yarrow had never known Madder go silent that long on a working day. Hir ears came forward, and hir asked the Core how long. *Forty-one seconds.*
+The other four waited on Madder, and nothing came. Yarrow had never known Madder go silent that long on a working day. Her ears came forward, and she asked the Core how long. *Forty-one seconds.*
 
 When it came, it was the rota.
 
@@ -1795,13 +1796,13 @@ It came out whole, with a short wet suck, and lay a moment in the mud with Ruddo
 
 Dash was already gone.
 
-She went up past the cloud in a climb so steep that for a moment she was standing on her tail in the air. At the top of it she turned over on her back, so close that a streamer of grey came away round her, and dropped down the far side in a tight curl that Yarrow's eyes could not follow and hir RADAR only just kept. A sharp breath went in through hir teeth, and hir fright went with it into the frame. Dash came out of the bottom of the curl with the line in her teeth. Then she was in front of the cloud, with both forehooves in it and her wings going short and hard, until it turned. It came back over the line and over the bank, to where it had been, with the stake swinging below it at the end of the rope.
+She went up past the cloud in a climb so steep that for a moment she was standing on her tail in the air. At the top of it she turned over on her back, so close that a streamer of grey came away round her, and dropped down the far side in a tight curl that Yarrow's eyes could not follow and her RADAR only just kept. A sharp breath went in through her teeth, and her fright went with it into the frame. Dash came out of the bottom of the curl with the line in her teeth. Then she was in front of the cloud, with both forehooves in it and her wings going short and hard, until it turned. It came back over the line and over the bank, to where it had been, with the stake swinging below it at the end of the rope.
 
 *[What was that? What's happening? Is it the stake again? Yarrow?]* Haw sent, from town.
 
-*[Pony,]* hir sent.
+*[Pony,]* she sent.
 
-Hir ears came forward. *Ten point four seconds.*
+Her ears came forward. *Ten point four seconds.*
 
 The three the captain had called had got as far as the air above the stack.
 
@@ -1829,13 +1830,13 @@ She went. She did not go up. She walked off along the bank toward the mill bridg
 
 Nobody looked at the hole in the bank where the stake had been.
 
-Yarrow stood by the stack with a stake across hir upper hands and waited for somebody to say it. It was hir stake. Hir had driven it plumb, and everybody on the bank had seen it come out whole. Hir waited while the captain went back up to his board and Ruddock stood the stake in its hole, and while the crew went back to their lines, and nobody said it.
+Yarrow stood by the stack with a stake across her upper hands and waited for somebody to say it. It was her stake. She had driven it plumb, and everybody on the bank had seen it come out whole. She waited while the captain went back up to his board and Ruddock stood the stake in its hole, and while the crew went back to their lines, and nobody said it.
 
-Nobody had gone after Dash, either. On the ship somebody would have, and hir reached for how it went. When a rigger got back a load that had gone, somebody put a bulb in hir hand at the end of the watch. Dunlin always did, and made a noise about it on the channel. Twice in fifty years it had been Yarrow's load, and hir had been given the bulb. Three times it had been somebody else's, and hir had bought it for them.
+Nobody had gone after Dash, either. On the ship somebody would have, and she reached for how it went. When a rigger got back a load that had gone, somebody put a bulb in her hand at the end of the watch. Dunlin always did, and made a noise about it on the channel. Twice in fifty years it had been Yarrow's load, and she had been given the bulb. Three times it had been somebody else's, and she had bought it for them.
 
-Hir went down to the eighth stake. Ruddock stepped back from it without a word and went up the line.
+She went down to the eighth stake. Ruddock stepped back from it without a word and went up the line.
 
-Hir set the stake again a metre up the bank, on firmer ground, with its head leaning toward the trees as the ponies set theirs, and drove it until the head was a hand's breadth off the mud. When it was in, hir put hir weight on the line with both upper hands and all hir legs set, and the stake did not move.
+She set the stake again a metre up the bank, on firmer ground, with its head leaning toward the trees as the ponies set theirs, and drove it until the head was a hand's breadth off the mud. When it was in, she put her weight on the line with both upper hands and all her legs set, and the stake did not move.
 
 The captain was bent over his board. The dun mare was humming.
 
@@ -1849,9 +1850,9 @@ The captain looked at it for a moment over his board.
 
 "That's the Apple kid's," he said, without much in it. "Name's on it. Somebody run it up to the farm when the cart goes."
 
-Yarrow was halfway down the line with a stake on hir back. Hir stopped. Hir lower left hand closed, in the mud, on nothing. A thin whine came out through hir nose before hir could stop it.
+Yarrow was halfway down the line with a stake on her back. She stopped. Her lower left hand closed, in the mud, on nothing. A thin whine came out through her nose before she could stop it.
 
-Through the frame it went out of hir too: one short hard spike, like a line parting.
+Through the frame it went out of her too: one short hard spike, like a line parting.
 
 *[Yarrow?]* Madder sent.
 
@@ -1861,31 +1862,31 @@ Madder did not send again.
 
 Haw sent, *[What? What was it? Was it the wind? Did something go?]*, and got no answer from anyone.
 
-Hir went on down the line and set the stake. From there hir could see the tailboard, end-on to hir, against the grass. When the cart came at four, with a heavy mare in the shafts, two of the crew lifted the wagon onto it and roped it down. It went off over the mill bridge and up the far road into the rain, with the wheel that was left turning slowly in the air.
+She went on down the line and set the stake. From there she could see the tailboard, end-on to her, against the grass. When the cart came at four, with a heavy mare in the shafts, two of the crew lifted the wagon onto it and roped it down. It went off over the mill bridge and up the far road into the rain, with the wheel that was left turning slowly in the air.
 
 Yarrow went back up to the stack for the next one, and moved the snail.
 
 ---
 
-All that while Haw had been on the road. Hir had come out at three, as far as the mill bridge, with hir tail held straight up behind hir to keep it out of the mud.
+All that while Haw had been on the road. She had come out at three, as far as the mill bridge, with her tail held straight up behind her to keep it out of the mud.
 
-*[I'm not near the edge,]* hir had sent. *[I'm near the bridge. The bridge isn't the edge. I only want to see one close]*
+*[I'm not near the edge,]* she had sent. *[I'm near the bridge. The bridge isn't the edge. I only want to see one close]*
 
 *[Haw,]* Madder had sent.
 
 *[I'm on the road, I'm on the road!]*
 
-Hir had stayed on the road for most of two hours, sitting in the mud, sending everything hir saw: the pegasi, the heavy mare with the cart, a heron at the bend of the river, which the Core would only call a bird. Yarrow felt hir through the frame all afternoon, bright and restless.
+She had stayed on the road for most of two hours, sitting in the mud, sending everything she saw: the pegasi, the heavy mare with the cart, a heron at the bend of the river, which the Core would only call a bird. Yarrow felt her through the frame all afternoon, bright and restless.
 
-At a little before five hir came off the bridge and went along the bank, toward the tree where the bank turned. It was quiet. Hir sent nothing about it.
+At a little before five she came off the bridge and went along the bank, toward the tree where the bank turned. It was quiet. She sent nothing about it.
 
-The wind had dropped a little by then. Yarrow was at the head of the line by the bridge with a stake in hir hands when hir heard Haw send.
+The wind had dropped a little by then. Yarrow was at the head of the line by the bridge with a stake in her hands when she heard Haw send.
 
 *[~ nothing in it but delight, rising]*
 
-Hir looked up.
+She looked up.
 
-Just below the bridge, where the bank turned, there was a tree taller than the rest, an ash, old, with a straight grey trunk and its first branches very high. The crew called it the corner tree. The last cloud on the line was moored under its crown, low over the water, at the height of its upper limbs. Haw was in the tree. Hir was a long way up, out along a limb that went toward the cloud, on all six, with hir tail wrapped round the limb behind hir. Hir fur was dark with the wet and hir ears were flat, and hir had one upper hand out in front of hir, open, going toward the grey.
+Just below the bridge, where the bank turned, there was a tree taller than the rest, an ash, old, with a straight grey trunk and its first branches very high. The crew called it the corner tree. The last cloud on the line was moored under its crown, low over the water, at the height of its upper limbs. Haw was in the tree. She was a long way up, out along a limb that went toward the cloud, on all six, with her tail wrapped round the limb behind her. Her fur was dark with the wet and her ears were flat, and she had one upper hand out in front of her, open, going toward the grey.
 
 *[It's right there. It's right THERE. I can feel it cold on my face. I'm nearly in it. Yarrow, I'm nearly in it, I'm going to put my hand in—]*
 
@@ -1899,7 +1900,7 @@ Just below the bridge, where the bank turned, there was a tree taller than the r
 
 *[It's inside! It's all wet inside, it's like being in the tank, it's like the tank but it MOVES ~ laughing]* Haw sent, to all of them at once and to none. *[One more. One more and I'm in—]*
 
-Yarrow stood on the bank with the stake across hir upper hands. Hir did not send anything. Hir had hir eyes on the limb, where it went out from the trunk, and on the way it bent under hir, which was more than a limb that thick should bend.
+Yarrow stood on the bank with the stake across her upper hands. She did not send anything. She had her eyes on the limb, where it went out from the trunk, and on the way it bent under her, which was more than a limb that thick should bend.
 
 Up in the ash, the wood gave a short, dry tick.
 
@@ -2115,7 +2116,7 @@ The big one had not spoken. She was looking past Rarity at Sweetie, steadily, fr
 
 Rarity waited for her to say something. She was sure, standing there, that Sweetie would at least say *sorry*, or *it was me*, in her own small voice, and that she would be glad when she did. Sweetie's eyes went once more to the ribbon on the small one's wrist, and back to the floor. She said nothing at all.
 
-"Thank you for coming," said the warm-voiced one, after the pause. "Two of you, out in the wet, and past midnight by your clocks. You'll be wanting your beds. Hir will sleep now, I think."
+"Thank you for coming," said the warm-voiced one, after the pause. "Two of you, out in the wet, and past midnight by your clocks. You'll be wanting your beds. She will sleep now, I think."
 
 In the armchair Twilight had not stirred. The nurse held the door.
 
@@ -2155,37 +2156,37 @@ Her hat was dark with rain, with water running off the brim. A crate of eggs was
 
 Sloe did the count at dusk on the lid of the seed bin, where the last of the light came flat across the stubble and in at the big door.
 
-Hir laid it out as hir always did: walnuts in fives, eggs in a row, and the bean sack at the end with its neck rolled down so that hir could see how far it had gone. Yarrow earned six bits a day on the crew line. Three of them went to Applejack's stall at noon against the tab, as they did every day, before Yarrow had carried them further than the end of the line, and the other three lay on the lid beside the eggs.
+Her laid it out as she always did: walnuts in fives, eggs in a row, and the bean sack at the end with its neck rolled down so that she could see how far it had gone. Yarrow earned six bits a day on the crew line. Three of them went to Applejack's stall at noon against the tab, as they did every day, before Yarrow had carried them further than the end of the line, and the other three lay on the lid beside the eggs.
 
 *[Walnuts, thirty-one. Eggs, nine ~ counting the eggs a second time, and liking the second count less]*
 
-Teasel sat on the sill of the big door with hir back against the post. Hir had the number before Sloe did. All week hir had watched the pile go down a walnut at a time, and could have said who had taken which, how fast they had eaten it, and whether they had looked round first.
+Teasel sat on the sill of the big door with her back against the post. She had the number before Sloe did. All week she had watched the pile go down a walnut at a time, and could have said who had taken which, how fast they had eaten it, and whether they had looked round first.
 
-Haw never looked round. Hir sat in the straw with the bound arm across hir chest, in the sling the night nurse had knotted for hir out of a flour sack, and took an egg off hir own pile and cracked it against hir knee. Hir did it one-handed, with a short hard knock, then tipped the egg into hir mouth and the shell in after it.
+Haw never looked round. She sat in the straw with the bound arm across her chest, in the sling the night nurse had knotted for her out of a flour sack, and took an egg off her own pile and cracked it against her knee. She did it one-handed, with a short hard knock, then tipped the egg into her mouth and the shell in after it.
 
-*[Did you see that? Two halves. CLEAN ~ enormously pleased with hirself]*
+*[Did you see that? Two halves. CLEAN ~ enormously pleased with herself]*
 
 *[Seen,]* Sloe sent. *[That's your fourth today]*
 
 *[Is it? The arm's hungry. Madder said it would be. Is there a fifth?]*
 
-There was not a fifth, and Sloe sent nothing more. Teasel had hir own egg under a lower hand on the sill. It had been warm from Sloe's basket that morning, and it was cold now. When Sloe turned to roll the bean sack shut, Teasel got up and crossed the barn toward the trough, and on the way the egg went into the straw beside Haw's head, into the hollow Haw rolled into at night. Haw found an egg there most mornings.
+There was not a fifth, and Sloe sent nothing more. Teasel had her own egg under a lower hand on the sill. It had been warm from Sloe's basket that morning, and it was cold now. When Sloe turned to roll the bean sack shut, Teasel got up and crossed the barn toward the trough, and on the way the egg went into the straw beside Haw's head, into the hollow Haw rolled into at night. Haw found an egg there most mornings.
 
-At the trough hir drank for a long time. Hir had asked the Core once what water was worth. *Zero kilocalories.* It sat in the stomach, though, and made a weight there.
+At the trough her drank for a long time. She had asked the Core once what water was worth. *Zero kilocalories.* It sat in the stomach, though, and made a weight there.
 
-*[Teasel. Status,]* Madder sent from the back of the barn, where hir was going over the door straps with Yarrow.
+*[Teasel. Status,]* Madder sent from the back of the barn, where she was going over the door straps with Yarrow.
 
 *[Fine,]* Teasel sent.
 
-Hir felt it go out flat and smooth, with nothing under it, and felt what it cost to send it that way. Sloe's ears moved. Yarrow's did not. Nobody sent anything after it, and underneath all five of them the low, steady wrongness went on in the frame, as it had for two weeks.
+She felt it go out flat and smooth, with nothing under it, and felt what it cost to send it that way. Sloe's ears moved. Yarrow's did not. Nobody sent anything after it, and underneath all five of them the low, steady wrongness went on in the frame, as it had for two weeks.
 
-That night hir lay on the outside of the heap, where hir tended to end up, and where Haw, reaching about in hir sleep some time after midnight, went over hir to get to Yarrow. At first grey the swallows' second brood started up in the rafters. Teasel lay still and counted the feeds. Before the sun reached the ridge there had been fifty-three, and every one was the same: a shape in the gap under the eaves, a shriek from the nest, and a beak being filled. When the sun was up hir went into town with Sloe for the eggs. On the river road hir fell behind at the mill, and then further, and Sloe waited at the far end of the bridge without sending why.
+That night she lay on the outside of the heap, where she tended to end up, and where Haw, reaching about in her sleep some time after midnight, went over her to get to Yarrow. At first grey the swallows' second brood started up in the rafters. Teasel lay still and counted the feeds. Before the sun reached the ridge there had been fifty-three, and every one was the same: a shape in the gap under the eaves, a shriek from the nest, and a beak being filled. When the sun was up she went into town with Sloe for the eggs. On the river road she fell behind at the mill, and then further, and Sloe waited at the far end of the bridge without sending why.
 
 ---
 
 The fillies came on the fifteenth day, in the afternoon, after the rain had stopped.
 
-Teasel smelled them from the sill before hir heard them. There were three small ponies and a larger one, and with them came apples, wet wool, something sweet gone stale in a bag, and over all of it a thin sharp smell that hir had last had on the rise with the ferns burning. Hir ears went round to the road. Hir tail came in against hir flank and wound itself tight.
+Teasel smelled them from the sill before she heard them. There were three small ponies and a larger one, and with them came apples, wet wool, something sweet gone stale in a bag, and over all of it a thin sharp smell that she had last had on the rise with the ferns burning. Her ears went round to the road. Her tail came in against her flank and wound itself tight.
 
 They came down the track from the river road with Applejack behind them. At the field gate Applejack stopped and said something low to Apple Bloom, who nodded without looking at her. Then Applejack stood by the gatepost and let them go on alone. Teasel watched her pull a stem of grass from the verge and put it in her mouth, and stand there chewing it without swallowing.
 
@@ -2193,9 +2194,9 @@ The three of them stopped just outside the big door, in a row on the threshold s
 
 "We came ourselves," Apple Bloom said. "Nobody sent us. Rarity told you already, I know that. But." She stopped. "So we came."
 
-Nobody in the barn moved. Sloe had a walnut in hir hand, halfway to the bin. Haw was in the straw with hir back against a post, Madder by the door straps with Yarrow beside hir. Teasel was nearest the fillies of all five, close enough on the sill to have touched Scootaloo's tail.
+Nobody in the barn moved. Sloe had a walnut in her hand, halfway to the bin. Haw was in the straw with her back against a post, Madder by the door straps with Yarrow beside her. Teasel was nearest the fillies of all five, close enough on the sill to have touched Scootaloo's tail.
 
-*[Facts are logged,]* Madder sent. Hir ears had gone flat. *[We have the day, the hour, the place and the object. Nothing they say changes the rota]*
+*[Facts are logged,]* Madder sent. Her ears had gone flat. *[We have the day, the hour, the place and the object. Nothing they say changes the rota]*
 
 *[Madder, say something to them, say something kind, they're children, look at the little one's knees ~ all of Sloe's warmth at once, far too much of it]*
 
@@ -2205,15 +2206,15 @@ Then Yarrow sent, and nothing rode under it at all.
 
 *[I knew. The wagon. The day it came out of the burn]*
 
-It reached the four of them in the same instant. Teasel felt Sloe take it, and Haw, whose laugh went out. Hir felt it in hirself, low, where the hunger lived. In Madder it did not land so much as set: hir whole weight in the frame went hard and still, like a line when the load comes on.
+It reached the four of them in the same instant. Teasel felt Sloe take it, and Haw, whose laugh went out. She felt it in herself, low, where the hunger lived. In Madder it did not land so much as set: her whole weight in the frame went hard and still, like a line when the load comes on.
 
-*[Four days?]* Sloe sent. *[Yarrow. Four days? ~ hir had turned to Yarrow in the ward at the word, the same as Madder, and had hoped every day since to be wrong]*
+*[Four days?]* Sloe sent. *[Yarrow. Four days? ~ she had turned to Yarrow in the ward at the word, the same as Madder, and had hoped every day since to be wrong]*
 
-Yarrow sent nothing. Hir tail had come round and wound once about hir own ankle, and it stayed there.
+Yarrow sent nothing. Her tail had come round and wound once about her own ankle, and it stayed there.
 
 All of it had happened while Apple Bloom drew one breath. She let it out, looking from one of them to the next at five strangers gone still.
 
-Then Madder spoke aloud. Hir voice was careful and slow, with each word set down on its own.
+Then Madder spoke aloud. Her voice was careful and slow, with each word set down on its own.
 
 "What was it like?"
 
@@ -2237,11 +2238,11 @@ Across the barn, Yarrow's lower left hand lay open in the straw. As Teasel watch
 
 "—and I got out, but my bow was caught in the buckle, and I left it. It was my good one." Apple Bloom stopped. She was looking at Teasel's wrist.
 
-The ribbon had been there since the third morning, when Sloe had tied it on in the dark and said to keep it on. Teasel had stopped feeling it days ago. The burned edge had gone hard as bark, and the rain had pulled the knot so tight that hir was not sure it would open at all.
+The ribbon had been there since the third morning, when Sloe had tied it on in the dark and said to keep it on. Teasel had stopped feeling it days ago. The burned edge had gone hard as bark, and the rain had pulled the knot so tight that she was not sure it would open at all.
 
-Hir put the wrist to hir mouth and worked at the knot with hir teeth, and then got a thumb of the other hand under it. It took longer than it should have. Hir could feel all four of them watching through the frame. The three fillies watched with their eyes, and Applejack watched from the gate, too far off to see anything. The knot gave. Teasel held the ribbon out across the sill on hir open hand, where it lay in a curl, red on one side and brown on the other.
+She put the wrist to her mouth and worked at the knot with her teeth, and then got a thumb of the other hand under it. It took longer than it should have. She could feel all four of them watching through the frame. The three fillies watched with their eyes, and Applejack watched from the gate, too far off to see anything. The knot gave. Teasel held the ribbon out across the sill on her open hand, where it lay in a curl, red on one side and brown on the other.
 
-Apple Bloom looked at it and did not take it. Then she reached out and took it in her teeth by the middle, carefully, so that her lips did not touch hir palm. She turned it over and looked at the burned edge for a moment. Then she put it in her saddlebag and did the buckle up.
+Apple Bloom looked at it and did not take it. Then she reached out and took it in her teeth by the middle, carefully, so that her lips did not touch her palm. She turned it over and looked at the burned edge for a moment. Then she put it in her saddlebag and did the buckle up.
 
 Somewhere at the back of the frame Sloe felt it go into a filly's bag, and sent nothing about it.
 
@@ -2259,21 +2260,21 @@ Yarrow sent nothing.
 
 "Your account is received," Madder said aloud, in the same careful voice. "The Cluster thanks you for it. It will be kept."
 
-The three fillies stared at hir. Sweetie Belle's ears went slowly down.
+The three fillies stared at her. Sweetie Belle's ears went slowly down.
 
-"Oh, it was a night, wasn't it," Sloe said aloud, quickly, warmly, with the words coming over each other. "It was a night for everyone. We had it rough too, you know, we'd no idea where we were, and none of us is saying you— well. It's all water under the mill now, as they say here. And you came all the way out in the wet, the three of you, with your sister waiting up at the gate, would you take a walnut, any of you? We've got—" Hir stopped, with the walnut still in hir hand. Teasel, who knew the count, watched hir fail to hold it out.
+"Oh, it was a night, wasn't it," Sloe said aloud, quickly, warmly, with the words coming over each other. "It was a night for everyone. We had it rough too, you know, we'd no idea where we were, and none of us is saying you— well. It's all water under the mill now, as they say here. And you came all the way out in the wet, the three of you, with your sister waiting up at the gate, would you take a walnut, any of you? We've got—" She stopped, with the walnut still in her hand. Teasel, who knew the count, watched her fail to hold it out.
 
-Haw was still laughing, softer now, into hir good shoulder, with hir eyes shut. Yarrow's hand stayed palm down in the straw.
+Haw was still laughing, softer now, into her good shoulder, with her eyes shut. Yarrow's hand stayed palm down in the straw.
 
-Teasel heard hirself begin before hir had decided to.
+Teasel heard herself begin before she had decided to.
 
-"I smelled you," hir said.
+"I smelled you," she said.
 
-All three fillies turned to hir. To get the rest, hir had to go back to the rise, at the speed it had happened. Hir went. Hir had the heat on hir back again, and the crack and spit of the ferns, and the ground pulling at a body that did not know yet how to hold itself up. There was Yarrow's grip locked on something hir could not see. Under the smoke there were three small sharp smells going away downhill, fast. Hir felt the other four feel hir go. Nobody stopped hir.
+All three fillies turned to her. To get the rest, she had to go back to the rise, at the speed it had happened. She went. She had the heat on her back again, and the crack and spit of the ferns, and the ground pulling at a body that did not know yet how to hold itself up. There was Yarrow's grip locked on something she could not see. Under the smoke there were three small sharp smells going away downhill, fast. She felt the other four feel her go. Nobody stopped her.
 
-"Before I could see," hir said. "Before I knew what anything here was, I knew you. Three of you, going away downhill. You smell the same now."
+"Before I could see," she said. "Before I knew what anything here was, I knew you. Three of you, going away downhill. You smell the same now."
 
-Scootaloo looked at hir. Sweetie Belle shut her mouth. Apple Bloom said, "Okay," and nodded, and went on nodding a little after she had stopped meaning it. Then she said, "We gotta go. My sister's waiting."
+Scootaloo looked at her. Sweetie Belle shut her mouth. Apple Bloom said, "Okay," and nodded, and went on nodding a little after she had stopped meaning it. Then she said, "We gotta go. My sister's waiting."
 
 They went up the track in a row. At the gate Applejack took the grass stem out of her mouth and dropped it, and they went off up the river road with Applejack half a step behind Apple Bloom, close to her, not touching.
 
@@ -2291,33 +2292,33 @@ They were barely past the gate when Madder sent.
 
 *[On a working day. With the rota out. And you decided, on your own, that—]*
 
-The send stopped in the middle. Teasel had never felt Madder do that. When hir went out by the small back door and stood in the stubble with hir back to the barn, Yarrow sat down where hir was, and nobody went after either of them. After a while Sloe put the walnut back on the pile and began the count again from the start.
+The send stopped in the middle. Teasel had never felt Madder do that. When she went out by the small back door and stood in the stubble with her back to the barn, Yarrow sat down where she was, and nobody went after either of them. After a while Sloe put the walnut back on the pile and began the count again from the start.
 
-When Madder came in after dark, hir lay down in the heap a body's width from Yarrow. The straw between them stayed cold all night, and all five of them could have said exactly how wide it was.
+When Madder came in after dark, she lay down in the heap a body's width from Yarrow. The straw between them stayed cold all night, and all five of them could have said exactly how wide it was.
 
 ---
 
 In the fourth week Teasel went to the river more and more.
 
-Hir went to drink, and to sit somewhere with nobody counting anything. The frame came with hir, as it came everywhere, but the noise of the weir filled hir ears. Hir was slow on the road now. Hir left the barn on four with hir upper hands carried, and by the mill hir was on six.
+She went to drink, and to sit somewhere with nobody counting anything. The frame came with her, as it came everywhere, but the noise of the weir filled her ears. She was slow on the road now. She left the barn on four with her upper hands carried, and by the mill she was on six.
 
 The weir crossed the river below the mill in a long slope of stone, with the water going over it in one smooth sheet and breaking white at the foot. Beside it, on the town side, there was a low cottage with a tarred roof, and for a gatepost it had the tiller off a barge, painted green so long ago that the green was mostly in the cracks of the grain.
 
 It was there, on the third evening, that Teasel smelled the fish.
 
-Under the smells of weed and wet stone there was a thicker one that came and went with the current, oily and rich. It had not occurred to hir to ask what it was. Haw had put a hand in the river in the first week and sent *[There are things in it! Moving things!]* to everyone, and nobody had asked anything further. Hir ears came forward now, and hir asked the Core what a fish would be, as food.
+Under the smells of weed and wet stone there was a thicker one that came and went with the current, oily and rich. It had not occurred to her to ask what it was. Haw had put a hand in the river in the first week and sent *[There are things in it! Moving things!]* to everyone, and nobody had asked anything further. Her ears came forward now, and she asked the Core what a fish would be, as food.
 
 *Protein, high. Fat, moderate. Zinc and copper present. Suitable.*
 
-Hir asked how much fish would make a day.
+She asked how much fish would make a day.
 
 *One point three kilograms, approximately.*
 
-Hir sat on the bank with hir hands in hir lap and looked up the frog. It came back at once, as facts: the flat stone in the stream hollow, the gold eye, the throat going. Hir looked up the grey doe at Fluttershy's, which had gone over the plank bridge toward the smoke and not come back. Below the weir, Fluttershy's stream came out of the forest by her cottage and ran into the river, and her south meadow ran down to meet it. Whatever went into this water went past the place where her animals came down to drink.
+She sat on the bank with her hands in her lap and looked up the frog. It came back at once, as facts: the flat stone in the stream hollow, the gold eye, the throat going. She looked up the grey doe at Fluttershy's, which had gone over the plank bridge toward the smoke and not come back. Below the weir, Fluttershy's stream came out of the forest by her cottage and ran into the river, and her south meadow ran down to meet it. Whatever went into this water went past the place where her animals came down to drink.
 
-Teasel had never killed anything in hir life.
+Teasel had never killed anything in her life.
 
-The old mare from the cottage had seen hir the first evening, from her step, where she sat eating fried potatoes out of a paper. They were cold, by the smell, with vinegar on them. She had not said anything. On the second evening she nodded. On the fourth she came down to the gate with the tiller in it and leaned there, looking at the river, not at Teasel.
+The old mare from the cottage had seen her the first evening, from her step, where she sat eating fried potatoes out of a paper. They were cold, by the smell, with vinegar on them. She had not said anything. On the second evening she nodded. On the fourth she came down to the gate with the tiller in it and leaned there, looking at the river, not at Teasel.
 
 "Slack water, under the apron," she said, and tipped her head downstream, to where the white water ran out and went dark and slow. "Deep hole there. Big 'uns lie up in the bottom of it while the river's cold. They come up at dusk."
 
@@ -2327,35 +2328,35 @@ Then she went back indoors and shut the door.
 
 Teasel went down to the pool the next evening, at dusk.
 
-Below the weir the white water spread and slowed and went black, and the bank dropped away under it so that hir could not see bottom. Hir lay flat on the stones at the edge, on the town side below the cottage, and put both upper hands in to the elbow.
+Below the weir the white water spread and slowed and went black, and the bank dropped away under it so that she could not see bottom. She lay flat on the stones at the edge, on the town side below the cottage, and put both upper hands in to the elbow.
 
-The cold went in to the bone at once. Hir ears came forward, and hir asked the Core. *Ten degrees.* Hir kept the hands still. Kin hands were fast, faster than anything hir had seen in this place, and when they closed they locked. Hir kept them still while the light went off the water and a bat came out over the weir, and went on keeping them still after hir fingers had stopped telling hir anything.
+The cold went in to the bone at once. Her ears came forward, and she asked the Core. *Ten degrees.* She kept the hands still. Kin hands were fast, faster than anything she had seen in this place, and when they closed they locked. She kept them still while the light went off the water and a bat came out over the weir, and went on keeping them still after her fingers had stopped telling her anything.
 
-Hir felt the fish before hir saw it. The water moved against the backs of hir fingers, and then something long and slow slid along the inside of hir wrist, touching it, as if the wrist were a root.
+She felt the fish before she saw it. The water moved against the backs of her fingers, and then something long and slow slid along the inside of her wrist, touching it, as if the wrist were a root.
 
-Hir closed.
+She closed.
 
-It was all muscle. The whole length of it bucked and threw water in hir face, but the lock held, so that hir came up off the stones onto hir knees with it, a fish as long as hir forearm, cold and fighting, its tail slapping hir chest. Hir did not know what to do next. Hir hit it on the stones and it slid; hir hit it again, wrong, across the tail end, and it went on fighting, and a thin high whine came out of hir that hir could not stop. Then hir got both thumbs in behind its head and bent it back until something went. It shook along its whole length and stopped.
+It was all muscle. The whole length of it bucked and threw water in her face, but the lock held, so that she came up off the stones onto her knees with it, a fish as long as her forearm, cold and fighting, its tail slapping her chest. She did not know what to do next. She hit it on the stones and it slid; she hit it again, wrong, across the tail end, and it went on fighting, and a thin high whine came out of her that she could not stop. Then she got both thumbs in behind its head and bent it back until something went. It shook along its whole length and stopped.
 
-The spike went out of hir into the frame before hir could do anything about it.
+The spike went out of her into the frame before she could do anything about it.
 
 *[Teasel?]* That was three of them at once.
 
-Hir ate it there on the bank, sitting back on hir heels, raw. The skin was tough and the flesh under it was pale and cold and dense, and hir stomach took it as if it had been waiting. Hir spat out the larger bones and ate the rest, the head last. It took a while. Hir did not look at anything but the fish.
+She ate it there on the bank, sitting back on her heels, raw. The skin was tough and the flesh under it was pale and cold and dense, and her stomach took it as if it had been waiting. She spat out the larger bones and ate the rest, the head last. It took a while. She did not look at anything but the fish.
 
 *[Teasel. Status,]* Madder sent.
 
-Hir tried to strip it and could not. It went out with everything riding under it that hir had held down for three weeks: *[At the pool ~ full, and shaking with it]*
+She tried to strip it and could not. It went out with everything riding under it that she had held down for three weeks: *[At the pool ~ full, and shaking with it]*
 
 *[FULL? Full of what? What have you got? Is it a thing from the river? Teasel, is it a fish, did you get one, can I—]* from Haw, and then Haw's question stopped.
 
 They came in over each other, all in the same second. *[Nine eggs, and Haw's four, and the one in the straw every morning ~ Sloe going back through three weeks of eggs, morning by morning, and every morning coming out short by one]* was on top of Madder's *[Teasel—]*, and under both of them the cold place in the frame, that all four had had a hand on for three weeks, turned over and showed what it was. Then all of it cut off at once, and nobody finished.
 
-There were hooves on the towpath. A mare was coming along it from the mill end in the last of the light, with two foals. The smaller foal was carrying a jam jar with a stickleback in it, holding it up to see the fish turn. They stopped. The mare looked at a Kin on the bank with a fish's tail in hir hand and blood on hir mouth and down to hir chin. Without a word she put a hoof to each foal and turned them round, then walked them back the way they had come, not fast. The older foal looked back once. "Gryphon," he said, in the voice for a word you don't say in front of your mother.
+There were hooves on the towpath. A mare was coming along it from the mill end in the last of the light, with two foals. The smaller foal was carrying a jam jar with a stickleback in it, holding it up to see the fish turn. They stopped. The mare looked at a Kin on the bank with a fish's tail in her hand and blood on her mouth and down to her chin. Without a word she put a hoof to each foal and turned them round, then walked them back the way they had come, not fast. The older foal looked back once. "Gryphon," he said, in the voice for a word you don't say in front of your mother.
 
 "Walk," the mare said.
 
-The jam jar went away up the towpath with the stickleback turning in it. Teasel sat on the bank and rinsed hir hands in the river. Hir thumbs still had the neck in them, the small give and then nothing, and when hir took them out of the water they would not keep still. By the bread queue at five, hir thought, the miller would have it.
+The jam jar went away up the towpath with the stickleback turning in it. Teasel sat on the bank and rinsed her hands in the river. Her thumbs still had the neck in them, the small give and then nothing, and when she took them out of the water they would not keep still. By the bread queue at five, she thought, the miller would have it.
 
 ---
 
@@ -2369,7 +2370,7 @@ At the boutique window Rarity stood with a letter in her hoof and a slice of toa
 
 Applejack ate an apple at her stall, core and pips and all, while she crossed a line out in her book. Sloe came back up the road with the empty basket and sent *[Tab's under two, with this week's walnuts on it]* to all of them, and nobody answered.
 
-It rained on the Tuesday, and again on the Thursday. The stallion with the bad knee said he had known it would. Yarrow sent from the crew line that Dash was on the line with hir again, and that Ruddock had given hir a knot to tie.
+It rained on the Tuesday, and again on the Thursday. The stallion with the bad knee said he had known it would. Yarrow sent from the crew line that Dash was on the line with her again, and that Ruddock had given her a knot to tie.
 
 Madder sent the rota every dusk, and nobody kept it. Haw went to the mill bridge anyway and sat on the road, and Sloe went to market at the wrong hour and came back with nothing, and Teasel went to the weir. Madder knew where each of them was, and did not send the rota a second time. At the fountain a mare called her colt in from the rim when Teasel came by, and he went, looking back. The egg mare at the market put her price up for the Kin by a bit a dozen, and said it was the rain.
 
@@ -2377,6 +2378,6 @@ Once, far off, on the path along the far side of the river road, Fluttershy went
 
 ---
 
-That night Teasel came in late from the pool, smelling of the river, and lay down on the outside of the heap. Before hir lay down, hir put the egg in the straw by Haw's head, where it always went.
+That night Teasel came in late from the pool, smelling of the river, and lay down on the outside of the heap. Before she lay down, she put the egg in the straw by Haw's head, where it always went.
 
-Some time after midnight Haw's lower hands came looking for warmth in hir sleep, as they did every night, and found Teasel's flank, and stayed there.
+Some time after midnight Haw's lower hands came looking for warmth in her sleep, as they did every night, and found Teasel's flank, and stayed there.

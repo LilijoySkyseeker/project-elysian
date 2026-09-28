@@ -41,7 +41,7 @@ Senses come online in the order the Nest supplies them (DOC-01F §7 read as a ti
 | Age | Comes online | What the infant has |
 | :--- | :--- | :--- |
 | Birth | Near-field, touch, smell; the Hum | Warm bodies, Cluster scent, the presence table — belonging before perception |
-| ~2 weeks | Hearing | Voices, the whistle register; the private ultrasonic channel is the first thing hir hears clearly |
+| ~2 weeks | Hearing | Voices, the whistle register; the private ultrasonic channel is the first thing she hears clearly |
 | ~4 weeks | Eyes | Faces — human and Kin |
 | ~6 months | Own RADAR (Echo Cortex coming up) | The dark becomes geometry |
 | ~2–3 years | **Kin-code**, learned like a language from the Cluster's Bursts | The child can *speak* at mesh speed |
@@ -49,7 +49,7 @@ Senses come online in the order the Nest supplies them (DOC-01F §7 read as a ti
 | ~6 years | **Body-adult** (D-24) | Adult size, adult vacuum physiology, adult anchor budget |
 | ~15 years | **Mind-adult**: private codec hardens, Lattice complete, DEEP tier opens | §6 |
 
-The Nest raises the child. Every adult in the Cluster is a parent; the gestating parent has no special standing after weaning, and the Kin find the human idea that hir should faintly odd. The nurturing drive is not selective.
+The Nest raises the child. Every adult in the Cluster is a parent; the gestating parent has no special standing after weaning, and the Kin find the human idea that she should faintly odd. The nurturing drive is not selective.
 
 **Where children are raised** is cultural, not biological — the Core grows a child under any gravity and nothing is permanent (D-21, D-23). The Anchorites prefer children raised *near humans*, because a Kin who has never touched a creator inherits them as legend (DOC-01C §8). The Star-Bound cannot, and their children grow up knowing humans the way human children know grandparents who died before they were born.
 
@@ -69,23 +69,23 @@ An adult body. A juvenile mesh. The most distinctive stretch of a Kin life, and 
 | **Own RADAR** | — | The Echo Cortex | From ~6 months |
 | **Link** | DEEP | *Memory itself* — a day of another's experience, with the feel of it, into archive and index; also compile, the Reading | **Not until ~15** |
 
-A Kin child is neither cut off nor slow. Hir talks with the Cluster at mesh speed from three and can be *explained to* faster than any human child. What hir cannot receive is **experience**: nobody can give a child the memory of having done a thing.
+A Kin child is neither cut off nor slow. She talks with the Cluster at mesh speed from three and can be *explained to* faster than any human child. What she cannot receive is **experience**: nobody can give a child the memory of having done a thing.
 
 #### B. Why Link is closed — three consequences of DOC-01C, not new rules
-1. **The codec is not set.** Link pours a rich stream in someone else's encoding into a lattice whose own encoding is still forming. Do it to a child and you *imprint* hir — the child's private codec takes the shape of whoever Linked first. DEEP is closed to protect the forming self.
+1. **The codec is not set.** Link pours a rich stream in someone else's encoding into a lattice whose own encoding is still forming. Do it to a child and you *imprint* her — the child's private codec takes the shape of whoever Linked first. DEEP is closed to protect the forming self.
 2. **The index cannot hold it.** Carried memory needs stubs in a lattice index that is not yet built.
 3. **The key is maturity-gated.** The identity sequence exists from compile; DEEP is withheld the way a Reading key would be — for the child's protection.
 
 #### C. What "learning the slow way" means
 - **Facts: fast.** Bursts. A Kin child knows *about* everything early.
 - **Skills and judgment: human-paced.** Nobody can Link *how it feels to catch a rail at six metres a second* or *how to know a human is lying about being fine.* Those come from doing, from Shares, from mistakes. The body helps — the Core tunes it to whatever the child practises (D-21) — but the knowing is earned.
-- **Memory: none.** No carried inheritance, no compile log of hir own genesis, no Reading of anyone.
+- **Memory: none.** No carried inheritance, no compile log of her own genesis, no Reading of anyone.
 
 > Kin children learn what humans learn, the way humans learn it — faster in the head and not at all in the heart — until the day the heart opens.
 
 #### D. Rules of the decade
 - **No EVA.** Adult vacuum physiology at six; juvenile judgment; no Reading key. The culture does not send children into the void, however capable, and the strong, forbidden fourteen-year-old at the airlock is a figure every Kin remembers being.
-- **What "adult vacuum physiology at six" actually means (D-94).** The voiding organs run on the **body** clock, not the mind clock (D-24): by body-adulthood the *vesica oxygenii* is charged to spec, the fascia holds 15 kPa, the exhale-and-seal reflex and the sub-50 ms cascade are complete — and the envelope is mass-invariant (D-68g), so **a six-year-old has the full seventeen minutes, the crawl and the drift.** Below six the organs are immature and it collapses quickly: a three-year-old has minutes at best, a newborn seconds. Every Kin parent has run that arithmetic, and it is why a Nest breach is lethal to infants and survivable to everyone else in the room. **So the prohibition is dread, not physics.** The two clocks already gave the decade its shape — *physically adult, not trusted with memory* — and this is the third consequence: for nine years a Kin can do the most dangerous thing the species does, correctly, and must not. The fourteen-year-old at the airlock is not being protected from the vacuum, which hir would survive. Hir is being protected from being the one who decides, with an index that cannot hold it and no first Telling behind hir — and everyone in the corridor knows hir could.
+- **What "adult vacuum physiology at six" actually means (D-94).** The voiding organs run on the **body** clock, not the mind clock (D-24): by body-adulthood the *vesica oxygenii* is charged to spec, the fascia holds 15 kPa, the exhale-and-seal reflex and the sub-50 ms cascade are complete — and the envelope is mass-invariant (D-68g), so **a six-year-old has the full seventeen minutes, the crawl and the drift.** Below six the organs are immature and it collapses quickly: a three-year-old has minutes at best, a newborn seconds. Every Kin parent has run that arithmetic, and it is why a Nest breach is lethal to infants and survivable to everyone else in the room. **So the prohibition is dread, not physics.** The two clocks already gave the decade its shape — *physically adult, not trusted with memory* — and this is the third consequence: for nine years a Kin can do the most dangerous thing the species does, correctly, and must not. The fourteen-year-old at the airlock is not being protected from the vacuum, which she would survive. She is being protected from being the one who decides, with an index that cannot hold it and no first Telling behind her — and everyone in the corridor knows she could.
 - **Tier access:** PUBLIC, plus a firewalled *nursery* slot in the Cluster frame — in the Hum for safety and belonging, receiving Bursts and supervised Shares, unable to Link, be Read, or compile.
 - **Work:** everything that is not vacuum, memory or compile. A twelve-year-old rail-walks a corridor at adult speed and is a full hand on the inside of the hull.
 - **Responsibility:** the whole Cluster, without distinction.
@@ -97,13 +97,13 @@ A Kin child is neither cut off nor slow. Hir talks with the Cluster at mesh spee
 
 At about fifteen the private codec hardens and the Lattice is complete. DEEP tier opens. The Cluster marks it with **the first Telling**: over days, on Link, the new adult is given a chosen inheritance —
 
-- carried memories the Cluster holds and wants hir to carry;
-- the compile log of hir own genesis — who contributed what, what was substituted (DOC-01C §5): *identity has a changelog, and this is the day you read yours*;
+- carried memories the Cluster holds and wants her to carry;
+- the compile log of her own genesis — who contributed what, what was substituted (DOC-01C §5): *identity has a changelog, and this is the day you read yours*;
 - the things nobody could say to a child.
 
-It lands on someone who has spent twelve years hearing *about* things and now, all at once, *remembers* them — in the third person, retold, as all carried memory is (DOC-01C §8), but with the feel intact for the first time. Kin describe the week after as the loudest silence of their lives. It is the most important day a Kin has, and the one hir will be asked about at every Weave.
+It lands on someone who has spent twelve years hearing *about* things and now, all at once, *remembers* them — in the third person, retold, as all carried memory is (DOC-01C §8), but with the feel intact for the first time. Kin describe the week after as the loudest silence of their lives. It is the most important day a Kin has, and the one she will be asked about at every Weave.
 
-With adulthood come the adult acts: **the first held dream** — the night after the Telling, the Cluster opens DEEP in the Nest and the new adult dreams *with* them for the first time (DOC-13 §1G, D-81), which is as much of why hir is quiet for a week as the Telling is; granting a Reading key (D-16) — usually to the Cluster, sometimes withheld for years, and whose key you hold is the kinship map the species actually runs on (DOC-13 §2B, D-83); the first EVA; the right to be asked to compile; and, eventually, the right to leave the Cluster that raised hir for one hir chooses.
+With adulthood come the adult acts: **the first held dream** — the night after the Telling, the Cluster opens DEEP in the Nest and the new adult dreams *with* them for the first time (DOC-13 §1G, D-81), which is as much of why she is quiet for a week as the Telling is; granting a Reading key (D-16) — usually to the Cluster, sometimes withheld for years, and whose key you hold is the kinship map the species actually runs on (DOC-13 §2B, D-83); the first EVA; the right to be asked to compile; and, eventually, the right to leave the Cluster that raised her for one she chooses.
 
 ---
 
@@ -134,13 +134,13 @@ No milestones are imposed by biology after fifteen. The rhythms are the ones alr
 | One in ten reaches | $\sim 900$ |
 | One in a hundred reaches | $\sim 1{,}800$ |
 
-A population of $100{,}000$ Kin loses — and makes — about $250$ a year. Most Kin alive have never seen a compile (in Sol now, one per Cluster every twenty years or so — D-78). **The living population is old in a way the median hides** (D-78, `models/age_structure.awk`): median age ~106, mean ~139; 38 % past 150 and feeling the index fill; one in five past 250 and past the feeling of hir own past; ~5,800 born before the Schism. Most have attended a Reading. And the oldest living Kin are old enough that whether they personally remember the creators' era is a question DOC-10 must answer with a date.
+A population of $100{,}000$ Kin loses — and makes — about $250$ a year. Most Kin alive have never seen a compile (in Sol now, one per Cluster every twenty years or so — D-78). **The living population is old in a way the median hides** (D-78, `models/age_structure.awk`): median age ~106, mean ~139; 38 % past 150 and feeling the index fill; one in five past 250 and past the feeling of her own past; ~5,800 born before the Schism. Most have attended a Reading. And the oldest living Kin are old enough that whether they personally remember the creators' era is a question DOC-10 must answer with a date.
 
-**The chosen ending (D-107).** The culture allows a Kin to end. **The occasion is not age and not a failed memory** — both old readings are struck (D-104, D-107). It is **a set of nights that were never held**: days whose worst hours fell outside the lock, which therefore had no meaning assigned to them and stay frozen at the intensity the event set (DOC-01C §6F, D-106). The ordinary rolls off the window; **the heavy does not**, because weight is what survives every pass. So a very old Kin is not someone with too much memory — hir is someone carrying an undiminished set of unheld nights, and for a few that exceeds what a present frame can carry.
+**The chosen ending (D-107).** The culture allows a Kin to end. **The occasion is not age and not a failed memory** — both old readings are struck (D-104, D-107). It is **a set of nights that were never held**: days whose worst hours fell outside the lock, which therefore had no meaning assigned to them and stay frozen at the intensity the event set (DOC-01C §6F, D-106). The ordinary rolls off the window; **the heavy does not**, because weight is what survives every pass. So a very old Kin is not someone with too much memory — she is someone carrying an undiminished set of unheld nights, and for a few that exceeds what a present frame can carry.
 
 **The sign is still the dreams** (D-82): the night the dreams go flat too, because a dream reaches past the live window into the record and what is there with weight attached is disproportionately the residue — so the old dream the heavy things repeatedly, **with today's feeling attached and not the old one restored**, and lose it by morning. What actually happens is that the dreams **narrow** until the cortex stops responding to material it has seen ten thousand times; *flat* is the Kin's word for the symptom, not the mechanism. The Weavers ask about the dreams first.
 
-**There is one treatment and the makers did not build it** (D-107, provisional): run the day at 1x with the affect engaged, **inside the frame**, so the Cluster feels it with hir now — a held version laid over an unheld one, appraised that night with their weights. Expensive, voluntary, public, painful, and the exact inverse of the usual idiom: **sometimes a Kin asks.** It cannot reach a night whose witnesses are dead, which is why the Warm Loss, the Field and *Long Reach* produced the deaths they did.
+**There is one treatment and the makers did not build it** (D-107, provisional): run the day at 1x with the affect engaged, **inside the frame**, so the Cluster feels it with her now — a held version laid over an unheld one, appraised that night with their weights. Expensive, voluntary, public, painful, and the exact inverse of the usual idiom: **sometimes a Kin asks.** It cannot reach a night whose witnesses are dead, which is why the Warm Loss, the Field and *Long Reach* produced the deaths they did.
 
 **It is rare, and it is falling** — because the system works nightly for nearly everyone, and because every disaster in the species' history bought a frame protection (DOC-10 §7). Suggested and not locked: about one death in twelve in the second century, one in thirty now. What is locked is *rare and falling*. The form varies greatly (D-66) and is in DOC-11 §10.
 
@@ -152,7 +152,7 @@ The whitelist immune system (DOC-01C §9) decides everything:
 
 - **No infectious disease.** Anything failing the self-checksum is cleared. A Kin carries human pathogens in fur and gut and is not infected by them; a Kin can be a vector without ever being a patient.
 - **No transplants.** Foreign tissue is rejected absolutely. **Regeneration is the only reconstructive medicine** (DOC-01A §2A) — slow, at developmental pace, with a human prosthetic in the meantime.
-- **A licensed microbiome.** The gut flora is a curated, checksummed set. A Kin fed the wrong flora becomes ill in the one way no pathogen can make hir, and the cure is a re-licensing from a Cluster-mate — the only "transplant" the body accepts, because it is not tissue.
+- **A licensed microbiome.** The gut flora is a curated, checksummed set. A Kin fed the wrong flora becomes ill in the one way no pathogen can make her, and the cure is a re-licensing from a Cluster-mate — the only "transplant" the body accepts, because it is not tissue.
 - **No immune memory.** A novel self-mimicking agent would meet no defence at all. Nothing of the kind has existed; the designers' successors keep a very short list of what could.
 - **A hospital** is trauma care, nutrition, warmth, and keeping the Core supplied while it works. Medicine is slow and mostly waiting.
 

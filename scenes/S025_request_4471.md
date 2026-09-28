@@ -1,4 +1,5 @@
 # SCENE 025 — Request #4471
+**Pronoun sweep, 2026-09-28 (D-113):** *hir* is now *she / her / herself*. The text is otherwise unchanged; the *hir* version is in git history before this commit.
 **POV:** Document (a facilities ticket thread; no narrator) · *Elysium-4*, the shared galley on Deck 4, seam end · AF 512 · **Form:** Ticket thread
 **Canon status:** ACCEPTED 2026-09-24. Written through the DOC-00H pipeline (brief: `scenes/briefs/S025_brief.md`). Rests on D-101 (for a Kin, writing is a loss) and DOC-13 §4 (the literate nose; a Kin cooking for humans is translation). This header was written after the scene. **Offers no canon.**
 **Introduces:** Quill-2 (Kin, galley cook); Dermot Farrow, T. Oyelaran (human); the Shared Galley Code and SOP S-17 (texture).
@@ -103,7 +104,7 @@ Has recycler intake 4B been flushed since ten this morning? A scraping from the 
 ---
 
 ## Canon consistency (2026-09-24, DOC-00B §12 run after the draft)
-- **Writing is a loss (D-101).** Quill asks to talk instead of write and is refused. Every message is short, correct and exact, and leaks one line. Hir never explains why the crock matters, because that is the part text cannot carry.
+- **Writing is a loss (D-101).** Quill asks to talk instead of write and is refused. Every message is short, correct and exact, and leaks one line. She never explains why the crock matters, because that is the part text cannot carry.
 - **The literate nose; food as translation (DOC-13 §4).** Farrow smells rot. Quill answers with a recipe, which is a composition to a Kin and a list of ingredients to a human. Farrow has eaten the Thursday broth for years: a Kin cooking for humans, and the human not knowing what he was eating.
 - **First names (DOC-00B §5).** Quill calls Farrow *Dermot*. He signs *D. Farrow* throughout.
 - **Dates (DOC-00 §5).** A human form, so AF throughout, including Quill's own *AF 449*. 512 − 449 = 63, as Farrow works out.

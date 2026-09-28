@@ -16,27 +16,27 @@ The show's characters are described here in our own words. No episode dialogue i
 - **Memory:** exact when reached for (the last watch before they slept, word for word); nothing surfaces unasked. They look things up mid-sentence and nobody remarks on it.
 - **They think fast and talk fast.** In a strange place that means **chatter**: hypotheses, objections, jokes, readings, all overlapping. Out of their depth, and saying so, to each other.
 
-*Kin say* hir *of each other. Channels: see the card above. They speak human speech to ponies, carefully, and use first names from the first day.*
+*Kin say* her *of each other. Channels: see the card above. They speak human speech to ponies, carefully, and use first names from the first day.*
 
 **Madder-4** · ~140 · crew lead
-- **Life:** Forty years running rigging crews on one ship. Hir has buried (Read) two crew. The rota is not a habit, it is how hir kept everyone alive.
+- **Life:** Forty years running rigging crews on one ship. She has buried (Read) two crew. The rota is not a habit, it is how she kept everyone alive.
 - **Talks** (in code, clean, rarely with a rider): short orders with times attached; questions as instructions (*[Sloe. Food status, by dusk]*). Never *I don't know*; always *Unconfirmed*. Aloud only for ponies, or once, by the book.
 - **Notices:** Exits, loads, who is missing from where they should be.
-- **Wrong about:** That keeping the ship's shape will keep them whole. That hir authority means anything to a pony.
-- **Humour:** Very dry, rare, and aimed at hirself.
+- **Wrong about:** That keeping the ship's shape will keep them whole. That her authority means anything to a pony.
+- **Humour:** Very dry, rare, and aimed at herself.
 - **Not:** the wise elder; the stoic who cracks and weeps in a big scene.
 
 **Sloe-5** · ~90 · the face
 - **Life:** Was the crew's quartermaster: requisitions, trades, favours. Loves a market the way Haw loves a height.
 - **Talks:** Warm, quick, a little too many words. Counts things aloud. Picks up pony idiom within a day and uses it slightly wrong.
 - **Notices:** Prices, who's in charge versus who decides, who is hungry.
-- **Wrong about:** That everything can be traded for. What hir's own work is worth here.
+- **Wrong about:** That everything can be traded for. What her own work is worth here.
 - **Humour:** Easy, social, self-deprecating.
 - **Not:** the diplomat who smooths everything over.
 
 **Yarrow-3** · ~110 · rigger
 - **Life:** Best hands on the crew. Fifty years on the outside of a hull. Never seen weather.
-- **Talks:** Barely. Answers in one or two words, or with hir hands. When hir does talk it's about the work, precisely.
+- **Talks:** Barely. Answers in one or two words, or with her hands. When she does talk it's about the work, precisely.
 - **Notices:** How things are held up. Tension, weight, joints. Rain.
 - **Wrong about:** That being useful is the same as being all right.
 - **Humour:** Physical and silent: a raised hand, a look.
@@ -45,15 +45,15 @@ The show's characters are described here in our own words. No episode dialogue i
 **Haw-2** · ~60 · the one thriving too much
 - **Life:** Youngest of the rigging crew until Teasel. Always the first out the lock, and the one who got told off.
 - **Talks:** Everything at once. Questions without waiting for answers. Loud, delighted, and occasionally rude without noticing.
-- **Notices:** Anything hir can climb, run at, or touch. Ponies' faces, which hir reads completely wrong.
-- **Wrong about:** How hir body works under gravity. How much ponies like being touched (not much, by strangers).
-- **Humour:** Big and generous; laughs at hirself first.
+- **Notices:** Anything she can climb, run at, or touch. Ponies' faces, which she reads completely wrong.
+- **Wrong about:** How her body works under gravity. How much ponies like being touched (not much, by strangers).
+- **Humour:** Big and generous; laughs at herself first.
 - **Not:** the comic relief who's secretly sad; the one whose special ability saves the day.
 
-**Teasel** · ~35 · no number, the youngest adult, first of hir line
-- **Life:** Two years on the crew. Still proving hirself, and proud to be.
+**Teasel** · ~35 · no number, the youngest adult, first of her line
+- **Life:** Two years on the crew. Still proving herself, and proud to be.
 - **Talks:** Correctly, quietly, and less each week. Deflects: *"I'm fine. Is anyone else hungry?"*
-- **Notices:** What other people are eating. Smells: rain on the forest, the river, bread hir can't digest.
+- **Notices:** What other people are eating. Smells: rain on the forest, the river, bread she can't digest.
 - **Wrong about:** That hiding it is protecting the others. The Cluster feel the distress anyway; they just don't know its cause.
 - **Humour:** Shy, dry, surprising when it comes.
 - **Not:** the waif to be rescued; the one saved by a pony's kindness (Rushlight shows the pool, Teasel does the rest).
@@ -82,7 +82,7 @@ The show's characters are described here in our own words. No episode dialogue i
 
 ## The ponies
 
-**What ponies call the Kin** *(the owner, after ch. 3)*: they start with ***it***, and trend toward ***she*** as time goes on. The Kin sex ratio is female-dominated, so once a pony has taken them as a person, *she* is the default. Different ponies get there at different speeds, and a pony's pronoun says where she is. Nopony uses *hir* unless she's making a point. Kin speaking aloud use *hir* for each other. In Kin POV the narration is always *hir*.
+**What ponies call the Kin** *(the owner, after ch. 3)*: they start with ***it***, and trend toward ***she*** as time goes on. The Kin sex ratio is female-dominated, so once a pony has taken them as a person, *she* is the default. Different ponies get there at different speeds, and a pony's pronoun says where she is. Kin speaking aloud use *she* for each other, and in Kin POV the narration is *she* (D-113, 2026-09-28; the chapters were swept from *hir*).
 **Every pony POV has a person in it, not just a job** *(the owner, after ch. 3)*: mutters under her breath, her reaction to what she sees, and thoughts of her own that have nothing to do with the Kin. A few, lightly; the work still carries the chapter.
 
 **Fluttershy**
