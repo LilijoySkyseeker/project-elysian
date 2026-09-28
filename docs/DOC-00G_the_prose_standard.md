@@ -2,7 +2,7 @@
 ## Document ID: DOC-00G — The Prose Standard: What Good Writing Is Here
 **Codename:** Project Elysian | **Species:** Aethela (*Homo Sapiens Successor*) | **Self-Name:** The Kin  
 **Classification:** Tool, not canon. It governs *how* a scene is written. DOC-00B governs what a Kin is like on the page, and the docs govern what is true. Where DOC-00B's §12 checklist and this document disagree about **drafting**, this document wins; DOC-00B still governs **canon checking**.  
-**Status:** v1.1, 2026-09-25: §10 added, the lessons of X01 (an eight-chapter crossover the owner passed chapter by chapter; now the first exemplar, §7). v1.0, 2026-09-24. Evidence: `research/R01` (what the literature says) and `research/R02` (what the collection does). Tooling: `tools/tells.py`. Process: DOC-00H.
+**Status:** v1.2, 2026-09-28: §11 added, writing for the ear (the owner adopted *The Wandering Inn*'s style after the narration tests). v1.1, 2026-09-25: §10 added, the lessons of X01 (an eight-chapter crossover the owner passed chapter by chapter; now the first exemplar, §7). v1.0, 2026-09-24. Evidence: `research/R01` (what the literature says) and `research/R02` (what the collection does). Tooling: `tools/tells.py`. Process: DOC-00H.
 
 ---
 
@@ -302,4 +302,31 @@ In X01 the model readers caught continuity, arithmetic, positions and tells, and
 
 #### 10.9 Length
 Chapters ran about 30% over target. Most of the overrun was the owner's notes adding what was missing (chatter, interiority, a section on magic). **Budget a long work at target × 1.3**, and don't cut to hit a number the owner didn't ask for.
+
+---
+
+### 11. WRITING FOR THE EAR *(added 2026-09-28; the owner adopted The Wandering Inn's style)*
+
+The owner's words: *"let's try to adopt the Wandering Inn's style, I enjoy it, and it translates well to page and to speech."* One text should serve both the reader and the narrator. The owner rejected an audiobook adaptation as the default.
+
+**Evidence.** Measured with code on 20 chapters of pirateaba's *The Wandering Inn* against all of X01 (`/mnt/project-files/audio/EAR_WRITING.md`, script in `/mnt/project-files/audio/tools/ear.py`). In TWI, **every** speech paragraph is bare speech. **None** is split talk–narration–talk, and almost none carries a *said*-type tag. In X01's Kin chapters, 50 % are split and 66 % are tagged. Listening tests (ElevenLabs, 2026-09-28) showed what that costs: a split line comes out in two tones, a how-she-said-it tag is dead weight next to a performed read, and bracketed chatter is a jumble by ear. **Not yet proven in a scene.** The first scene written under this section is its test.
+
+#### 11.1 Speech
+- **One speaker, one paragraph, bare.** A line of speech is its own paragraph, with nothing but the speech in it.
+- **The speaker is set before the line**, by the beat paragraph just before it (*Sloe put the scoop down.*), by a name inside the speech (*"Haw, come down."*), or by a voice so distinct it needs neither. In a two-hander the alternation carries it.
+- **Never split a line with narration.** If the moment needs a beat mid-speech, end the line, give the beat its own paragraph, and start a new one.
+- **No *said* by default, and never *how* she said it.** Tone lives in the beat next to the line or in the words themselves. *"In the voice she used for a hen in the kitchen"* is what the narrator's performance does. Keep a tag only where the verb is an act (*shouted from the roof*).
+
+#### 11.2 Kin-code
+- **Every code line gets a sender the ear can hear:** a beat naming her, with ***sent*** (DOC-00D §1A already prefers it). *Haw sent it over the top of all of them.* Then the line alone. On the page, *sent* marks the channel as clearly as the brackets do.
+- **At most two or three unattributed threads in a row.** When a burst is bigger than that, narration counts the rest: *and three more under that, all at once*. The overlap is felt, not transcribed.
+- **Riders stay in the bracket.** The narrator reads the rider aloud after the line and colours the line with it (the owner's audio ruling). So the rider must be something a voice can speak: a phrase, not a symbol.
+- **Short.** Code is fast (DOC-00D §1D). Short lines keep it fast in the ear too.
+
+#### 11.3 Sentences, sounds, italics
+- **Shorter sentences.** TWI averages about 9 words a sentence and 1 % over 30; X01 averages 12 and 5 %. Long sentences are still allowed, as a choice.
+- **A sound gets one plain short sentence** (*Somebody whined.*), which the audio can replace with the effect. Don't describe the sound's texture in prose.
+- **Italics can't carry meaning alone.** The Core is marked by *the Core said*, and a thought or an emphasis must still work when heard.
+
+**Check:** read the scene aloud, or have it read. If you can't tell who is speaking, or on which channel, without seeing the page, it fails this section.
 

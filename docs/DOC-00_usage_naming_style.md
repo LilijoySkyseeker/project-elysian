@@ -19,25 +19,25 @@
 
 ---
 
-### 2. PRONOUNS (D-55)
+### 2. PRONOUNS (D-113, superseding D-55)
 
-**The Kin's pronoun is *hir* — single-form, every case.**
+**In English, a Kin is *she / her / hers / herself*.** It's the same on the page and in the voice. *(D-55's single-form* hir *is retired, 2026-09-28: no narrator voice could say it, and a human reader found it hard to parse. Older text still has* hir *until it's revised.)*
 
 | Case | Form | Example |
 | :--- | :--- | :--- |
-| Subject | hir | *Hir went to the bay.* |
-| Object | hir | *I gave hir the scanner.* |
-| Possessive | hir | *hir tail, hir Cluster* |
-| Independent possessive | hirs | *The scanner is hirs.* |
-| Reflexive | hirself | *Hir folded hirself onto the ledge.* |
+| Subject | she | *She went to the bay.* |
+| Object | her | *I gave her the scanner.* |
+| Possessive | her | *her tail, her Cluster* |
+| Independent possessive | hers | *The scanner is hers.* |
+| Reflexive | herself | *She folded herself onto the ledge.* |
 
-Capitalise at a sentence start. The Kin together are *they*.
+The Kin together are *they*.
 
 **Who says what:**
-- *Hir* is the word the makers chose — a designed pronoun for a designed species, one more small over-design. Kin speaking English use it and prefer it.
-- **Humans, by habit, say *she*** — the voice, the fur, the size — and sometimes *he* or *they*. The Kin prefer *hir* but rarely enough to correct a human; most let it pass. A human who says *hir* is telling you something about that human.
-- **The narrator always uses the correct pronoun for the POV.** Kin POV and documentary voice: *hir*. Human POV: whatever that human says — usually *she* — and the narration never corrects it.
-- The Core is ***it***, always — never *she*, never *hir* (D-13). A Cluster is *they*.
+- **The Kin's own pronoun is in Kin-code**, and it carries its full meaning there. English has no word that holds it, so English uses *she*. The Kin accept it without fuss: *human speech is so limited; "her" works fine.* Don't explain this on the page. At most a Kin says it once, dryly, to a human who asks.
+- **Humans say *she*** (the voice, the fur, the size), sometimes *he* or *they*. The Kin let either pass.
+- **The narrator uses *she*** in Kin POV and in the documentary voice. In a human or pony POV the narrator uses whatever that teller says (X01's ponies begin with *it*), and the narration never corrects it.
+- The Core is ***it***, always (D-13). A Cluster is *they*.
 
 ---
 

@@ -8,7 +8,7 @@
 ## 3. What is lost
 ## 4. Voice card
 - **Lens:** (one sentence: what this teller orders the world by)
-- **A person, not a job:** mutters, reactions, thoughts of hir own
+- **A person, not a job:** mutters, reactions, thoughts of her own
 - **Not:** … · **Keeps:** (the trait that survives each ban, DOC-00G §10.2)
 ## 5. Channels / the others, from outside
 ## 6. Lore budget (two mechanics, used, not shown)

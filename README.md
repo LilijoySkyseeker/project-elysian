@@ -68,6 +68,6 @@ As of v3.6 (2026-09-23, where the arks came from — D-108…D-110 — after the
 **Order of work, since D-96.** The design is closed and the archive is in its writing phase: **a ruling is drafted only when a scene has demanded it, and is discharged by a scene before the next is made.** The queue is `ROADMAP.md` Step 12. Silences listed in the H-register are deliberate and are not gaps — a ruling that closes one is a bug.
 
 ## Conventions
-- Pronouns, names and page conventions: **DOC-00**. Single-form *hir*; humans say *she* uncorrected; Vesper-7 = the seventh Vesper.
+- Pronouns, names and page conventions: **DOC-00**. Kin are *she/her* in English (D-113; *hir* retired 2026-09-28); Vesper-7 = the seventh Vesper.
 - Numbers are decimal SI. Markdown with LaTeX math, ASCII block diagrams, one `### N.` section per subsystem — match the existing docs when adding new ones.
 - Header block on every doc: title line, Document ID line, Codename/Species/Self-Name line, Classification, Status.
